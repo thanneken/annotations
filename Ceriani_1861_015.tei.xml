@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+	<pb type="Ceriani" n="15" xml:id="Ceriani_1861_015"/>
+	<head>Fragmenta Parvae Genesis</head>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="83"/>
+	<milestone type="19c" unit="page" n="62" xml:id="palimpsest_page_062"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="13"/>
+	<p part="F">
+		<milestone unit="vs" n="10"/>
+		Et inhabitauit illic
+		<lb/>annis duobus.
+	</p>
+	<p>Et promouit inde
+		<lb/>in austrum usque ba
+		<lb type="inWord"/>halot et facta est
+		<lb/>famis super terram<add resp="#ocp">.</add>
+		<lb/>Et abiit abram in ae
+		<lb type="inWord"/>gyptum anno tertio
+		<lb/>septimani et inha
+		<lb type="inWord"/>bitauit in terram
+		<lb/>aegypti quinque annis
+		<lb/>priusquam rapere
+		<lb type="inWord"/>tur uxor ipsius ab eo<add resp="#ocp">.</add>
+		<lb/>
+		<choice>
+			<sic>e</sic>
+			<corr resp="#ocp">E</corr>
+		</choice> <!-- let's not code every capitalization into an editorial change, but this is an example of how it would be done. -->  
+		t taneos ciuitas aegypti
+		<lb/>tunc aedificata
+		<lb/>est annis septem
+		<lb/>post cebron<add resp="#ocp">.</add>
+	</p>
+	<p>Et factum est cum
+		<lb/>rapuisset farao sa
+		<lb type="inWord"/>ram uxorem abram
+		<lb/>quaestionauit dominus
+		<lb/>faraonem et domum
+		<lb/>eius quaestionibus
+		<lb/>magnis propter
+		<lb/>
+		<milestone unit="column" n="b"/>saram uxorem abram.
+		<lb/>Et tunc abram glo
+		<lb type="inWord"/>rificauit diuitiis ual
+		<lb type="inWord"/>de omnibus ouibus et
+		<lb/>bubus et asinis et
+		<lb/>camelis et equis et
+		<lb/>seruis et ancillis
+		<lb/>argento et aro ual
+		<lb type="inWord"/>de<add resp="#ocp">.</add>Etenim et loth
+		<lb/>filio fratris sui e
+		<lb type="inWord"/>rant diuitiae<add resp="#ocp">.</add> Et red
+		<lb type="inWord"/>didit farao saram
+		<lb/>uxorem abram uiro
+		<lb/>suo et eiecit eum
+		<lb/>de terra aegypti
+		<lb/>et peruenit in locum
+		<lb/>ubi fixerat taber
+		<lb type="inWord"/>naculum suum in
+		<lb/>primis in locum al
+		<lb type="inWord"/>tarii agge ad orientis
+		<lb/>partem et betel
+		<lb/>a mare et benedixit
+		<lb/>dominum deum suum qui
+		<lb/>reuocauit eum in pa
+		<lb type="inWord"/>
+		<!-- not a typical line break starting a new line to the left, more of a sublilnear  -->
+		ce<add resp="#ocp">.</add>
+	</p>
+	<milestone type="5c" unit="page" n="84"/>
+	<milestone type="19c" unit="page" n="61" xml:id="palimpsest_page_061"/>
+	<cb type="Ceriani" n="2"/>
+	<milestone unit="column" n="a"/>
+	<p>Et factum est in quadragesimo
+		<lb/>et primo
+		<lb/>iubeleo anno tertio
+		<lb/>ebdomadarum primi
+		<lb/>reuersus est in
+		<lb/>locum hunc et obtulit
+		<lb/>olocaustomata
+		<lb/>et inuocauit in nomine
+		<lb/>domini: tu es deus excelsus
+		<lb/>deus meus in
+		<lb/>saecula saeculorum.
+	</p>
+	<p>Et in no quarto septimanarum
+		<lb/>huius separatus
+		<lb/>est loth ab
+		<lb/>ipso et inhabitauit
+		<lb/>sodomis. Et homines
+		<lb/>sodomitae peccatores
+		<lb/>erant ualde
+		<lb/>et iniqui in cordibus
+		<lb/>suis. propter quod
+		<lb/>separatus est loth
+		<lb/>filius fratris sui ab
+		<lb/>eo eo quod non erant
+		<lb/>illi filii captiuatus est
+		<lb/>
+		<milestone unit="column" n="b"/>loth ab ipso. In quarto
+		<lb/>autem anno septimani
+		<lb/>huius iubelei
+		<lb/>ipsius dixit deus ad abram:
+		<lb/>eleua oculos tuos
+		<lb/>de loco ubi sedes tu
+		<lb/>ad occasum et africum
+		<lb/>et orientem
+		<lb/>et septentrionem.
+		<lb/>Quoniam omnem
+		<lb/>terram quam tu uides
+		<lb/>tibi et semini tuo
+		<lb/>dabo eam in saecula.
+		<lb/>Et ponam semen
+		<lb/>tuum sicut harena
+		<lb/>maris etenim semen
+		<lb/>tuum non enumerabitur.
+		<lb/>Et tu exsurgens
+		<lb/>perambula
+		<lb/>latitudinem eius
+		<lb/>et uide uniuersa quia
+		<lb/>semini tuo dabo eam.
+	</p>
+	<p part="I">Et abiit abram in cebron
+		<lb/>et inhabitauit.
+	</p>
+</body>
+</text>
+</TEI>
