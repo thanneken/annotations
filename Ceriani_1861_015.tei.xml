@@ -53,7 +53,7 @@
 		<choice>
 			<sic>e</sic>
 			<corr resp="#ocp">E</corr>
-		</choice>
+		</choice> <!-- let's not code every capitalization into an editorial change, but this is an example of how it would be done. -->  
 		t taneos ciuitas aegypti
 		<lb/>tunc aedificata
 		<lb/>est annis septem
@@ -75,18 +75,9 @@
 		<lb/>camelis et equis et
 		<lb/>seruis et ancillis
 		<lb/>argento et aro ual
-		<lb type="inWord"/>de
-		<choice>
-			<sic>e</sic>
-			<corr resp="#ocp">. E</corr>
-		</choice>
-		tenim et loth
+		<lb type="inWord"/>de<add resp="#ocp">.</add>Etenim et loth
 		<lb/>filio fratris sui e
-		<lb type="inWord"/>rant diuitiae<choice>
-			<sic>e</sic>
-			<corr resp="#ocp">. E</corr>
-		</choice>
-		t red
+		<lb type="inWord"/>rant diuitiae<add resp="#ocp">.</add> Et red
 		<lb type="inWord"/>didit farao saram
 		<lb/>uxorem abram uiro
 		<lb/>suo et eiecit eum
@@ -108,8 +99,7 @@
 	<milestone type="19c" unit="page" n="61" xml:id="palimpsest_page_061"/>
 	<cb type="Ceriani" n="2"/>
 	<milestone unit="column" n="a"/>
-	<p>
-		Et factum est in quadragesimo
+	<p>Et factum est in quadragesimo
 		<lb/>et primo
 		<lb/>iubeleo anno tertio
 		<lb/>ebdomadarum primi
@@ -121,8 +111,7 @@
 		<lb/>deus meus in
 		<lb/>saecula saeculorum.
 	</p>
-	<p>
-		Et in no quarto septimanarum
+	<p>Et in no quarto septimanarum
 		<lb/>huius separatus
 		<lb/>est loth ab
 		<lb/>ipso et inhabitauit
@@ -159,8 +148,7 @@
 		<lb/>et uide uniuersa quia
 		<lb/>semini tuo dabo eam.
 	</p>
-	<p part="I">
-		Et abiit abram in cebron
+	<p part="I">Et abiit abram in cebron
 		<lb/>et inhabitauit.
 	</p>
 </body>
