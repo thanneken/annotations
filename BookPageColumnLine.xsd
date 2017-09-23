@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<!-- definition of simple elements -->
+<xs:element name="title" type="xs:string"/>
+<xs:element name="author" type="xs:string"/>
+<xs:element name="publicationyear" type="xs:string"/>
+<xs:element name="heading" type="xs:string"/>
+<xs:element name="chapter"/>
+<xs:element name="i" type="xs:string"/>
+
+<!-- definition of attributes -->
+<xs:attribute name="p1861" type="xs:integer"/>
+<xs:attribute name="pagenumber" type="xs:integer"/>
+<xs:attribute name="id" type="xs:string"/>
+<xs:attribute name="p19c" type="xs:integer"/>
+<xs:attribute name="p5c" type="xs:integer"/>
+<xs:attribute name="value" type="xs:string"/>
+<xs:attribute name="type" type="xs:string"/>
+<xs:attribute name="style" type="xs:string"/>
+
+<!-- definition of complex elements -->
+<xs:element name="book">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="title"/>
+      <xs:element ref="author"/>
+      <xs:element ref="publicationyear"/>
+      <xs:element ref="printpage" minOccurs="0" maxOccurs="100"/>
+      <xs:element ref="page" minOccurs="0" maxOccurs="100"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="printpage">
+	<xs:complexType mixed="true">
+		<xs:sequence>
+			<xs:element ref="heading" minOccurs="0"/>
+			<xs:element ref="page" minOccurs="0" maxOccurs="100"/> <!-- yuck -->
+		</xs:sequence>
+		<xs:attribute ref="p1861"/>
+		<xs:attribute ref="pagenumber"/>
+		<xs:attribute ref="id"/>
+		<xs:attribute ref="p19c"/>
+		<xs:attribute ref="p5c"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="page">
+	<xs:complexType mixed="true">
+		<xs:sequence>
+			<xs:element ref="column" minOccurs="0" maxOccurs="100"/><!-- yuck -->
+		</xs:sequence>
+		<xs:attribute ref="p1861"/>
+		<xs:attribute ref="id"/>
+		<xs:attribute ref="p19c"/>
+		<xs:attribute ref="p5c"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="column" >
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="chapter" minOccurs="0"/>
+			<xs:element ref="line" maxOccurs="100"/><!-- this can't be right -->
+		</xs:sequence>
+		<xs:attribute ref="value"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="line">
+	<xs:complexType mixed="true">
+		<xs:sequence>
+			<xs:element ref="i"  minOccurs="0"/>
+		</xs:sequence>
+		<xs:attribute ref="style"/>
+	</xs:complexType>
+</xs:element>
+
+</xs:schema>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="BookPageColumnLine.xsl"?>
+<book 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="BookPageColumnLine.xsd">
+	<title>Corpus Christianorum Series Latina 87, Scripta Arriana Latina</title>
+	<author>Roger Gryson</author>
+	<publicationyear>1982</publicationyear>
+	<printpage pagenumber="199" id="Edition199"> 
+		<heading>Under Construction</heading>
+		<page p19c="20" p5c="5" id="19c020">
+			<column value="main">
+				<line>This page is under construction.</line>
+				<line>It will represent the Commentary on Luke in TEI XML, starting with Gryson 1982 and adjusting with new readings.</line>
+				<line>Volunteer work on this task would be appreciated.</line>
+			</column>
+		</page>
+	</printpage>
+</book>

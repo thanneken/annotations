@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="BookPageColumnLine.xsl"?>
+<book 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="BookPageColumnLine.xsd">
+	<title>Transcription of Book of Hours</title>
+	<author>UCLA Rouse MS 32</author>
+	<publicationyear>c1400</publicationyear>
+		<page p19c="25">
+			<column value="v">
+				<line>cum in uigore spiritus in[hala]turus.</line>
+				<line>Ave spiritus sancti [Dolo]ris gladium</line>
+				<line>sponsa Maria gratia plena domin'</line>
+				<line>tecum benedicta tu in mulieribus et bene</line>
+				<line>dictus fructus uentis tui Iesus. Dom</line>
+				<line>ina sancta Maria uirgo glo[rio]sissima </line>
+				<line>mater dei et hominis adora[ns] te ammo (admo)</line>
+				<line>neo et deprecor per illum doloris gladium </line>
+				<line>qui tuam felicissimus [animam per]tran</line>
+				<line>sivit dum sentires in spiritu hora matu</line>
+				<line>tina filium tuum de[tineri] cola[phis] spu</line>
+				<line>tis vinculis[que gravari et iudicibus pra]esen</line>
+				<line>[t]ari fac me mis[erum peccatorem] partici</line>
+				<line>pem eiusdem doloris [et da ut] in satisfa</line>
+				<line>ctione perseverans laqueos capturas et </line>
+				<line>vincula diaboli mundi [pro]priaeque fragili</line>
+				<line>tatis euadam tu(a)e gubernationis mode</line>
+				<line>ramine fruiturus. </line>
+				<line>Ave celestis Regis mater maria gra</line>
+				<line>tia plena dominus tecum benedic</line>
+				<line>ta tu in mulieribus et benedictus fructus</line> 
+				<line>uentris tui Iesus. Domina sancta M</line>
+			</column>
+		</page>
+		<page p19c="55" id="55r">
+			<column value="r">
+				<line>salutem omnium tam vivorum quam mor</line>
+				<line>tuorum. Rogo te domine per ipsum sacro</line>
+				<line>sanctum et vivificum misterium corporis et</line>
+				<line>sanguinis tui quo cotidie in ecclesia tua </line>
+				<line>pascimur et potamur abluimur et sancti</line>
+				<line>ficamur. atque unius summe diuinitatis </line>
+				<line>participes efficimur da michi uirtutes tu</line>
+				<line>as sanctas quibus repletus bona conscienci</line>
+				<line>a ad alatare tuum accedam. Ita ut hec cele</line>
+				<line>stia sacramenta efficiantur michi salus</line>
+				<line>et uita. Tu enim dixisti ore tuo sancto et </line>
+				<line>benedicto. Panis quem ego dabo caro me </line>
+				<line>a est pro mundi uita. Qui manducat me </line> 
+				<line>viva vivet propter me et ipse manet in me </line>
+				<line>et ego in eo Ego sum panis vivus qui de coe</line>
+				<line>lo descendi. Si quis manducaverit ex hoc </line>
+				<line>pane uiuet in eternum. Panis dulcissi</line>
+				<line>me. sana palatum cordis mei. ut sentiam </line>
+				<line>s{u}auitatem amoris tui. Sana eum ab o</line>
+				<line>mni languore. ut nullam preter te senti</line>
+				<line>at dulcedinem, nullum preter te querat </line>
+				<line>amorem. nullam preter te amet pulch</line>
+			</column>
+		</page>
+</book>

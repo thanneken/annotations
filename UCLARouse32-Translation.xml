@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="BookPageColumnLine.xsl"?>
+<book 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="BookPageColumnLine.xsd">
+	<title>Translation of Book of Hours</title>
+	<author>UCLA Rouse MS 32</author>
+	<publicationyear>c1400</publicationyear>
+		<page p19c="25" id="25v">
+			<column value="v">
+				<line>about to exhale in the power of the spirit.</line>
+				<line>Hail holy spirit, sword of sorrow,</line>
+				<line>maiden Mary, full of grace, the Lord is</line>
+				<line>with you. Blessed are you among women and blessed</line>
+				<line>is the fruit of your womb Jesus. Holy </line>
+				<line>lord Mary, most glorious virgin, </line>
+				<line>mother of God and man, giving priase, I urge </line>
+				<line>and beg you through the sorrowful sword </line>
+				<line>which your most blessed spirit passed through</line> 
+				<line>sensing in spirit the morning hour </line>
+				<line>your son was arrested, beaten, spat upon,</line>
+				<line>and bound in the presence of officials and judges.</line> 
+				<line>Let me, a miserable sinner, share </line>
+				<line>in the same suffering and also enjoy the lasting</line> 
+				<line>satisfaction of ensnaring, capturing, and </line>
+				<line>binding the world of the devil and his own,</line> 
+				<line>by your very fragility, governance,</line> 
+				<line>and demeanor.</line>
+				<line>Hail mother of the heavenly King, Mary full</line>
+				<line>of grace, the Lord is with you. Blessed </line>
+				<line>are you among women and blessed is the fruit</line>
+				<line>of your womb Jesus. Holy lord M</line>
+			</column>
+		</page>
+		<page p19c="55" id="55r">
+			<column value="r">
+				<line>the salvation of all both living and dead.</line>
+				<line>I entreat you Lord through the same sacred</line>
+				<line>and life-giving mystery of your body and</line>
+				<line>blood by which daily in your church</line>
+				<line>we are fed and and given drink, we are washed and sanctified,</line>
+				<line>and so in one most high divinity </line>
+				<line>we are caused to partake, give me your holy virtues </line>
+				<line>by which a good conscience having been refilled </line>
+				<line>I might draw near to your altar, so that these heavenly</line>
+				<line>sacraments will effect in me salvation</line>
+				<line>and life. With your own sacred and blessed mouth you have said:</line>
+				<line>The bread which I give is my flesh </line>
+				<line>for the life the of the world. One who eats me</line>
+				<line>will live because of me and that one remains in me</line>
+				<line>and I in him. I am the living bread which descended from heaven.</line>
+				<line>Whoever eats of this </line>
+				<line>bread will live forever. Sweetest bread,</line>
+				<line>heal the palate of my heart so that I might feel</line>
+				<line>the sweetness of your love. Heal it from every</line>
+				<line>sickness so that it might feel no sweetness except you, </line>
+				<line>seek no love except you, love no beau[ty] except you</line>
+			</column>
+		</page>
+</book>

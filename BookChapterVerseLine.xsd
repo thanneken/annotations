@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<!-- definition of simple elements -->
+<xs:element name="title" type="xs:string"/>
+<xs:element name="recension" type="xs:string"/>
+<xs:element name="rendering" type="xs:string"/>
+<xs:element name="translator" type="xs:string"/>
+<xs:element name="publicationyear" type="xs:string"/>
+<xs:element name="i" type="xs:string"/>
+
+<!-- definition of attributes -->
+<xs:attribute name="id" type="xs:string"/>
+<xs:attribute name="p19c" type="xs:integer"/>
+<xs:attribute name="p5c" type="xs:integer"/>
+<xs:attribute name="number" type="xs:string"/>
+<xs:attribute name="status" type="xs:string"/>
+
+<!-- definition of complex elements -->
+<xs:element name="codex">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="title"/>
+			<xs:element ref="book" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="book">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="title"/>
+      <xs:element ref="recension"/>
+      <xs:element ref="rendering"/>
+      <xs:element ref="translator"/>
+      <xs:element ref="publicationyear"/>
+      <xs:element name="authority" type="xs:string" />
+      <xs:element name="license" type="xs:string" />
+      <xs:element ref="chapter" minOccurs="0" maxOccurs="100"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="chapter">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="paragraph" minOccurs="0" maxOccurs="100"/>
+		</xs:sequence>
+		<xs:attribute ref="id"/>
+		<xs:attribute ref="number"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="paragraph">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="verse" minOccurs="0" maxOccurs="100"/>
+		</xs:sequence>
+		<xs:attribute name="status" type="xs:string"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="verse">
+	<xs:complexType mixed="true">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="line" minOccurs="0" maxOccurs="100"/>
+			<xs:element ref="i" minOccurs="0" maxOccurs="100"/>
+			<xs:element ref="quiremarker" minOccurs="0"/>
+			<xs:element ref="pagestart" minOccurs="0" maxOccurs="100"/>
+		</xs:choice>
+		<xs:attribute ref="number"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="pagestart">
+	<xs:complexType>
+		<xs:attribute ref="p19c"/>
+		<xs:attribute ref="p5c"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="quiremarker">
+	<xs:complexType>
+		<xs:attribute ref="number"/>
+		<xs:attribute ref="status"/>
+	</xs:complexType>
+</xs:element>
+
+<xs:element name="line">
+	<xs:complexType mixed="true">
+		<xs:sequence>
+			<xs:element ref="i"  minOccurs="0"/>
+			<xs:element ref="pagestart" minOccurs="0" maxOccurs="100"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+</xs:schema>
