@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="35" xml:id="Ceriani_1861_035"/>
+
+	<!-- p19c=95 p5c=167 -->
+
+de puteo iurationis in barin abraham patris sui in monte cebron.
+29:20 ‎ Illic erat iacob transmittens quaecumque erant patri suo siue matri suae per singula tempora uniuersa quae erant illis necessaria in omni usu suo et erant benedicentes iacob in omni corde ipsorum et in tota anima sua.
+30:1 ‎ Et in anno primo septimanarum sexti ascendit in salem secundum orientem sicimam in pace quarto mense.
+30:2 ‎ Et illic rapuerunt dinam filiam iacob in dom sychem fili emmor euuei prin-
+
+-cipis terrae et polluit eam quia dormiuit cum ea et ipsa adulescens erat filia duodecim annorum.
+30:3 ‎ Et petierat illam postea a patre suo et omnibus fratribus suis in mulierem. Et indignatus est iacob et filii sui ad uiros sychemorum quia polluerant dinam sororem suam et locuti sunt ad eos in simulationem et in dolo deriserunt eos.
+30:4 ‎ - - - symeon et leuui et posuerunt in corde suo symeon et leuui exterminare eos et fecerunt iudicium in uiros sychemorum - - -
+
+	<!-- p19c=96 p5c=168 -->
+
+- - - quem inuenerunt in ea et non reliquerunt in ea usque unum uniuersos enim occiderunt in iudicio propter quod polluerant dinam sororem suam.
+30:5 ‎ - - - non erit amplius ut polluantur filiae istrahel propter quod in caelo sit iudicum super ipsos ut pugnent in gladio aduersus sychem um propter quod fecerunt ignominiam in istrahel.
+30:6 ‎ Et tradidit eos dominus in manibus filiorum iacob ut eradicent eos in gladio et fiat in ipsis iudicium et non amplius erit in - - - istrahel ut polluatur uirgo
+
+istrahel.
+30:7 ‎ Et homo quicumque est ex filiis istrahel et placuerit ei dare filiam suam aut sororem suam omni uiro ex semine gentium periet et lapidabitur lapidibus propter quod fecerit ignominiam in istrahel et mulier conburetur igni propter quod contaminauerit domum patris sui eradicabitur ex istrahel.
+30:8 ‎ Et non erit fornicaria et abominatio in istrahel omnibus diebus generationis terrae propter quod sanctus est istrahel domino et omnis homo quicumque polluerit
+
+
+</ab>
+
+</body>
+</text>
+</TEI>

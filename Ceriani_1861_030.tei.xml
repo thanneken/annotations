@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="30" xml:id="Ceriani_1861_030"/>
+
+	<!-- p19c=69 p5c=141 -->
+
+quem aedificauit pater eius et inuocauit in nomine domini et mactauit hostias deo abraham patris sui.
+24:24 ‎ Et foderunt puteum et inuenerunt aquam uiuam.
+24:25 ‎ Et foderunt iterum puteum alium pueri isac et non inuenerunt aquam et aduenerunt et nuntiauerunt isac eo quod non inuenissent aquam. Et dixit isac: propter quod iuraui in die ista filistin factus est nobis sermo hic.
+24:26 ‎ Et uocauit nomen loci illius: puteus iurationis quoniam illic iurauit abimelec et ocozia sodalis illius et ficol
+
+princeps exercitus ipsius.
+24:27 ‎ Et cognouit isac in die illa quoniam - - - n - - - iurauit ille facere cum ipso pacem.
+24:28 ‎ Et maledixit isac in die illa filistin et dixit: maledictus filistin in die irae et indignationis a medio omnium gentium. Det illum deus in obprobrium et in maledictum et in indignatione ire in manum peccatoris populi et in manu cettin.
+24:29 ‎ Et eradicet eum populus iustus in iudicio de sub caelo. Quoniam inimici et contrari sunt filiis meis in generationibus
+
+	<!-- p19c=70 p5c=142 -->
+
+suis super terram.
+24:30 ‎ Et non derelinquentur eis reliquiae et salus (s)euadens in die irae iudicii sed in perditionem et exterminium ut auferatur a facie terrae totum semen filistinorum et non erit illis omne nomen relictum super terram.
+24:31 ‎ Et si ascendat usque ad caelum inde deponetur. Et ubi fugiens erit inde auferetur. Et si occultauerit se in medio gentium eradicabitur. Et si descendat in infernum ibi abundabit iudicium eius et non erit ei illic omnis
+
+pax.
+24:32 ‎ Et si uadens abierit in captiuitatem in manu omnium quaerentium eum anima eius et in medio inferni interiet et non erit ipsi semen et nomen in omni terra quoniam in maledictum aeternum abibit.
+24:33 ‎ Quia sic scriptum est et consignatum aduersus illum in tabulis caeli ut fiat illi in die iudicii ut eradicetur a facie terrae.
+25:1 ‎ Et in anno secundo septimanarum huius iubelei uocabit rebecca filium suum iacob et locuta est ad eum dicens: nate noli sumere tibi - - -.
+
+
+</ab>
+
+</body>
+</text>
+</TEI>

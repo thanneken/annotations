@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="52" xml:id="Ceriani_1861_052"/>
+
+	<!-- p19c=93 p5c=245 -->
+
+mulieri mercedem l- - - ar - - -.
+47:9 ‎ - - - et docuit - - - et quando comple - - - septimana erunt te in atrium regale. Et eras ex - - - trium septimanarum annorum usque in tempus quo existi de atrio regali et uidisti aegyptium ferientem fratrem tuum et percussisti eum et fodisti in terram et cooperuisti eum in harenam.
+47:10 ‎ Et secunda die inuenisti duos litigantes ex filiis istrahel et dixisti ad eum qui per-
+
+-cutiebat proximum suum: quare percutis fratrem tuum.
+47:11 ‎ Et iratus est in indignatione - - - dixit: quis te constituit principem aut iudicem super nos. Numquid occidere me uis quemadmodum occidisti hesterna die aegyptium. - - - u - - - tia propter - - - o - - - huius - - -.
+48:1 ‎ Et quadragesimo nono iubeleo in anno sexto septimanarum tertii abisti et inhabitasti in terram mad - - - septimanarum quinque et annum unum. Et quinquagensimo iubeleo in septimanarum secundo in anno secundo ipsius conuersus es in aegyptum.
+
+	<!-- p19c=94 p5c=246 -->
+
+48:2 ‎ Et tu scis ipse qui locutus est te cum sub monte sina et quid uoluit facere te cum princeps mastima cum reuertereris in aegyptum in uia in qua praeteristi eum in refectione.
+48:3 ‎ Nonne in omni uirtute sua quaesiuit interficere te ut eruerent aegyptios de manu tua quia uidit quoniam missus es facere iudicium et uindicare uindictam in aegyptiis.
+48:4 ‎ Et erui te de manu eius et fecisti signa et prodigia quaecumque missus es facere in aegyptum et in faraonem et in om-
+
+-nem domum eius et in omni populo eius.
+48:5 ‎ Et fecit deus in pa defensionem magnam super israhel et percus eos in sanguinem et in ranis et scynifis et muscas caninas et in uulnere pessimo quod erant - - - a - - - fe - - - uento et in morte animalium ipsorum et lapidibus grandinis perdidit uniuersa nascentia eorum et lucusta comedit quae derelicta erant de grandine et in tenebris primitiuorum ipsorum hominum et animalium et in omnibus diis aegyptiorum fecit dominus uindictam - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

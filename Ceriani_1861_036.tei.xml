@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="36" xml:id="Ceriani_1861_036"/>
+
+	<!-- p19c=81 p5c=169 -->
+
+eum morietur in lapidibus.
+30:9 ‎ Propter quod sic scriptum est et decretum est in tabulis caeli de omni semine istrahel quoniam qui polluerit mortem morietur et lapidibus lapidabitur.
+30:10 ‎ Et non erit huic legi finis temporis et non erit illi remissio et omnis propitiatio. Sed ut exterminetur homo quicumque polluerit filiam ipsius in medio hominis istrahel quoniam ab omni semine eius dedit alienigena et inpie egerunt intaminare illud.
+30:11 ‎ Et tu monses manda filiis istrahel et
+
+testificare super eos ut non dent ex filiabus suis gentibus et ut non accipiant filiis suis de filiabus eorum quoniam abominatio est coram domino.
+30:12 ‎ Propter hoc scripsi tibi in sermonibus legis omnis sermones operum sychimorum quae fecerunt dine et quemadmodum locuti sunt filii iacob dicentes: non dabimus filiam nostram homini qui habet praeputium obprobrium enim est nobis.
+30:13 ‎ Et obprobrium istrahel qui dant siue accipiunt a filiabus gentium propter quod abominatio est et inmunditia
+
+	<!-- p19c=82 p5c=170 -->
+
+in omni istrahel.
+30:14 ‎ Et non mundabitur istrahel ab abominatione ista si fuerit illi mulier de gentibus et non mundabimus de filiabus nostris omnibus gentibus.
+30:15 ‎ Quoniam plaga super plagam est et maledictum super maledictum et omnia iudicia plagarum et maledictio maledictionum aduenient super illum faciet sermonem istum et si praeterierit et despexerit faciens abominationis et polluerit sanctificationem dei et qui polluunt nomen sanctum eius iudicabitur tota
+
+plebs simul de omnibus abominationibus huius.
+30:16 ‎ Et non erit ut accipiat personam et non accipiet sacrificium et olocaustomata neque odorauitur odore suauitatis suscipere ipsud. Et erit in istrahel omnis homo siue mulier polluens sanctificationes.
+30:17 ‎ Propter quod mandaui tibi dicens: testare testificatione ista in istrahel et uide quid factum sit sychimis et filiis ipsius quomodo traditi sunt in manu hominum filiorum iacob et occiderunt illos in iudicio et
+
+</ab>
+
+</body>
+</text>
+</TEI>

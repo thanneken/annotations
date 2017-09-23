@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="31" xml:id="Ceriani_1861_031"/>
+
+	<!-- p19c=80 p5c=149 -->
+
+26:8 ‎ - - - consilii eius et indignabitur (et indignabitur) aduersus me et inducam ego super me maledictum et non benedictionem.
+26:9 ‎ Et dixit illi rebecca mater sua: in me maledictum tuum nate tantum obaudi uocem meam.
+26:10 ‎ Et obaudiuit iacob uocem matris suae rebeccae et abiit et accepit duos hedos caprarum teneros et bonos et adtulit eos matri suae et fecit illos mater eius cibos sicut desiderabat.
+26:11 ‎ Et accepit rebecca uestes esau filii sui senior*i*s optimas quae
+
+erant cum ipsa in domo et induit eas iacob filium suum iuniorem et pelles hedorum circumdedit super brachia eius et humeros et super nudas ceruices ei.
+26:12 ‎ Obtendidit cibos quos fecit et panes in manibus iacob filii sui.
+26:13 ‎ Et introiuit iacob ad patrem suum et dixit: ego sum filius tuus feci quemammodum dixisti mihi. Exurge et sede et manduca de uenatione mea pater ut benedicat me anima tua.
+26:14 ‎ Et dixit isac ad filium suum: quid est hoc quod adcelerasti
+
+	<!-- p19c=79 p5c=150 -->
+
+inuenire nate.
+26:15 ‎ Et dixit iacob: quod direxit dominus deus tuus in conspectu meo.
+26:16 ‎ Et dixit ad illum isac: adproxima mihi et palpabo te nate si tu es filius meus esau.
+26:17 ‎ Et adproximauit iacob ad isac patrem suum et palpauit eum et dixit: uox quidem uox iacob manus autem manus esau.
+26:18 ‎ Et non cognouit eum quoniam auersio erat de caelo transferre spiritum eius. Et non cognouit quoniam erant manus eius sicut manus esau fratris sui pilosa. Et benedixit eum.
+26:19 ‎ et dixit: tu es
+
+filius meus esau. Et dixit iacob: ego filius tuus sum. Et dixit isac: offers mihi et manducabo de uenatione tua nate ut benedicat te anima mea.
+26:20 ‎ Et obtulit ei et manducauit et intulit illi uinum et bibit.
+26:21 ‎ Et dixit ad eum isac pater ipsius: adproxima te mihi et osculare me nate. Et adproximauit et osculatus est eum.
+26:22 ‎ Et odoratus est odorem uestimentorum eius et benedixit eum et dixit: Ecce odor filii mei sicut odor agri pleni quem benedixit deus.
+26:23 ‎ Et det tibi - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

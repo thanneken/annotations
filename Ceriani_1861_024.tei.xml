@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="24" xml:id="Ceriani_1861_024"/>
+
+	<!-- p19c=105 p5c=117 -->
+
+-timanarum septimi iubelei huius uocabit habraham isac filium suum et demandauit illi dicens: ego senui et nescio diem mortis meae et repletus sum diebus meis.
+21:2 ‎ Et ecce ego filii quinque et septuaginta et centum annorum sum in diebus uitae meae deum nostrum in memoria habens semper et exquirens eum in omni uirtute mea ut facerem omnem uolumtatem eius et ut dirigerem in omnibus uiis eius.
+21:3 ‎ Et ideo simulacra odiuit anima mea et seruientes eis eram
+
+spernens. Et dedi cor meum et spiritum ut custodiam et faciam uolumtatem eius qui me creauit.
+21:4 ‎ Quia deus uiuens est et sanctus et fidelis et iustus et ex omnibus non est apud eum accipere personam ut accipiat munera quoniam deus iustus est et iudicium ex omnibus qui transgrediuntur sermones eius et qui contemnunt testimonium eius.
+21:5 ‎ Et tu filii custodi praecepta eius et mandata eius et iudicia eius et noli abire post abominationes et post
+
+	<!-- p19c=106 p5c=118 -->
+
+fusiles.
+21:6 ‎ Et nolite manducare omnem sanguinem omnis carnis siue de his quae in terris sunt siue quae uolant in aere.
+21:7 ‎ Et si occidas ostiam fructuum pacis occiditis eum sanguinem autem eius effundetis super altarium. Et omnem sanguinem olocausti super altarium cum similagine et confectum in oleo cum uino ipsius offeres omnia ea super altarium fructuum: odor suauitatis est in conspectu dei.
+21:8 ‎ Et adip*e*m sacrificii salutaris offeres super ignem
+
+ super altare et adipem quae est super uentrem et omnem adipem quae est super interanea et duos renes et omnem adipem quae est super illos et quae est super femus et iecur quod est super pulmonem cum renibus separa.
+21:9 ‎ Et sic offers uniuersa in odorem suauitatis acceptabile in conspectu domini cum sacrificiis ipsorum et cum uino eius in odorem suauitatis Panem fructuum domino.
+21:10 ‎ Et carnem manducabitis in illa die et in crastino et non occidet - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

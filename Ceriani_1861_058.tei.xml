@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="58" xml:id="Ceriani_1861_058"/>
+
+	<!-- p19c=78 p5c=263 -->
+
+muneribus quae inponent domino qui non sunt sacerdotes sed serui de seruis nati
+5:5 ‎ qui enim magistri sunt doctores eorum illis temporibus erunt mirantes personas cupiditatum et acceptiones munerum et peruendent iustitias accipiendo poenas
+5:6 ‎ et ideo implebitur colonia et fines habitationis eorum sceleribus et iniquitatibus a deo ut qui facit erunt impii iudices erunt in eam post fines habitationis sceleribus et iniquitatibus
+
+a domino qui faciunt erunt impii iudices inerunt in campo iudicare quomodo quisquae uolet
+6:1 ‎ tunc exurgent illis reges imperantes et in sacerdotes summi dei uocabuntur facient facientes impietatem ab sancto sanctitatis
+6:2 ‎ et succedit illis rex petulans qui non erit de genere sacerdotum homo temerarius et improbus et iudicabit illis quomodo digni erunt
+6:3 ‎ qui elidit principales eorum gladio et locis ignotis singuli et corpora illorum ut nemo sciat ubi sint
+
+	<!-- p19c=77 p5c=264 -->
+
+corpora illorum
+6:4 ‎ occidit maiores natu et iuuenes et non parcet
+6:5 ‎ tunc timor erit illius aceruus in eis in terram eorum
+6:6 ‎ et faciet in eis iudicia quomodo fecerunt in illis aegypti per xxx et iiii annos et puniunt eos
+6:7 ‎ et .. rodincit natos ... ecedentes sibi breuiora tempora donarent
+6:8 ‎ in pares eorum mortis uenient et occidentes rex potens quia expugnabit eos
+6:9 ‎ et ducent captiuos et partem aedis ipsorum igni incendit aliquos crucifigit circa coloniam eorum
+
+7:1 ‎ ex quo facto finientur tempora momento .... etur cursus a .... horae iiii ueniant
+7:2 ‎ coguntur secun ..... ae .... pos .... initiis tribus ad exitus viiii propter initium tres septimae secunda tria in tertia duae h .. ra .. tae
+7:3 ‎ et regnarunt de his homines pestilentiosi et impii docentes se esse iustos
+7:4 ‎ et hi suscitabunt iram animorum suorum qui erunt homines dolosi sibi placentes ficti in omnibus suis et omni hora diei amantes conuiuia deuoratores gulae
+
+</ab>
+
+</body>
+</text>
+</TEI>

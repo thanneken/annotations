@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="57" xml:id="Ceriani_1861_057"/>
+
+	<!-- p19c=85 p5c=261 -->
+
+et in mari rubro et in heremo annis xl
+3:12 ‎ testatus et inuocabat nobis testes caelum et terram ne praeteriremus mandata illius in quibus arbiter fuit nobis
+3:13 ‎ quae aduenerunt nobis de isto secus uerba ipsius et secus adfirmationem ipsius quomodo testatus est nobis temporibus illis et quae conuenerunt usque nos duci captiuos in partem orientis
+3:14 ‎ qui et seruient circa annos lxxvii
+4:1 ‎ Tunc intrauit unus qui supra eos est et expandit manus et ponit genua sua
+
+et orauit pro eis dicens
+4:2 ‎ Domine omnis rex in alta sede qui dominaris saeculo qui uoluisti plebem hanc esse tibi plebem hanc exceptam tunc uoluisti inuocari eorum deus secus testamentum quod fecisti cum patribus eorum
+4:3 ‎ et ierunt captiui in terram alienam cum uxoribus et natis suis et circa ostium allofilorum et ubi est maiestas magna
+4:4 ‎ respice et miserere eorum domine caelestis
+4:5 ‎ Tunc reminiscitur deus eorum propter testamentum quod fecit cum
+
+	<!-- p19c=86 p5c=262 -->
+
+patribus illorum et palam faciet misericordiam suam et temporibus illis
+4:6 ‎ et mittit in animam regis ut misereator eorum et dimittit illos in terram eorum et regionem
+4:7 ‎ tunc ascendent aliquae partes tribuum et uenient in locum constitutum suum et circumuallabunt locum renouantes
+4:8 ‎ duae autem tribus permanebunt in praeposita fide sua tristes et gementes quia non poterint referre immolationes domino patruum suorum
+4:9 ‎ et x tribus cres-
+
+-cent et deuenient apud natos in tempore tribum
+5:1 ‎ et cum adpropiabunt tempora arguendi et uindicta surgit de reges participes scelerum
+5:2 ‎ et punientes eos et ipsi diuidentur ad ueritatem propter quod factum fuit
+5:3 ‎ deuitabunt iustitiam et accedent ad iniquitatem et contaminabunt in genationibus domum seruitutis suae et quia fornicabunt post deos alienos
+5:4 ‎ non enim sequentur ueritatem dei sed quidam altarium inquinabunt de
+
+</ab>
+
+</body>
+</text>
+</TEI>

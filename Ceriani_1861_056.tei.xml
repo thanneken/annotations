@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="56" xml:id="Ceriani_1861_056"/>
+
+	<!-- p19c=110 p5c=259 -->
+
+-rum dimittes illis secus quod placebit domino eorum in iudicio et iustitia
+2:3 ‎ autem postquam intrabunt in terram suam annos et postea dominabitur a principibus et tyrannis per annos xuiii et xuiiii annos abrumpens tib x nam descendent tribus duae et transferunt scenae testimonium
+2:4 ‎ tunc deus caelestis fecit palam scenae suae et ferrum sanctuarii sui et ponentur duae tribus sanctitatis
+2:5 ‎ nam x tribus stabilient sibi secus ordinationes suas
+
+regna
+2:6 ‎ et adferent uictimas per annos xx
+2:7 ‎ et uii circumuallabunt muros Et circumibo uiiii et adcedent ad testamentum domini et finem polluent quem fecit dominus cum eis
+2:8 ‎ et immolabunt natos suos diis alienis et ponent idola scenae seruientes illis
+2:9 ‎ et in domo domini facient sceleste et sculpent omnem animalium idola multa
+3:1 ‎ illis temporibus ueniet illis ab oriente rex et teget equitatus terram eorum et
+3:2 ‎ incendet colonia eorum igne cum aede sancta
+
+	<!-- p19c=109 p5c=260 -->
+
+domini et sancta uasa omnia tollet
+3:3 ‎ et omnem plebem eiciet et ducet illos in terram patriae suae et duas tribus ducit secum
+3:4 ‎ Tunc inuocabunt duae tribus x tribus et ducent se ut liena in campis puluerati esurientes et sitientes cum infantibus nostris
+3:5 ‎ et clamabunt iustus et sanctus dominus quia enim uos peccastis et nos pariter adducti sumus uobiscum
+3:6 ‎ tunc plorabunt x tribus audientes inproperia uerborum tribum duarum
+3:7 ‎ et dicent quid faciemus uobis fratres nonne in omnem
+
+domum istrahel aduenit clibsis haec
+3:8 ‎ et omnes tribus plorabunt clamantes in caelum et dicentes
+3:9 ‎ deus abraham et deus isaac et deus iacob reminiscere testamentum tuum quod factasti cum eis et iusiurandum quod iurasti eis per te ne umquam deficiat semen eorum a terra quam dedisti illis
+3:10 ‎ Tunc reminiscentur me die illo dicentes tribus ad tribum et homo de proximo suo
+3:11 ‎ nonne hoc est quod testabatur nobis cum moyses in profetis qui multa passus est in aegypto
+
+</ab>
+
+</body>
+</text>
+</TEI>

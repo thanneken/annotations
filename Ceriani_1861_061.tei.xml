@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="61" xml:id="Ceriani_1861_061"/>
+
+	<!-- p19c=100 p5c=269 -->
+
+-orum eram
+10:15 ‎ itaque tu iesu naue forma te elegit deus esse mihi successorem eiusdem testamenti
+11:1 ‎ et cum audisset iesus uerba moysi tam scripta in sua scriptura omnia quae praedixerant scidit sibi uestimenta et procidit ad pedes meos
+11:2 ‎ et hortatus est cum monse et plorauit cum eo
+11:3 ‎ Et respondit illi et dixit iesus
+11:4 ‎ quid me celares domine monse et quo genere celabor de qua locutus est uoce acerua que exiuit de ore tuo quae est plena lacrimis et gemitibus quia tu discedis de
+
+plebe ist ......
+11:5 ‎ quis locus recipit .... te
+11:6 ‎ aut quod erit monumentum sepulturae
+11:7 ‎ aut quis audeuit corpus tuum transferre in eut homo de loco in locum
+11:8 ‎ Omnibus enim morientibus secus aetatem sepulturae suae sunt in terris nam tua sepultura ab oriente sole usque ad occidentem et ab austro usque ad fines aquilonis omnis orbis terrarum sepulcrum est tuum
+11:9 ‎ domine abhis Et quis nutrit plebem istam 10 ‎ aut quis est qui miserebitur illis et quis eis dux erit
+
+	<!-- p19c=99 p5c=270 -->
+
+in uia
+11:11 ‎ aut quis orabit pro eis nec patiens ne uno quidem diem ut inducam illos in terram araborum
+11:12 ‎ quomodo ergo potero plebem hanc tamquam pater unicum filium aut tamquam filiam dominam uirginem quae paratur tali uiro quae timebat corpus custodiens eius a sole et ne scalciati pedes eius ad currendum supra terram
+11:13 ‎ ..... de uoluntatem eorum praestabo illis ciborum et potui secus uoluntatem uoluntatis eorum
+11:14 ‎ ..... enim illorum
+
+erant c milia nam isti in tantum qui creuerunt in tuis orationibus domine monse
+11:15 ‎ et quae est mihi sapientia aut intellectus in domo .... uerbis aut iudicare aut respondere
+11:16 ‎ sed et reges amorreorum cum audierint expugnare nos credentes iam non esse semet sacrum spiritum dignum domino multiplicem et inconpraehensibilem dominum uerbi fidelem in omnia diuinum per orbem terrarum profetem consummatum in saeculo doctorem iam non esse in eis di-
+
+</ab>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="39" xml:id="Ceriani_1861_039"/>
+
+	<!-- p19c=126 p5c=179 -->
+
+&lt;31:29  creans cuncta cui orasti orationem>
+31:30 ‎ Et dixit rebeccae: uade cum filio tuo. Et ibit rebecca cum filio suo iacob et debborra nutrix sua cum ea et aduenerunt in bethel.
+31:31 ‎ Et memor fuit benedictionis qua benedixit eum pater suus et duos filios eius leuui et iudam et gauisus est et benedixit deum patrum suorum abraham et isac:
+31:32 ‎ nunc cognoui quoniam spes mihi est aeterna et filiis meis in conspectu dei omnipotentis et sic erat deputatum super duos et portio ipsorum
+
+in testimoniis saeculi in tabulis caeli quemadmodum benedixit eos isac.
+32:1 ‎ Et dormierunt in nocte illa in bethel et somniauit leuui quasi ordinatus sit in sacerdotem dei excelsi usque in saecula et expergefactus a somno suo benedixit deum.
+32:2 ‎ Et exurgens iacob diluculo in quartadecima die mensis huius decimauit uniuersa quaecumque uenerunt cum eo ab homine usque ad omnem animam et ab auro et usque ad omne uas et uestimentum decimauit uniuersa.
+
+	<!-- p19c=125 p5c=180 -->
+
+32:3 ‎ Et in illo tempore rachel in utero habentem beniamin filium suum enumerauit iacob ab ipso filios suos et ascendit et cecidit leuui in sortem dei et induit eum pater suus uestimenta sacerdotalia et inpleuit manus eius.
+32:4 ‎ In die quintodecima mensis huius et obtulit in ipso ad altare uitulos de bubus quattuordecim et arietis uiginti et octo et oues quadraginta et nouem et hedos septem hircos caprarum uiginti et unum haec olocaustomata in altarium fructuum acceptabile in
+
+odorem suauitatis in conspectu dei.
+32:5 ‎ Hoc erat munus eius a uoto quo uouerat decimare cum sacrificiis et cum uino ipsorum.
+32:6 ‎ Et quando consumpsit ignis libanum super ignem desuper et sacrificium salutare uitulos duos arietes quattuor agnos anniculos duos hircos caprarum duos. Et semel haec faciebat cottidie in septem diebus.
+32:7 ‎ Et benedicebat et hymnum dicebat deo qui liberauit eum de omnibus tribulationibus eius et quoniam reddidit uotum suum.
+32:8 ‎ Et decimauit uniuer - - -
+
+</ab>
+
+</body>
+</text>
+</TEI>

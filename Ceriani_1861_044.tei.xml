@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="44" xml:id="Ceriani_1861_044"/>
+
+	<!-- p19c=128 p5c=205 -->
+
+36:20 ‎ Et seruiuit deo in toto corde suo et in tota anima sua et secundum praecepta uisibilia secundum diuisionem temporum generationum eius.
+36:21 ‎ Et quadragesimo quinto iubeleo in anno quarto septimanarum secundi mortua est lia uxor iacob et sepellierunt eam in spelunca duplici secus rebeccam matrem eius.
+36:22 ‎ Et adfuerunt omnes filii eius et pueri eius ut flerent cum eo liam mulierem eius et ut consolarentur eum de illa quia erat lugens eum.
+36:23 ‎ Quoniam diligebat eam ualde
+
+ex die qua mortua est rachel soror eius quia perfecta et recta erat in omnibus uiis suis et honorificans iacob omnibus diebus quibus uixit cum ea et non audiuit omnem sermonem nequam ex ore eius quoniam quieta et pacifica erat et - - - hono - - -.
+36:24 ‎ Et erat memor omnium operum eius quae fecit in uita sua et ideo diligebat eam ualde in toto corde suo et in anima sua.
+37:1 ‎ Et in die qua mortuus est isac pater iacob et esau audierunt filii esau quoniam dedit
+
+	<!-- p19c=127 p5c=206 -->
+
+isaac maiorem - - - honorif- - - portionem iacob filio suo iuniori et indignati sunt ualde.
+37:2 ‎ Et litigabant cum esau dicentes: quare praepositus est tibi iacob cum sit iunior et dedit illi pater tuus maiorem portionem et te inferiorem fecit.
+37:3 ‎ Et dixit ad illos esau: quia ego dederam iacob primitiua propter modicam cocturam lentis et in die in qua misit me pater meus uenare illi uenationem ut manducans benediceret me ueniens ille cum dolo intulit patri meo escam
+
+et potum et benedixit eum pater meus et me dedit sub manu eius.
+37:4 ‎ Et nunc adiurauit nos pater noster me et illum ut non exquirarnus nobis mala singuli fratri suo et ut simus in dilectionem et in pace homo cum fratre suo ut non malitiam exerceamus ad inuicem.
+37:5 ‎ Et dixerunt ad eum: non audiemus te ut faciamus cum illo pacem quoniam uirtus nostra potens super uirtutem eius et nos uiri fortes super illum. Ibimus aduersus eum et occidemus eum et perdimus illum et filios - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

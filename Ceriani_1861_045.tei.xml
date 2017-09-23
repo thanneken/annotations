@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="45" xml:id="Ceriani_1861_045"/>
+
+	<!-- p19c=134 p5c=211 -->
+
+38:1 ‎ - - - ut demus illi gloriam.
+38:2 ‎ Tunc iacob extendit arcum suum et transmisit sagittam et percussit esau fratrem suum contra mammillam dextram ipsius et deiecit illum.
+38:3 ‎ Et emisit sagittam secundam (et per) et percussit adoram ar*amaeum* iuxta mammillam sinistram ipsius et deiecit illum et occidit eum.
+38:4 ‎ Et post haec exierunt filii iacob ipsi et pueri ipsorum diuisi in quattuor spiritus bareos.
+38:5 ‎ Et exiuit iudas primus et neptalim et gad cum eo et quinquaginta pueri cum ipso secundum
+
+meridianum barin et interfecerunt quodquod inuenerunt in conspectu suo et non effugiit ex illis neque unus.
+38:6 ‎ Et leuui et dan et aser exierunt secundum orientem bari et quinquaginta cum ipsis et interfecerunt bellatores moab et ammon.
+38:7 ‎ Exierunt ruben et issacar et zabulon et quinquaginta ipsorum cum ipsis et interfecerunt et ipsi bellatores filistin.
+38:8 ‎ Et exiuit symeon et beniamin et enoch filius ruben secundum occasum barin et quinquaginta ipsorum
+
+	<!-- p19c=133 p5c=212 -->
+
+cum ipsis et interfecerunt ex edom et ex correo quadringentos uiros bellatores et sescenti et quattuor filii esau fugerunt cum ipsis et dereliquerunt corpus patris sui proiectum in excelso quod in adurin.
+38:9 ‎ Et persecuti sunt filii iacob post eos usque ad montem seir. Et iacob seppelliuit esau fratrem suum in excelso quod est adurin et conuersus est in barin.
+38:10 ‎ Et cumsederunt filii iacob filios esau in monte seir et subiugauerunt illos ut sint seruientes filiis iacob.
+38:11 ‎ Et miserunt
+
+ad iacob patrem suum si facient pacem cum ipsis.
+38:12 ‎ Et posuerunt iugum timoris super ipsis ut dent honorem iacob et filiis eius in omnibus diebus.
+38:13 ‎ Et erant dantes honorem iacob usque in diem de*sc*ensionis eius in aegyptum.
+38:14 ‎ Et non cessauerunt filii edom de iugo timoris quem inposuerunt illis filii iacob usque in diem istum.
+38:15 ‎ Et hii reges qui regnauerunt in edom priusquam regnaret regnum in filiis istrahel usque in diem hunc in terra edom.
+38:16 ‎ Barad filius beor et nomen ciuitatis eius - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

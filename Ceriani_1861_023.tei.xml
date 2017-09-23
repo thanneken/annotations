@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="23" xml:id="Ceriani_1861_023"/>
+
+	<!-- p19c=122 p5c=115 -->
+
+20:5 ‎ - - - quemammodum iudicati sunt propter malitiam ipsorum propter quod conmisscebant se cum fornicariis et inmunditiam exercebant et omnem abominationem faciebant et praecepta neglegebant.
+20:6 ‎ Et ideo ne forte et uos detis nomen uestrum in maledictionem et omnem uitam uestram in sibilationem et omnes filios uestros in exterminium et in gladium et eritis maledicti sicut sodoma et omnia derelicta uestra sicut filii gomorre.
+
+20:7 ‎ Et ideo ego testor super uos filii diligite deum caeli et adherete omnibus mandatis eius et nolite ire post omnes abominationes ipsorum et post omnes inmunditias.
+20:8 ‎ Et deos conflatiles non facietis uobis et sculptilia quia uana sunt et omnes spiritus non erit in eis quoniam opera manuum sunt et omnes qui confidunt in ea in nihilo confidunt Et ideo nolite seruire illis et nolite adorare eam.
+20:9 ‎ Seruite autem deo excelso et adorate eum adorando
+
+	<!-- p19c=121 p5c=116 -->
+
+et sustinendo uultum eius in omni tempore et facite ueritatem et iustitiam in conspectu eius ut dirigat uos et det uobis misericordiam et deponat uobis plubias matutinas et serotinas et benedicat omnia opera uestra quaecumque operati super terram et benedicat panem tuum et aquam tuam et benedicet fructum uteri tui et fructum terrae tuae ut armenta bouum tuorum et (e)greges ouium tuarum.
+20:10 ‎ Et eritis in benedictione super terra et desiderabunt uos
+
+omnes gentes terrae et benedicent in nomine meo filios uestros ut sint in benedictionem quemammodum et ego.
+20:11 ‎ Et dedit ismael filiis eius et filiis cetturae munera et emisit eos ab isac filio suo - - -.
+20:12 ‎ - - - et filii eius et filii cetturae et filii sui et inhabitauerunt a faramon usque ad introitum babyloniae in omni terra orientali super faciem deserti.
+20:13 ‎ Et conmixti sunt isti illis et adhesit nomen ipsorum arabiis et ismaelite usque in diem hanc.
+21:1 ‎ Et in anno sexto sep-
+
+
+</ab>
+
+</body>
+</text>
+</TEI>

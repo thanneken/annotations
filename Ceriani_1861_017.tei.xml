@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="17" xml:id="Ceriani_1861_017"/>
+<milestone type="19c" unit="page" n="56" xml:id="palimpsest_page_056"/>
+<milestone type="5c" unit="page" n="95"/>
+<milestone unit="column" n="a"/>
+16:5 ‎ - - - uniuersa opera ipsorum quemammodum erant iniqui et peccatores ualde et inmundi spurcitias exercentes in carnibus suis et facientes abominationes super terram.
+16:6 ‎ Ita enim faciet deus iudicium in locis ubicumque fecerint abominationis sodomum sic iudicabit illos.
+16:7 ‎ Et loth liberabimus inde propter quod memor fuit deus abrahae ut (e)liberaret eum de medio euersionis.
+16:8 ‎ Etenim fecit ipse et fili*ae* eius iniquitatem super terram qualis non est facta
+<milestone unit="column" n="b"/>
+in tota terra a diebus a*d*am usque ipsum ut dormiret homo cum filiabus suis.
+16:9 ‎ Etenim ecce demandatum est et scriptum in omne semen in tabulis caeli ut auferantur et exterminentur tal*e*s et ut fiat iudicium ipsorum secundum iudicium sodomum ut non derelinquatur in ipsis omne semen hominis in terra in die iudicii.
+16:10 ‎ Et in mense hoc exiuit abraham a cebron et abiit et inhabitauit inter medium cades et sur in finibus gerarum.
+16:11 ‎ Et in medio mensis
+<milestone type="19c" unit="page" n="55" xml:id="palimpsest_page_055"/>
+<milestone type="p5c" unit="page" n="98"/>
+<milestone unit="column" n="a"/>
+quinti transtulit se inde et habitauit secus puteum iurationis.
+16:12 ‎ Et in medio mensis sexti uisitauit deus sarram et fecit illi sicut dixit.
+16:13 ‎ Et concepit et peperit filium in mense septimo et in dimidio mensis secundum tempus quod dixit deus ad abraham in diem festum primitiuorum natus est isac.
+16:14 ‎ Et circumcidit abraham filium suum octauo die hic primus circumcisus est secundum testamentum dispositum in saecula.
+16:15 ‎ Et in anno sexto septimanarum quarti adfuimus ad abraham
+<milestone unit="columnt" n="b"/>
+secus puteum iurationis et uisi sumus illi sicut dixeramus sarrae quoniam reuerti haberemus ad eam et ipsa (in) conceptum haberet filium suum.
+16:16 ‎ Et reuersi sumus in mense septimo et inuenimus sarram conceptum habentem in conspectu nostro. Et benediximus eum et indicauimus illi quaecumque decreta sunt ei et quomodo esset moriturus et quod generaret adhuc sex filios et uidebit eos omnes priusquam moriatur. Sed in isac multiplicabitur et uocabitur
+</ab>
+
+</body>
+</text>
+</TEI>

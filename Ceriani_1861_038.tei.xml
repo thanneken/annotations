@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="38" xml:id="Ceriani_1861_038"/>
+
+	<!-- p19c=138 p5c=175 -->
+
+31:9 ‎ - - - nate quoniam similis sunt tibi.
+31:10 ‎ Et indicauit illi dicens: quoniam in ueritate sunt filii mei et uerum uidisti pater quoniam filii mei sunt.
+31:11 ‎ Et proximauerunt illi et conuersus osculatus eos et amplexus est utrosque simul.
+31:12 ‎ Et spiritus profetiae aduenit in os isac et tenuit leuui in manu dextera sua et iudam in sinistra.
+31:13 ‎ Et conuersus est ad leuui in primis et coepit benedicere eum *in* primis et benedixit leuui dicens: Benedicat te deus cunctorum et ipse dominus sae-
+
+-culorum et filios tuos in omnia saecula.
+31:14 ‎ Et det dominus tibi et semini tuo magno intellegere gloriam eius et semen tuum adplicabit ad se ex omni carne ut seruiatis illi in sanctificationibus ipsius secundum angelos uultus et secundum sanctos et secundum ipsos erit et semen filiorum tuorum in gloriam et magnitudinem et sanctificationem et sanctificauit illos in omnia saecula.
+31:15 ‎ Et principes et iudices erunt omni semini iacob. Sermonis dei in ueritatem
+
+	<!-- p19c=137 p5c=176 -->
+
+indicabunt et omnia iudicia eius in iustitia examinabunt et indicabunt uias meas huic iacob et semitas meas huic istrael. Benedictio dei dabitur semini eius ut benedicant omne semen dilectum.
+31:16 ‎ Uocauit mater tua nomen tuum leuui et in ueritate uocauit nomen tuum. Ad decorem dei eris et socius omnium filiorum iacob. Mensa tua tibi erit et tu et filii tui manducabitis eam et in omnia saecula mensa tua erit plena et non deficiet esca tua in omnia saecula.
+31:17 ‎ Et omnes
+
+odientes te in conspectu tuo cadent et omnes inimi tui exterminabuntur et perient. Quia ut ille benedicit te erit benedictus et si gens erit aliqua quae maledixerit te maledicta erit.
+31:18 ‎ Et iudae dixit: dabit tibi deus fortitudinem et uirtutem ut tu conculces omnes odientes te. Princeps eris tu et unus filiorum tuorum - - - erit abiens et optinens uniuersam terram et regiones. Tunc timebunt populi a facie tua et conturbabuntur uniuersae gentes et omnes - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

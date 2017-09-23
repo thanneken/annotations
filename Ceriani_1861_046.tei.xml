@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="46" xml:id="Ceriani_1861_046"/>
+
+	<!-- p19c=143 p5c=215 -->
+
+39:9 ‎ Et adgressa est eum et tenuit eum intra domum ut faceret ei uim et dormiret cum ea et clusit ostia domus et detinuit eum. Et demisit ioseph uestimenta sua et aperiens ostium fugit foris a facie eius.
+39:10 ‎ Et uidit mulier quoniam contemsit eam mentita est uiro suo aduersus eum in conspectum domini eius dicens: seruus tuus hebreus iste uim mihi molitus est facere quem diligebas ut dormiret me cum. Et factum est cum exaltassem uocem meam fugiens foras dereliquid uestimen-
+
+-ta sua in manibus meis qui ram ex imo ei uestimenta sua - - -.
+39:11 ‎ Et uidit aegyptius uestimenta ioseph et ostium fractum et audiuit sermonem mulieris suae et posuit ioseph in domum uinculatorum in locum in quo diuincti reges detinebantur.
+39:12 ‎ Et erat illic in uincula et dedit illi dominus gratiam in conspectu principis carceris et misericordiam in conspectu eius quia uidit quod dominus erat cum eo et omnia quae faciebat ioseph deus dirigebat.
+39:13 ‎ Et ideo dedit
+
+	<!-- p19c=144 p5c=216 -->
+
+uniuersa in manus eius. Et non erat sciens princeps carceris quidquam eorum quae fieban in carcere. Quia uniuersa ea faciens erat ioseph et dominus dirigebat ea.
+39:14 ‎ Et erat illic annis duobus. Et in tempore illo iratus est farao rex aegypti super duos eunuchos suos id est super uinifusores et super principem pistorum et posuit eos in carcerem in domum principis cocorum in uinculatorio in quo et ioseph tenebatur.
+39:15 ‎ Et posuit princeps uinculorum ioseph
+
+ut ministraret eis et ministrabat in conspectu eorum.
+39:16 ‎ Et somniauerunt uiri somnia princeps uinifusorum et princeps pistorum et indicauerunt ea ioseph.
+39:17 ‎ Et quemadmodum interpraetatus est illis ioseph sic est eis et factum. Principem uinifusorum farao restituit in locum suum et principem pistorum suspendit sicut ei dixit ioseph.
+39:18 ‎ Et non fuit memor princeps uinifusorum ioseph in uinculatorio cum indicasset illi quaecumque uenissent ei et non fuit memor
+
+
+</ab>
+
+</body>
+</text>
+</TEI>

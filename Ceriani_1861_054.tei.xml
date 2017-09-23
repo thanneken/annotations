@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="54" xml:id="Ceriani_1861_054"/>
+
+	<!-- p19c=108 p5c=253 -->
+
+-ris sui et erit in testimonium in conspectu dei acceptabile et non eueniet ab illo plaga ut perdat et ut exterminet eos in anno illo in quo facient pascha in tempore suo secundum uniuersa praecepta eius.
+49:16 ‎ Et non manducauitur foris a sanctificatione domini sed secus tabernaculum domini et omnis multitudo filiorum istrahel facient illud in tempore suo.
+49:17 ‎ Et omnis homo quicumque praetermiserit in uisitatione manducare illud in sanctificatione dei nostri in cons-
+
+-pectu domini a uicensimo anno et supra quoniam sic praeceptum est et scribtum ut manducetur in sanctificatione eius.
+49:18 ‎ Et quemadmodum uenient filii istrahel in terra possessionis ipsorum in terra chanaam et inhabitabunt in tabernaculo dei in medio terrae in una tribu ipsorum usque in diem qua aedificabitur sanctificatio dei in terra et erunt uenientes et facientes pascha in conspectu tabernaculi dei per singulos annos.
+49:19 ‎ Et in tempore
+
+	<!-- p19c=107 p5c=254 -->
+
+quo aedificabitur domus in nomine domini in terra possessionis ipsorum illic offerentes et mactabunt pascha ad uespera circa occasum solis in tertia die.
+49:20 ‎ Et offerent sanguinem eius super basem altaris et adipem offerent super ignem altaris et carnes manducabunt assas igne in atrium domus sanctificatae in nomine domini.
+49:21 ‎ Et non poterunt facere pascha in ciuitatibus ipsorum in omni loco nisi in conspectum tabernaculi domini
+
+et in conspectu domus ubi habitauit nomen eius super ipsam et non exerrabunt de post dominum.
+49:22 ‎ Et tu monse manda filiis istrahel ut custodiant praeceptum paschae et quemadmodum mandatum est tibi indica illis per singulos enim annos in tempore dierum suorum et per diem festum azymorum ut manducent azyma septem dies et ut faciant diem festum eius et ut offerant oblationem per singulos dies in septem diebus laetitiae in cons - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

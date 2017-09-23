@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="59" xml:id="Ceriani_1861_059"/>
+
+	<!-- p19c=68 p5c=265 -->
+
+7:5 ‎ s ... n ... ca ......... nus diis ........ omnis ....................... u .... o .... rue ..... elentes
+7:6 ‎ ..... rum bonorum comestores dicentes se haec facere propter misericordiam qu ...
+7:7 ‎ se et exterminatores quaeru ... fallaces celantes se ne possent cognosci impii in scelere pleni et iniquitate ab oriente usque ad occidentem
+7:8 ‎ dicentes habebimus discubitiones et luxuriam edentes et bibentes Et putauimus nos
+
+tamquam principes erimus
+7:9 ‎ et manus eorum et mentes inmunda tractantes et os eorum loquetur ingentia et super dicent
+10 ‎ noli .... tange ne inquines me loco in quo ... s ...... is d ........ su ..... us ..... in ......... re .... raui .... in plebem quae s .. a .. illis
+8:1 ‎ et .. ta .. ueniet in eos ultio et ira quae talis non fuit in illis a saeculo usque ad illum tempus in quo suscitauit illis regem regum terrae et potestatem a potentia magna qui confitentes
+
+	<!-- p19c=67 p5c=266 -->
+
+circumcisionem in cruce suspendit
+8:2 ‎ Nam necantes torquebit et tradidit duci uinctos in custodiam
+8:3 ‎ et uxores eorum diis donabuntur gentibus Et filii eorum pueri secabantur a medicis pueri inducere acrosisam illis
+8:4 ‎ nam illi in eis punientur in tormentis et igne et ferro et cogentur palam baiulare idola eorum inquinata quomodo sunt pariter continentibus ea
+8:5 ‎ et a torquentibus illos pariter cogentur intrare in abditum locum eorum et cogentur
+
+stimulis blasfemare uerbum contumeliose nouissime post haec et leges quod haberent supra altarium suum
+9:1 ‎ tunc illo dicente hom de tribu leuui cuius nomen erit taxo qui habens vii filios dicens ad eos rogans
+9:2 ‎ uidete filii ecce ultio facta est in plebe altera crudelis inmunda et traductio sine misericordia et eminent principatum
+9:3 ‎ quae enim gens aut quae regio aut quis populus impiorum in domum qui multa scelesta fecerunt tanta mala passi sunt
+
+</ab>
+
+</body>
+</text>
+</TEI>

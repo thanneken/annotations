@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="47" xml:id="Ceriani_1861_047"/>
+
+	<!-- p19c=129 p5c=217 -->
+
+ut interueniret rex farao et solueret ioseph quoniam oblitus est.
+40:1 ‎ Et in illo tempore somniauit farao somnia duo in nocte una propter famem quae futura erat super - - - terram. Et expergefactus de somno uocauit uniuersos interpraetes somniorum qui erant in regno suo et praecantatores et indicauit illis somnia sua et non potuerunt illi interpraetare somnia eius.
+40:2 ‎ Tunc memoratus est princeps uinifusorum ioseph et indicauit de illo regi faraoni et eiecit eum de
+
+uinculatorio et narrauit in conspectu eius duo somnia - - -.
+40:3 ‎ - - - interpraetatus est - - -: duo somnia unum sunt Septem autem anni continui erunt in omnem terram aegypti ubertatis et septem anni famis sic erit in omnem terram.
+40:4 ‎ Et nunc ordinet farao speculatores in omnem terram aegypti qui congregent escas per singulas ciuitates et reponant eas annis septem ubertatis in escam quae futura est septem annis famis et non periet terra
+
+	<!-- p19c=130 p5c=218 -->
+
+a facie famis quoniam uehemens erit ualde super omnem terram.
+40:5 ‎ Et dedit deus gratiam ioseph et misericordiam in conspectu faraonis et dixit farao pueris suis: numquid poterimus inuenire hominem prudentiorem et sapientiorem quam hic est quoniam spiritus dei cum ipso est.
+40:6 ‎ Et posuit eum secundum se in omni regno suo et potestatem habentem in omni terra aegypti et inposuit eum super currum secundum qui erat faraonis.
+40:7 ‎ Et induit eum beste bissina
+
+et posuit torquem aureum in collo eius et praeconauerunt in conspectu eius elel et habirel et posuit anulum in manu eius. Et praeposuit eum super omnem domum suam et magnificauit eum et dixit: non te praecedam ego nisi throno meo tantummodo.
+40:8 ‎ Et accepit potestatem ioseph in totam terram aegypti. Et dilexerunt eum omnes principes faraonis et serui eius et omnes facientes opera regis quoniam in ueritate ambulabat et non erat in illum superbia et extol - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>

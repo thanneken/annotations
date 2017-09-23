@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>Monumenta Sacra et Profana</title>
+				<author>Antonio Maria Ceriani</author>
+				<publisher>Brepols</publisher>
+				<date when="1861">1861</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<ab>
+<pb type="1861" n="33" xml:id="Ceriani_1861_033"/>
+
+	<!-- p19c=136 p5c=161 -->
+
+‎&lt;28:16 uentris tui aut dereliqui te.> 28:17 Et quoniam uidit rachel quia peperit lia iacob quattuor filios rubem symeon leui iudas dixit rachel ad iacob: intra ad ballam ancillam meam et (con)concipiet et pariet mihi filium.
+28:18 ‎ Et dedit ballam ancillam suam in uxorem et concepit et peperit filium et uocauit nomen eius dan nono mense huius sexti anni septimanarum.
+28:19 ‎ Et adiecit iacob et introiuit ad ballam et concepit et peperit filium secundum iacob et uocauit rachel
+
+nomen eius neptalim in quinto mense septimi anni secunda septimanarum quarta.
+28:20 ‎ Et uidens lia quoniam detenta est et non est pariens et dedit aliam ancillam suam iacob in mulierem et concepit et peperit filium et uocauit lia nomen eius gad. Et in duodecimo mense octaui anni tertio die septimanarum quinti.
+28:21 ‎ Introiuit ad eam et peperit illi filium et uocauit nomen eius aser. In secundo mense decimi diei in quinto anno septimanarum quarto.
+28:22 ‎ Introiuit
+
+	<!-- p19c=135 p5c=162 -->
+
+ad illam* et concepit et peperit filium et uocauit nomen eius isacahar et in quarto anno mense quinti anni die septimanarum quarto dedit illum nutrici.
+28:23 ‎ Et introiuit adhuc iacob ad liam et concepit et peperit duos masculum et feminam et uocauit nomen masculi zabylon et nomen faeminae dinam et in septimi mensis septimi anni sexti septimanarum quarti.
+28:24 ‎ Misertus est deus rachel et aperuit matricem eius et concepit et peperit filium et uoca-
+
+-uit nomen eius ioseph. In primo die mensis quarti in sexto septimanarum quarto huius.
+28:25 ‎ In tempore quo natus est ioseph dixit iacob ad laban: da mihi mulieres meas et filios meos et abibo ad patrem meum isac et faciam mihi domum quoniam conplebi annos quibus seruiui tibi pro duabus filiabus tuis et ibo in domum patris mei.
+28:26 ‎ Et dixit laban ad iacob: expecta me in mercede et pasce iterum oues meas et dabo tibi mercedem.
+28:27 ‎ Et placuerunt de mercede ut det illi - - -.
+
+</ab>
+
+</body>
+</text>
+</TEI>
