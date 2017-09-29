@@ -6,8 +6,7 @@
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
-		</titleStmt>
+			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title><respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
 		</publicationStmt>
@@ -27,12 +26,16 @@
 <text xml:lang="la">
 <body>
 
-<ab>
+<p>
 <pb type="1861" n="27" xml:id="Ceriani_1861_027"/>
-
+<milestone type="5c" unit="page" n="131"/>
+<milestone type="19c" unit="page" n="75" xml:id="palimpsest_page_062"/>
+<milestone unit="column" n="a"/> (for manuscript columns, not Ceriani's columns)
+<milestone unit="ch" n="23"/>
+<milestone unit="vs" n="8"/>
 	<!-- p19c=75 p5c=131 -->
 
-23:8 ‎ - - - quinto et centesimo et septuagensimo anno conpleuit dies uitae suae senior et plenus dierum.
+ <milestone unit="vs" n="9"/> quinto et centesimo et septuagensimo anno conpleuit dies uitae suae senior et plenus dierum.
 23:9 ‎ Propter quod dies antiquorum erant uitae ipsius (Et) nonodecimo iubeleo post dilubium coeperunt dies minui iubeleorum horum et senescere celerius et minui dies uitae ipsorum a facie tribulationis multorum et malignari in uiis suis excepto abram.
 23:10 ‎ Quia abraham erat perfectus in omnibus operibus suis cum deo. Et beneplacens in ueritate omnibus
 
@@ -51,8 +54,8 @@ super generationem quae est iniqua quae iniquitatem facit in terra et inmunditia
 23:16 ‎ Et in ipsa generatione erit ut pueri arguant patres suos et seniores
 
 
-</ab>
 
+</p>
 </body>
 </text>
 </TEI>
