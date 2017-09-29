@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -27,15 +28,14 @@
 <text xml:lang="la">
 <body>
 
-<p>
 <pb type="1861" n="" xml:id="Ceriani_1861_0"/>
 <milestone type="5c" unit="page" n="110"/>
 <milestone type="19c" unit="page" n="60" xml:id="palimpsest_page_062"/>
-<milestone unit="column" n="a"/> (for manuscript columns, not Ceriani's columns)
+<milestone unit="column" n="a"/> 
 <milestone unit="ch" n="19"/>
+<p part="F">
 <milestone unit="vs" n="2"/>
 
-	<!-- p19c=59 p5c=109 -->
 
 sunt dies uitae sarrae et mortua est in chebron.
 <milestone unit="vs" n="3"/> ‎ Et aduenit abraham ut plangeret eam. Et temptauimus eum si patiens esset spiritus eius et non pusillianimus in uerbis oris sui. Et inuentus est et in hoc patientissimus et non est conturbatus.
