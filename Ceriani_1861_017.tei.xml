@@ -27,11 +27,26 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="17" xml:id="Ceriani_1861_017"/>
+	<cb type= "Ceriani" n="1"/>
 <milestone type="19c" unit="page" n="56" xml:id="palimpsest_page_056"/>
 <milestone type="5c" unit="page" n="95"/>
 <milestone unit="column" n="a"/>
+<milestone unit="ch" n="16"/>
+<p part="F">
+	<milestone unit="vs" n="5"/>
+	uniuersa opera ip
+	<lb type= "inWord"/>sorum quemammo
+	<lb type= "inWord"/>dum erant iniqui
+	<lb/>et peccatores ual
+	<lb type= "inWord"/>de et inmundi spur
+	<lb type= "inWord"/>citias exercentes
+	<lb/>in carnibus suis et fa
+	<lb type= "inWord"/>cientes abomina
+	<lb type= "inWord"/>tiones super ter
+	<lb type= "inWord"/>ram <add resp="#ocp">.</add>
+	<milestone unit="vs" n="6"/>
+	
 16:5 ‎ - - - uniuersa opera ipsorum quemammodum erant iniqui et peccatores ualde et inmundi spurcitias exercentes in carnibus suis et facientes abominationes super terram.
 16:6 ‎ Ita enim faciet deus iudicium in locis ubicumque fecerint abominationis sodomum sic iudicabit illos.
 16:7 ‎ Et loth liberabimus inde propter quod memor fuit deus abrahae ut (e)liberaret eum de medio euersionis.
@@ -52,7 +67,7 @@ quinti transtulit se inde et habitauit secus puteum iurationis.
 <milestone unit="columnt" n="b"/>
 secus puteum iurationis et uisi sumus illi sicut dixeramus sarrae quoniam reuerti haberemus ad eam et ipsa (in) conceptum haberet filium suum.
 16:16 ‎ Et reuersi sumus in mense septimo et inuenimus sarram conceptum habentem in conspectu nostro. Et benediximus eum et indicauimus illi quaecumque decreta sunt ei et quomodo esset moriturus et quod generaret adhuc sex filios et uidebit eos omnes priusquam moriatur. Sed in isac multiplicabitur et uocabitur
-</ab>
+</p>
 
 </body>
 </text>
