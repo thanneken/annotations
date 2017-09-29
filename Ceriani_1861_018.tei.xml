@@ -27,11 +27,15 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="18" xml:id="Ceriani_1861_018"/>
+<cb type="Ceriani" n="1"/>
+<milestone type="19c" unit="page" n="54"/>
+<milestone type="5c" unit="page" n="99"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="16"/>
 
 	<!-- p19c=54 p5c=99 -->
-
+<p>
 nomen.
 16:17 ‎ Et omne semen filiorum eius gentes erunt et cum gentibus deputabuntur et ex filiis isac unus erit in semen sanctum qui cum gentibus non conputabitur
 16:18 ‎ Quoniam in sorte excelsi erit quoniam in possesionem dei cecidit omne semen eius esse deo in populum sanctificatum ex omnibus gentibus eius et ut sit regnum sacerdotale et populus sanctus.
@@ -51,8 +55,7 @@ dens concisas et aequaliter mixtas.
 16:25 ‎ Et fecit diem festum hunc per septem dies aepulans in toto corde suo et in omni anima sua ipse et uniuersi domestici sui et omnis alienus non erat cum ipsis et omnis in>circumcisus.
 16:26 ‎ Et benedixit creatorem suum qui creauit illum quia cognouit et sciuit quia ex ipso erit plantatio ueritatis in generationibus aeternis et ex ipso semen sanctum ut sit secundum h*un*c qui creauit uniuersa.
 16:27 ‎ Et benedixit et gauisus est et
-
-</ab>
+</p>
 
 </body>
 </text>
