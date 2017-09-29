@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Teresa Valdez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,11 +27,13 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
-<pb type="1861" n="26" xml:id="Ceriani_1861_026"/>
-
-	<!-- p19c=120 p5c=125 -->
+<p>
+	<pb type="1861" n="26" xml:id="Ceriani_1861_026"/>
+	<milestone type="5c" unit="page" n="125"/>
+	<milestone type="19c" unit="page" n="120" xml:id="palimpsest_page_120"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="22"/>
+	<milestone unit="vs" n="11"/>
 
 -ma te ad me et osculare me.
 22:11 ‎ Et adproximans iacob osculatus est eum. Et dixit: benedictus filius meus iacob et omnes filii eius deo excelso in omnibus. Deus det tibi semen ueritatis et de filiis tuis sanctificabis in medio totius terrae. Seruient tibi gentes et adorabunt in conspectu nominis tui omnes populi.
@@ -50,9 +53,7 @@ ut sis illi in plebem hereditatis in omnia saecula et ipse erit tibi et semini t
 daemonia adorant et super tumulos manducant et uniuersa opera ipsorum uana et nullius momenti.
 22:18 ‎ Et non est illis cor ut recogitent et oculi eorum no*n* uidentes qualia sunt opera ipsorum et quomodo ipsi errent dicentes ligno: tu es deus meus et lapidi: tu es dominus meus et tu liberator et non est illis cor.
 22:19 ‎ Et tu nate iacob deus excelsus adiubabit te et deus adae confortabit te et separabit te ab omnibus abominationibus ipsorum et ab om - - -.
-
-</ab>
-
+</p>
 </body>
 </text>
 </TEI>
