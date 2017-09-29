@@ -68,7 +68,7 @@
 		<lb/>de filiis alienis cir
 		<lb type="inWord"/>cumcidit omneis
 	</p>
-	<p>Haec lex in omnibus
+	<p part="I">Haec lex in omnibus
 		<lb/>generationibus sae
 		<lb type="inWord"/>culi et non est prae
 		<lb type="inWord"/>terire diem unum
@@ -83,10 +83,11 @@
 		<lb/>eius usque in diem oc
 		<lb type="inWord"/>tauam non est de
 		<lb/>testamento quod
-		<milestone type="19c" unit="page" n="51" xml:id="modern_page_051"/>
-		<milestone type="5c" unit="page" n="94"/>
-		<milestone unit="column" n="a"/>
-		<lb/>testatus est deus ad
+	</p>
+	<milestone type="19c" unit="page" n="51" xml:id="modern_page_051"/>
+	<milestone type="5c" unit="page" n="94"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">testatus est deus ad
 		<lb/>abraham quia de fi
 		<lb type="inWord"/>liis exterminatio
 		<lb type="inWord"/>nes [nis] est et amplius
