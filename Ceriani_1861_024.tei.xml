@@ -25,15 +25,28 @@
 	</encodingDesc>
 </teiHeader>
 <text xml:lang="la">
-<body>
-
-<ab>
-<pb type="1861" n="24" xml:id="Ceriani_1861_024"/>
-
-	<!-- p19c=105 p5c=117 -->
-
--timanarum septimi iubelei huius uocabit habraham isac filium suum et demandauit illi dicens: ego senui et nescio diem mortis meae et repletus sum diebus meis.
-21:2 ‎ Et ecce ego filii quinque et septuaginta et centum annorum sum in diebus uitae meae deum nostrum in memoria habens semper et exquirens eum in omni uirtute mea ut facerem omnem uolumtatem eius et ut dirigerem in omnibus uiis eius.
+<body>    
+   <pb type="1861" n="24" xml:id="Ceriani_1861_024"/>
+   <cb type="Ceriani"  n="1"/>
+   <milestone type="5c" unit="page" n= "117"/>
+   <milestone type="19c" unit="page" n="105" xml:id="palimpsest_pge_105"/>
+   <milestone unit="column"  n="a"/> 
+   <milestone unit= "ch" n="21"/>
+   <p part="F">
+           <milestone unit="vs" n="1"/>
+           timanarum sept
+           <lb type= "inword"/>imi iubelei huius uo
+           <lb type= "inword"/> cabit habraham isac 
+           <lb/>filium suum et deman
+           <lb type= "inword"/> dauit illi dicens <add resp="#ocp">:</add> ego
+           <lb/>senui et nescio diem
+           <lb/> mortis meae et repletus sum diebus 
+           <lb/>meis<add resp="#ocp">.</add>
+           <milestone unit="vs" n="2"/>
+‎           <lb/>Et ecce ego fi
+           <lb type= "inword"/>lii quinque et sep
+           <lb/>tuaginta et centum 
+annorum sum in diebus uitae meae deum nostrum in memoria habens semper et exquirens eum in omni uirtute mea ut facerem omnem uolumtatem eius et ut dirigerem in omnibus uiis eius.
 21:3 ‎ Et ideo simulacra odiuit anima mea et seruientes eis eram
 
 spernens. Et dedi cor meum et spiritum ut custodiam et faciam uolumtatem eius qui me creauit.
@@ -51,7 +64,7 @@ fusiles.
 21:9 ‎ Et sic offers uniuersa in odorem suauitatis acceptabile in conspectu domini cum sacrificiis ipsorum et cum uino eius in odorem suauitatis Panem fructuum domino.
 21:10 ‎ Et carnem manducabitis in illa die et in crastino et non occidet - - -.
 
-</ab>
+</p>
 
 </body>
 </text>
