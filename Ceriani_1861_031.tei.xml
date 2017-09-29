@@ -8,7 +8,7 @@
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
 		</titleStmt>
-		<publicationStmt>
+               <publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
 		</publicationStmt>
 		<sourceDesc>
@@ -26,13 +26,15 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
 <pb type="1861" n="31" xml:id="Ceriani_1861_031"/>
+
+
+
+
 
 	<!-- p19c=80 p5c=149 -->
 
-26:8 ‎ - - - consilii eius et indignabitur (et indignabitur) aduersus me et inducam ego super me maledictum et non benedictionem.
+<p>26:8 ‎ - - - consilii eius et indignabitur (et indignabitur) aduersus me et inducam ego super me maledictum et non benedictionem.
 26:9 ‎ Et dixit illi rebecca mater sua: in me maledictum tuum nate tantum obaudi uocem meam.
 26:10 ‎ Et obaudiuit iacob uocem matris suae rebeccae et abiit et accepit duos hedos caprarum teneros et bonos et adtulit eos matri suae et fecit illos mater eius cibos sicut desiderabat.
 26:11 ‎ Et accepit rebecca uestes esau filii sui senior*i*s optimas quae
@@ -57,7 +59,7 @@ filius meus esau. Et dixit iacob: ego filius tuus sum. Et dixit isac: offers mih
 26:22 ‎ Et odoratus est odorem uestimentorum eius et benedixit eum et dixit: Ecce odor filii mei sicut odor agri pleni quem benedixit deus.
 26:23 ‎ Et det tibi - - -.
 
-</ab>
+</p>
 
 </body>
 </text>
