@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Marissa Gonzalez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -25,14 +26,21 @@
 	</encodingDesc>
 </teiHeader>
 <text xml:lang="la">
-<body>
+	<body>
 
-<ab>
-<pb type="1861" n="25" xml:id="Ceriani_1861_025"/>
+<p>
+	<pb type="1861" n="25" xml:id="Ceriani_1861_025"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="123"/>
+	<milestone type="19c" unit="page" n="103" xml:id="palimpsest_page_123"/>
+	<milestone unit="column" n="a"/>
+	
 
 	<!-- p19c=103 p5c=123 -->
 
-22:2 ‎ - - - erant multae diuitiae isac in bersabee et erat isac abiens et considerans adhuc quae possidebat et reuersus est ad patrem suum.
+22:2 ‎ - - - erant multae diuiti
+	<lb/>ae isac in bersabee 
+        <lb/>et erat isac abiens et considerans adhuc quae possidebat et reuersus est ad patrem suum.
 22:3 ‎ In tempore hoc aduenit ismael uidere patrem suum et conuenerunt utrique simul. Et immolauit isac hostiam fructuum et optulit super altarium patris sui quod fecit in cebron.
 22:4 ‎ Et fecit sacrificium salutare et fecit conuiuium laetitiae in conspectu ismael fratris sui. Et fecit rebecca collyridam nouam de frumento nouo
 
@@ -51,7 +59,7 @@ super semen eius ut sint tibi in populum acceptabilem et hereditas ex omnibus fi
 22:10 ‎ Et uocauit abraham filium suum et iacob et dixit: nate iacob benedicat te deus omnium et confortabit te facere ueritatem et uoluntatem suam in conspectu eius et eligere in te et in semine tuo esse illi populum et in uolumtatem eius in omnibus diebus. Et tu nate iacob adproxi-
 
 
-</ab>
+</p>
 
 </body>
 </text>
