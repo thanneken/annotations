@@ -72,7 +72,7 @@
 		<lb/>generationibus sae
 		<lb type="inWord"/>culi et non est prae
 		<lb type="inWord"/>terire diem unum
-		<lb/>ex diebus quibus [quia] prae
+		<lb/>ex diebus <choice><sic>quibus</sic><corr resp="#ocp">quia</corr></choice> prae
 		<lb type="inWord"/>ceptum est aeter
 		<lb/>num mandatum et
 		<lb/>scriptum est in ta
@@ -90,14 +90,14 @@
 	<p part="F">testatus est deus ad
 		<lb/>abraham quia de fi
 		<lb type="inWord"/>liis exterminatio
-		<lb type="inWord"/>nes [nis] est et amplius
+		<lb type="inWord"/>n<choice><sic>e</sic><corr resp="#ocp">i</corr></choice>s est et amplius
 		<lb/>non est super eum
 		<lb/>signum ut sit deo sed
 		<lb/>exterminii et per
 		<lb type="inWord"/>ditionis a terra quo
 		<lb type="inWord"/>niam testamentum
 		<lb/>domini dei nostri dissipauit
-		<lb/>quoniam omnis [omnes] an
+		<lb/>quoniam omn<choice><sic>i</sic><corr resp="#ocp">e</corr></choice>s an
 		<lb type="inWord"/>geli uultuus et om
 		<lb type="inWord"/>nes archangeli be
 		<lb type="inWord"/>nedictionis a diebus
