@@ -27,17 +27,42 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="20" xml:id="Ceriani_1861_020"/>
+<cb type="Ceriani" n="1"/>
+<milestone type="5c" unit="page" n="107"/>
+<milestone type="19c" unit="page" n="63" xml:id="palimpasest_page_063"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="18"/>
 
 	<!-- p19c=63 p5c=107 -->
+<p>
 
-18:10 ‎ Et conturbatus est et dixit: ecce ego.
-18:11 ‎ Et dixi ad eum: noli inicere manum tuam super puerum et non facias ei quidquam quo nunc manifestaui quia times deum tuum et non pepercisti filio tuo primogenito a me.
-18:12 ‎ Et confusus est princeps mastima. Et eleuans abraham oculos suos uidit et ecce aries unus tenebatur cornibus suis. Et abiit abraham et accepit arietem et obtulit eum pro isac filio suo.
-18:13 ‎ Et uocauit abraham nomen loci illius dominus uidit ut dicatur in monte
+Et conturbatus est <lb/> 
+et dixit: ecce ego <lb/>
+<milestone unit="vs" n="11"/>‎ Et dixi ad eum: noli <lb/> 
+inicere manum tuam <lb/> 
+super puerum et non <lb/> 
+facias ei quidquam <lb/> 
+quo nunc manifes <lb type="inWord"/>
+taui quia times deum <lb/> 
+tuum et non peper <lb/> 
+cisti filio tuo pri <lb/> 
+mogenito a me <lb/>
+<milestone unit="vs" n="12"/>‎ Et confusus est <lb/> 
+princeps mastima <lb/> 
+Et eleuans abraham <lb/> 
+oculos suos uidit et <lb/> 
+ecce aries unus te <lb/> 
+nebatur cornibus suis <lb/> 
+Et abiit abraham et <lb/> 
+accepit arietem et <lb/> 
+obtulit eum pro isac <lb/> filio suo.
+18:13 ‎ Et uocauit <lb/> abraham nomen lo <lb type="inWord"/> 
+ci illius dominus uidit ut <lb/>
+dicatur in monte <lb/>
 
-dominus uisus est: hic est mons sion.
+<milestone unit="column" n="b"/> dominus uisus est: hic <lb/>
+est mons sion <lb/>
 18:14 ‎ Et uocauit abraham nomine suo secundo de caelo quia +fuimus+ ut loquamur illi nomine domini.
 18:15 ‎ Et dixit per me ipsum iuraui dicit dominus propter quod fecisti sermonem istum et non pepercisti filio tuo unigenito propter me quem dilexisti quoniam benedicens benedicam te et multiplicans multiplicabo semen tuum stellas caeli et sicut harena quae est circa litora maris. Et hereditauit semen tuum ciuitates
 
@@ -52,10 +77,7 @@ secundum septem dies quibus abiit et reuersus est.
 18:19 ‎ Et erat decretum et scriptum in tabulis caeli super istrahel et super semen eius ut faciant diem festum septem diebus in laetitia gaudentes.
 19:1 ‎ Et in anno septimanarum primi secundo et quadragesimo iubeleo conuertit abraham et inabitauit contra faciem chebron haec est cariatharbee duo septimanarum annorum.
 19:2 ‎ Et in anno septimanarum huius tertii iubelei huius conpleti
-
-
-</ab>
-
+</p>
 </body>
 </text>
 </TEI>
