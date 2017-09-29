@@ -27,31 +27,45 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="29" xml:id="Ceriani_1861_029"/>
+<cb type="Ceriani" n="1"/>
+<milestone type="5c" unit="page" n="139"/>
+<milestone type="19c" unit="page" n="118" xml:id="palimpsest_page_118"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="24"/>
+<p part="F">
+        <milestone unit="vs" n="13"/>
+        Etinhabitauit illic
+        <lb/>annis duobus.
 
 	<!-- p19c=118 p5c=139 -->
 
-24:13 ‎ - - - annorum. Et mandabit abimelech de illo dicens: omnis homo quicumque molestauerit eum aut aliquid eius morte morietur.
-24:14 ‎ Et creuit isac in terra filistin et facta est illi substantia magna et boues et oues cameli et asini et ministerium magnum.
-24:15 ‎ Et seminauit in terra filistin et collegit centuplum et magnus factus est isac ualde et zelauerunt eum filistin.
-24:16 ‎ Et omnes puteos quos foderunt pueri abraham in uita abraham ob*t*urauerunt eos
+24:13  - - - annorum. Et man
+<lb/>dabit abimelech
+<lb/>de illo dicens: om
+<lb/>nis homo quicumque
+<lb/>molestauerit eum
+<lb/>aut aliquid eius mor
+<lb/>te morietur.
+24:14  Et creuit isac in terra filistin et facta est illi substantia magna et boues et oues cameli et asini et ministerium magnum.
+24:15  Et seminauit in terra filistin et collegit centuplum et magnus factus est isac ualde et zelauerunt eum filistin.
+24:16  Et omnes puteos quos foderunt pueri abraham in uita abraham ob*t*urauerunt eos
 
 filistin post mortem abraham et inpleuerunt eos terra.
-24:17 ‎ Et dixit abimelech ad isac: discede a nobis quoniam magnus factus es super nos ualde. Et abiit isac anni primi septimanae septimi inde cum suis.
-24:18 ‎ Et conuertentes inde foderunt puteos aquarum quos foderunt pueri patris sui abraham et inpleuerunt illos filistin post mortem abraham patris eius et uocauit eos nomina secundum nomina quae uocauerat eos pater ipsius.
+24:17  Et dixit abimelech ad isac: discede a nobis quoniam magnus factus es super nos ualde. Et abiit isac anni primi septimanae septimi inde cum suis.
+24:18  Et conuertentes inde foderunt puteos aquarum quos foderunt pueri patris sui abraham et inpleuerunt illos filistin post mortem abraham patris eius et uocauit eos nomina secundum nomina quae uocauerat eos pater ipsius.
 
 	<!-- p19c=117 p5c=140 -->
 
-24:19 ‎ Et foderunt pueri isac puteos in torrente et inuenerunt in aquam uiuam et litigauerunt pastores gerarum cum pastoribus isac dicentes: nostra est aqua. Et uocauit isac nomen putei difficcultatem propter quod difficiles fuerunt nobis cum.
-24:20 ‎ Et foderunt puteum alterum et litigauerunt etiam et pro ipso et uocauit nomen eius inimicitias. Et foderunt puteum tertium et non litigauerunt pro eo et uocauit nomen eius capacitas. Et dixit isac: quoniam
+24:19  Et foderunt pueri isac puteos in torrente et inuenerunt in aquam uiuam et litigauerunt pastores gerarum cum pastoribus isac dicentes: nostra est aqua. Et uocauit isac nomen putei difficcultatem propter quod difficiles fuerunt nobis cum.
+24:20  Et foderunt puteum alterum et litigauerunt etiam et pro ipso et uocauit nomen eius inimicitias. Et foderunt puteum tertium et non litigauerunt pro eo et uocauit nomen eius capacitas. Et dixit isac: quoniam
 
 nunc amplificauit nos dominus deus et multiplicauit nos super terram.
-24:21 ‎ Et - - - et - - - in anno primo septimanarum primi.
-24:22 ‎ Uisus est dominus ad illum in nocte ipsa in prima die mensis primi et dixit ei: ego sum deus abraham patris tui. Noli timere quoniam te cum sum ego et benedicam te et multiplicabo semen tuum sicut harenam terrae propter abraham puerum meum.
-24:23 ‎ Et aedificauit ........................- - -
+24:21  Et - - - et - - - in anno primo septimanarum primi.
+24:22  Uisus est dominus ad illum in nocte ipsa in prima die mensis primi et dixit ei: ego sum deus abraham patris tui. Noli timere quoniam te cum sum ego et benedicam te et multiplicabo semen tuum sicut harenam terrae propter abraham puerum meum.
+24:23  Et aedificauit ........................- - -
 
-</ab>
+</p>
 
 </body>
 </text>
