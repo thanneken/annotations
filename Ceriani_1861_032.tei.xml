@@ -27,14 +27,33 @@
 <text xml:lang="la">
 <body>
 
-<ab>
+
 <pb type="1861" n="32" xml:id="Ceriani_1861_032"/>
+     <cb type="Ceriani" n="1"/>
+     <milestone type="5c" unit="page" n="155"/>
+     <milestone type="19c" unit="page" n="66" xml:id="palimpsest_page_066"/>
+     <milestone unit="column" n="a"/>
+     <milestone unit="ch" n="27"/>
+     <milestone unit="vs" n="11"/>
+     <p part="F">
 
-	<!-- p19c=66 p5c=155 -->
+27:11 et semini tuo post
+     <lb/>te ut hereditate pos
+     <lb type="inWord"/>sideas terram pere
+     <lb type="inWord"/>grinationis tuae
+     <lb/>et omnem terram 
+     <lb/>quam dedit deus abra
+     <lb type="inWord"/>hae. Uade nate in pa
+     <lb type="inWord"/>ce.
+<!--27:12--><milestone unit="vs" n="12"/>Et emisit isac 
+     <lb/>iacob et abiit in me
+     <lb type="inWord"/>sopotamiam ad la
+     <lb type="inWord"/>ban filium bathuel 
+     <lb/>syri fratrem rebec
+     <lb type="inWord"/>cae matris iacob.
+     </p>
 
-27:11 ‎ - - - et semini tuo post te ut hereditate possideas terram peregrinationis tuae et omnem terram quam dedit deus abrahae. Uade nate in pace.
-27:12 ‎ Et emisit isac iacob et abiit in mesopotamiam ad laban filium bathuel syri fratrem rebeccae matris iacob.
-27:13 ‎ Et factum est quando abiit in mesopotamiam contristatus est spiritus rebecce post iacob filium suum et fleuit.
+<p>27:13 ‎ Et factum est quando abiit in mesopotamiam contristatus est spiritus rebecce post iacob filium suum et fleuit.
 27:14 ‎ Et dixit isac ad rebeccam: soror noli flere iacob filium meum quoniam in pace ibit et in pace rediet.
 
 27:15 ‎ Et deus excelsus custodiet eum ab omni malo et erit cum ipso et non derelinquet eum omnibus diebus.
@@ -54,7 +73,7 @@ erat super terram et caput eius perueniebat in caelum. Et ecce angeli dei ascend
 27:23 ‎ Et erit semen tuum sicut harena terrae et abundabit super mare et orientem et septentrionem et austrum et benedicentur in te omnes tribus terrae et in semine tuo.
 27:24 ‎ Et ecce - - -.
 
-</ab>
+</p>
 
 </body>
 </text>
