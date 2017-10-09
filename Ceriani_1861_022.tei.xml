@@ -27,33 +27,122 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="22" xml:id="Ceriani_1861_022"/>
+<head>Fragmenta Parvae Genesis</head>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="111"/>1	<milestone type="19c" unit="page" n="58" xml:id="palimpsest_page_058"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="19"/>
+	<p part="F">
 
-	<!-- p19c=58 p5c=111 -->
+-narum anni ipsius
+<lb/>secundi peperit re
+<lb type="inWord"/>becca isac duos fi
+<lb type="inWord"/>lios esau et iacob<add resp ="#ocp">.</add>
+<lb/>Et erat iacob lenis
+<lb/>et rectus et esau<lb/> erat durus et uir
+<lb/>rusticanus et pilo
+<lb type="inWord"/>sus et iacob habitans
+<lb/>in tabernaculis<add resp ="#ocp">.</add><milestone unit="vs" n="14"/> <choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t <!-- the sic includes the original, while the corr includes the correction -->
+<lb/>creuerunt et iube
+<lb type="inWord"/>nes facti sunt ambo<add resp ="#ocp">.</add>
+<lb/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t didicit iacob lit
+<lb type="inWord"/>teras et esau non
+<lb/> didicit quoniam ho
+<lb type="inWord"/>mo erat agrestis
+<lb/>et benator sed didicit bellum et uni
+<lb type="inWord"/>uersa opera eius 
+<lb/>erant dura<add resp ="#ocp">.</add><milestone unit="vs" n="15"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t dili
+<lb type="inWord"/>gebat abraham ia
+<lb type="inWord"/>cobum et isac dili
+<lb type="inWord"/>gebat esau<add resp ="#ocp">.</add>
+</p>
 
--narum anni ipsius secundi peperit rebecca isac duos filios esau et iacob. Et erat iacob lenis et rectus et esau erat durus et uir rusticanus et pilosus et iacob habitans in tabernaculis.
-19:14 ‎ Et creuerunt et iubenes facti sunt ambo. Et didicit iacob litteras et esau non didicit quoniam homo erat agrestis et benator sed didicit bellum et uniuersa opera eius erant dura.
-19:15 ‎ Et diligebat abraham iacobum et isac diligebat esau.
-19:16 ‎ Et uidebat abraham
+<p><lb/><milestone unit="vs" n="16"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t uidebat abraham
+<lb/><milestone unit="column" n="b"/>
+opera esau et scie
+<lb type="inWord"/>bat quoniam in ia
+<lb type="inWord"/>cob uocabitur illi 
+<lb/>semen et nomen 
+<lb/>et uocabit re
+<lb type="inWord"/>beccam et mandauit
+<lb/> illi pro iacob quoni
+<lb type="inWord"/>am ipsa diligebat
+<lb/> iacob plus quam esau<add resp ="#ocp">.</add>
+</p>
 
-opera esau et sciebat quoniam in iacob uocabitur illi semen et nomen et uocabit rebeccam et mandauit illi pro iacob quoniam ipsa diligebat iacob plus quam esau.
-19:17 ‎ Et dixit illi: filia custodi in nomine filii mei iacob quoniam hic mihi erit n(i)tatio super terram et in benedictione super filios hominum et uniuersi seminis mei gloria.
-19:18 ‎ Quia scio quod hunc elegit deus sibi in populum sanctum ex omnibus populis qui sunt super faciem totius terrae.
+<lb/><p><milestone unit="vs" n="17"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t dixit illi<add resp ="#ocp">:</add>
+<lb/> filia cus
+<lb type="inWord"/>todi in nomine filii mei iacob quoni
+<lb type="inWord"/>am hic mihi erit<choice><sic>...</sic><corr resp ="#ocp"></corr></choice>  <!-- The original xml omits the ampersand present in Ceriani's 1861 translation -->
+<lb type="inWord"/>n<choice><sic>i</sic><corr resp ="#ocp">(i)</corr></choice>tatio super ter <!-- the original xml used "(i)" yet the letter is "i" is present in Ceriani's 1861 translation -->
+<lb type="inWord"/>ram et in benedic
+<lb type="inWord"/>tione super filios
+<lb/>hominum et uniuersi seminis mei
+<lb/>gloria<add resp ="#ocp">.</add><milestone unit="vs" n="18"/><choice><sic>q</sic><corr resp ="#ocp"> Q</corr></choice>uia scio quod
+<lb/>hunc elegit deus sibi
+<lb/>in populum sanctum ex
+<lb/>omnibus populis qui
+<lb/>sunt super faciem totius terrae<add resp ="#ocp">.</add>
 
+	<milestone type="5c" unit="page" n="112"/>
+	<milestone type="19c" unit="page" n="57" xml:id="palimpsest_page_057"/>
+	<milestone unit="column" n="a"/>
 	<!-- p19c=57 p5c=112 -->
 
-19:19 ‎ Et ecce isac diligit esau super iacob et ego uideo te diligentem in ueritate iacob.
-19:20 ‎ Adice adhuc amplius ut parcas illi et sint oculi tui super eum in dilectione quoniam ipse erit nobis in benedictione super terram et ex hoc et usque in omni generatione terrae.
-19:21 ‎ Conualescant ergo manus tuae et gaudeat cor tuum in filio tuo iacob quoniam ipsum dilexi super omnes filios meos. Propter quod in aeternum benedicetur et semen eius et erit conplens omnem terram.
+<lb/><milestone unit="vs" n="19"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t ecce isac diligit 
+<lb/>esau super iacob et 
+<lb/>ego uideo te diligen
+<lb type="inWord"/>tem in ueritate iacob.<add resp ="#ocp">.</add></p>
 
-19:22 ‎ Si poterit ergo homo numerare harenam terrae et numerabile erit semen eius.
-19:23 ‎ Et uniuersae benedictiones quas benedixit me deus et semen meum iacob et semini eius erunt omnibus diebus.
-19:24 ‎ Et in semine eius benedicetur nomen meum et nomen patrum meorum sem noe enoch malalee henos et adam.
-19:25 ‎ Et ipsi erunt fundamenta ponentes caeli et confirmantes terram ut agnoscantur uniuersa luminaria firmamenti.
-19:26 ‎ Et uocauit abraham - -.
+	
 
-</ab>
+<p>
+<lb/><milestone unit="vs" n="20"/><choice><sic>a</sic><corr resp ="#ocp">A</corr></choice>dice adhuc amplius
+<lb/>ut parcas illi et sint
+<lb/>oculi tui super eum 
+<lb/>in dilectione quoniam 
+<lb/>ipse erit nobis in be
+<lb type="inWord"/>nedictione super 
+<lb/>terram et ex hoc 
+<lb/>et usque in omni gene
+<lb type="inWord"/>ratione terrae<add resp ="#ocp">.</add><milestone unit="vs" n="21"/>‎<choice><sic> c</sic><corr resp ="#ocp"> C</corr></choice>on
+<lb type="inWord"/>ualescant ergo ma
+<lb type="inWord"/>nus tuae et gaude
+<lb type="inWord"/>at cor tuum in filio
+<lb/>tuo iacob quoniam 
+<lb/>ipsum dilexi super
+<lb/>omnes filios meos<add resp ="#ocp">.</add>
+<lb/><choice><sic>p</sic><corr resp ="#ocp">P</corr></choice>ropter quod in ae
+<lb type="inWord"/>ternum benedice
+<lb type="inWord"/>tur et semen eius 
+<lb/>et erit conplens 
+<lb/>omnem terram<add resp ="#ocp">.</add>
+
+<lb/><milestone unit="column" n="b"/><milestone unit="vs" n="22"/><choice><sic>s</sic><corr resp ="#ocp">S</corr></choice>i poterit ergo ho
+<lb type="inWord"/>mo numerare ha
+<lb type="inWord"/>renam terrae et 
+<lb/>numerabile erit 
+<lb/>semen eius<add resp ="#ocp">.</add><milestone unit="vs" n="23"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t uni
+<lb type="inWord"/>uersae benedictio 
+<lb type="inWord"/>nes quas benedixit 
+<lb/>me deus et semen me
+<lb type="inWord"/>um iacob et semini 
+<lb/>eius erunt omnibus
+<lb/>diebus<add resp ="#ocp">.</add><milestone unit="vs" n="24"/>‎<choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t in semine
+<lb/>eius benedicetur 
+<lb/>nomen meum et no
+<lb type="inWord"/>men patrum meo
+<lb type="inWord"/>rum sem noe enoch 
+<lb/>malalee henos et 
+<lb/>adam<add resp ="#ocp">.</add><milestone unit="vs" n="25"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t ipsi erunt 
+<lb/>fundamenta ponen
+<lb type="inWord"/>tes caeli et confir
+<lb type="inWord"/>mantes terram
+<lb/>ut agnoscantur 
+<lb/>uniuersa lumina
+<lb type="inWord"/>ria firmamenti<add resp ="#ocp">.</add><milestone unit="vs" n="26"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t uocauit abraham<add resp ="#ocp"> - - .</add>
+</p>
 
 </body>
 </text>
