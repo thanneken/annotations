@@ -7,7 +7,10 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
-<respStmt> <resp>TEI Encoding</resp> <name>Mark Zeitzmann</name> </respStmt>
+			<respStmt>
+				<resp>TEI Encoding</resp>
+				<name>Mark Zeitzmann</name>
+			</respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -27,52 +30,122 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
 <pb type="1861" n="19" xml:id="Ceriani_1861_019"/>
-
-	<!-- p19c=49 p5c=101 -->
 <milestone type="5c" unit="page" n="101"/>
 <milestone type="19c" unit="page" n="49" xml:id="palimpsest_page_049"/>
 <milestone unit="column" n="a"/>
-<milestone unit="ch" n="16"/>
-<milestone unit="vs" n="27"/>
-uocauit nomen di
-<lb type="inWord"/>ei festi huius dies
-<lb/>festus dies iucunditatis acceptabilis deo excelso.
-<milestone unit="vs" n="28"/>
-Et benediximus eum in saeculo et semen eius cum ipso in omnes generationes totius terrae quia fecit diem festum hunc in tempore suo secundum testimonium tabularum caeli.
-<milestone unit="vs" n="29"/>
-Propter quod decretum est in tabulis caeli super istrahel ut sit dies festus tabernaculorum septem dies toti in laetitia in mense septimo acceptabiles in conspectu domini
-
-legitimum sempiternum in generationibus ipsorum per singulos annos.
-
-<milestone unit="vs" n="30"/>
-Et non erit finis temporum quoniam in sempiternum est praeceptum istrahel facere eum et sedere in tabernaculis et ut ponant coronas super capita sua accipere ramos de[nos et *s*alicem de torrentem.]
-<milestone unit="vs" n="31"/>
-Et accepit abraham de decore palmarum et fructus ligni speciosi et omnibus diebus erat circumiens altarium meum in ramis septies mane laudans et confitens deo suo secundum
-
-	<!-- p19c=50 p5c=102 -->
-omnia in laetitia.
+<p part="F">
+	<milestone unit="ch" n="16"/>
+	<milestone unit="vs" n="27"/>
+	uocauit nomen di
+	<lb type="inWord"/>ei festi huius dies
+	<lb/>festus dies iucun
+	<lb type="inWord"/>ditatis acceptabi
+	<lb type="inWord"/>lis deo excelso<add resp="#ocp">.</add>
+	<milestone unit="vs" n="28"/>
+</p>
+<p>Et benediximus eum 
+	<lb/>in saeculo et semen 
+	<lb/>eius cum ipso in om
+	<lb type="inWord"/>nes generationes 
+	<lb/>totius terrae quia 
+	<lb/>fecit diem festum 
+	<lb/>hunc in tempore suo 
+	<lb/>secundum testi
+	<lb type="inWord"/>monium tabularum 
+	<lb type="inWord"/>caeli<add resp="#ocp">.</add><milestone unit="vs" n="29"/> Propter quod <!-- not marking ocp capitalization --> 
+	<lb/>decretum est in tabulis 
+	<lb/>caeli super istrahel ut sit dies 
+	<lb/>festus tabernacu
+	<lb type="inWord"/>lorum septem dies 
+	<lb/>t<unclear>ot</unclear>i in laetitia in 
+	<lb/>mense septimo 
+	<lb/>acceptabiles in 
+	<lb/>conspectu domini
+	<lb/><milestone unit="column" n="a"/>legitimum sempi
+	<lb type="inWord"/>ternum in genera
+	<lb type="inWord"/>tionibus ipsorum per singulos annos<add resp="#ocp">.</add>
+	<lb/><milestone unit="vs" n="30"/>Et non erit finis tem
+	<lb type="inWord"/>porum quoniam in 
+	<lb/>sempiternum est 
+	<lb/>praeceptum istrah
+	<lb type="inWord"/>el facere eum et se
+	<lb type="inWord"/>dere in tabernacu
+	<lb type="inWord"/>lis et ut ponant co
+	<lb type="inWord"/>ronas super capi
+	<lb type="inWord"/>ta sua accipere ra
+	<lb type="inWord"/>mos denos et <choice><sic>calicem</sic><corr>salicem</corr></choice> de torrentem<add resp="#ocp">.</add>
+</p>
+<p><milestone unit="vs" n="31"/>Et accepit abraham 
+	<lb/>de decore palmarum 
+	<lb/>et fructus ligni 
+	<lb/>speciosi et omnibus 
+	<lb/>diebus erat circum
+	<lb type="inWord"/>iens altarium meum 
+	<lb/>in ramis septies 
+	<lb/>mane laudans et con
+	<lb type="inWord"/>fitens deo suo secun
+	<lb type="inWord"/>dum
+	<lb/>
+		<milestone type="5c" unit="page" n="102"/>
+		<milestone type="19c" unit="page" n="50" xml:id="palimpsest_page_050"/>
+		<milestone unit="column" n="a"/>
+		omnia in laetitia<add resp="#ocp">.</add>
+</p>
 <milestone unit="ch" n="17"/>
-<milestone unit="vs" n="1"/>
-Et in anno primo ebdomadarum quinti ablactatus est isac iubeleo hoc et fecit abraham conuiuium magnum-(et) in mense tertio in die qua ablactatus est filius eius isac.
-<milestone unit="vs" n="2"/>
-Et ismael filius agar ancillae aegyptiae loco erat in conspectu abraham patris sui. Et gauisus est abraham et benedixit deum quia uidit sibi filios et non est defunctus sine filiis.
-<milestone unit="vs" n="3"/>
-Et memor fuit sermones quos locutus est ei in die qua segregauit se loth ab ipso. Et ga-
-
--uisus est quia dedit deus illi semen super terram ut hereditet eam et benedixit toto ore suo qui creauit uniuersa.
-<milestone unit="vs" n="4"/>
-Et uidit sarra ismael ludentem cum isac et abraham gaudentem gaudio magno et zelauit ismael et dixit ad abraham: eice ancillam istam et filium eius quia non hereditabit filius ancillae huius cum filio meo isac.
-<milestone unit="vs" n="5"/>
-Et pessimus uisus est sermo in oculis abraham propter ancillam et propter filium eius ut eiciat illos ab se.
-<milestone unit="vs" n="6"/>
-Et dixit deus ad abraham: - - -.
-
-
-</ab>
-
+<p><milestone unit="vs" n="1"/>Et in anno primo eb
+	<lb type="inWord"/>domadarum quint<unclear>i</unclear> 
+	<lb/>ablactatus est isac 
+	<lb/>iubeleo hoc et fe
+	<lb type="inWord"/>cit abraham conui
+	<lb type="inWord"/>uium magnum <surplus resp="#ocp">et</surplus> in
+	<lb/>mense tertio in die 
+	<lb/>qua ablactatus est 
+	<lb/>filius eius isac<add resp="#ocp">.</add> <milestone unit="vs" n="2"/>Et is
+	<lb type="inWord"/>mael filius agar an
+	<lb type="inWord"/>cillae aegyptiae lo
+	<lb type="inWord"/>co erat in conspec
+	<lb type="inWord"/>tu abraham patris 
+	<lb/>sui. Et gauisus est 
+	<lb/>abraham et bene
+	<lb type="inWord"/>dixit deum quia uidit 
+	<lb/>sibi filios et non est 
+	<lb/>defunctus sine fi
+	<lb type="inWord"/>liis<add resp="#ocp">.</add> <milestone unit="vs" n="3"/>Et memor fuit 
+	<lb/>sermones quos lo
+	<lb type="inWord"/>cutus est ei in die 
+	<lb/>qua segregauit se 
+	<lb/>loth ab ipso<add resp="#ocp">.</add> Et ga
+	<lb type="inWord"/><milestone unit="column" n="b"/>uisus est quia dedit 
+	<lb/>deus illi semen super 
+	<lb/>terram ut heredi
+	<lb type="inWord"/>tet eam et benedi
+	<lb type="inWord"/>xit toto ore suo qui 
+	<lb/>creauit uniuersa.
+</p>
+<p><milestone unit="vs" n="4"/>Et uidit sarra isma
+	<lb type="inWord"/>el ludentem cum 
+	<lb/>isac et abraham gau
+	<lb type="inWord"/>dentem gaudio mag
+	<lb type="inWord"/>no et zelauit isma
+	<lb type="inWord"/>el et dixit ad abraham<add resp="#ocp">:</add> 
+	<lb/>eice ancillam istam 
+	<lb/>et filium eius quia 
+	<lb/>non hereditabit fi
+	<lb type="inWord"/>lius ancillae huius 
+	<lb/>cum filio meo isac.
+</p>
+<p><milestone unit="vs" n="5"/>Et pessimus uisus 
+	<lb/>est sermo in oculis 
+	<lb/>abraham propter 
+	<lb/>ancillam et prop
+	<lb type="inWord"/>ter filium eius ut 
+	<lb/>eiciat illos ab se<add resp="#ocp">.</add>
+</p>
+<p part="I"><milestone unit="vs" n="6"/>Et dixit deus ad ab
+	<lb type="inWord"/>raham
+	<gap reason="lost" quantity="192" unit="line"/> <!-- 4 pages, 2 columns per page, 24 lines per column -->
+</p>
 </body>
 </text>
 </TEI>
