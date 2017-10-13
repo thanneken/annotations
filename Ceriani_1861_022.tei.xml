@@ -28,21 +28,20 @@
 <body>
 
 <pb type="1861" n="22" xml:id="Ceriani_1861_022"/>
-<head>Fragmenta Parvae Genesis</head>
 	<cb type="Ceriani" n="1"/>
-	<milestone type="5c" unit="page" n="111"/>1	<milestone type="19c" unit="page" n="58" xml:id="palimpsest_page_058"/>
+	<milestone type="5c" unit="page" n="111"/>	<milestone type="19c" unit="page" n="58" xml:id="palimpsest_page_058"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="19"/>
 	<p part="F">
 
 -narum anni ipsius
 <lb/>secundi peperit re
-<lb type="inWord"/>becca isac duos fi
-<lb type="inWord"/>lios esau et iacob<add resp ="#ocp">.</add>
-<lb/>Et erat iacob lenis
-<lb/>et rectus et esau<lb/> erat durus et uir
+<lb type="inWord"/>becca. isac. duos fi
+<lb type="inWord"/>lios. esau. et iacob.
+<lb/>et erat iacob. lenis
+<lb/>et rectus. et esau<lb/> erat durus et uir
 <lb/>rusticanus et pilo
-<lb type="inWord"/>sus et iacob habitans
+<lb type="inWord"/>sus et iacob. habitans
 <lb/>in tabernaculis<add resp ="#ocp">.</add><milestone unit="vs" n="14"/> <choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t <!-- the sic includes the original, while the corr includes the correction -->
 <lb/>creuerunt et iube
 <lb type="inWord"/>nes facti sunt ambo<add resp ="#ocp">.</add>
@@ -50,15 +49,16 @@
 <lb type="inWord"/>teras et esau non
 <lb/> didicit quoniam ho
 <lb type="inWord"/>mo erat agrestis
-<lb/>et benator sed didicit bellum et uni
+<lb/>et benator sed di
+<lb type="inWord"/>dicit bellum et uni
 <lb type="inWord"/>uersa opera eius 
-<lb/>erant dura<add resp ="#ocp">.</add><milestone unit="vs" n="15"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t dili
+<lb/>erant dura<add resp ="#ocp">.</add><milestone unit="vs" n="15"/><choice><sic>e</sic><corr resp ="#ocp"> E</corr></choice>t dili
 <lb type="inWord"/>gebat abraham ia
 <lb type="inWord"/>cobum et isac dili
 <lb type="inWord"/>gebat esau<add resp ="#ocp">.</add>
 </p>
 
-<p><lb/><milestone unit="vs" n="16"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t uidebat abraham
+<p><milestone unit="vs" n="16"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t uidebat abraham
 <lb/><milestone unit="column" n="b"/>
 opera esau et scie
 <lb type="inWord"/>bat quoniam in ia
@@ -71,34 +71,35 @@ opera esau et scie
 <lb/> iacob plus quam esau<add resp ="#ocp">.</add>
 </p>
 
-<lb/><p><milestone unit="vs" n="17"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t dixit illi<add resp ="#ocp">:</add>
-<lb/> filia cus
-<lb type="inWord"/>todi in nomine filii mei iacob quoni
-<lb type="inWord"/>am hic mihi erit<choice><sic>...</sic><corr resp ="#ocp"></corr></choice>  <!-- The original xml omits the ampersand present in Ceriani's 1861 translation -->
-<lb type="inWord"/>n<choice><sic>i</sic><corr resp ="#ocp">(i)</corr></choice>tatio super ter <!-- the original xml used "(i)" yet the letter is "i" is present in Ceriani's 1861 translation -->
+<p><milestone unit="vs" n="17"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t dixit illi<add resp ="#ocp">:</add> filia cus
+<lb type="inWord"/>todi in nomine fi
+<lb type="inWord"/>lii mei iacob quoni
+<lb type="inWord"/>am hic mihi erit<gap reason="illegible" quantity="3" unit="character"/>  <!-- The original xml omits the ampersand present in Ceriani's 1861 translation -->
+<lb type="inWord"/><choice><sic>nitatio</sic><corr resp ="#ocp">ntatio</corr></choice> super ter <!-- the original xml used "(i)" yet the letter is "i" is present in Ceriani's 1861 translation -->
 <lb type="inWord"/>ram et in benedic
 <lb type="inWord"/>tione super filios
 <lb/>hominum et uniuersi seminis mei
-<lb/>gloria<add resp ="#ocp">.</add><milestone unit="vs" n="18"/><choice><sic>q</sic><corr resp ="#ocp"> Q</corr></choice>uia scio quod
+<lb/>gloria<add resp ="#ocp">. </add><milestone unit="vs" n="18"/><choice><sic>q</sic><corr resp ="#ocp">Q</corr></choice>uia scio quo<unclear>d</unclear>
 <lb/>hunc elegit deus sibi
 <lb/>in populum sanctum ex
 <lb/>omnibus populis qui
-<lb/>sunt super faciem totius terrae<add resp ="#ocp">.</add>
+<lb/>sunt super faciem 
+<lb/>totius terrae<add resp ="#ocp">.</add>
 
 	<milestone type="5c" unit="page" n="112"/>
 	<milestone type="19c" unit="page" n="57" xml:id="palimpsest_page_057"/>
 	<milestone unit="column" n="a"/>
 	<!-- p19c=57 p5c=112 -->
 
-<lb/><milestone unit="vs" n="19"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t ecce isac diligit 
+<lb/><milestone unit="vs" n="19"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t ecce isac diligit 
 <lb/>esau super iacob et 
 <lb/>ego uideo te diligen
-<lb type="inWord"/>tem in ueritate iacob.<add resp ="#ocp">.</add></p>
+<lb type="inWord"/>tem in ueritate iacob<add resp ="#ocp">.</add></p>
 
 	
 
 <p>
-<lb/><milestone unit="vs" n="20"/><choice><sic>a</sic><corr resp ="#ocp">A</corr></choice>dice adhuc amplius
+<milestone unit="vs" n="20"/>Adice adhuc amplius
 <lb/>ut parcas illi et sint
 <lb/>oculi tui super eum 
 <lb/>in dilectione quoniam 
@@ -106,7 +107,7 @@ opera esau et scie
 <lb type="inWord"/>nedictione super 
 <lb/>terram et ex hoc 
 <lb/>et usque in omni gene
-<lb type="inWord"/>ratione terrae<add resp ="#ocp">.</add><milestone unit="vs" n="21"/>‎<choice><sic> c</sic><corr resp ="#ocp"> C</corr></choice>on
+<lb type="inWord"/>ratione terrae<add resp ="#ocp">.</add><milestone unit="vs" n="21"/>‎ <choice><sic>c</sic><corr resp ="#ocp">C</corr></choice>on
 <lb type="inWord"/>ualescant ergo ma
 <lb type="inWord"/>nus tuae et gaude
 <lb type="inWord"/>at cor tuum in filio
@@ -123,25 +124,26 @@ opera esau et scie
 <lb type="inWord"/>mo numerare ha
 <lb type="inWord"/>renam terrae et 
 <lb/>numerabile erit 
-<lb/>semen eius<add resp ="#ocp">.</add><milestone unit="vs" n="23"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t uni
+<lb/>semen eius<add resp ="#ocp">. </add><milestone unit="vs" n="23"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t uni
 <lb type="inWord"/>uersae benedictio 
 <lb type="inWord"/>nes quas benedixit 
 <lb/>me deus et semen me
 <lb type="inWord"/>um iacob et semini 
 <lb/>eius erunt omnibus
-<lb/>diebus<add resp ="#ocp">.</add><milestone unit="vs" n="24"/>‎<choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t in semine
+<lb/>diebus<add resp ="#ocp">.</add><milestone unit="vs" n="24"/>‎ <choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t in semine
 <lb/>eius benedicetur 
 <lb/>nomen meum et no
 <lb type="inWord"/>men patrum meo
 <lb type="inWord"/>rum sem noe enoch 
 <lb/>malalee henos et 
-<lb/>adam<add resp ="#ocp">.</add><milestone unit="vs" n="25"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t ipsi erunt 
+<lb/>adam<add resp ="#ocp">.</add><milestone unit="vs" n="25"/> <choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t ipsi erunt 
 <lb/>fundamenta ponen
 <lb type="inWord"/>tes caeli et confir
 <lb type="inWord"/>mantes terram
 <lb/>ut agnoscantur 
 <lb/>uniuersa lumina
-<lb type="inWord"/>ria firmamenti<add resp ="#ocp">.</add><milestone unit="vs" n="26"/><choice><sic> e</sic><corr resp ="#ocp"> E</corr></choice>t uocauit abraham<add resp ="#ocp"> - - .</add>
+<lb type="inWord"/>ria firmamenti<add resp ="#ocp">.</add><milestone unit="vs" n="26"/>
+<lb/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t uocauit abraham <gap reason="lost" quantity="2" unit="pages"/>
 </p>
 
 </body>
