@@ -66,7 +66,10 @@
 	<milestone unit="column" n="b"/>
 	<lb/>in tota terra a diebus
 	<lb/><choice><sic>abraham</sic><corr resp="#ocp">adam</corr></choice> usque ipsum
-	<lb/>ut dormiret homo
+	<lb/>ut dormiret homo 
+	<lb/>cum filiabus suis <add resp="#ocp">.</add> <milestone unit="vs" n="9"/>etenim
+	
+	
 	
 	
 16:5 ‎ - - - uniuersa opera ipsorum quemammodum erant iniqui et peccatores ualde et inmundi spurcitias exercentes in carnibus suis et facientes abominationes super terram.
