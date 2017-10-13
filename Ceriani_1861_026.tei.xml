@@ -27,32 +27,126 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-<p>
 	<pb type="1861" n="26" xml:id="Ceriani_1861_026"/>
 	<milestone type="5c" unit="page" n="125"/>
 	<milestone type="19c" unit="page" n="120" xml:id="palimpsest_page_120"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="22"/>
-	<milestone unit="vs" n="11"/>
-
--ma te ad me et osculare me.
-22:11 ‎ Et adproximans iacob osculatus est eum. Et dixit: benedictus filius meus iacob et omnes filii eius deo excelso in omnibus. Deus det tibi semen ueritatis et de filiis tuis sanctificabis in medio totius terrae. Seruient tibi gentes et adorabunt in conspectu nominis tui omnes populi.
-22:12 ‎ Efficere fortis in conspectu hominum et potestatem exerce in omne semen [et. Tunc iustificabuntur uiae tuae et uiae filiorum tuorum ut sint
-
-in populum sanctum.]
-22:13 ‎ Det tibi deus excelsus omnes benedictiones quas benedixit me et benedixit noe et adam et requiescant in uerticem sanctificationis seminis tui in omni generatione et generatione usque in saeculum.
-22:14 ‎ Et mundabit te ab omni inquinamento et iniustitia ut propitius sit omnibus iniustitiis tuis et neglegentiae tuae et confortabit te et benedicet te et hereditabis omnem terram.
-22:15 ‎ Et renouauis testamentum eius cum ipso
-
-	<!-- p19c=119 p5c=126 -->
-
-ut sis illi in plebem hereditatis in omnia saecula et ipse erit tibi et semini tuo in deum in ueritate et iustitia omnibus diebus terrae.
-22:16 ‎ Et tu nate iacob memento sermonum meorum et custodi praecepta patris tui abraham. Separare a gentibus et noli manducare cum ipsis nec facies secundum operas eorum et non sis illis in sodalem. Quoniam opera ipsorum pollutio et omnis uia ipsorum inmunditia et abominatio et spurcitia.
-22:17 ‎ Sacrificant enim mortuis et
-
-daemonia adorant et super tumulos manducant et uniuersa opera ipsorum uana et nullius momenti.
-22:18 ‎ Et non est illis cor ut recogitent et oculi eorum no*n* uidentes qualia sunt opera ipsorum et quomodo ipsi errent dicentes ligno: tu es deus meus et lapidi: tu es dominus meus et tu liberator et non est illis cor.
-22:19 ‎ Et tu nate iacob deus excelsus adiubabit te et deus adae confortabit te et separabit te ab omnibus abominationibus ipsorum et ab om - - -.
+	<p part="F">
+		<milestone unit="vs" n="10"/>
+		-ma te ad me et oscu
+		<lb type="inWord"/>lare me<add resp="#ocp">.</add> Et adproxi
+		<lb type="inWord"/>mans iacob oscula
+		<lb type="inWord"/>tus est eum.
+	</p>
+	<p><milestone unit="vs" n="11"/>Et dixit<add resp="#ocp">:</add> benedictus
+		<lb/>filius meus iacob et
+		<lb/>omnes filii eius deo
+		<lb/>excelso in omnibus<add resp="#ocp">.</add>
+		<lb/>Deus det tibi semen
+		<lb/>ueritatis et de filiis
+		<lb/>tuis sanctificabis
+		<lb/>in medio totius ter
+		<lb type="inWord"/>rae<add resp="#ocp">.</add> Seruient tibi
+		<lb/>gentes et adorabunt
+		<lb/>in conspectu nomi
+		<lb type="inWord"/>nis tui omnes popu
+		<lb type="inWord"/>li. <milestone unit="vs" n="11"/>Efficere fortis
+		<lb/>in conspectu homi
+		<lb type="inWord"/>num et potestatem
+		<lb/>exerce in omne se
+		<lb type="inWord"/>men <!-- ocp has [ --> et Tunc iusti
+		<lb type="inWord"/>ficabuntur uiae 
+		<lb/>tuae et uiae filio
+		<lb type="inWord"/>rum tuorum ut sint
+		<lb/>
+		<milestone unit="column" n="b"/>in populum sanctum<!-- ocp has ] --> <add resp="#ocp">.</add> <milestone unit="vs" n="13"/>Det
+		<lb/>tibi deus excelsus om
+		<lb type="inWord"/>nes benedictiones
+		<lb/>quas benedixit me
+		<lb/>et benedixit noe
+		<lb/>et adam <unclear>e</unclear>t requi
+		<lb type="inWord"/>escant in uerticem
+		<lb/>sanctificationis
+		<lb/>seminis <unclear>tui</unclear> in om
+		<lb type="inWord"/>ni generatione et
+		<lb/>generatione usque
+		<lb/>in saeculum<add resp="#ocp">.</add> <milestone unit="vs" n="14"/>Et mun
+		<lb type="inWord"/>dabit te ab omni
+		<lb/>inquinamento et
+		<lb/>iniustitia ut pro
+		<lb type="inWord"/>pitius sit omnibus
+		<lb/>iniustitiis tuis et
+		<lb/>neglegentiae tuae
+		<lb/>et confortabit te
+		<lb/>et benedicet te 
+		<lb/>et hereditabis om
+		<lb type="inWord"/>nem terram<add resp="#ocp">.</add> <milestone unit="vs" n="15"/>Et re
+		<lb type="inWord"/>nouauis testamen
+		<lb type="inWord"/>tum eius cum ipso
+	</p>
+	<milestone type="5c" unit="page" n="126"/>
+	<milestone type="19c" unit="page" n="119" xml:id="palimpsest_page_119"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">
+		<milestone unit="vs" n="15"/>
+		ut sis illi in plebem
+		<lb/>hereditatis in om
+		<lb type="inWord"/>nia saecula et ipse
+		<lb/>erit tibi et semini
+		<lb/>tuo in deum in uerita
+		<lb type="inWord"/>te et iustitia om
+		<lb type="inWord"/>nibus diebus terrae<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="16"/>Et tu nate iacob
+		<lb/>memento sermo
+		<lb type="inWord"/>num meorum et
+		<lb/>custodi praecepta
+		<lb/>patris tui abraham<add resp="#ocp">.</add>
+		<lb/>Separare a gentibus
+		<lb/>et noli manduca
+		<lb type="inWord"/>re cum ipsis nec fa
+		<lb type="inWord"/>cies secundum
+		<lb/>operas eorum
+		<lb/>et non sis illis in so
+		<lb type="inWord"/>dalem<add resp="#ocp">.</add> Quoniam
+		<lb/>opera ipsorum pol
+		<lb type="inWord"/>lutio et omnis uia
+		<lb/>ipsorum inmunditia
+		<lb/>et abominatio et spur
+		<lb type="inWord"/>citia<add resp="#ocp">.</add> <milestone unit="vs" n="17"/>Sacrificant enim
+		<lb/>
+		<!-- not a typical line break starting a new line to the left, more of a sublilnear  -->
+		mortuis et
+		<milestone unit="column" n="b"/>daemonia adorant
+		<lb/>et super tumulos
+		<lb/>manducant et uni
+		<lb type="inWord"/>uersa opera ipso
+		<lb type="inWord"/>rum uana et nulli
+		<lb type="inWord"/>us momenti<add resp="#ocp">.</add> <milestone unit="vs" n="18"/>Et non
+		<lb/>est illis cor ut re
+		<lb type="inWord"/>cogitent et oculi
+		<lb/>eorum nou
+		<choice>
+			<sic>u</sic>
+			<corr resp="#ocp">n</corr>
+		</choice>
+		uiden
+		<lb type="inWord"/>tes qualia sunt
+		<lb/>opera ipsorum et
+		<lb/>quomodo ipsi errent
+		<lb/>dicentes ligno<add resp="#ocp">:</add> tu es deus
+		<lb/>meus et lapidi<add resp="#ocp">:</add> tu es
+		<lb/>dominus meus et tu li
+		<lb type="inWord"/>berator et non est
+		<lb/>illis cor. <milestone unit="vs" n="19"/>Et tu na
+		<lb type="inWord"/>te iacob deus excel
+		<lb type="inWord"/>sus adiubabit te
+		<lb/>et deus adae confor
+		<lb type="inWord"/>tabit te et sepa
+		<lb type="inWord"/>rabit te ab omnibus
+		<lb/>abominationibus
+		<lb/>ipsorum et ab om<gap reason="page skip" quantity="5" unit="page"/>
 </p>
 </body>
 </text>
