@@ -55,12 +55,12 @@
 	<lb type= "inWord"/>bit illos <add resp="ocp">.</add> <milestone unit="vs" n="7"/> Et loth li
 	<lb type= "inWord"/>berabimus inde prop
 	<lb type= "inWord"/>ter quod memor fu
-	<lb type= "inWord"/>it deus abrahae ut eli
-	<lb type= "inWord"/>beraret eum de me
+	<lb type= "inWord"/>it deus abrahae ut <choice><sic>eli
+	<lb type= "inWord"/>beraret</sic><corr resp= "#ocp">liberaret</corr></choice> eum de me
 	<lb type= "inWord"/>dio euersionis <add resp="ocp">.</add>
 	<milestone unit="vs" n="8"/> </p>
 	<p>Etenim fecit ipse
-	<lb/>et filii eius iniquita
+	<lb/>et <choice><sic>filii</sic><corr resp="#ocp">filiae</corr></choice>eius iniquita
 	<lb type= "inWord"/>tem super terram
 	<lb/>qualis non est facta
 	<milestone unit="column" n="b"/>
@@ -68,6 +68,22 @@
 	<lb/><choice><sic>abraham</sic><corr resp="#ocp">adam</corr></choice> usque ipsum
 	<lb/>ut dormiret homo 
 	<lb/>cum filiabus suis <add resp="#ocp">.</add> <milestone unit="vs" n="9"/>etenim
+	<lb/>ecce demandatum
+	<lb/>est et scriptum in
+	<lb/>one semen in ta
+	<lb type= "inWord"/>bulis caeli ut aufe
+	<lb type= "inWord"/>rantur et extermi
+	<lb type= "inWord"/>nentur <choice><sic>talis</sic><corr resp="#ocp">tales</corr></choice>et ut
+	<lb/>fiat iudicium ipsorum
+	<lb/>secundum iudicum
+	<lb/>sodomum ut non
+	<lb/>derelinquatur in
+	<lb/>ipsis omne semen
+	<lb/>hominis in terra
+	<lb/>in die iudicii<add resp="ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="10"/>Et in mense hoc exi
+	<lb type= "inWord"/>uit abraham a cebron
 	
 	
 	
