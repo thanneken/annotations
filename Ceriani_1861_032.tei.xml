@@ -37,42 +37,145 @@
      <milestone unit="vs" n="11"/>
      <p part="F">
 
-27:11 et semini tuo post
+<!--27:11-->et semini tuo post
      <lb/>te ut hereditate pos
      <lb type="inWord"/>sideas terram pere
      <lb type="inWord"/>grinationis tuae
      <lb/>et omnem terram 
      <lb/>quam dedit deus abra
-     <lb type="inWord"/>hae. Uade nate in pa
+     <lb type="inWord"/>hae<add resp="#ocp">.</add> Uade nate in pa
      <lb type="inWord"/>ce.
 <!--27:12--><milestone unit="vs" n="12"/>Et emisit isac 
      <lb/>iacob et abiit in me
      <lb type="inWord"/>sopotamiam ad la
      <lb type="inWord"/>ban filium bathuel 
      <lb/>syri fratrem rebec
-     <lb type="inWord"/>cae matris iacob.
-     </p>
+     <lb type="inWord"/>cae matris iacob<add resp="#ocp">.</add>
+</p>
 
-<p>27:13 ‎ Et factum est quando abiit in mesopotamiam contristatus est spiritus rebecce post iacob filium suum et fleuit.
-27:14 ‎ Et dixit isac ad rebeccam: soror noli flere iacob filium meum quoniam in pace ibit et in pace rediet.
+<p>
+     <milestone unit="vs" n="13"/>
+<!--27:13-->Et factum est quan
+     <lb type="inWord"/>do abiit in mesopo
+     <lb type="inWord"/>tamiam contrista
+     <lb type="inWord"/>tus est spiritus re
+     <lb type="inWord"/>becce post iacob fi
+     <lb type="inWord"/>lium suum et fleuit.
+</p>
 
-27:15 ‎ Et deus excelsus custodiet eum ab omni malo et erit cum ipso et non derelinquet eum omnibus diebus.
-27:16 ‎ Quoniam scio ego quod dirigentur omn*e*s uiae eius in omnibus in quibus iter faciet quousque reuertatur ad nos in pace et uidebimus eum cum pace.
-27:17 ‎ Noli ergo timere de illo soror mea quoniam in uia recta est et erit perfectus uir uerax et non derelinquetur: noli flere.
-27:18 ‎ Et consolabatur isac rebeccam pro iacob filio suo et benedixit eum.
-27:19 ‎ Et quadragesimo et quarto iubeleo
+<p>
+     <milestone unit="vs" n="14"/>Et dixit isac ad rebec
+     <lb type="inWord"/>cam<add resp="#ocp">:</add> soror noli fle
+     <lb type="inWord"/>re iacob filium meum 
+     <lb/>quoniam in pace ibit
+     <lb/>et in pace rediet<add resp="#ocp">.</add>
+</p>
 
-	<!-- p19c=65 p5c=156 -->
+<p>
+     <milestone unit="column" n="b"/>
+     <milestone unit="vs" n="15"/>
+     <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t deus excelsus cus
+     <lb type="inWord"/>todiet eum ab omni 
+     <lb/>malo et erit cum ip
+     <lb type="inWord"/>so et non derelin
+     <lb type="inWord"/>quet eum omnibus die
+     <lb type="inWord"/>bus<add resp="#ocp">.</add>
+     <milestone unit="vs" n="16"/>
+     <choice><sic>q</sic><corr resp="#ocp">Q</corr></choice>uoniam scio ego
+     <lb/>quod dirigentur om
+     <lb type="inWord"/>
+     <choice><sic>nis</sic><corr resp="#ocp">nes</corr></choice>uiae eius in om
+     <lb type="inWord"/>nibus in quibus iter fa
+     <lb type="inWord"/>ciet quousque reuer
+     <lb type="inWord"/>tatur ad nos in pace 
+     <lb/>et uidebimus eum 
+     <lb/>cum pace.
+     <milestone unit="vs" n="17"/>Noli ergo 
+     <lb/>timere de illo soror 
+     <lb/>mea quoniam in uia 
+     <lb/>recta est et erit per
+     <lb type="inWord"/>fectus uir uerax et 
+     <lb/>non derelinquetur<add resp="#ocp">:</add> 
+     <lb/>noli flere<add resp="#ocp">.</add>
+     <milestone unit="vs" n="18"/>Et conso
+     <lb type="inWord"/>labatur isac rebec
+     <lb type="inWord"/>ca<unclear>m</unclear>pro iacob filio suo 
+     <lb/>et benedixit eum.
+<!--left off here-->
 
-in anno septimanarum secundo exiuit iacob a puteo iurationis ut iret in charran. Et aduenit in lydiam quae est in monte haec est bethel in primo die mensis primi septimanarum huius et aduenit in locum uespera et deuertit a uia ad occansum itineris in hac nocte dormiuit ibi deciderat enim sol.
-27:20 ‎ Et accipiens de lapidibus loci illius supposuit ad caput sibi sub arbore et ipse erat singularis iter faciens.
-27:21 ‎ Et dormiens sibi somniauit in nocte illa. Et ecce scala erecta
+</p>
 
-erat super terram et caput eius perueniebat in caelum. Et ecce angeli dei ascendebant et descendebant per ipsam et dominus incumbebat in ea.
-27:22 ‎ Et locutus est cum iacob et dixit: ego sum dominus deus abraham patris tui et deus isac terram autem in qua tu o*b*domis ipsam tibi dabo et semini tuo post te.
-27:23 ‎ Et erit semen tuum sicut harena terrae et abundabit super mare et orientem et septentrionem et austrum et benedicentur in te omnes tribus terrae et in semine tuo.
-27:24 ‎ Et ecce - - -.
+<p>
+     <milestone unit="vs" n="19"/>Et quadragesimo et quarto iubeleo
 
+     <!-- p19c=65 p5c=156 -->
+     <!--Do not know if this is right-->
+     <milestone type="5c" unit="page" n="156"/>
+     <milestone type="19c" unit="page" n="65" xml:id="palimpsest_page_065"/>
+     <milestone unit="column" n="a"/>
+     <milestone unit="ch" n="27"/>
+     <milestone unit="vs" n="19"/>
+     <lb/>in anno septimana
+     <lb type="inWord"/>rum secundo exiuit 
+     <lb/>iacob a puteo iuratio
+     <lb type="inWord"/>nis ut iret in charran. 
+</p>
+
+<p>
+      Et aduenit in lydiam 
+     <lb/>quae est in monte 
+     <lb/>haec est bethel in 
+     <lb/>primo die mensis 
+     <lb/>primi septimanarum 
+     <lb/>huius et aduenit in 
+     <lb/>locum uespera et 
+     <lb/>deuertit a uia ad oc
+     <lb type="inWord"/>cansum itineris in 
+     <lb/>hac nocte dormiuit 
+     <lb/>ibi deciderat enim 
+     <lb/>sol.
+     <milestone unit="vs" n="20"/>Et accipiens de 
+     <lb/>lapidibus loci illius 
+     <lb/>supposuit ad caput 
+     <lb/>sibi sub arbore et 
+     <lb/>ipse erat singula
+     <lb type="inWord"/>ris iter faciens.
+<milestone unit="vs" n="21"/>Et 
+     <lb/>dormiens sibi somnia
+     <lb type="inWord"/>uit in nocte illa. 
+</p>
+
+<p>
+Et ecce scala erecta
+     <milestone unit="column" n="b"/>
+     <lb/>erat super terram 
+     <lb/>et caput eius perue
+     <lb type="inWord"/>niebat in caelum. 
+</p>
+     <p>Et ecce angeli dei as
+     <lb type="inWord"/>cendebant et des
+     <lb type="inWord"/>cendebant per ipsam 
+     <lb/>et dominus incumbebat 
+     <lb/>in ea.
+     <milestone unit="vs" n="22"/>Et locutus est 
+     <lb/>cum iacob et dixit: 
+     <lb/>ego sum dominus deus abra
+     <lb type="inWord"/>ham patris tui et deus 
+     <lb/>isac terram autem 
+     <lb/>in qua tu o*b*domis ip
+     <lb type="inWord"/>sam tibi dabo et se
+     <lb type="inWord"/>mini tuo post te.
+     <milestone unit="vs" n="23"/>Et 
+     <lb/>erit semen tuum 
+     <lb/>sicut harena terrae 
+     <lb/>et abundabit super 
+     <lb/>mare et orientem et 
+     <lb/>septentrionem et 
+     <lb/>austrum et bene
+     <lb type="inWord"/>dicentur in te om
+     <lb/>nes tribus terrae et 
+     <lb/>in semine tuo.
+     <milestone unit="vs" n="24"/>Et ecce - - -.
 </p>
 
 </body>
