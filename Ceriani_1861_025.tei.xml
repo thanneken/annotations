@@ -78,8 +78,12 @@
         <lb/>sacrificiorum sa<lb type="inWord"/>
         <lb/>lutarium ipsius et
         <lb/>uinum patri suo
-        <lb/>abraham ut manducet et bibat.
-22:6 ‎ Et manducauit et bibit abraham et benedixit dominum excelsum qui creauit caelum et terram qui fecit uniuersa pinguedinis terrae et dedit ea filiis hominum
+        <lb/>abraham ut mandu<lb type="inWord"/>
+        <lb/>cet et bibat<add resp="#ocp">.</add>
+        <milestone unit="ch" n="22"/><milestone unit="vs" n="6"/>Et manducauit et
+        <lb/>bibit abraham et be<lb type="inWord"/>
+        <lb/>nedixit dominum excel<lb type="inWord"/>
+        <lb/>sum qui ceauit caelum et terram qui fecit uniuersa pinguedinis terrae et dedit ea filiis hominum
 
 	<!-- p19c=104 p5c=124 -->
 
