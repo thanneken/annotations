@@ -133,16 +133,16 @@
      <lb type="inWord"/>cansum itineris in 
      <lb/>hac nocte dormiuit 
      <lb/>ibi deciderat enim 
-     <lb/>sol.
-     <milestone unit="vs" n="20"/>Et accipiens de 
+     <lb/>sol<add resp="#ocp">.</add>
+     <milestone unit="vs" n="20"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t accipiens de 
      <lb/>lapidibus loci illius 
      <lb/>supposuit ad caput 
      <lb/>sibi sub arbore et 
      <lb/>ipse erat singula
-     <lb type="inWord"/>ris iter faciens.
+     <lb type="inWord"/>ris iter faciens<add resp="#ocp">.</add>
 <milestone unit="vs" n="21"/>Et 
      <lb/>dormiens sibi somnia
-     <lb type="inWord"/>uit in nocte illa. 
+     <lb type="inWord"/>uit in nocte illa<add resp="#ocp">.</add> 
 </p>
 
 <p>
@@ -150,21 +150,21 @@ Et ecce scala erecta
      <milestone unit="column" n="b"/>
      <lb/>erat super terram 
      <lb/>et caput eius perue
-     <lb type="inWord"/>niebat in caelum. 
+     <lb type="inWord"/>niebat in caelum<add resp="#ocp">.</add> 
 </p>
      <p>Et ecce angeli dei as
      <lb type="inWord"/>cendebant et des
      <lb type="inWord"/>cendebant per ipsam 
      <lb/>et dominus incumbebat 
-     <lb/>in ea.
+     <lb/>in ea.<!--high period-->
      <milestone unit="vs" n="22"/>Et locutus est 
-     <lb/>cum iacob et dixit: 
+     <lb/>cum iacob et dixit<add resp="#ocp">:</add> 
      <lb/>ego sum dominus deus abra
      <lb type="inWord"/>ham patris tui et deus 
      <lb/>isac terram autem 
-     <lb/>in qua tu o*b*domis ip
+     <lb/>in qua tu o<choice><sic>rb</sic><corr resp="#ocp">b</corr></choice>domis ip
      <lb type="inWord"/>sam tibi dabo et se
-     <lb type="inWord"/>mini tuo post te.
+     <lb type="inWord"/>mini tuo post te<add resp="#ocp">.</add>
      <milestone unit="vs" n="23"/>Et 
      <lb/>erit semen tuum 
      <lb/>sicut harena terrae 
@@ -173,8 +173,8 @@ Et ecce scala erecta
      <lb/>septentrionem et 
      <lb/>austrum et bene
      <lb type="inWord"/>dicentur in te om
-     <lb/>nes tribus terrae et 
-     <lb/>in semine tuo.
+     <lb type="inWord"/>nes tribus terrae et 
+     <lb/>in semine tuo<add resp="#ocp">.</add>
      <milestone unit="vs" n="24"/>Et ecce - - -.
 </p>
 
