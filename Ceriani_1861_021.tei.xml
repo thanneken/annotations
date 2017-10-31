@@ -30,7 +30,7 @@
 
 <pb type="1861" n="" xml:id="Ceriani_1861_0"/>
 <milestone type="5c" unit="page" n="110"/>
-<milestone type="19c" unit="page" n="60" xml:id="palimpsest_page_062"/>
+<milestone type="19c" unit="page" n="60" xml:id="palimpsest_page_060"/>
 <milestone unit="column" n="a"/> 
 <milestone unit="ch" n="19"/>
 <p part="F">
@@ -39,7 +39,7 @@
 <lb/>sunt dies uitae sar
 <lb type="inword"/>rae et mortua est
 <lb/> in chebron<add resp="#ocp">.</add>
-<lb/>Et adue
+<lb/> <milestone unit="vs" n="3"/>Et adue
 <lb type="inword"/>nit abraham ut plan
 <lb type="inword"/>geret eam<add resp="#ocp">.</add>
 <lb/>Et temp
@@ -47,7 +47,7 @@
 <lb type="inword"/>ens esset spiritus eius
 <lb/>et non pusilliani
 <lb type="inword"/>mus in uerbis oris
-lb/>sui<add resp="#ocp">.</add> Et inuentus est
+<lb/>sui<add resp="#ocp">.</add> Et inuentus est
 <lb/>et in hoc patientis
 <lb type="inword"/>simus et non est con
 <lb type="inword"/>turbatus<add resp="#ocp">.</add> <milestone unit="vs" n="4"/> Quoniam
@@ -87,17 +87,10 @@ lb/>sui<add resp="#ocp">.</add> Et inuentus est
 <lb/>septem et uiginti
 <lb/>et centum anni
 <lb/>id est duos iubeleos
+	<milestone type="19c" unit="page" n="59" xml:id="palimpsest_page_059"/>
+	
 
 
-<milestone unit="vs" n="3"/> ‎ Et aduenit abraham ut plangeret eam. Et temptauimus eum si patiens esset spiritus eius et non pusillianimus in uerbis oris sui. Et inuentus est et in hoc patientissimus et non est conturbatus.
-<milestone unit="vs" n="4"/> ‎ Quoniam in longanimitate spiritus locutus est cum filiis geth ut dent illi locum ubi sepelliat mortuum suum in eum.
-<milestone unit="vs" n="5"/> ‎ Et dedit deus gratiam ei in conspectu omnium uidentium eum et depraecatus est in mansuetudine
-
-a filiis geth et dederunt ei agrum spelei duplicem quod est contra faciem mambre haec est chebron quadringentis denariis.
-<milestone unit="vs" n="6"/> ‎ Et hoc postulauerunt ab eo dicentes: damus tibi gratis. Et non accepit de manibus eorum gratis quoniam dedit praetium loci pecuniam conplens et adorauit eos bis et post haec sepelliuit mortuum suum in speleo duplici.
-<milestone unit="vs" n="7"/> ‎ Et facti sunt dies omnes uitae sarrae septem et uiginti et centum anni id est duos iubeleos
-
-	<!-- p19c=60 p5c=110 -->
 
 septimanas quattuor minus unum annum: hii sunt dies uitae sarrae.
 <milestone unit="vs" n="8"/> ‎ Haec temptatio decima in qua inuentus est et in ipsa abraham fidelis et (et) longanimus spiritu.
