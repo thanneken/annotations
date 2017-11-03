@@ -46,7 +46,7 @@
 <lb type="inword"/>tauimus eum si pati
 <lb type="inword"/>ens esset spiritus eius
 <lb/>et non pusilliani
-<lb type="inword"/>mus in uerbis oris
+<lb type="inword"/>mus in uerbis oris 
 <lb/>sui<add resp="#ocp">.</add> Et inuentus est
 <lb/>et in hoc patientis
 <lb type="inword"/>simus et non est con
@@ -88,9 +88,8 @@
 <lb/>et centum anni
 <lb/>id est duos iubeleos
 </p>
-	<milestone type="19c" unit="page" n="59" xml:id="palimpsest_page_059"/>
-<p>
-<lb/>septimanas quat
+<milestone type="19c" unit="page" n="59" xml:id="palimpsest_page_059"/>
+<p><lb/>septimanas quat
 <lb type="inword"/>tuor minus unum
 <lb/>annum<add resp="#ocp">:</add> hii sunt di
 <lb type="inword"/>es uitae sarrae<add resp="#ocp">.</add>
@@ -112,7 +111,7 @@
 <lb type="inword"/>delis et scriptum
 <lb/>est amicus dei in ta
 <lb type="inword"/>bulis caeli<add resp="#ocp">.</add>
-	</p>
+</p>
 <p><milestone unit="vs" n="10"/>Et in anno quarto
 <lb/>ipsius accepit abra
 <lb type="inword"/>ham isac filio suo
@@ -125,7 +124,7 @@
 <lb/>filius erat malce
 <lb/>mulieris nachor
 <lb/>fratris abraham<add resp="#ocp">.</add>
-	</p>
+</p>
 <p><milestone unit="vs" n="11"/> Et abraham accepit
 <lb/>sibi mulierem ter
 <lb type="inword"/>tiam et nomen ei
