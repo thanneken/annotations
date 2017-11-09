@@ -31,10 +31,10 @@
 <pb type="1861" n="36" xml:id="Ceriani_1861_036"/>
 
 	<!-- p19c=81 p5c=169 -->
-
-eum morietur in lapi
-<lb type="inWord"/>dibus.
-<!-- 30:9 --> ‎ Propter quod
+<p>
+eum morietur in la
+<lb type="inWord"/>pidibus<add resp="#ocp">.</add>
+<!-- 30:9 --> ‎ <choice><sic>p</sic><corr resp="#ocp">P</corr></choice>ropter quod
 <lb/>sic scriptum est et 
 <lb/>decretum est in ta
 <lb type="inWord"/>bulis caeli de omni 
@@ -42,20 +42,23 @@ eum morietur in lapi
 <lb type="inWord"/>niam qui polluerit 
 <lb/>mortem morietur 
 <lb/>et lapidibus lapidabi
-<lb type="inWord"/>tur.
-<!-- 30:10 -->‎ Et non erit huic 
+<lb type="inWord"/>tur<add resp="#ocp">.</add>
+<!-- 30:10 -->‎ <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t non erit huic 
 <lb/>legi finis temporis 
 <lb/>et non erit illi remis
 <lb type="inWord"/>sio et omnis propitia
-<lb type="inWord"/>tio. Sed ut extermi
+<lb type="inWord"/>tio<add resp="#ocp">.</add><choice><sic>s</sic><corr resp="#ocp">S</corr></choice>ed ut extermi
 <lb type="inWord"/>netur homo quicum
-<lb type="inWord"/>que polluerit filiam 
+<lb type="inWord"/>que polluerit filia<unclear>m</unclear>
 <lb/>ipsius in medio homi
 <lb type="inWord"/>nis istrahel quoni
 <lb type="inWord"/>am ab omni semine 
 <lb/>eius dedit alienige
 <lb type="inWord"/>na et inpie egerunt 
 <lb/>intaminare illud.
+</p>
+
+<p>
 <!--30:11--><lb/> ‎ Et tu monses man
 <lb type="inWord"/>da filiis istrahel et
 
@@ -65,27 +68,27 @@ testificare super eos
 <lb/>accipiant filiis suis 
 <lb/>de filiabus eorum quo
 <lb type="inWord"/>niam abominatio est 
-<lb/>coram domino.
-<!-- 30:12 --> ‎ Propter 
+<lb/>coram domino<add resp="#ocp">.</add>
+<!-- 30:12 --><choice><sic>p</sic><corr resp="#ocp">P</corr></choice>‎ropter 
 <lb/> hoc scripsi tibi in ser
 <lb type="inWord"/>monibus legis omnis 
 <lb/>sermones operum 
 <lb/>sychimorum quae fe
 <lb type="inWord"/>cerunt dine et quem
 <lb type="inWord"/>admodum locuti sunt 
-<lb/>filii iacob dicentes: 
+<lb/>filii iacob dicentes<add resp="#ocp">:</add> 
 <lb/>non dabimus filiam 
 <lb/>nostram homini qui 
 <lb/>habet praeputium 
 <lb/>obprobrium enim 
-<lb/>est nobis.
-<!-- 30:13 --> ‎ Et obpro
+<lb/>est nobis<add resp="#ocp">.</add>
+<!-- 30:13 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t obpro
 <lb type="inWord"/>brium istrahel qui 
 <lb/>dant siue accipiunt 
 <lb/>a filiabus gentium prop
 <lb type="inWord"/>ter quod abomina
 <lb type="inWord"/>tio est et inmunditia
-
+<!-- left off here-->
 	<!-- p19c=82 p5c=170 -->
 
 <lb/>in omni istrahel.
@@ -140,7 +143,7 @@ testificare super eos
 <lb/>hominum filiorum 
 <lb/>iacob et occiderunt 
 <lb/>illos in iudicio et
-
+</p>
 </ab>
 
 </body>
