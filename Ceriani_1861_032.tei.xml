@@ -97,11 +97,10 @@
      <lb type="inWord"/>fectus uir uerax et 
      <lb/>non derelinquetur<add resp="#ocp">:</add> 
      <lb/>noli flere<add resp="#ocp">.</add>
-     <milestone unit="vs" n="18"/>Et conso
+     <milestone unit="vs" n="18"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t conso
      <lb type="inWord"/>labatur isac rebec
-     <lb type="inWord"/>ca<unclear>m</unclear>pro iacob filio suo 
+     <lb type="inWord"/>ca<unclear>m</unclear> pro iacob filio suo 
      <lb/>et benedixit eum.
-<!--left off here-->
 
 </p>
 
