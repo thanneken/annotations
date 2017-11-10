@@ -147,6 +147,124 @@
 	<lb/>Sed in isac multipli
 	<lb type="inWord"/>cabitur et uocabitur
 </p>
-</body>
+
+	<pb type="1861" n="17" xml:id="Ceriani_1861_017"/>
+	<cb type= "Ceriani" n="1"/>
+<milestone type="19c" unit="page" n="56" xml:id="palimpsest_page_056"/>
+<milestone type="5c" unit="page" n="95"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="16"/>
+<p part="F">
+	<milestone unit="vs" n="5"/>
+	uniuersa opera ip
+	<lb type= "inWord"/>sorum quemammo
+	<lb type= "inWord"/>dum erant iniqui
+	<lb/>et peccatores ual
+	<lb type= "inWord"/>de et inmundi spur
+	<lb type= "inWord"/>citias exercentes
+	<lb/>in carnibus suis et fa
+	<lb type= "inWord"/>cientes abomina
+	<lb type= "inWord"/>tiones super ter
+	<lb type= "inWord"/>ram <add resp="#ocp">.</add>
+	<milestone unit="vs" n="6"/>
+	<lb/>Ita enim facet
+	<lb/>deus iudicium in locis
+	<lb/>ubicumque fecerint
+	<lb/>abominationis so
+	<lb type= "inWord"/>domum sic iudica
+	<lb type= "inWord"/>bit illos <add resp="ocp">.</add> <milestone unit="vs" n="7"/> Et loth li
+	<lb type= "inWord"/>berabimus inde prop
+	<lb type= "inWord"/>ter quod memor fu
+	<lb type= "inWord"/>it deus abrahae ut <choice><sic>eli
+	<lb type= "inWord"/>beraret</sic><corr resp= "#ocp">liberaret</corr></choice> eum de me
+	<lb type= "inWord"/>dio euersionis <add resp="ocp">.</add>
+    </p>
+	<p><milestone unit="vs" n="8"/>Etenim fecit ipse
+	<lb/>et <choice><sic>filii</sic><corr resp="#ocp">filiae</corr></choice>eius iniquita
+	<lb type= "inWord"/>tem super terram
+	<lb/>qualis non est facta
+	<milestone unit="column" n="b"/>
+	<lb/>in tota terra a diebus
+	<lb/><choice><sic>abraham</sic><corr resp="#ocp">adam</corr></choice> usque ipsum
+	<lb/>ut dormiret homo
+	<lb/>cum filiabus suis <add resp="#ocp">.</add> <milestone unit="vs" n="9"/>etenim
+	<lb/>ecce demandatum
+	<lb/>est et scriptum in
+	<lb/>one semen in ta
+	<lb type= "inWord"/>bulis caeli ut aufe
+	<lb type= "inWord"/>rantur et extermi
+	<lb type= "inWord"/>nentur <choice><sic>talis</sic><corr resp="#ocp">tales</corr></choice>et ut
+	<lb/>fiat iudicium ipsorum
+	<lb/>secundum iudicum
+	<lb/>sodomum ut non
+	<lb/>derelinquatur in
+	<lb/>ipsis omne semen
+	<lb/>hominis in terra
+	<lb/>in die iudicii<add resp="ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="10"/>Et in mense hoc exi
+	<lb type= "inWord"/>uit abraham a cebron
+	<lb/>et abiit et inhabita
+	<lb type= "inWord"/>uit inter medium
+	<lb/>cades et sur in finibus
+	<lb/>gerarum
+	<lb/><milestone unit="vs" n="11"/>Et in medio mensis
+	<milestone type="19c" unit="page" n="55" xml:id="palimpsest_page_055"/>
+	<milestone type="p5c" unit="page" n="98"/>
+	<milestone unit="column" n="a"/>
+	<lb/>quinti transtulit
+	<lb/>se inde et habitauit
+	<lb/>secus puteum iura
+	<lb type= "inWord"/>tionis<add resp="ocp">.</add><milestone unit="vs" n="12"/> Et in medio
+	<lb/>mensis sexti uisita
+	<lb type= "inWord"/>uit seus sarram et fecit
+	<lb/>illi sicut dixit<add resp="#ocp">.</add><milestone unit="vs" n="13"/>et con
+	<lb type= "inWord"/>cepit et peperit fili
+	<lb type= "inWord"/>um in mense septimo
+	<lb/>et in dimidio mensis
+	<lb/>secundum tempus
+	<lb/>quod dixit deus ad abra
+	<lb type= "inWord"/>ham in diem festum
+	<lb/>primitiuorum natus 
+	<lb/>est isac<add resp="ocp">.</add><milestone unit="vs" n="14"/> et circum
+	<lb type= "inWord"/>cidit abraham filium
+	<lb/>suum octauo die hic
+	<lb/>primis circumcisus
+	<lb/>est secundum tes
+	<lb type= "inWord"/>tamentum disposi
+	<lb type= "inWord"/>tum in saecula<add resp="ocp">.</add>
+     <lb/><milestone unit="vs" n="15"/> Et in anno sexto sep
+	<lb type= "inWord"/>timanarum quarti
+	<lb/>adfuimus ad abraham
+	<milestone unit="column" n="b"/>
+	<lb/>secus puteum iura
+	<lb type= "inWord"/>tionis et uisi sumus
+	<lb/>illi sicut dixeramus 
+	<lb/>sarrae quoniam re
+	<lb type= "inWord"/>uerti haberemus 
+	<lb/>ad eam et ipsa in con
+	<lb type= "inWord"/>ceptum haberet fi
+	<lb type= "inWord"/>lium suum<add resp="#ocp">.</add><milestone unit="vs" n="16"/> et reuer
+	<lb type= "inWord"/>si sumus in mense
+	<lb/>septimo et inueni
+	<lb type= "inWord"/>mus sarram concep
+	<lb type= "inWord"/>tum habentem in
+	<lb/>conspectu nostro<add resp="#ocp">.</add>
+	<lb/>et benediximus eum
+	<lb/>et iudicauimus illi
+	<lb/>quaecumque decre
+	<lb type= "inWord"/>ta sunt ei et quomo
+	<lb type= "inWord"/>do esset moriturus
+	<lb/>et quod generaet 
+	<lb/>adhuc sex filios et
+	<lb/>uidebit eos omnes
+	<lb/>prisquam moriatur<add resp="#ocp">.</add>
+	<lb/>sed in isac multipli
+	<lb type= "inWord"/>cabitur et uocabitur
+</p>
+
+	
+	
+	</body>
 </text>
 </TEI>
