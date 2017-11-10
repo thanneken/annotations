@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -56,7 +57,7 @@
 		<lb type="inWord"/>num et potestatem
 		<lb/>exerce in omne se
 		<lb type="inWord"/>men <!-- ocp has [ --> et Tunc iusti
-		<lb type="inWord"/>ficabuntur uiae 
+		<lb type="inWord"/>ficabuntur uiae
 		<lb/>tuae et uiae filio
 		<lb type="inWord"/>rum tuorum ut sint
 		<lb/>
@@ -79,7 +80,7 @@
 		<lb/>iniustitiis tuis et
 		<lb/>neglegentiae tuae
 		<lb/>et confortabit te
-		<lb/>et benedicet te 
+		<lb/>et benedicet te
 		<lb/>et hereditabis om
 		<lb type="inWord"/>nem terram<add resp="#ocp">.</add><milestone unit="vs" n="15"/> Et re
 		<lb type="inWord"/>nouauis testamen

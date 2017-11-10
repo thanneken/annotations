@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -54,7 +55,7 @@
 		<choice>
 			<sic>e</sic>
 			<corr resp="#ocp">E</corr>
-		</choice> <!-- let's not code every capitalization into an editorial change, but this is an example of how it would be done. -->  
+		</choice> <!-- let's not code every capitalization into an editorial change, but this is an example of how it would be done. -->
 		t taneos ciuitas aegypti
 		<lb/>tunc aedificata
 		<lb/>est annis septem

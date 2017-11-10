@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -31,7 +32,7 @@
 <pb type="1861" n="" xml:id="Ceriani_1861_0"/>
 <milestone type="5c" unit="page" n="110"/>
 <milestone type="19c" unit="page" n="60" xml:id="palimpsest_page_060"/>
-<milestone unit="column" n="a"/> 
+<milestone unit="column" n="a"/>
 <milestone unit="ch" n="19"/>
 <p part="F">
 
@@ -44,7 +45,7 @@
 <lb type="inword"/>tauimus eum si pati
 <lb type="inword"/>ens esset spiritus eius
 <lb/>et non pusilliani
-<lb type="inword"/>mus in uerbis oris 
+<lb type="inword"/>mus in uerbis oris
 <lb/>sui<add resp="#ocp">.</add> Et inuentus est
 <lb/>et in hoc patientis
 <lb type="inword"/>simus et non est con

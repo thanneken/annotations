@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -44,30 +45,30 @@
 	<lb type="inWord"/>lis deo excelso<add resp="#ocp">.</add>
 	<milestone unit="vs" n="28"/>
 </p>
-<p>Et benediximus eum 
-	<lb/>in saeculo et semen 
+<p>Et benediximus eum
+	<lb/>in saeculo et semen
 	<lb/>eius cum ipso in om
-	<lb type="inWord"/>nes generationes 
-	<lb/>totius terrae quia 
-	<lb/>fecit diem festum 
-	<lb/>hunc in tempore suo 
+	<lb type="inWord"/>nes generationes
+	<lb/>totius terrae quia
+	<lb/>fecit diem festum
+	<lb/>hunc in tempore suo
 	<lb/>secundum testi
-	<lb type="inWord"/>monium tabularum 
-	<lb type="inWord"/>caeli<add resp="#ocp">.</add><milestone unit="vs" n="29"/> Propter quod <!-- not marking ocp capitalization --> 
-	<lb/>decretum est in tabulis 
-	<lb/>caeli super istrahel ut sit dies 
+	<lb type="inWord"/>monium tabularum
+	<lb type="inWord"/>caeli<add resp="#ocp">.</add><milestone unit="vs" n="29"/> Propter quod <!-- not marking ocp capitalization -->
+	<lb/>decretum est in tabulis
+	<lb/>caeli super istrahel ut sit dies
 	<lb/>festus tabernacu
-	<lb type="inWord"/>lorum septem dies 
-	<lb/>t<unclear>ot</unclear>i in laetitia in 
-	<lb/>mense septimo 
-	<lb/>acceptabiles in 
+	<lb type="inWord"/>lorum septem dies
+	<lb/>t<unclear>ot</unclear>i in laetitia in
+	<lb/>mense septimo
+	<lb/>acceptabiles in
 	<lb/>conspectu domini
 	<lb/><milestone unit="column" n="a"/>legitimum sempi
 	<lb type="inWord"/>ternum in genera
 	<lb type="inWord"/>tionibus ipsorum per singulos annos<add resp="#ocp">.</add>
 	<lb/><milestone unit="vs" n="30"/>Et non erit finis tem
-	<lb type="inWord"/>porum quoniam in 
-	<lb/>sempiternum est 
+	<lb type="inWord"/>porum quoniam in
+	<lb/>sempiternum est
 	<lb/>praeceptum istrah
 	<lb type="inWord"/>el facere eum et se
 	<lb type="inWord"/>dere in tabernacu
@@ -76,13 +77,13 @@
 	<lb type="inWord"/>ta sua accipere ra
 	<lb type="inWord"/>mos denos et <choice><sic>calicem</sic><corr>salicem</corr></choice> de torrentem<add resp="#ocp">.</add>
 </p>
-<p><milestone unit="vs" n="31"/>Et accepit abraham 
-	<lb/>de decore palmarum 
-	<lb/>et fructus ligni 
-	<lb/>speciosi et omnibus 
+<p><milestone unit="vs" n="31"/>Et accepit abraham
+	<lb/>de decore palmarum
+	<lb/>et fructus ligni
+	<lb/>speciosi et omnibus
 	<lb/>diebus erat circum
-	<lb type="inWord"/>iens altarium meum 
-	<lb/>in ramis septies 
+	<lb type="inWord"/>iens altarium meum
+	<lb/>in ramis septies
 	<lb/>mane laudans et con
 	<lb type="inWord"/>fitens deo suo secun
 	<lb type="inWord"/>dum
@@ -94,52 +95,52 @@
 </p>
 <milestone unit="ch" n="17"/>
 <p><milestone unit="vs" n="1"/>Et in anno primo eb
-	<lb type="inWord"/>domadarum quint<unclear>i</unclear> 
-	<lb/>ablactatus est isac 
+	<lb type="inWord"/>domadarum quint<unclear>i</unclear>
+	<lb/>ablactatus est isac
 	<lb/>iubeleo hoc et fe
 	<lb type="inWord"/>cit abraham conui
 	<lb type="inWord"/>uium magnum <surplus resp="#ocp">et</surplus> in
-	<lb/>mense tertio in die 
-	<lb/>qua ablactatus est 
+	<lb/>mense tertio in die
+	<lb/>qua ablactatus est
 	<lb/>filius eius isac<add resp="#ocp">.</add> <milestone unit="vs" n="2"/>Et is
 	<lb type="inWord"/>mael filius agar an
 	<lb type="inWord"/>cillae aegyptiae lo
 	<lb type="inWord"/>co erat in conspec
-	<lb type="inWord"/>tu abraham patris 
-	<lb/>sui. Et gauisus est 
+	<lb type="inWord"/>tu abraham patris
+	<lb/>sui. Et gauisus est
 	<lb/>abraham et bene
-	<lb type="inWord"/>dixit deum quia uidit 
-	<lb/>sibi filios et non est 
+	<lb type="inWord"/>dixit deum quia uidit
+	<lb/>sibi filios et non est
 	<lb/>defunctus sine fi
-	<lb type="inWord"/>liis<add resp="#ocp">.</add> <milestone unit="vs" n="3"/>Et memor fuit 
+	<lb type="inWord"/>liis<add resp="#ocp">.</add> <milestone unit="vs" n="3"/>Et memor fuit
 	<lb/>sermones quos lo
-	<lb type="inWord"/>cutus est ei in die 
-	<lb/>qua segregauit se 
+	<lb type="inWord"/>cutus est ei in die
+	<lb/>qua segregauit se
 	<lb/>loth ab ipso<add resp="#ocp">.</add> Et ga
-	<lb type="inWord"/><milestone unit="column" n="b"/>uisus est quia dedit 
-	<lb/>deus illi semen super 
+	<lb type="inWord"/><milestone unit="column" n="b"/>uisus est quia dedit
+	<lb/>deus illi semen super
 	<lb/>terram ut heredi
 	<lb type="inWord"/>tet eam et benedi
-	<lb type="inWord"/>xit toto ore suo qui 
+	<lb type="inWord"/>xit toto ore suo qui
 	<lb/>creauit uniuersa.
 </p>
 <p><milestone unit="vs" n="4"/>Et uidit sarra isma
-	<lb type="inWord"/>el ludentem cum 
+	<lb type="inWord"/>el ludentem cum
 	<lb/>isac et abraham gau
 	<lb type="inWord"/>dentem gaudio mag
 	<lb type="inWord"/>no et zelauit isma
-	<lb type="inWord"/>el et dixit ad abraham<add resp="#ocp">:</add> 
-	<lb/>eice ancillam istam 
-	<lb/>et filium eius quia 
+	<lb type="inWord"/>el et dixit ad abraham<add resp="#ocp">:</add>
+	<lb/>eice ancillam istam
+	<lb/>et filium eius quia
 	<lb/>non hereditabit fi
-	<lb type="inWord"/>lius ancillae huius 
+	<lb type="inWord"/>lius ancillae huius
 	<lb/>cum filio meo isac.
 </p>
-<p><milestone unit="vs" n="5"/>Et pessimus uisus 
-	<lb/>est sermo in oculis 
-	<lb/>abraham propter 
+<p><milestone unit="vs" n="5"/>Et pessimus uisus
+	<lb/>est sermo in oculis
+	<lb/>abraham propter
 	<lb/>ancillam et prop
-	<lb type="inWord"/>ter filium eius ut 
+	<lb type="inWord"/>ter filium eius ut
 	<lb/>eiciat illos ab se<add resp="#ocp">.</add>
 </p>
 <p part="I"><milestone unit="vs" n="6"/>Et dixit deus ad ab

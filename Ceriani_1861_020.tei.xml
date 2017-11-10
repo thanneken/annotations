@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -37,42 +38,42 @@
 	<!-- p19c=63 p5c=107 -->
 <p>
 
-Et conturbatus est <lb/> 
+Et conturbatus est <lb/>
 et dixit: ecce ego <lb/>
-<milestone unit="vs" n="11"/>‎ Et dixi ad eum: noli <lb/> 
-inicere manum tuam <lb/> 
-super puerum et non <lb/> 
-facias ei quidquam <lb/> 
+<milestone unit="vs" n="11"/>‎ Et dixi ad eum: noli <lb/>
+inicere manum tuam <lb/>
+super puerum et non <lb/>
+facias ei quidquam <lb/>
 quo nunc manifes <lb type="inWord"/>
-taui quia times deum <lb/> 
-tuum et non peper <lb/> 
-cisti filio tuo pri <lb/> 
+taui quia times deum <lb/>
+tuum et non peper <lb/>
+cisti filio tuo pri <lb/>
 mogenito a me <lb/>
-<milestone unit="vs" n="12"/>‎ Et confusus est <lb/> 
-princeps mastima <lb/> 
-Et eleuans abraham <lb/> 
-oculos suos uidit et <lb/> 
-ecce aries unus te <lb/> 
-nebatur cornibus suis <lb/> 
-Et abiit abraham et <lb/> 
-accepit arietem et <lb/> 
+<milestone unit="vs" n="12"/>‎ Et confusus est <lb/>
+princeps mastima <lb/>
+Et eleuans abraham <lb/>
+oculos suos uidit et <lb/>
+ecce aries unus te <lb/>
+nebatur cornibus suis <lb/>
+Et abiit abraham et <lb/>
+accepit arietem et <lb/>
 obtulit eum pro isac <lb/> filio suo.
-<milestone unit="vs" n="13"/> Et uocauit <lb/> 
-abraham nomen lo <lb type="inWord"/> 
+<milestone unit="vs" n="13"/> Et uocauit <lb/>
+abraham nomen lo <lb type="inWord"/>
 ci illius dominus uidit ut <lb/>
 dicatur in monte <lb/>
 
-<milestone unit="column" n="b"/> 
+<milestone unit="column" n="b"/>
 dominus uisus est: hic <lb/>
 est mons sion <lb/>
-18:14 ‎ Et uocauit abraham <lb/> 
-nomine suo secun <lb/> 
-do de caelo quia +f <lb/> 
+18:14 ‎ Et uocauit abraham <lb/>
+nomine suo secun <lb/>
+do de caelo quia +f <lb/>
 uimus+ ut loquamur <lb/>
 illi nomine domini.
-18:15 ‎ Et <lb/> 
+18:15 ‎ Et <lb/>
 dixit per me ipsum <lb/>
-iuraui dicit dominus pro <lb/> 
+iuraui dicit dominus pro <lb/>
 pter quod fecisti <lb/>
 sermonem istum <lb/>
 et non pepercisti <lb/>

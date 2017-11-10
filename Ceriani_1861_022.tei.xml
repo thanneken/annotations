@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -51,7 +52,7 @@
 <lb type="inWord"/>mo erat agrestis
 <lb/>et benator sed di
 <lb type="inWord"/>dicit bellum et uni
-<lb type="inWord"/>uersa opera eius 
+<lb type="inWord"/>uersa opera eius
 <lb/>erant dura<add resp ="#ocp">.</add><milestone unit="vs" n="15"/><choice><sic>e</sic><corr resp ="#ocp"> E</corr></choice>t dili
 <lb type="inWord"/>gebat abraham ia
 <lb type="inWord"/>cobum et isac dili
@@ -62,8 +63,8 @@
 <lb/><milestone unit="column" n="b"/>
 opera esau et scie
 <lb type="inWord"/>bat quoniam in ia
-<lb type="inWord"/>cob uocabitur illi 
-<lb/>semen et nomen 
+<lb type="inWord"/>cob uocabitur illi
+<lb/>semen et nomen
 <lb/>et uocabit re
 <lb type="inWord"/>beccam et mandauit
 <lb/> illi pro iacob quoni
@@ -83,7 +84,7 @@ opera esau et scie
 <lb/>hunc elegit deus sibi
 <lb/>in populum sanctum ex
 <lb/>omnibus populis qui
-<lb/>sunt super faciem 
+<lb/>sunt super faciem
 <lb/>totius terrae<add resp ="#ocp">.</add>
 
 	<milestone type="5c" unit="page" n="112"/>
@@ -91,56 +92,56 @@ opera esau et scie
 	<milestone unit="column" n="a"/>
 	<!-- p19c=57 p5c=112 -->
 
-<lb/><milestone unit="vs" n="19"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t ecce isac diligit 
-<lb/>esau super iacob et 
+<lb/><milestone unit="vs" n="19"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t ecce isac diligit
+<lb/>esau super iacob et
 <lb/>ego uideo te diligen
 <lb type="inWord"/>tem in ueritate iacob<add resp ="#ocp">.</add></p>
 
-	
+
 
 <p>
 <milestone unit="vs" n="20"/>Adice adhuc amplius
 <lb/>ut parcas illi et sint
-<lb/>oculi tui super eum 
-<lb/>in dilectione quoniam 
+<lb/>oculi tui super eum
+<lb/>in dilectione quoniam
 <lb/>ipse erit nobis in be
-<lb type="inWord"/>nedictione super 
-<lb/>terram et ex hoc 
+<lb type="inWord"/>nedictione super
+<lb/>terram et ex hoc
 <lb/>et usque in omni gene
 <lb type="inWord"/>ratione terrae<add resp ="#ocp">.</add><milestone unit="vs" n="21"/>‎ <choice><sic>c</sic><corr resp ="#ocp">C</corr></choice>on
 <lb type="inWord"/>ualescant ergo ma
 <lb type="inWord"/>nus tuae et gaude
 <lb type="inWord"/>at cor tuum in filio
-<lb/>tuo iacob quoniam 
+<lb/>tuo iacob quoniam
 <lb/>ipsum dilexi super
 <lb/>omnes filios meos<add resp ="#ocp">.</add>
 <lb/><choice><sic>p</sic><corr resp ="#ocp">P</corr></choice>ropter quod in ae
 <lb type="inWord"/>ternum benedice
-<lb type="inWord"/>tur et semen eius 
-<lb/>et erit conplens 
+<lb type="inWord"/>tur et semen eius
+<lb/>et erit conplens
 <lb/>omnem terram<add resp ="#ocp">.</add>
 
 <lb/><milestone unit="column" n="b"/><milestone unit="vs" n="22"/><choice><sic>s</sic><corr resp ="#ocp">S</corr></choice>i poterit ergo ho
 <lb type="inWord"/>mo numerare ha
-<lb type="inWord"/>renam terrae et 
-<lb/>numerabile erit 
+<lb type="inWord"/>renam terrae et
+<lb/>numerabile erit
 <lb/>semen eius<add resp ="#ocp">. </add><milestone unit="vs" n="23"/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t uni
-<lb type="inWord"/>uersae benedictio 
-<lb type="inWord"/>nes quas benedixit 
+<lb type="inWord"/>uersae benedictio
+<lb type="inWord"/>nes quas benedixit
 <lb/>me deus et semen me
-<lb type="inWord"/>um iacob et semini 
+<lb type="inWord"/>um iacob et semini
 <lb/>eius erunt omnibus
 <lb/>diebus<add resp ="#ocp">.</add><milestone unit="vs" n="24"/>‎ <choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t in semine
-<lb/>eius benedicetur 
+<lb/>eius benedicetur
 <lb/>nomen meum et no
 <lb type="inWord"/>men patrum meo
-<lb type="inWord"/>rum sem noe enoch 
-<lb/>malalee henos et 
-<lb/>adam<add resp ="#ocp">.</add><milestone unit="vs" n="25"/> <choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t ipsi erunt 
+<lb type="inWord"/>rum sem noe enoch
+<lb/>malalee henos et
+<lb/>adam<add resp ="#ocp">.</add><milestone unit="vs" n="25"/> <choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t ipsi erunt
 <lb/>fundamenta ponen
 <lb type="inWord"/>tes caeli et confir
 <lb type="inWord"/>mantes terram
-<lb/>ut agnoscantur 
+<lb/>ut agnoscantur
 <lb/>uniuersa lumina
 <lb type="inWord"/>ria firmamenti<add resp ="#ocp">.</add><milestone unit="vs" n="26"/>
 <lb/><choice><sic>e</sic><corr resp ="#ocp">E</corr></choice>t uocauit abraham <gap reason="lost" quantity="2" unit="pages"/>

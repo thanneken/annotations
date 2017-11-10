@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -34,17 +35,17 @@
 	<milestone type="5c" unit="page" n="123"/>
 	<milestone type="19c" unit="page" n="103" xml:id="palimpsest_page_123"/>
 	<milestone unit="column" n="a"/>
-	
+
 
 	<!-- p19c=103 p5c=123 -->
 
 <lb/><milestone unit="ch" n="22"/><milestone unit="vs" n="2"/><milestone unit="column" n="a"/>erant multae diuiti
-	<lb/>ae isac in bersabee 
+	<lb/>ae isac in bersabee
         <lb/>et erat isac abiens
         <lb/>et considerans ad<lb type="inWord"/>
         <lb/>huc quae posside<lb type="inWord"/>
         <lb/>bat et reuersus est
-        <lb/>ad patrem suum<add resp="#ocp">.</add><milestone unit="ch" n="22"/><milestone unit="vs" n="3"/>In 
+        <lb/>ad patrem suum<add resp="#ocp">.</add><milestone unit="ch" n="22"/><milestone unit="vs" n="3"/>In
         <lb/>tempore hoc adue<lb type="inWord"/>
         <lb/>nit ismael uidere
         <lb/>patrem suum et con<lb type="inWord"/>
@@ -116,7 +117,7 @@
         <lb/>misericordia tua
         <lb/>et pax tua super pue<lb type="inWord"/>
         <lb/>rum istum domine et
-        <lb/>       
+        <lb/>
         <milestone unit="column" n="b"/>
         <lb/>super semen eius
         <lb/>ut sint tibi in popu<lb type="inWord"/>

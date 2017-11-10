@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -66,7 +67,7 @@
 	<milestone unit="column" n="b"/>
 	<lb/>in tota terra a diebus
 	<lb/><choice><sic>abraham</sic><corr resp="#ocp">adam</corr></choice> usque ipsum
-	<lb/>ut dormiret homo 
+	<lb/>ut dormiret homo
 	<lb/>cum filiabus suis <add resp="#ocp">.</add> <milestone unit="vs" n="9"/>etenim
 	<lb/>ecce demandatum
 	<lb/>est et scriptum in
@@ -86,7 +87,7 @@
 	<lb type= "inWord"/>uit abraham a cebron
 	<lb/>et abiit et inhabita
 	<lb type= "inWord"/>uit inter medium
-	<lb/>cades et sur in finibus 
+	<lb/>cades et sur in finibus
 	<lb/>gerarum
 	<lb/><milestone unit="vs" n="11"/>Et in medio mensis
 	<milestone type="19c" unit="page" n="55" xml:id="palimpsest_page_055"/>
@@ -102,10 +103,10 @@
 	<lb type= "inWord"/>cepit et peperit fili
 	<lb type= "inWord"/>um in mense septimo
 	<lb/>et in dimidio mensis
-	<lb/>secundum tempus 
-	
-	
-	
+	<lb/>secundum tempus
+
+
+
 16:5 ‎ - - - uniuersa opera ipsorum quemammodum erant iniqui et peccatores ualde et inmundi spurcitias exercentes in carnibus suis et facientes abominationes super terram.
 16:6 ‎ Ita enim faciet deus iudicium in locis ubicumque fecerint abominationis sodomum sic iudicabit illos.
 16:7 ‎ Et loth liberabimus inde propter quod memor fuit deus abrahae ut (e)liberaret eum de medio euersionis.
