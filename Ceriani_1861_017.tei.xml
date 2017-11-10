@@ -70,7 +70,7 @@
 	<lb/>in tota terra a diebus
 	<lb/><choice><sic>abraham</sic><corr resp="#ocp">adam</corr></choice> usque ipsum
 	<lb/>ut dormiret homo
-	<lb/>cum filiabus suis <add resp="#ocp">.</add> <milestone unit="vs" n="9"/>etenim
+	<lb/>cum filiabus suis<add resp="#ocp">.</add> <milestone unit="vs" n="9"/>etenim
 	<lb/>ecce demandatum
 	<lb/>est et scriptum in
 	<lb/>omne semen in ta
@@ -95,10 +95,10 @@
 <p>
 	<milestone unit="vs" n="11"/>Et in medio mensis
 </p>
-	<milestone type="19c" unit="page" n="55" xml:id="palimpsest_page_055"/>
-	<milestone type="p5c" unit="page" n="98"/>
-	<milestone unit="column" n="a"/>
-<p type="F">quinti transtulit
+<milestone type="19c" unit="page" n="55" xml:id="palimpsest_page_055"/>
+<milestone type="p5c" unit="page" n="98"/>
+<milestone unit="column" n="a"/>
+<p part="F">quinti transtulit
 	<lb/>se inde et habitauit
 	<lb/>secus puteum iura
 	<lb type="inWord"/>tionis<add resp="ocp">.</add> <milestone unit="vs" n="12"/>Et in medio
