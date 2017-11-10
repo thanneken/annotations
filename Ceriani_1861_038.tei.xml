@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Teresa Valdez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,33 +27,121 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
+	<pb type="1861" n="38" xml:id="Ceriani_1861_038"/>
+	<milestone type="5c" unit="page" n="175"/>
+	<milestone type="19c" unit="page" n="138" xml:id="palimpsest_page_138"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="31"/>
+	<p part="F">
+		<milestone unit="vs" n="9"/>
+		-nate quoniam simi
+		<lb type="inWord"/>lis sunt tibi<add resp="#ocp">.</add> <milestone unit="vs" n="10"/>Et indi
+		<lb type="inWord"/>cauit illi dicens<add resp="#ocp">:</add> quo
+		<lb type="inWord"/>niam in ueritate sunt
+		<lb/>filii mei et uerum ui
+		<lb type="inWord"/>disti pater quoniam
+		<lb/>filii mei sunt.
+	</p>
+	<p><milestone unit="vs" n="10"/>Et proximauerunt
+		<lb/>illi et conuersus
+		<lb/>osculatus eos et
+		<lb/>amplexus est utros
+		<lb type="inWord"/>que simuli<add resp="#ocp">.</add> <milestone unit="vs" n="12"/>Et spiritus pro
+		<lb type="inWord"/>fetiae aduenit in os
+		<lb/>isac et tenuit leuui
+		<lb/>in manu dextera
+		<lb/>sua et iudam in sinis
+		<lb type="inWord"/>tra<add resp="#ocp">.</add> <milestone unit="vs" n="13"/>Et conuersus
+		<lb/>est ad leuui in pri
+		<lb type="inWord"/>mis et coepit bene
+		<lb type="inWord"/>dicere eum <choice><sic>et</sic><corr resp="#ocp">in</corr></choice> pri
+		<lb type="inWord"/>mis et benedixit
+		<lb/>leuui dicens:<!-- Ceriani has an unclear mark that could be punctuation  --> Bene
+		<lb type="inWord"/>dicat te deus cuncto
+		<lb type="inWord"/>rum et ipse dominus sae
+		<lb type="inWord"/>
+		<milestone unit="column" n="b"/>culorum et filios
+		<lb/>tuos in omnia sae
+		<lb type="inWord"/>cula<add resp="#ocp">.</add> <milestone unit="vs" n="14"/>Et det dominus tibi
+		<lb/>et semini tuo mag
+		<lb type="inWord"/>no intellegere glo
+		<lb type="inWord"/>riam eius et semen
+		<lb/>tuum adplicabit
+		<lb/>ad se ex omni carne
+		<lb/>ut seruiatis illi in
+		<lb/>sanctificationibus
+		<lb/>ipsius secundum
+		<lb/>angelos uultus et
+		<lb/>secundum sanctos
+		<lb/>et secundum ipsos
+		<lb/>erit et semen filio
+		<lb type="inWord"/>rum tuorum in glo
+		<lb type="inWord"/>riam et magnitudi
+		<lb type="inWord"/>nem et sanctifica
+		<lb type="inWord"/>tionem et sanctifi
+		<lb type="inWord"/>cauit illos in omnia
+		saecula<add resp="#ocp">.</add> <milestone unit="vs" n="15"/>Et princi
+		<lb type="inWord"/>pes et iudices erunt
+		<lb/>omni semini iacob<add resp="#ocp">.</add>
+		Sermonis dei in uerita
+		<lb type="inWord"/>tem <!-- not a typical line break starting a new line to the left, more of a sublilnear  -->
+	</p>
+	<milestone type="5c" unit="page" n="176"/>
+	<milestone type="19c" unit="page" n="137" xml:id="palimpsest_page_137"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">
+		<milestone unit="vs" n="15"/>
+		indicabunt et omnia
+		<lb/>iudicia eius in iustitia
+		<lb/>examinabunt et in
+		<lb type="inWord"/>dicabunt uias meas
+		<lb/>huic iacob et semitas
+		<lb/>meas huic istrael<add resp="#ocp">.</add>
+		<lb/>Benedictio dei dabi
+		<lb type="inWord"/>tur semini eius ut
+		<lb/>benedicant omne
+		<lb/>semen dilectum<add resp="#ocp">.</add> <milestone unit="vs" n="16"/>Uo
+		<lb type="inWord"/>cauit mater tua no
+		<lb type="inWord"/>men tuum leuui et
+		<lb/>in ueritate uocauit
+		<lb/>nomen tuum<add resp="#ocp">.</add> Ad de
+		<lb type="inWord"/>corem dei eris et so
+		<lb type="inWord"/>cius omnium filio
+		<lb type="inWord"/>rum iacob<add resp="#ocp">.</add> Mensa tua
+		<lb/>tibi erit et tu et filii
+		<lb/>tui manducabitis
+		<lb/>eam et in omnia sae
+		<lb type="inWord"/>cula mensa tua<!-- Ceriani has an unclear mark that could be punctuation  --> erit plena
+		<lb/>et non defici
+		<lb type="inWord"/>et esca tua in omnia
+		<lb/>saecula<add resp="#ocp">.</add> <milestone unit="vs" n="16"/>Et omnes
+		<milestone unit="column" n="b"/>odientes te in cons
+		<lb type="inWord"/>pectu tuo cadent et
+		<lb/>omnes inimi tui ex
+		<lb type="inWord"/>terminabuntur et
+		<lb/>perient. Quia ut ille
+		<lb/>benedicit te erit be
+		<lb type="inWord"/>nedictus et si gens
+		<lb/>erit aliqua quae ma
+		<lb type="inWord"/>ledixerit te male
+		<lb type="inWord"/>dicta erit.
+	</p>
+	<p><milestone unit="vs" n="18"/>Et iudae dixit<add resp="#ocp">:</add> dabit
+		<lb/>tibi deus fortitudinem
+		<lb/>et uirtutem ut tu
+		<lb/>conculces omnes
+		<lb/>odientes te<add resp="#ocp">.</add> Prin
+		<lb type="inWord"/>ceps eris tu et unus
+		<lb/>filiorum tuorum<!-- ocp has - - - --> erit
+		<lb/>abiens et optinens
+		<lb/>uniuersam terram
+		<lb/>et regiones<add resp="#ocp">.</add> Tunc ti
+		<lb type="inWord"/>mebunt populi a fa
+		<lb type="inWord"/>cie tua et conturba
+		<lb type="inWord"/>buntur uniuersae
+		<lb/>gentes et omnes <!-- ocp has - - - -->. <gap reason="page skip" quantity="3" unit="page"/>
 
-<ab>
-<pb type="1861" n="38" xml:id="Ceriani_1861_038"/>
-
-	<!-- p19c=138 p5c=175 -->
-
-31:9 ‎ - - - nate quoniam similis sunt tibi.
-31:10 ‎ Et indicauit illi dicens: quoniam in ueritate sunt filii mei et uerum uidisti pater quoniam filii mei sunt.
-31:11 ‎ Et proximauerunt illi et conuersus osculatus eos et amplexus est utrosque simul.
-31:12 ‎ Et spiritus profetiae aduenit in os isac et tenuit leuui in manu dextera sua et iudam in sinistra.
-31:13 ‎ Et conuersus est ad leuui in primis et coepit benedicere eum *in* primis et benedixit leuui dicens: Benedicat te deus cunctorum et ipse dominus sae-
-
--culorum et filios tuos in omnia saecula.
-31:14 ‎ Et det dominus tibi et semini tuo magno intellegere gloriam eius et semen tuum adplicabit ad se ex omni carne ut seruiatis illi in sanctificationibus ipsius secundum angelos uultus et secundum sanctos et secundum ipsos erit et semen filiorum tuorum in gloriam et magnitudinem et sanctificationem et sanctificauit illos in omnia saecula.
-31:15 ‎ Et principes et iudices erunt omni semini iacob. Sermonis dei in ueritatem
-
-	<!-- p19c=137 p5c=176 -->
-
-indicabunt et omnia iudicia eius in iustitia examinabunt et indicabunt uias meas huic iacob et semitas meas huic istrael. Benedictio dei dabitur semini eius ut benedicant omne semen dilectum.
-31:16 ‎ Uocauit mater tua nomen tuum leuui et in ueritate uocauit nomen tuum. Ad decorem dei eris et socius omnium filiorum iacob. Mensa tua tibi erit et tu et filii tui manducabitis eam et in omnia saecula mensa tua erit plena et non deficiet esca tua in omnia saecula.
-31:17 ‎ Et omnes
-
-odientes te in conspectu tuo cadent et omnes inimi tui exterminabuntur et perient. Quia ut ille benedicit te erit benedictus et si gens erit aliqua quae maledixerit te maledicta erit.
-31:18 ‎ Et iudae dixit: dabit tibi deus fortitudinem et uirtutem ut tu conculces omnes odientes te. Princeps eris tu et unus filiorum tuorum - - - erit abiens et optinens uniuersam terram et regiones. Tunc timebunt populi a facie tua et conturbabuntur uniuersae gentes et omnes - - -.
-
-</ab>
-
+</p>
 </body>
 </text>
 </TEI>

@@ -27,31 +27,183 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
+	
 <pb type="1861" n="37" xml:id="Ceriani_1861_037"/>
+	<milestone type="5c" unit="page" n="171"/>
+	<milestone type="19c" unit="page" n="87" xml:id="palimpsest_page_087"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="30"/>
+	<p type="F">
 
-	<!-- p19c=87 p5c=171 -->
+	
+	conputatum est il
+	<lb type="inWord"/>lis in ueritate et con
+	<lb type="inWord"/>scriptum est illis
+	<lb/>in iustitia<add resp="#ocp">.</add> <milestone unit= "vs" n="18"/> Et adscrip
+	<lb type="inWord"/>tum est semen leuui
+	<lb/>sacerdotium et leu
+	<lb type="inWord"/>uitas ut deseruiant
+	<lb/>in conspectu domini si
+	<lb type="inWord"/>cuti et nos omnibus
+	<lb/>diebus et benedicitur
+	<lb/>leuui et filii eius in
+	<lb/>saecula quoniam ae
+	<lb type="inWord"/>mulatus est uerita
+	<lb type="inWord"/>tem ut faceret iu
+	<lb type="inWord"/>dicium et defensio
+	<lb type="inWord"/>nem ab omnibus qui
+	<lb/>positi sunt super
+	<lb/>istrahel<add resp="#ocp">.</add> <milestone unit= "vs" n="19"/> Et sic re
+	<lb type="inWord"/>fertur illi in testi
+	<lb type="inWord"/>monium in tabulis
+	<lb/>caeli benedictio et
+	<lb/>iustitia in conspec
+	<lb type="inWord"/>tu dei omnium<add resp="#ocp">.</add> <milestone unit= "vs" n="20"/> Et me
+	<lb type="inWord"/>morabitur iustitia	
+	<lb/>
+	<milestone unit="column" n="b"/>quam faciet homo
+	<lb/>in uita sua in omnibus
+	<lb/>temporibus anni usque
+	
+		
 
 conputatum est illis in ueritate et conscriptum est illis in iustitia.
-30:18 ‎ Et adscriptum est semen leuui sacerdotium et leuuitas ut deseruiant in conspectu domini sicuti et nos omnibus diebus et benedicitur leuui et filii eius in saecula quoniam aemulatus est ueritatem ut faceret iudicium et defensionem ab omnibus qui positi sunt super istrahel.
-30:19 ‎ Et sic refertur illi in testimonium in tabulis caeli benedictio et iustitia in conspectu dei omnium.
-30:20 ‎ Et memorabitur iustitia
+<milestone unit= "vs" n="18"/> ‎ Et adscriptum est semen leuui sacerdotium et leuuitas ut deseruiant in conspectu domini sicuti et nos omnibus diebus et benedicitur leuui et filii eius in saecula quoniam aemulatus est ueritatem ut faceret iudicium et defensionem ab omnibus qui positi sunt super istrahel.
+<milestone unit= "vs" n="19"/> ‎ Et sic refertur illi in testimonium in tabulis caeli benedictio et iustitia in conspectu dei omnium.
+<milestone unit= "vs" n="20"/> ‎ Et memorabitur iustitia
 
 quam faciet homo in uita sua in omnibus temporibus anni usque ad mille annos offeretur et ueniet illi et semini eius post eum et scriptus est amicus iustus in tabulis caeli.
-30:21 ‎ Scribsi tibi omnes sermones istos et mandaui ut adnunties filiis istrahel ut non faciant malignum et non praetereant praecepta et non dissipabunt testamentum dispositum super ipsos et faciant ea. Et adscribentur amici dei.
-30:22 ‎ Si autem transgressi fuerint testamentum et fecerint
+<milestone unit= "vs" n="21"/> ‎ Scribsi tibi omnes sermones istos et mandaui ut adnunties filiis istrahel ut non faciant malignum et non praetereant praecepta et non dissipabunt testamentum dispositum super ipsos et faciant ea. Et adscribentur amici dei.
+<milestone unit= "vs" n="22"/> ‎ Si autem transgressi fuerint testamentum et fecerint
 
 	<!-- p19c=88 p5c=172 -->
 
 ex omnibus uiis abominationem quaecumque scripta sunt in tabulis caeli inimici dei erunt et delebuntur de libro uitae et scribentur in libro perditionum inter eos qui eradicantur a terra.
-30:23 ‎ Et in die qua percusserunt filii iacob sycimam ascendit illis scriptura in caelis facientes ueritatem et iudicium et uindictam in ipsis et scripti sunt in benedictione.
-30:24 ‎ Et eiecerunt dinam sororem suam de domo sycem et captiuauerunt uniuersa quae erant in syci-
+<milestone unit= "vs" n="23"/> ‎ Et in die qua percusserunt filii iacob sycimam ascendit illis scriptura in caelis facientes ueritatem et iudicium et uindictam in ipsis et scripti sunt in benedictione.
+<milestone unit= "vs" n="24"/> ‎ Et eiecerunt dinam sororem suam de domo sycem et captiuauerunt uniuersa quae erant in syci-
 
 -mis oues et boues ipsorum et asinos et omnem substantiam eorum et omnem ׀armentam׀ eorum et adtulerunt uniuersa ad iacob patrem suum.
-30:25 ‎ Et locutus est ad illos quare exterminauerunt ciuitatem timuit enim ab his qui inhabitant terram a cananeis et ferezeis.
-30:26 ‎ Et factus est timor domini super omnes ciuitates quae erant in circuitu sycimorum et non persecuti sunt post iacob ut nocerent eum quoniam timor cecidit super ipsos.
+<milestone unit= "vs" n="25"/> ‎ Et locutus est ad illos quare exterminauerunt ciuitatem timuit enim ab his qui inhabitant terram a cananeis et ferezeis.
+<milestone unit= "vs" n="26"/> ‎ Et factus est timor domini super omnes ciuitates quae erant in circuitu sycimorum et non persecuti sunt post iacob ut nocerent eum quoniam timor cecidit super ipsos.
 31:1 Et in prima die mensis
+
+
+</ab>
+<ab>
+        <pb type="1861" n="37" xml:id="Ceriani_1861_037"/>
+        <cb type="Ceriani" n="1"/>
+        <milestone type="19c" unit="page" n="87" xml:id="palimpsest_page_87"/>
+        <milestone type="5c" unit="page" n="171"/>
+        <milestone unit="column" n="a"/>
+	 
+
+        <!-- p19c=87 p5c=171 -->
+
+        <lb/><milestone unit="ch" n="30"/><milestone unit="vs" n="2"/><milestone unit="column" n="a"/>conputatum est il<lb type="inWord"/>
+        <lb/>lis in ueritate et con<lb type="inWord"/>
+        <lb/>scriptum est illis
+        <lb/>in iustitia<add resp="#ocp">.</add><milestone unit="ch" n="30"/><milestone unit="vs" n="18"/>Et adscrip<lb type="inWord"/>
+        <lb/>tum est semen leuui
+        <lb/>sacerdotium et leu<lb type="inWord"/>
+        <lb/>uitas ut deseruiant
+        <lb/>in conspectu domini si<lb type="inWord"/>
+        <lb/>cuti et nos omnibus
+        <lb/>diebus et benedicitur
+        <lb/>leuui et filii eius in
+        <lb/>saecula quoniam ae<lb type="inWord"/>
+        <lb/>mulatus est uerita<lb type="inWord"/>
+        <lb/>tem ut faceret iu<lb type="inWord"/>
+        <lb/>dicium et defensio<lb type="inWord"/>
+        <lb/>nem ab omnibus qui
+        <lb/>positi sunt super
+        <lb/>istrahel<add resp="#ocp">.</add><milestone unit="ch" n="30"/><milestone unit="vs" n="19"/>Et sic re<lb type="inWord"/>
+        <lb/>fertur illi in testi<lb type="inWord"/>
+        <lb/>monium in tabulis
+        <lb/>caeli benedictio et
+        <lb/>iustitia in conspec<lb type="inWord"/>
+        <lb/>tu dei omnium<add resp="#ocp">.</add><milestone unit="ch" n="30"/><milestone unit="vs" n="20"/>Et me<lb type="inWord"/>
+        <lb/>morabitur iustitia
+        <lb/>
+        <milestone unit="column" n="b"/>
+        <lb/>quam faciet homo
+        <lb/>in uita sua in omnibus
+        <lb/>temporibus anni usque
+        <lb/>ad mille annos offe<lb type="inWord"/>
+        <lb/>retur et ueniet illi
+        <lb/>et semini eius post
+        <lb/>eum et scriptus est
+        <lb/>amicus iustus in ta<lb type="inWord"/>
+        <lb/>bulis caeli<add resp="#ocp">.</add>
+        <milestone unit="ch" n="30"/><milestone unit="vs" n="21"/>Scribsi tibi omnes
+        <lb/>sermones istos et
+        <lb/>mandaui ut adnun<lb type="inWord"/>
+        <lb/>ties filiis istrahel
+        <lb/>ut non faciant ma<lb type="inWord"/>
+        <lb/>lignum et non prae<lb type="inWord"/>
+        <lb/>tereant praecepta
+        <lb/>et non dissipabunt
+        <lb/>testamentum dis<lb type="inWord"/>
+        <lb/>positum super ipsos
+        <lb/>et faciant ea. Et ad<lb type="inWord"/>
+        <lb/>scribentur amici dei<add resp="#ocp">.</add>
+   ‎     <milestone unit="ch" n="30"/><milestone unit="vs" n="22"/>Si autem transgres<lb type="inWord"/>
+        <lb/>si fuerint testamen
+        <lb/>tum et fecerint
+
+	<!-- p19c=88 p5c=172 -->
+
+        <milestone type="19c" unit="page" n="88" xml:id="palimpsest_page_88"/>
+        <milestone type="5c" unit="page" n="171"/>
+        <milestone unit="column" n="a"/>
+        <lb/>ex omnibus uiis abo<lb type="inWord"/>
+        <lb/>minationem qua<unclear>e</unclear><lb type="inWord"/>
+        <lb/>cumque scripta sunt
+        <lb/>in tabulis caeli ini<lb type="inWord"/>
+        <lb/>mici dei erunt et de<lb type="inWord"/>
+        <lb/>lebuntur de libro
+        <lb/>uitae et scribentur
+        <lb/>in libro perditionum
+        <lb/>inter eos qui eradi<lb type="inWord"/>
+        <lb/>cantur a terra.
+        <milestone unit="ch" n="30"/><milestone unit="vs" n="23"/>Et in die qua percus<lb type="inWord"/>
+        <lb/>serunt filii iacob sy<lb type="inWord"/>
+        <lb/>cimam ascendit illis
+        <lb/>scriptura in caelis
+        <lb/>facientes ueritatem
+        <lb/>et iudicium et uin<lb type="inWord"/>
+        <lb/>dictam in ipsis et
+        <lb/>scripti sunt in be<lb type="inWord"/>
+        <lb/>nedictione<add resp="#ocp">.</add><milestone unit="ch" n="30"/><milestone unit="vs" n="24"/>Et eie<lb type="inWord"/>
+        <lb/>cerunt dinam soro<lb type="inWord"/>
+        <lb/>rem suam de domo
+        <lb/>sycem et captiua<lb type="inWord"/>
+        <lb/>uerunt uniuersa
+        <lb/>quae erant in syci-
+        <lb/><add resp="#ocp">-</add>mis oues et boues
+        <lb/>ipsorum et asinos
+        <lb/>et omnem substan<lb type="inWord"/>
+        <lb/>tiam eorum et om<lb type="inWord"/>
+        <lb/>nem ׀armentam׀ eorum
+        <lb/>et adtulerunt uni<lb type="inWord"/>
+        <lb/>uersa ad iacob patrem
+        <lb/>suum<add resp="#ocp">.</add><milestone unit="ch" n="30"/><milestone unit="vs" n="25"/>Et locutus est
+        <lb/>ad illos quare exter<lb type="inWord"/>
+        <lb/>minauerunt ciuita
+        <lb/>tem timuit enim ab
+        <lb/>his qui inhabitant
+        <lb/>terram a cananeis
+        <lb/>et ferezeis<add resp="#ocp">.</add><milestone unit="ch" n="30"/><milestone unit="vs" n="25"/>Et fac<lb type="inWord"/>
+        <lb/>tus est timor domini
+        <lb/>super omnes ciuita<lb type="inWord"/>
+        <lb/>tes quae erant in
+        <lb/>circuitu sycimorum
+        <lb/>et non persecuti
+        <lb/>sunt post iacob ut
+        <lb/>nocerent eum quo<lb type="inWord"/>
+        <lb/>niam timor cecidit
+        <lb/>super ipsos<add resp="#ocp">.</add>
+
+        <milestone unit="ch" n="31"/><milestone unit="vs" n="1"/>Et in prima die mensis
 
 
 </ab>
