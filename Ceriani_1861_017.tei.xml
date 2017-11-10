@@ -32,7 +32,7 @@
 <pb type="1861" n="17" xml:id="Ceriani_1861_017"/>
 <cb type= "Ceriani" n="1"/>
 <milestone type="19c" unit="page" n="56" xml:id="palimpsest_page_056"/>
-<milestone type="5c" unit="page" n="95"/>
+<milestone type="5c" unit="page" n="97"/>
 <milestone unit="column" n="a"/>
 <milestone unit="ch" n="16"/>
 <p part="F">
@@ -65,8 +65,7 @@
 	<lb/>et <choice><sic>filii</sic><corr resp="#ocp">filiae</corr></choice>eius iniquita
 	<lb type="inWord"/>tem super terram
 	<lb/>qualis non est facta
-	<milestone unit="column" n="b"/>
-	<lb/>in tota terra a diebus
+	<lb/><milestone unit="column" n="b"/>in tota terra a diebus
 	<lb/><choice><sic>abraham</sic><corr resp="#ocp">adam</corr></choice> usque ipsum
 	<lb/>ut dormiret homo
 	<lb/>cum filiabus suis<add resp="#ocp">.</add> <milestone unit="vs" n="9"/>etenim
