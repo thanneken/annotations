@@ -27,18 +27,19 @@
 <text xml:lang="la">
 <body>
 
-<p>
 <pb type="1861" n="27" xml:id="Ceriani_1861_027"/>
 <milestone type="5c" unit="page" n="131"/>
 <milestone type="19c" unit="page" n="75" xml:id="palimpsest_page_062"/>
-<milestone unit="column" n="a"/> (for manuscript columns, not Ceriani's columns)
+<milestone unit="column" n="a"/>
 <milestone unit="ch" n="23"/>
-<milestone unit="vs" n="8"/>
-	<!-- p19c=75 p5c=131 -->
-
- <milestone unit="vs" n="9"/> quinto et centesimo et septuagensimo anno conpleuit dies uitae suae senior et plenus dierum.
-23:9 ‎ Propter quod dies antiquorum erant uitae ipsius (Et) nonodecimo iubeleo post dilubium coeperunt dies minui iubeleorum horum et senescere celerius et minui dies uitae ipsorum a facie tribulationis multorum et malignari in uiis suis excepto abram.
-23:10 ‎ Quia abraham erat perfectus in omnibus operibus suis cum deo. Et beneplacens in ueritate omnibus
+<p type="F"><milestone unit="vs" n="8"/> quinto et centesi
+<lb type="inword"/>mo et septuagen
+<lb type="inword"/>simo anno conple
+<lb type="inword"/>uit dies uitae suae
+<lb/>senior et plenus 
+<lb/>dierum<add resp="#ocp">.</add> <milestone unit="vs" n="9"/>Propter quod
+<milestone unit="vs" n="9"/> ‎ Propter quod dies antiquorum erant uitae ipsius (Et) nonodecimo iubeleo post dilubium coeperunt dies minui iubeleorum horum et senescere celerius et minui dies uitae ipsorum a facie tribulationis multorum et malignari in uiis suis excepto abram.
+<milestone unit="vs" n="10"/>  ‎ Quia abraham erat perfectus in omnibus operibus suis cum deo. Et beneplacens in ueritate omnibus
 
 diebus uitae suae. Et ecce non conpleuit quattuor iubeleos in uita sua quousque senuit a facie malignorum. Et satiatus est diebus suis.
 23:11 ‎ Et generationes quae surrexerunt ex hoc et usque in diem iudicii magni sed senescent cito priusquam conpleant duos iubeleos et erunt transeuntes ab ipsis spiritus intellectus ipsorum.
