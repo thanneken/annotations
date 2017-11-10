@@ -27,30 +27,64 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
+	
 <pb type="1861" n="37" xml:id="Ceriani_1861_037"/>
+	<milestone type="5c" unit="page" n="171"/>
+	<milestone type="19c" unit="page" n="87" xml:id="palimpsest_page_087"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="30"/>
+	<p type="F">
 
-	<!-- p19c=87 p5c=171 -->
+	
+	conputatum est il
+	<lb type="inWord"/>lis in ueritate et con
+	<lb type="inWord"/>scriptum est illis
+	<lb/>in iustitia<add resp="#ocp">.</add> <milestone unit= "vs" n="18"/> Et adscrip
+	<lb type="inWord"/>tum est semen leuui
+	<lb/>sacerdotium et leu
+	<lb type="inWord"/>uitas ut deseruiant
+	<lb/>in conspectu domini si
+	<lb type="inWord"/>cuti et nos omnibus
+	<lb/>diebus et benedicitur
+	<lb/>leuui et filii eius in
+	<lb/>saecula quoniam ae
+	<lb type="inWord"/>mulatus est uerita
+	<lb type="inWord"/>tem ut faceret iu
+	<lb type="inWord"/>dicium et defensio
+	<lb type="inWord"/>nem ab omnibus qui
+	<lb/>positi sunt super
+	<lb/>istrahel<add resp="#ocp">.</add> <milestone unit= "vs" n="19"/> Et sic re
+	<lb type="inWord"/>fertur illi in testi
+	<lb type="inWord"/>monium in tabulis
+	<lb/>caeli benedictio et
+	<lb/>iustitia in conspec
+	<lb type="inWord"/>tu dei omnium<add resp="#ocp">.</add> <milestone unit= "vs" n="20"/> Et me
+	<lb type="inWord"/>morabitur iustitia	
+	<lb/>
+	<milestone unit="column" n="b"/>quam faciet homo
+	<lb/>in uita sua in omnibus
+	<lb/>temporibus anni usque
+	
+		
 
 conputatum est illis in ueritate et conscriptum est illis in iustitia.
-30:18 ‎ Et adscriptum est semen leuui sacerdotium et leuuitas ut deseruiant in conspectu domini sicuti et nos omnibus diebus et benedicitur leuui et filii eius in saecula quoniam aemulatus est ueritatem ut faceret iudicium et defensionem ab omnibus qui positi sunt super istrahel.
-30:19 ‎ Et sic refertur illi in testimonium in tabulis caeli benedictio et iustitia in conspectu dei omnium.
-30:20 ‎ Et memorabitur iustitia
+<milestone unit= "vs" n="18"/> ‎ Et adscriptum est semen leuui sacerdotium et leuuitas ut deseruiant in conspectu domini sicuti et nos omnibus diebus et benedicitur leuui et filii eius in saecula quoniam aemulatus est ueritatem ut faceret iudicium et defensionem ab omnibus qui positi sunt super istrahel.
+<milestone unit= "vs" n="19"/> ‎ Et sic refertur illi in testimonium in tabulis caeli benedictio et iustitia in conspectu dei omnium.
+<milestone unit= "vs" n="20"/> ‎ Et memorabitur iustitia
 
 quam faciet homo in uita sua in omnibus temporibus anni usque ad mille annos offeretur et ueniet illi et semini eius post eum et scriptus est amicus iustus in tabulis caeli.
-30:21 ‎ Scribsi tibi omnes sermones istos et mandaui ut adnunties filiis istrahel ut non faciant malignum et non praetereant praecepta et non dissipabunt testamentum dispositum super ipsos et faciant ea. Et adscribentur amici dei.
-30:22 ‎ Si autem transgressi fuerint testamentum et fecerint
+<milestone unit= "vs" n="21"/> ‎ Scribsi tibi omnes sermones istos et mandaui ut adnunties filiis istrahel ut non faciant malignum et non praetereant praecepta et non dissipabunt testamentum dispositum super ipsos et faciant ea. Et adscribentur amici dei.
+<milestone unit= "vs" n="22"/> ‎ Si autem transgressi fuerint testamentum et fecerint
 
 	<!-- p19c=88 p5c=172 -->
 
 ex omnibus uiis abominationem quaecumque scripta sunt in tabulis caeli inimici dei erunt et delebuntur de libro uitae et scribentur in libro perditionum inter eos qui eradicantur a terra.
-30:23 ‎ Et in die qua percusserunt filii iacob sycimam ascendit illis scriptura in caelis facientes ueritatem et iudicium et uindictam in ipsis et scripti sunt in benedictione.
-30:24 ‎ Et eiecerunt dinam sororem suam de domo sycem et captiuauerunt uniuersa quae erant in syci-
+<milestone unit= "vs" n="23"/> ‎ Et in die qua percusserunt filii iacob sycimam ascendit illis scriptura in caelis facientes ueritatem et iudicium et uindictam in ipsis et scripti sunt in benedictione.
+<milestone unit= "vs" n="24"/> ‎ Et eiecerunt dinam sororem suam de domo sycem et captiuauerunt uniuersa quae erant in syci-
 
 -mis oues et boues ipsorum et asinos et omnem substantiam eorum et omnem ׀armentam׀ eorum et adtulerunt uniuersa ad iacob patrem suum.
-30:25 ‎ Et locutus est ad illos quare exterminauerunt ciuitatem timuit enim ab his qui inhabitant terram a cananeis et ferezeis.
-30:26 ‎ Et factus est timor domini super omnes ciuitates quae erant in circuitu sycimorum et non persecuti sunt post iacob ut nocerent eum quoniam timor cecidit super ipsos.
+<milestone unit= "vs" n="25"/> ‎ Et locutus est ad illos quare exterminauerunt ciuitatem timuit enim ab his qui inhabitant terram a cananeis et ferezeis.
+<milestone unit= "vs" n="26"/> ‎ Et factus est timor domini super omnes ciuitates quae erant in circuitu sycimorum et non persecuti sunt post iacob ut nocerent eum quoniam timor cecidit super ipsos.
 31:1 Et in prima die mensis
 
 
