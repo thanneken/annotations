@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xml>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -27,33 +26,126 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
+   <pb type="1861" n="33" xml:id="Ceriani_1861_033"/>
+   <cb type= "Ceriani" n="1"/>
+   <milestone type="19c" unit="page" n="33" xml:id="palimpsest_page_136"/>
+   <milestone type="5c" unit="page" n="33"/>
+   <milestone unit="column" n="a"/>
+   <milestone unit="ch" n="16"/>
+   <p part="F">
 
-<ab>
-<pb type="1861" n="33" xml:id="Ceriani_1861_033"/>
+	
 
-	<!-- p19c=136 p5c=161 -->
+‎           <add resp="#ocp">&lt;28:16</add>uentris tui aut dere 
+           <lb type= "inword"/>liqui te.<add resp="#ocp">></add> <add resp="#ocp">28:17</add> Et quoniam 
+           <lb/>uidit rachel quia pe
+           <lb type= "inword"/>perit lia iacob quat
+           <lb type= "inword"/>tuor filios rubem 
+           <lb/>symeon leui iudas 
+           <lb/>dixit rachel ad iacob<add resp="#ocp">:</add> 
+           <lb/>intra ad ballam an
+           <lb type= "inword"/>cillam meam et (con)con
+           <lb type= "inword"/>cipiet et pariet 
+           <lb/>mihi filium.
+           <lb/><add resp="#ocp">28:18</add> ‎Et dedit ballam an
+           <lb type= "inword"/>cillam suam in uxo
+           <lb type= "inword"/>rem et concepit et 
+           <lb/>peperit filium et uo
+           <lb type= "inword"/>cauit nomen eius 
+           <lb/>dan nono mense hu
+           <lb type= "inword"/>ius sexti anni septi
+           <lb type= "inword"/>manarum. <add resp="#ocp">28:19</add> Et adie
+           <lb type= "inword"/>cit iacob et introi
+           <lb type= "inword"/>uit ad ballam et con
+           <lb type= "inword"/>cepit et peperit fi
+           <lb type= "inword"/>lium secundum iacob 
+           <lb/>et uocauit rachel
 
-‎&lt;28:16 uentris tui aut dereliqui te.> 28:17 Et quoniam uidit rachel quia peperit lia iacob quattuor filios rubem symeon leui iudas dixit rachel ad iacob: intra ad ballam ancillam meam et (con)concipiet et pariet mihi filium.
-28:18 ‎ Et dedit ballam ancillam suam in uxorem et concepit et peperit filium et uocauit nomen eius dan nono mense huius sexti anni septimanarum.
-28:19 ‎ Et adiecit iacob et introiuit ad ballam et concepit et peperit filium secundum iacob et uocauit rachel
+<milestone unit="column" n="b"/>
 
-nomen eius neptalim in quinto mense septimi anni secunda septimanarum quarta.
-28:20 ‎ Et uidens lia quoniam detenta est et non est pariens et dedit aliam ancillam suam iacob in mulierem et concepit et peperit filium et uocauit lia nomen eius gad. Et in duodecimo mense octaui anni tertio die septimanarum quinti.
-28:21 ‎ Introiuit ad eam et peperit illi filium et uocauit nomen eius aser. In secundo mense decimi diei in quinto anno septimanarum quarto.
-28:22 ‎ Introiuit
+           <lb/>nomen eius nepta
+           <lb type= "inword"/>lim in quinto mense 
+           <lb/>septimi anni secun
+           <lb type= "inword"/>da septimanarum 
+           <lb/>quarta. <add resp="#ocp">28:20</add> Et uidens 
+           <lb/>lia quoniam deten
+           <lb type= "inword"/>ta est et non est pa
+           <lb type= "inword"/>riens et dedit aliam 
+           <lb/>ancillam suam iacob 
+           <lb/>in mulierem et con
+           <lb type= "inword"/>cepit et peperit fi
+           <lb type= "inword"/>lium et uocauit lia 
+           <lb/>nomen eius gad<add resp="#ocp">.</add> 
+           <lb/>Et in duodecimo men
+           <lb/>se octaui anni ter
+           <lb/>tio die septimana
+           <lb type= "inword"/>rum quinti<add resp="#ocp">.</add> <add resp="#ocp">28:21</add> Introi 
+           <lb type= "inword"/>uit ad eam et pepe
+           <lb type= "inword"/>rit illi filium et uo
+           <lb type= "inword"/>cauit nomen eius aser<add resp="#ocp">.</add> 
+           <lb/>In secundo mense 
+           <lb/>decimi diei in quinto 
+           <lb/>anno septimanarum 
+           <lb/>quarto<add resp="#ocp">.</add> <add resp="#ocp">28:22</add> Introiuit
+           
 
-	<!-- p19c=135 p5c=162 -->
+   <milestone type="19c" unit="page" n="33" xml:id="palimpsest_page_135"/>
+   <milestone type="5c" unit="page" n="33"/>
+   <milestone unit="column" n="a"/>
 
-ad illam* et concepit et peperit filium et uocauit nomen eius isacahar et in quarto anno mense quinti anni die septimanarum quarto dedit illum nutrici.
-28:23 ‎ Et introiuit adhuc iacob ad liam et concepit et peperit duos masculum et feminam et uocauit nomen masculi zabylon et nomen faeminae dinam et in septimi mensis septimi anni sexti septimanarum quarti.
-28:24 ‎ Misertus est deus rachel et aperuit matricem eius et concepit et peperit filium et uoca-
+           <lb/>ad illam<add resp="#ocp">*</add> et concepit 
+           <lb/>et peperit filium 
+           <lb/>et uocauit nomen 
+           <lb/>eius isacahar et in 
+           <lb/>quarto anno men
+           <lb type= "inword"/>se quinti anni die 
+           <lb/>septimanarum quar
+           <lb type= "inword"/>to dedit illum nu
+           <lb type= "inword"/>trici. <add resp="#ocp">28:23</add> Et introiuit 
+           <lb/>adhuc iacob ad liam 
+           <lb/>et concepit et pe
+           <lb type= "inword"/>perit duos mascu
+           <lb type= "inword"/>lum et feminam et 
+           <lb/>uocauit nomen mas
+           <lb type= "inword"/>culi zabylon et no
+           <lb type= "inword"/>men faeminae dinam 
+           <lb/>et in septimi mensis 
+           <lb/>septimi anni sexti 
+           <lb/>septimanarum quar
+           <lb type= "inword"/>ti<add resp="#ocp">.</add> <add resp="#ocp">28:24</add> Misertus est deus 
+           <lb/>rachel et aperuit 
+           <lb/>matricem eius et 
+           <lb/>concepit et pepe
+           <lb type= "inword"/>rit filium et uoca-
+           <lb/>-uit nomen eius ioseph<add resp="#ocp">.</add> 
 
--uit nomen eius ioseph. In primo die mensis quarti in sexto septimanarum quarto huius.
-28:25 ‎ In tempore quo natus est ioseph dixit iacob ad laban: da mihi mulieres meas et filios meos et abibo ad patrem meum isac et faciam mihi domum quoniam conplebi annos quibus seruiui tibi pro duabus filiabus tuis et ibo in domum patris mei.
-28:26 ‎ Et dixit laban ad iacob: expecta me in mercede et pasce iterum oues meas et dabo tibi mercedem.
-28:27 ‎ Et placuerunt de mercede ut det illi - - -.
+<milestone unit="column" n="b"/>
 
-</ab>
+           <lb/>In primo die mensis 
+           <lb/>quarti in sexto sep
+           <lb type= "inword"/>timanarum quarto 
+           <lb/>huius<add resp="#ocp">.</add> <add resp="#ocp">28:25</add> In tempore quo 
+           <lb/>natus est ioseph di
+           <lb type= "inword"/>xit iacob ad laban<add resp="#ocp">:</add> 
+           <lb/>da mihi mulieres me
+           <lb type= "inword"/>as et filios meos et 
+           <lb/>abibo ad patrem me
+           <lb type= "inword"/>um isac et faciam 
+           <lb/>mihi domum quoni
+           <lb type= "inword"/>am conplebi annos 
+           <lb/>quibus seruiui tibi 
+           <lb/>pro duabus filiabus tuis 
+           <lb/>et ibo in domum pa
+           <lb type= "inword"/>tris mei<add resp="#ocp">.</add> <add resp="#ocp">28:26</add> Et dixit la
+           <lb type= "inword"/>ban ad iacob<add resp="#ocp">:</add> expec
+           <lb type= "inword"/>ta me in mercede 
+           <lb/>et pasce iterum 
+           <lb/>oues meas et dabo 
+           <lb/>tibi mercedem<add resp="#ocp">.</add> <add resp="#ocp">28:27</add> Et 
+           <lb/>placuerunt de 
+           <lb/>mercede ut det illi<add resp="#ocp">.</add>
+           
+</p>
 
 </body>
 </text>
