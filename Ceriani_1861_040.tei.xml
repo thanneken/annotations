@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>CHRISTOPHER REPKA</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -27,34 +29,136 @@
 <text xml:lang="la">
 <body>
 
-<ab>
+
+
+<p part="F">
 <pb type="1861" n="40" xml:id="Ceriani_1861_040"/>
+<cb type="Ceriani" n="1"/>
+<milestone type="5c" unit="page" n="183"/>
+<milestone type="19c" unit="page" n="74" xml:id="palimpsest_page_074"/>
+
 
 	<!-- p19c=74 p5c=183 -->
 
-32:18 ‎ ubicumque fecerint uestigium pedum suorum aduersus filios hominum.
-32:19 ‎ Et dabo semini tuo uniuersas benedictiones quaecumque sunt sub caelo et dominabuntur et potestatem exercent in omnibus gentibus secundum uolumtatem suam et post haec optinebunt uniuersam terram et hereditabunt eam in saecula.
-32:20 ‎ Et ut consummauit loquens cum eo ascendit ab eo et erat iacob considerans usquequo ascendit ab eo in caelo.
-32:21 ‎ Et uidit in uisione noctis et ecce angelus dei
+<milestone unit="ch" n="32"/> <milestone unit="vs" n="18"/> 
 
-descendebat de caelo et septem tabulae buxeae in manu eius et dedit illas iacob et legit et cognouit quae scripta sunt in eis et quae erunt super ipsum et filios eius in omnia saecula.
-32:22 ‎ Et monstrauit illi quaecumque erant scripta in tabulis (bulis) buxeis et dixit illi: non aedificabis hunc locum et non facias eum in sanctificationem aeternam et nol*i* habitari in hunc locum quia sic erit locus iste. Sed uade in locum barin abraham patris tui et inhabita ad isac patrem tuum
+<lb/>ubicumque fecerint
+<lb/>uestigium pedum
+<lb/>suorum aduersus 
+<lb/>filios hominum. <milestone unit="vs" n="19"/> Et da
+<lb type="inword"/>bo semini tuo uni
+<lb type="inword"/>uersas benedictio
+<lb type="inword"/>nes quaecumque sunt
+<lb/>sub caelo et domina
+<lb type="inword"/>buntur et potesta
+<lb type="inword"/>tem exercent in om
+<lb type="inword"/>nibus gentibus secundum 
+<lb/>uolumtatem suam 
+<lb/>et post haec optine
+<lb type="inword"/>bunt uniuersam 
+<lb/>terram et heredita
+<lb type="inword"/>bunt eam in saecula.
+</p>
 
+<p>
+<milestone unit="vs" n="20"/>‎ Et ut consummauit 
+<lb/>loquens cum eo as
+<lb type="inword"/>cendit ab eo et erat 
+<lb/>iacob considerans 
+<lb/>usquequo ascendit 
+<lb/>ab eo in caelo. <milestone unit="vs" n="21"/> ‎ Et ui
+<lb type="inword"/>dit in uisione noctis 
+<lb/>et ecce angelus dei
+
+<lb/><milestone unit="column" n="b"/>descendebat de cae
+<lb type="inword"/>lo et septem tabu
+<lb type="inword"/>lae buxeae in manu 
+<lb/>eius et dedit illas 
+<lb/>iacob et legit et cog
+<lb type="inword"/>nouit quae scripta 
+<lb/>sunt in eis et quae 
+<lb/>erunt super ipsum 
+<lb/>et filios eius in om
+<lb type="inword"/>nia saecula. <milestone unit="vs" n="22"/> Et mons
+<lb type="inword"/>trauit illi quaecumque 
+<lb/>erant scripta in ta
+<lb type="inword"/>bulis (bulis) buxeis 
+<lb type="inword"/>et dixit illi: non ae
+<lb type="inword"/>dificabis hunc locum 
+<lb/>et non facias eum 
+<lb/>in sanctificationem 
+<lb/>aeternam et nol*i* 
+<lb/>habitari in hunc lo
+<lb type="inword"/>cum quia sic erit lo
+<lb type="inword"/>cus iste. Sed uade 
+<lb/>in locum barin abra
+<lb type="inword"/>ham patris tui et in
+<lb type="inword"/>habita ad isac patrem 
+<lb/>tuum
+
+<milestone unit="column" n="a"/>
+<milestone type="5c" unit="page" n="184"/>
+<milestone type="19c" unit="page" n="73" xml:id="palimpsest_page_073"/>
 	<!-- p19c=73 p5c=184 -->
 
-usque ad diem mortis patris tui.
-32:23 ‎ Quoniam in aegyptum morieris in pace et in terra hac sepellieris in gloria et in monumento patrum tuorum poneris cum abraham et isac.
-32:24 ‎ Noli timere quoniam quemadmodum uidisti et legisti sic erunt uniuersa quae scripta sunt omnia.
-32:25 ‎ Et dixit iacob: domine quomodo memor ero uniuersa quae legi et uidi. Et dixit illi: ego commemorabo te uniuersa.
-32:26 ‎ Et ascendit ab eo et expergefactus a somno suo memor fuit omnium quaecumque legit et
+<lb/>usque ad diem mortis 
+<lb/>patris tui.
+<milestone unit ="ch" n="32"/> <milestone unit ="vs" n="23"/> Quoniam 
+<lb/>in aegyptum morie
+<lb type="inword"/>ris in pace et in ter
+<lb type="inword"/>ra hac sepellieris in 
+<lb/>gloria et in monumen
+<lb type="inword"/>to patrum tuorum 
+<lb/>poneris cum abra
+<lb type="inword"/>ham et isac.<milestone unit ="vs" n="24"/> Noli ti
+<lb type="inword"/>mere quoniam quem
+<lb type="inword"/>admodum uidisti 
+<lb/>et legisti sic erunt 
+<lb/>uniuersa quae scrip
+<lb/>ta sunt omnia.
+</p>
 
-uidit et celauit uniuersos sermones quoscumque legit et uidit.
-32:27 ‎ Et fecit ibi diem unam et sacrificauit in ea quanta erat sacrificans in diebus prioribus et uocauit nomen eius retentatio quoniam retentus est ibi una die et priores dies uocauit dies festos.
-32:28 ‎ Et sic manifestum erat ut fierent et erat scriptum in tabulis caeli propter quod reuelatum est illi facere ipsam diem et adicere super septem dies festos.
-32:29 ‎ Et uocatum est nomen eius retentatio propter quod
+<p>
+<milestone unit ="vs" n="25"/>‎ Et dixit iacob: domine quo
+<lb type="inword"/>modo memor ero 
+<lb/>uniuersa quae legi 
+<lb/>et uidi. Et dixit illi: ego 
+<lb/>commemorabo te 
+<lb/>uniuersa.<milestone unit ="vs" n="26"/>‎ Et ascen
+<lb type="inword"/>dit ab eo et experge
+<lb type="inword"/>factus a somno suo 
+<lb/>memor fuit omnium 
+<lb/>quaecumque legit et
+<lb/><milestone unit="column" n="b"/>uidit et celauit uni
+<lb type="inword"/>uersos sermones 
+<lb/>quoscumque legit et 
+<lb/>uidit.<milestone unit ="vs" n="27"/>‎ Et fecit ibi diem 
+<lb/>unam et sacrifica
+<lb type="inword"/>uit in ea quanta erat 
+<lb/>sacrificans in diebus 
+<lb/>prioribus et uocauit 
+<lb/>nomen eius reten
+<lb/>tatio quoniam reten
+<lb type="inword"/>tus est ibi una die et 
+<lb/>priores dies uoca
+<lb type="inword"/>uit dies festos.<milestone unit ="vs" n="28"/>‎ Et sic 
+<lb/>manifestum erat 
+<lb/>ut fierent et erat 
+<lb/>scriptum in tabulis 
+<lb/>caeli propter quod 
+<lb/>reuelatum est illi 
+<lb/>facere ipsam diem 
+<lb/>et adicere super 
+<lb/>septem dies festos.
+<milestone unit ="vs" n="29"/>‎ Et uocatum est no
+<lb type="inword"/>men eius retenta
+<lb type="inword"/>tio propter quod
+</p>
 
-</ab>
 
 </body>
 </text>
 </TEI>
+
+   
+
