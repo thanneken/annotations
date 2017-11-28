@@ -28,7 +28,7 @@ Ceriani_1861_041.tei.xml Dominguez
 Ceriani_1861_042.tei.xml Dominguez
 Ceriani_1861_043.tei.xml
 Ceriani_1861_044.tei.xml
-Ceriani_1861_045.tei.xml
+Ceriani_1861_045.tei.xml Marissa Gonzalez
 Ceriani_1861_046.tei.xml
 Ceriani_1861_047.tei.xml
 Ceriani_1861_048.tei.xml
