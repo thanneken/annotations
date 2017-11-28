@@ -29,33 +29,116 @@
 
 <ab>
 <pb type="1861" n="45" xml:id="Ceriani_1861_045"/>
+<cb type="Ceriani" n="1"/>
+<milestone type="5c" unit="page" n="211"/>
+<milestone type="19c" unit="page" n="134" xml:id="palimpsest_page_211"/>
+<milestone unit="column" n="a"/>
 
-	<!-- p19c=134 p5c=211 -->
+<!-- p19c=134 p5c=211 -->
 
-38:1 ‎ - - - ut demus illi gloriam.
-38:2 ‎ Tunc iacob extendit arcum suum et transmisit sagittam et percussit esau fratrem suum contra mammillam dextram ipsius et deiecit illum.
-38:3 ‎ Et emisit sagittam secundam (et per) et percussit adoram ar*amaeum* iuxta mammillam sinistram ipsius et deiecit illum et occidit eum.
-38:4 ‎ Et post haec exierunt filii iacob ipsi et pueri ipsorum diuisi in quattuor spiritus bareos.
-38:5 ‎ Et exiuit iudas primus et neptalim et gad cum eo et quinquaginta pueri cum ipso secundum
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="1"/><milestone unit="column" n="a"/>ut demus illi gloriam<add resp="#ocp">.</add>
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="2"/>Tunc iacob extendit ar<lb type="inWord"/>
+<lb/>cum suum et trans<lb type="inWord"/>
+<lb/>misit sagittam et per<lb type="inWord"/>
+<lb/>cussit esau fratrem
+<lb/>suum contra mam<lb type="inWord"/>
+<lb/>millam dextram ipsi<lb type="inWord"/>
+<lb/>us et deiecit illum<add resp="#ocp">.</add>
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="3"/>Et emisit sagittam se<lb type="inWord"/>
+<lb/>cundam <add resp="#ocp">(</add>et per<add resp="#ocp">)</add>et per<lb type="inWord"/>
+<lb/>cussit adoram<add resp="#ocp">ar*amaeum*</add> 
+<lb/>iuxta mam<lb type="inWord"/>
+<lb/>millam sinistram ip<lb type="inWord"/>
+<lb/>sius et deiecit illum
+<lb/>et occidit eum<add resp="#ocp">.</add>
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="4"/>Et post haec exierunt
+<lb/>filii iacob ipsi et pue<lb type="inWord"/>
+<lb/>ri ipsorum diuisi in
+<lb/>quattuor spiritus
+<lb/>bareos<add resp="#ocp">.</add><milestone unit="ch" n="38"/><milestone unit="vs" n="5"/>Et exiuit iu<lb type="inWord"/>
+<lb/>das primus et nepta<lb type="inWord"/>
+<lb/>lim et gad cum eo et
+<lb/>quinquaginta pue<lb type="inWord"/>
+<lb/>ri cum ipso secundum
 
-meridianum barin et interfecerunt quodquod inuenerunt in conspectu suo et non effugiit ex illis neque unus.
-38:6 ‎ Et leuui et dan et aser exierunt secundum orientem bari et quinquaginta cum ipsis et interfecerunt bellatores moab et ammon.
-38:7 ‎ Exierunt ruben et issacar et zabulon et quinquaginta ipsorum cum ipsis et interfecerunt et ipsi bellatores filistin.
-38:8 ‎ Et exiuit symeon et beniamin et enoch filius ruben secundum occasum barin et quinquaginta ipsorum
+<lb/><milestone unit="column" n="b"/>meridianum barin
+<lb/>et interfecerunt
+<lb/>quodquod inuene<lb type="inWord"/>
+<lb/>runt in conspectu
+<lb/>suo et non effugiit
+<lb/>ex illis neque unus<add resp="#ocp">.</add>
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="6"/>Et leuui et dan et aser
+<lb/>exierunt secundum
+<lb/>orientem bari et quin<lb type="inWord"/>
+<lb/>quaginta cum ipsis
+<lb/>et interfecerunt
+<lb/>bellatores moab
+<lb/>et ammon<add resp="#ocp">.</add>
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="7"/>Exierunt ruben et
+<lb/>issacar et zabulon
+<lb/>et quinquaginta ip<lb type="inWord"/>
+<lb/>sorum cum ipsis et
+<lb/>interfecerunt et
+<lb/>ipsi bellatores filisti<unclear>n</unclear><add resp="#ocp">.</add>
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="8"/>Et exiuit symeon et
+<lb/>beniamin et enoch
+<lb/>filius ruben secun<lb type="inWord"/>
+<lb/>dum occasum bari<unclear>n</unclear>
+<lb/>et quinquaginta ipsor<unclear>um</unclear>
 
-	<!-- p19c=133 p5c=212 -->
+<cb type="Ceriani" n="2"/>
+<milestone unit="column" n="a"/>
+<!-- p19c=133 p5c=212 -->
 
-cum ipsis et interfecerunt ex edom et ex correo quadringentos uiros bellatores et sescenti et quattuor filii esau fugerunt cum ipsis et dereliquerunt corpus patris sui proiectum in excelso quod in adurin.
-38:9 ‎ Et persecuti sunt filii iacob post eos usque ad montem seir. Et iacob seppelliuit esau fratrem suum in excelso quod est adurin et conuersus est in barin.
-38:10 ‎ Et cumsederunt filii iacob filios esau in monte seir et subiugauerunt illos ut sint seruientes filiis iacob.
-38:11 ‎ Et miserunt
+<lb/>cum ipsis et inter<lb type="inWord"/>
+<lb/>fecerunt ex edom
+<lb/>et ex correo quadrin<lb type="inWord"/>
+<lb/>gentos uiros bella<lb type="inWord"/>
+<lb/>tores et sescenti
+<lb/>et quattuor filii esau
+<lb/>fugerunt cum ipsis
+<lb/>et dereliquerunt
+<lb/>corpus patris sui pro<lb type="inWord"/>
+<lb/>iectum in excelso
+<lb/>quod in adurin<add resp="#ocp">.</add><milestone unit="ch" n="38"/><milestone unit="vs" n="9"/>Et per<lb type="inWord"/>
+<lb/>secuti sunt filii iacob
+<lb/>post eos usque ad mon<lb type="inWord"/>
+<lb/>tem seir<add resp="#ocp">.</add>Et iacob sep<add resp="#ocp">.</add>
+<lb/>pelliuit esau fratrem
+<lb/>suum in excelso quod
+<lb/>est adurin et con<lb type="inWord"/>
+<lb/>uersus est in barin.
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="10"/>Et cumsederunt filii
+<lb/>iacob filios esau in
+<lb/>monte seir et sub<lb type="inWord"/>
+<lb/>iugauerunt illos ut
+<lb/>sint seruientes fi<lb type="inWord"/>
+<lb/>liis iacob.<milestone unit="ch" n="38"/><milestone unit="vs" n="11"/>Et miserunt
 
-ad iacob patrem suum si facient pacem cum ipsis.
-38:12 ‎ Et posuerunt iugum timoris super ipsis ut dent honorem iacob et filiis eius in omnibus diebus.
-38:13 ‎ Et erant dantes honorem iacob usque in diem de*sc*ensionis eius in aegyptum.
-38:14 ‎ Et non cessauerunt filii edom de iugo timoris quem inposuerunt illis filii iacob usque in diem istum.
-38:15 ‎ Et hii reges qui regnauerunt in edom priusquam regnaret regnum in filiis istrahel usque in diem hunc in terra edom.
-38:16 ‎ Barad filius beor et nomen ciuitatis eius - - -.
+<lb/><milestone unit="column" n="b"/>ad iacob patrem suum
+<lb/>si facient pacem cum
+<lb/>ipsis<add resp="#ocp">.</add><milestone unit="ch" n="38"/><milestone unit="vs" n="12"/>Et posue<lb type="inWord"/>
+<lb/>runt iugum timoris
+<lb/>super ipsis ut dent
+<lb/>honorem iacob et
+<lb/>filiis eius in omnibus
+<lb/>diebus<add resp="#ocp">.</add><milestone unit="ch" n="38"/><milestone unit="vs" n="13"/>Et erant dantes
+<lb/>honorem iacob usque
+<lb/>in diem de*sc*ensionis
+<lb/>eius in aegyptum<add resp="#ocp">.</add>
+<lb/><milestone unit="ch" n="38"/><milestone unit="vs" n="14"/>‎Et non cessauerunt
+<lb/>filii edom de iugo ti<lb type="inWord"/>
+<lb/>moris quem inpo<lb type="inWord"/>
+<lb/>suerunt illis filii ia<lb type="inWord"/>
+<lb/>cob usque in diem is<lb type="inWord"/>
+<lb/>tum.<milestone unit="ch" n="38"/><milestone unit="vs" n="15"/>Et hii reges qui
+<lb/>regnauerunt in edom
+<lb/>priusquam regnaret 
+<lb/>regnum in filiis istra<lb type="inWord"/>
+<lb/>hel usque in diem hunc
+<lb/>in terra edom<add resp="#ocp">.</add><milestone unit="ch" n="38"/><milestone unit="vs" n="16"/>Ba<lb type="inWord"/>
+<lb/>rad filius beor et no<lb type="inWord"/>
+<lb/>men ciuitatis eius - - -.
 
 </ab>
 
