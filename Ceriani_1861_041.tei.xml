@@ -34,9 +34,8 @@
 	<milestone type="5c" unit="page" n="185"/>
 	<milestone type="19c" unit="page" n="72" xml:id="palimpsest_page_072"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="32"/>
 	<p part="F">
-		<milestone unit="vs" n="29"/>
+		<milestone unit="ch" n="32"/><milestone unit="vs" n="29"/>
 		addita est in dies die
 		<lb type="inWord"/>rum festorum secun
 		<lb type="inWord"/>dum numerum die
