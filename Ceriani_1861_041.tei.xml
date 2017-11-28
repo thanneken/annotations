@@ -43,7 +43,7 @@
 		<lb type="inWord"/>rum anni.
 
 	</p>
-	<p>Et uigensimo die
+	<p><milestone unit="vs" n="30"/>Et uigensimo die
 		<lb/>mensis huius in noc
 		<lb type="inWord"/>te tertia mortua
 		<lb/>est. Deborra nutrix
@@ -62,15 +62,14 @@
 		<lb/>hircos facere patri
 		<lb/>suo cibos secundum
 		<lb/>uolumtatem eius<add resp="#ocp">.</add>
-		<milestone unit="vs" n="32"/> Et abiit post matrem
-		<lb/>
-		<milestone unit="column" n="b"/> suam quousque adue
+		<lb/><milestone unit="vs" n="32"/> Et abiit post matrem
+		<lb/><milestone unit="column" n="b"/> suam quousque adue
 		<lb type="inWord"/>nit i<unclear>n d</unclear>abrata et re
 		<lb type="inWord"/>mansit ibi<add resp="#ocp">.</add> <milestone unit="vs" n="33"/> Et pepe
 		<lb type="inWord"/>rit rachel in nocte
 		<lb/>illa puerum et uoca
 		<lb type="inWord"/>uit nomen eius be
-		<lb type="inWord"/>niamin. <!-- Appears as if there is a period on Cerianis script that is not found on the xml version --> et iubeleo
+		<lb type="inWord"/>niamin. Et iubeleo
 		<lb/>huius in decimo die
 		<lb/>mensis octaui pri
 		<lb type="inWord"/>mo anno septima
@@ -82,7 +81,7 @@
 		<lb type="inWord"/>dificauit iacob super
 		<lb/>sepulcrum rachel
 		<lb/>titulum <choice><sic>eius</sic><corr resp="#ocp">in uia</corr></choice> sepul
-		<lb type="inWord"/>cri eius. <milestone unit="ch" n="33"/> Et abiit ia
+		<lb type="inWord"/>cri eius. <milestone unit="ch" n="33"/><milestone unit="vs" n="1"/> Et abiit ia
 		<lb type="inWord"/>cob et requieuit
 		<lb/>ad austrum magda
 		<lb type="inWord"/>le efratam et abiit
@@ -93,21 +92,22 @@
 	<milestone type="19c" unit="page" n="71" xml:id="palimpsest_page_071"/>
 	<cb type="Ceriani" n="2"/>
 	<milestone unit="column" n="a"/>
-	<p>in prima die mensis
+	<p part="F">in prima die mensis
 		<lb/>decimi. <milestone unit="vs" n="2"/> Et uidit ru
 		<lb type="inWord"/>ben ballam ancillam
 		<lb/>rachel concubinam
 		<lb/>patris sui labantem
 		<lb/>se in aqua in loco oc
 		<lb/>culto et dilexit eam<add resp="#ocp">.</add>
-		<milestone unit="vs" n="3"/> Et introiuit nocte
+		<lb/><milestone unit="vs" n="3"/> Et introiuit nocte
 		<lb/>occultae ad ballan
 		<lb/>et inuenit eam dor
 		<lb type="inWord"/>mientem in lectu
 		<lb type="inWord"/>lum suum solam
 		<lb/>in tabernaculo suo<add resp="#ocp">.</add>
-		<milestone unit="vs" n="4"/> Et dormiuit cum ea et
-		<lb/>expergefacta est. Et ecce erat
+		<lb/><milestone unit="vs" n="4"/> Et dormiuit cum ea
+		<lb/>et expergefacta
+		<lb/>est. Et ecce erat
 		<lb/>ruben cum ipsa su
 		<lb type="inWord"/>per lectum et le
 		<lb type="inWord"/>uans sagum tenu
@@ -121,64 +121,36 @@
 		<lb/>et fugit <milestone unit="vs" n="6"/> Et lugebat
 		<lb/>pro hoc ualde et om
 		<lb type="inWord"/>ni homini indicauit
-		<lb/>quemadmodum ueniret. <milestone unit="vs" n="7"/> Et cum ue
+		<lb/>quemadmodum ue
+		<lb type="inWord"/>niret. <milestone unit="vs" n="7"/> Et cum ue
 		<lb type="inWord"/>nit iacob indicauit
 		<lb/>illi et dixit ad iacob<add resp="#ocp">:</add>
 		<lb/>non sum tibi mun
 		<lb type="inWord"/>da quoniam pollu
 		<lb type="inWord"/>ta sum abs te quo
 		<lb type="inWord"/>niam polluit me ru
-		<lb type="inWord"/>ben et dormiuit me <!-- Ceriani has a line break:'me-cum' where the XML version consideres 'me cum' two different words -->
-		<lb/>cum nocte et ego
+		<lb type="inWord"/>ben et dormiuit me
+		<!-- Ceriani has a line break:'me-cum' where the XML version consideres 'me cum' two different words
+		... let's follow Ceriani-->
+		<lb type="inWord"/>cum nocte et ego
 		<lb/>eram obdormiens
 		<lb/>et nesciui quousque
 		<lb/>decooperuit coo
 		<lb type="inWord"/>pertorium meum
-		<lb/>et dormiuit me <!-- XML consideres me cum two seperate words whereas Ceriani considers it one word: mecum -->cum<add resp="#ocp">:</add>
+		<lb/>et dormiuit mecum<add resp="#ocp">:</add>
+		<!-- XML consideres me cum two seperate words whereas Ceriani considers it one word: mecum
+		... let's stick with Ceriani again. In theory we could call the space an addition by OCP, but I don't think it would matter here.-->
+	</p>
+	<p>
 		<milestone unit="vs" n="8"/> Et iratus est iacob
 		<lb/>aduersus ruben
 		<lb/>ualde quoniam dor
 		<lb type="inWord"/>miuit cum balla<add resp="#ocp">:</add>
-		<milestone unit="vs" n="9"/> Et non cognouit - - -<gap reason="illegible" quantity="3" unit="character"/> <add resp="#ocp">:</add>
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- p19c=72 p5c=185 -->
-
-addita est in dies dierum festorum secundum numerum dierum anni.
-<milestone unit="vs" n="30"/> ‎ Et uigensimo die mensis huius in nocte tertia mortua est. Deborra nutrix rebeccae. Et sepellierunt eam inferius ciuitate sub glande in torrentem et uocauerunt nomen loci illius torrens debborae.
-<milestone unit="vs" n="31"/>‎ Et abiit iacob et reuersus est in barin ad patrem suum isac et misit iacob in manu eius arietes et oues et hircos facere patri suo cibos secundum uolumtatem eius.
-<milestone unit="vs" n="32"/> ‎ Et abiit post matrem
-
-suam quousque aduenit in dabrata et remansit ibi.
-<milestone unit="vs" n="33"/> ‎ Et peperit rachel in nocte illa puerum et uocauit nomen eius beniamin et iubeleo huius in decimo die mensis octaui primo anno septimanarum sexti.
-<milestone unit="vs" n="34"/> ‎ Tunc mortua est illic rachel et sepulta est in terra eufrata haec est bethlem et aedificauit iacob super sepulcrum rachel titulum *in uia* sepulcri eius.
-<milestone unit="vs" n="1"/> ‎ Et abiit iacob et requieuit ad austrum magdale efratam et abiit ad patrem suum isac ipse et uxor sua lia
-
-	<!-- p19c=71 p5c=186 -->
-
-in prima die mensis decimi.
-<milestone unit="vs" n="2"/> ‎ Et uidit ruben ballam ancillam rachel concubinam patris sui labantem se in aqua in loco occulto et dilexit eam.
-<milestone unit="vs" n="3"/> ‎ Et introiuit nocte occultae ad ballan et inuenit eam dormientem in lectulum suum solam in tabernaculo suo.
-<milestone unit="vs" n="4"/> ‎ Et dormiuit cum ea et expergefacta est. Et ecce erat ruben cum ipsa super lectum et leuans sagum tenuit illum et uociferata est et cognouit quoniam ruben est
-<milestone unit="vs" n="5"/> ‎ Et confusus est ab ea et dimisit illa
-
-manus sua ab illo et fugit
-<milestone unit="vs" n="6"/> ‎ Et lugebat pro hoc ualde et omni homini indicauit quemadmodum ueniret.
-<milestone unit="vs" n="7"/> ‎ Et cum uenit iacob indicauit illi et dixit ad iacob: non sum tibi munda quoniam polluta sum abs te quoniam polluit me ruben et dormiuit me cum nocte et ego eram obdormiens et nesciui quousque decooperuit coopertorium meum et dormiuit me cum.
-<milestone unit="vs" n="8"/> ‎ Et iratus est iacob aduersus ruben ualde quoniam dormiuit cum balla.
-<milestone unit="vs" n="9"/> ‎ Et non cognouit - - -.
-
-</p>
+	</p>
+	<p>
+		<milestone unit="vs" n="9"/> Et non cognouit
+		<gap reason="lost" quantity="2" unit="page">
+	</p>
 
 </body>
 </text>
