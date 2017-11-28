@@ -1,6 +1,6 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -29,22 +29,16 @@
 <text xml:lang="la">
 <body>
 
-
-
 <p part="F">
 <pb type="1861" n="40" xml:id="Ceriani_1861_040"/>
 <cb type="Ceriani" n="1"/>
 <milestone type="5c" unit="page" n="183"/>
 <milestone type="19c" unit="page" n="74" xml:id="palimpsest_page_074"/>
-
-
 	<!-- p19c=74 p5c=183 -->
-
-<milestone unit="ch" n="32"/> <milestone unit="vs" n="18"/> 
-
+<milestone unit="ch" n="32"/> <milestone unit="vs" n="18"/>
 <lb/>ubicumque fecerint
 <lb/>uestigium pedum
-<lb/>suorum aduersus 
+<lb/>suorum aduersus
 <lb/>filios hominum. <milestone unit="vs" n="19"/> Et da
 <lb type="inword"/>bo semini tuo uni
 <lb type="inword"/>uersas benedictio
@@ -52,48 +46,48 @@
 <lb/>sub caelo et domina
 <lb type="inword"/>buntur et potesta
 <lb type="inword"/>tem exercent in om
-<lb type="inword"/>nibus gentibus secundum 
-<lb/>uolumtatem suam 
+<lb type="inword"/>nibus gentibus secundum
+<lb/>uolumtatem suam
 <lb/>et post haec optine
-<lb type="inword"/>bunt uniuersam 
+<lb type="inword"/>bunt uniuersam
 <lb/>terram et heredita
 <lb type="inword"/>bunt eam in saecula.
 </p>
 
 <p>
-<milestone unit="vs" n="20"/>‎ Et ut consummauit 
+<milestone unit="vs" n="20"/>‎ Et ut consummauit
 <lb/>loquens cum eo as
-<lb type="inword"/>cendit ab eo et erat 
-<lb/>iacob considerans 
-<lb/>usquequo ascendit 
+<lb type="inword"/>cendit ab eo et erat
+<lb/>iacob considerans
+<lb/>usquequo ascendit
 <lb/>ab eo in caelo. <milestone unit="vs" n="21"/> ‎ Et ui
-<lb type="inword"/>dit in uisione noctis 
+<lb type="inword"/>dit in uisione noctis
 <lb/>et ecce angelus dei
 
 <lb/><milestone unit="column" n="b"/>descendebat de cae
 <lb type="inword"/>lo et septem tabu
-<lb type="inword"/>lae buxeae in manu 
-<lb/>eius et dedit illas 
+<lb type="inword"/>lae buxeae in manu
+<lb/>eius et dedit illas
 <lb/>iacob et legit et cog
-<lb type="inword"/>nouit quae scripta 
-<lb/>sunt in eis et quae 
-<lb/>erunt super ipsum 
+<lb type="inword"/>nouit quae scripta
+<lb/>sunt in eis et quae
+<lb/>erunt super ipsum
 <lb/>et filios eius in om
 <lb type="inword"/>nia saecula. <milestone unit="vs" n="22"/> Et mons
-<lb type="inword"/>trauit illi quaecumque 
+<lb type="inword"/>trauit illi quaecumque
 <lb/>erant scripta in ta
-<lb type="inword"/>bulis (bulis) buxeis 
+<lb type="inword"/>bulis (bulis) buxeis
 <lb type="inword"/>et dixit illi: non ae
-<lb type="inword"/>dificabis hunc locum 
-<lb/>et non facias eum 
-<lb/>in sanctificationem 
-<lb/>aeternam et nol*i* 
+<lb type="inword"/>dificabis hunc locum
+<lb/>et non facias eum
+<lb/>in sanctificationem
+<lb/>aeternam et nol*i*
 <lb/>habitari in hunc lo
 <lb type="inword"/>cum quia sic erit lo
-<lb type="inword"/>cus iste. Sed uade 
+<lb type="inword"/>cus iste. Sed uade
 <lb/>in locum barin abra
 <lb type="inword"/>ham patris tui et in
-<lb type="inword"/>habita ad isac patrem 
+<lb type="inword"/>habita ad isac patrem
 <lb/>tuum
 
 <milestone unit="column" n="a"/>
@@ -101,54 +95,54 @@
 <milestone type="19c" unit="page" n="73" xml:id="palimpsest_page_073"/>
 	<!-- p19c=73 p5c=184 -->
 
-<lb/>usque ad diem mortis 
+<lb/>usque ad diem mortis
 <lb/>patris tui.
-<milestone unit ="ch" n="32"/> <milestone unit ="vs" n="23"/> Quoniam 
+<milestone unit ="ch" n="32"/> <milestone unit ="vs" n="23"/> Quoniam
 <lb/>in aegyptum morie
 <lb type="inword"/>ris in pace et in ter
-<lb type="inword"/>ra hac sepellieris in 
+<lb type="inword"/>ra hac sepellieris in
 <lb/>gloria et in monumen
-<lb type="inword"/>to patrum tuorum 
+<lb type="inword"/>to patrum tuorum
 <lb/>poneris cum abra
 <lb type="inword"/>ham et isac.<milestone unit ="vs" n="24"/> Noli ti
 <lb type="inword"/>mere quoniam quem
-<lb type="inword"/>admodum uidisti 
-<lb/>et legisti sic erunt 
+<lb type="inword"/>admodum uidisti
+<lb/>et legisti sic erunt
 <lb/>uniuersa quae scrip
 <lb/>ta sunt omnia.
 </p>
 
 <p>
 <milestone unit ="vs" n="25"/>‎ Et dixit iacob: domine quo
-<lb type="inword"/>modo memor ero 
-<lb/>uniuersa quae legi 
-<lb/>et uidi. Et dixit illi: ego 
-<lb/>commemorabo te 
+<lb type="inword"/>modo memor ero
+<lb/>uniuersa quae legi
+<lb/>et uidi. Et dixit illi: ego
+<lb/>commemorabo te
 <lb/>uniuersa.<milestone unit ="vs" n="26"/>‎ Et ascen
 <lb type="inword"/>dit ab eo et experge
-<lb type="inword"/>factus a somno suo 
-<lb/>memor fuit omnium 
+<lb type="inword"/>factus a somno suo
+<lb/>memor fuit omnium
 <lb/>quaecumque legit et
 <lb/><milestone unit="column" n="b"/>uidit et celauit uni
-<lb type="inword"/>uersos sermones 
-<lb/>quoscumque legit et 
-<lb/>uidit.<milestone unit ="vs" n="27"/>‎ Et fecit ibi diem 
+<lb type="inword"/>uersos sermones
+<lb/>quoscumque legit et
+<lb/>uidit.<milestone unit ="vs" n="27"/>‎ Et fecit ibi diem
 <lb/>unam et sacrifica
-<lb type="inword"/>uit in ea quanta erat 
-<lb/>sacrificans in diebus 
-<lb/>prioribus et uocauit 
+<lb type="inword"/>uit in ea quanta erat
+<lb/>sacrificans in diebus
+<lb/>prioribus et uocauit
 <lb/>nomen eius reten
 <lb/>tatio quoniam reten
-<lb type="inword"/>tus est ibi una die et 
+<lb type="inword"/>tus est ibi una die et
 <lb/>priores dies uoca
-<lb type="inword"/>uit dies festos.<milestone unit ="vs" n="28"/>‎ Et sic 
-<lb/>manifestum erat 
-<lb/>ut fierent et erat 
-<lb/>scriptum in tabulis 
-<lb/>caeli propter quod 
-<lb/>reuelatum est illi 
-<lb/>facere ipsam diem 
-<lb/>et adicere super 
+<lb type="inword"/>uit dies festos.<milestone unit ="vs" n="28"/>‎ Et sic
+<lb/>manifestum erat
+<lb/>ut fierent et erat
+<lb/>scriptum in tabulis
+<lb/>caeli propter quod
+<lb/>reuelatum est illi
+<lb/>facere ipsam diem
+<lb/>et adicere super
 <lb/>septem dies festos.
 <milestone unit ="vs" n="29"/>‎ Et uocatum est no
 <lb type="inword"/>men eius retenta
@@ -159,6 +153,3 @@
 </body>
 </text>
 </TEI>
-
-   
-

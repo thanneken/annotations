@@ -4,239 +4,312 @@
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-	<fileDesc>
-		<titleStmt>
-			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title><respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>		</titleStmt>
-		<publicationStmt>
-			<publisher>The Jubilees Palimpsest Project</publisher>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl>
-				<title>Monumenta Sacra et Profana</title>
-				<author>Antonio Maria Ceriani</author>
-				<publisher>Brepols</publisher>
-				<date when="1861">1861</date>
-			</bibl>
-		</sourceDesc>
-	</fileDesc>
-	<encodingDesc>
-		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
-	</encodingDesc>
-</teiHeader>
-<text xml:lang="la">
-<body>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Ian Bryan</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>The Jubilees Palimpsest Project</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Monumenta Sacra et Profana</title>
+					<author>Antonio Maria Ceriani</author>
+					<publisher>Brepols</publisher>
+					<date when="1861">1861</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Edited from the electronic text available from the Online Critical
+				Pseudepigrapha, with markup to distinguish Ceriani from subsequent
+				editors.</p>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="la">
+		<body>
 
-<pb type="1861" n="27" xml:id="Ceriani_1861_027"/>
-<milestone type="5c" unit="page" n="131"/>
-<milestone type="19c" unit="page" n="75" xml:id="palimpsest_page_062"/>
-<milestone unit="column" n="a"/>
-<milestone unit="ch" n="23"/>
-<p type="F"><milestone unit="vs" n="8"/> quinto et centesi
-<lb type="inword"/>mo et septuagen
-<lb type="inword"/>simo anno conple
-<lb type="inword"/>uit dies uitae suae
-<lb/>senior et plenus 
-<lb/>dierum <add resp="#ocp">.</add> <milestone unit="vs" n="9"/>Propter quod 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
-	schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-	<fileDesc>
-		<titleStmt>
-			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title><respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>		</titleStmt>
-		<publicationStmt>
-			<publisher>The Jubilees Palimpsest Project</publisher>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl>
-				<title>Monumenta Sacra et Profana</title>
-				<author>Antonio Maria Ceriani</author>
-				<publisher>Brepols</publisher>
-				<date when="1861">1861</date>
-			</bibl>
-		</sourceDesc>
-	</fileDesc>
-	<encodingDesc>
-		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
-	</encodingDesc>
-</teiHeader>
-<text xml:lang="la">
-<body>
+			<pb type="1861" n="27" xml:id="Ceriani_1861_027" />
+			<milestone type="5c" unit="page" n="131" />
+			<milestone type="19c" unit="page" n="75" xml:id="palimpsest_page_062" />
+			<milestone unit="column" n="a" />
+			<milestone unit="ch" n="23" />
+			<p type="F">
+				<milestone unit="vs" n="8" />
+				quinto et centesi<lb type="inword" />
+				mo et septuagen<lb type="inword" />
+				simo anno conple<lb type="inword" />
+				uit dies uitae suae<lb />
+				senior et plenus<lb />
+				dierum<add resp="#ocp">.</add><milestone unit="vs" n="9" />Propter quod<lb />
+				dies antiquorum<lb />
+				erant uitae ipsius
+			</p>
+			<p>
+				(Et) <!-- XML added parenthesis around Et -->
+				nonodecimo iu
+				<lb type="inword" />
+				beleo post dilubi
+				<lb type="inword" />
+				um coeperunt di
+				<lb type="inword" />
+				es minui iubeleo
+				<lb type="inword" />
+				rum horum et se
+				<lb type="inword" />
+				nescere celerius
+				<lb />
+				et minui dies uitae
+				<lb />
+				ipsorum a facie tri
+				<lb type="inword" />
+				bulationis multo
+				<lb type="inword" />
+				rum et malignari
+				<lb />
+				in uiis suis excepto abram
+				<add resp="#ocp">.</add>
+				<milestone unit="vs" n="10" />
+				‎ Quia abraham erat per
+				<lb type="inword" />
+				fectus in omnibus
+				<lb />
+				operibus suis cum deo
+				<add resp="#ocp">.</add>
+			</p>
+			<p>
+				Et beneplacens
+				<lb />
+				in ueritate omnibus
+				<milestone unit="column" n="b" />
+				diebus uitae suae et
+				<lb />
+				ecce non conple
+				<lb type="inword" />
+				uit quattuor iube
+				<lb type="inword" />
+				leos in uita sua quo
+				<lb type="inword" />
+				usque senuit a fa
+				<lb type="inword" />
+				cie malignorum.
+			</p>
+			<p>
+				Et satiatus est die
+				<lb type="inword" />
+				bus suis.
+				<milestone unit="vs" n="11" />
+				‎ Et gene
+				<lb type="inword" />
+				rationes quae sur
+				<lb type="inword" />
+				rexerunt ex hoc et
+				<lb />
+				usque in diem iudicii
+				<lb />
+				magni sed senes
+				<lb type="inword" />
+				cent cito priusquam
+				<lb />
+				conpleant duos iu
+				<lb type="inword" />
+				beleos et erunt
+				<lb />
+				transeuntes ab
+				<lb />
+				ipsis spiritus intellec
+				<lb type="inword" />
+				tus ipsorum
+				<add resp="#ocp">.</add>
+				<milestone unit="vs" n="12" />
+				‎Et in
+				<lb />
+				diebus illis si uixe
+				<lb type="inword" />
+				rit homo iubeleos
+				<lb />
+				et dimidium anno
+				<lb type="inword" />
+				rum dicent de ipso
+				<add resp="#ocp">:</add>
+				<lb />
+				abundauit uita sua
+				<lb />
+				et plurimum dierum
+			</p>
+			<milestone type="5c" unit="page" n="132" />
+			<milestone type="19c" unit="page" n="76" xml:id="palimpsest_page_062" />
+			<milestone unit="column" n="a" />
+			<p>
+				ipsius
+				<gap reason="illegible" quantity="5" unit="character" />
+				r
+				<lb />
+				et angustiae et non
+				<lb />
+				est pax.
+				<milestone unit="vs" n="13" />
+				Propter quod
+				<lb />
+				uulnus super uulnus
+				<lb />
+				et dolor super dolo
+				<lb type="inword" />
+				rem et tribulatio
+				<lb />
+				super tribulationem
+				<lb />
+				et auditus malus su
+				<lb type="inword" />
+				per auditum malum
+				<lb />
+				et infirmitas super
+				<lb />
+				infirmitatem et uni
+				<lb type="inword" />
+				uersa iudicia eius
+				<gap reason="illegible" quantity="4" unit="character" />
+				<lb />
+				maligna secundum
+				<lb />
+				hoc ipsud cum cor
+				<lb type="inword" />
+				ruptione et clades
+				<lb />
+				et niues et pruinae
+				<lb />
+				et glacies et febris
+				<lb />
+				et frigora et pr*aef*o
+				<choice>
+					<sic>prouo</sic>
+					<corr resp="#ocp">praefo</corr>
+				</choice>
+				<lb type="inword" />
+				catio et famis et mors
+				<lb />
+				et gladius et capti
+				<lb type="inword" />
+				uitas et uniuersae
+				<lb />
+				plaga planctus
+				<add resp="#ocp">.</add>
+				<milestone unit="vs" n="14" />
+				‎Et
+				<lb />
+				omnia haec <!-- XML added parenthesis around superuenit -->
+				(super
+				<lb type="inword" />
+				uenit) superuenient
+				<lb />
+				super generationem
+				<lb />
+				quae est iniqua quae
+				<lb />
+				iniquitatem facit
+				<lb />
+				in terra et inmun
+				<lb type="inword" />
+				ditia et fomicatio
+				<lb type="inword" />
+				nes et pollutiones
+				<lb />
+				abominationes ope
+				<lb type="inword" />
+				rum ipsorum.
+				<lb />
+				<milestone unit="vs" n="15" />
+				Tunc dicent antiqui
+				<add resp="#ocp">:</add>
+				<lb />
+				dies multi usque ad
+				<lb />
+				mille annos et dies
+				<lb />
+				boni
+				<add resp="#ocp">.</add>
+				Nam ecce dies
+				<lb />
+				uitae nostrae si
+				<lb />
+				multum uixerit ho
+				<lb type="inword" />
+				mo annis septuagin
+				<lb type="inword" />
+				ta et si ual
+				<add resp="#ocp">[</add>
+				de octo
+				<lb type="inword" />
+				ginta Et isti malig
+				<lb type="inword" />
+				ni et non est omnis
+				<lb />
+				pax in diebus genera
+				<lb type="inword" />
+				tionis illius pessi
+				<lb type="inword" />
+				mi
+				<add resp="#ocp">.]</add>
+				<milestone unit="vs" n="16" />
+				‎Et in ipsa gene
+				<lb type="inword" />
+				ratione erit ut pue
+				<lb type="inword" />
+				ri arguant patres
+				<lb />
+				suos et seniores
 
-<pb type="1861" n="27" xml:id="Ceriani_1861_027"/>
-<milestone type="5c" unit="page" n="131"/>
-<milestone type="19c" unit="page" n="75" xml:id="palimpsest_page_062"/>
-<milestone unit="column" n="a"/>
-<milestone unit="ch" n="23"/>
-<p type="F"><milestone unit="vs" n="8"/> quinto et centesi
-<lb type="inword"/>mo et septuagen
-<lb type="inword"/>simo anno conple
-<lb type="inword"/>uit dies uitae suae
-<lb/>senior et plenus 
-<lb/>dierum<add resp="#ocp">.</add> <milestone unit="vs" n="9"/>Propter quod 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
-	schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
-
-<teiHeader>
-	<fileDesc>
-		<titleStmt>
-			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title><respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>		</titleStmt>
-		<publicationStmt>
-			<publisher>The Jubilees Palimpsest Project</publisher>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl>
-				<title>Monumenta Sacra et Profana</title>
-				<author>Antonio Maria Ceriani</author>
-				<publisher>Brepols</publisher>
-				<date when="1861">1861</date>
-			</bibl>
-		</sourceDesc>
-	</fileDesc>
-	<encodingDesc>
-		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
-	</encodingDesc>
-</teiHeader>
-<text xml:lang="la">
-<body>
-
-<pb type="1861" n="27" xml:id="Ceriani_1861_027"/>
-<milestone type="5c" unit="page" n="131"/>
-<milestone type="19c" unit="page" n="75" xml:id="palimpsest_page_062"/>
-<milestone unit="column" n="a"/>
-<milestone unit="ch" n="23"/>
-<p type="F"><milestone unit="vs" n="8"/> quinto et centesi
-<lb type="inword"/>mo et septuagen
-<lb type="inword"/>simo anno conple
-<lb type="inword"/>uit dies uitae suae
-<lb/>senior et plenus 
-<lb/>dierum<add resp="#ocp">.</add> <milestone unit="vs" n="9"/>Propter quod 
-<lb/>dies antiquorum 
-<lb/>erant uitae ipsius 
-</p>
-<p>(Et) <!-- XML added parenthesis around Et -->nonodecimo iu
-<lb type ="inword"/> beleo post dilubi
-<lb type ="inword"/>um coeperunt di
-<lb type ="inword"/>es minui iubeleo
-<lb type ="inword"/>rum horum et se
-<lb type ="inword"/>nescere celerius
-<lb/> et minui dies uitae 
-<lb/>ipsorum a facie tri
-<lb type="inword"/>bulationis multo
-<lb type="inword"/>rum et malignari
- <lb/>in uiis suis excepto abram<add resp="#ocp">.</add>
- <milestone unit="vs" n="10"/>  ‎ Quia abraham erat per
- <lb type="inword"/>fectus in omnibus
- <lb/>operibus suis cum deo<add resp="#ocp">.</add>
- </p>
- <p> Et beneplacens 
- <lb/>in ueritate omnibus
- <milestone unit="column" n="b"/>diebus uitae suae et
-  <lb/>ecce non conple
-  <lb type="inword"/>uit quattuor iube
-  <lb type="inword"/>leos in uita sua quo
-  <lb type="inword"/>usque senuit a fa
-  <lb type="inword"/>cie malignorum. 
-  </p>
-  <p> Et satiatus est die
-  <lb type="inword"/>bus suis. <milestone unit="vs" n="11"/> ‎ Et gene
-  <lb type="inword"/>rationes quae sur
-  <lb type="inword"/>rexerunt ex hoc et
-  <lb/> usque in diem iudicii
-  <lb/> magni sed senes
-  <lb type="inword"/>cent cito priusquam
-  <lb/>conpleant duos iu
-  <lb type="inword"/>beleos et erunt
-  <lb/> transeuntes ab
-  <lb/> ipsis spiritus intellec
-  <lb type="inword"/>tus ipsorum<add resp="#ocp">.</add> <milestone unit="vs" n="12"/> ‎Et in
-  <lb/> diebus illis si uixe
-  <lb type="inword"/>rit homo iubeleos
-  <lb/> et dimidium anno
-  <lb type="inword"/>rum dicent de ipso<add resp="#ocp">:</add>
-   <lb/>abundauit uita sua
-   <lb/> et plurimum dierum
-   </p>
-   <milestone type="5c" unit="page" n="132"/>
-<milestone type="19c" unit="page" n="76" xml:id="palimpsest_page_062"/>
-<milestone unit="column" n="a"/>
-<p>ipsius <gap reason="illegible" quantity="5" unit="character"/> r 
-<lb/>et angustiae et non
-<lb/> est pax. <milestone unit="vs" n="13"/> Propter quod
-<lb/> uulnus super uulnus
-<lb/> et dolor super dolo
-<lb type="inword"/>rem et tribulatio
-<lb/> super tribulationem
-<lb/> et auditus malus su
-<lb type="inword"/>per auditum malum
-<lb/> et infirmitas super
-<lb/> infirmitatem et uni
-<lb type="inword"/>uersa iudicia eius <gap reason="illegible" quantity="4" unit="character"/>
-<lb/> maligna secundum
-<lb/> hoc ipsud cum cor
-<lb type="inword"/>ruptione et clades
-<lb/> et niues et pruinae
-<lb/> et glacies et febris
-<lb/> et frigora et pr*aef*o<choice><sic>prouo</sic><corr resp="#ocp">praefo</corr></choice>
-<lb type="inword"/>catio et famis et mors 
-<lb/> et gladius et capti
-<lb type="inword"/>uitas et uniuersae
-<lb/> plaga planctus<add resp="#ocp">.</add><milestone unit="vs" n="14"/> ‎Et
-<lb/> omnia haec <!-- XML added parenthesis around superuenit -->(super
-<lb type="inword"/>uenit) superuenient 
-<lb/> super generationem
-<lb/> quae est iniqua quae
-<lb/> iniquitatem facit
-<lb/> in terra et inmun
-<lb type="inword"/>ditia et fomicatio
-<lb type="inword"/>nes et pollutiones 
-<lb/>abominationes ope
-<lb type="inword"/>rum ipsorum.
-<lb/> <milestone unit="vs" n="15"/> Tunc dicent antiqui<add resp="#ocp">:</add> 
-<lb/> dies multi usque ad
-<lb/> mille annos et dies
-<lb/> boni<add resp="#ocp">.</add> Nam ecce dies
-<lb/> uitae nostrae si
-<lb/> multum uixerit ho
-<lb type="inword"/>mo annis septuagin
-<lb type="inword"/>ta et si ual<add resp="#ocp">[</add>de octo
-<lb type="inword"/>ginta Et isti malig
-<lb type="inword"/>ni et non est omnis
-<lb/> pax in diebus genera
-<lb type="inword"/>tionis illius pessi
-<lb type="inword"/>mi<add resp="#ocp">.]</add> <milestone unit="vs" n="16"/> ‎Et in ipsa gene
-<lb type="inword"/>ratione erit ut pue
-<lb type="inword"/>ri arguant patres
-<lb/> suos et seniores  
-  
- 
- 
-<milestone unit="vs" n="9"/> ‎ Propter quod dies antiquorum erant uitae ipsius (Et) nonodecimo iubeleo post dilubium coeperunt dies minui iubeleorum horum et senescere celerius et minui dies uitae ipsorum a facie tribulationis multorum et malignari in uiis suis excepto abram.
-<milestone unit="vs" n="10"/>  ‎ Quia abraham erat perfectus in omnibus operibus suis cum deo. Et beneplacens in ueritate omnibus
-
-diebus uitae suae. Et ecce non conpleuit quattuor iubeleos in uita sua quousque senuit a facie malignorum. Et satiatus est diebus suis.
-<milestone unit="vs" n="11"/> ‎ Et generationes quae surrexerunt ex hoc et usque in diem iudicii magni sed senescent cito priusquam conpleant duos iubeleos et erunt transeuntes ab ipsis spiritus intellectus ipsorum.
-<milestone unit="vs" n="12"/> ‎ Et in diebus illis si uixerit homo iubeleos et dimidium annorum dicent de ipso: abundauit uita sua et plurimum dierum
-
-	<!-- p19c=76 p5c=132 -->
-
-ipsius - - -r et angustiae et non est pax.
-<milestone unit="vs" n="13"/> ‎ Propter quod uulnus super uulnus et dolor super dolorem et tribulatio super tribulationem et auditus malus super auditum malum et infirmitas super infirmitatem et uniuersa iudicia eius - - - maligna secundum hoc ipsud cum corruptione et clades et niues et pruinae et glacies et febris et frigora et pr*aef*ocatio et famis et mors et gladius et captiuitas et uniuersae plaga planctus.
-<milestone unit="vs" n="14"/> ‎ Et omnia haec (superuenit) superuenient
-
-super generationem quae est iniqua quae iniquitatem facit in terra et inmunditia et fomicationes et pollutiones abominationes operum ipsorum.
-<milestone unit="vs" n="15"/> ‎ Tunc dicent: antiqui dies multi usque ad mille annos et dies boni. Nam ecce dies uitae nostrae si multum uixerit homo annis septuaginta et si ual[de octoginta Et isti maligni et non est omnis pax in diebus generationis illius pessimi.]
-<milestone unit="vs" n="16"/> ‎ Et in ipsa generatione erit ut pueri arguant patres suos et seniores
 
 
+				<milestone unit="vs" n="9" />
+				‎ Propter quod dies antiquorum erant uitae ipsius (Et) nonodecimo
+				iubeleo post dilubium coeperunt dies minui iubeleorum horum et
+				senescere celerius et minui dies uitae ipsorum a facie tribulationis
+				multorum et malignari in uiis suis excepto abram.
+				<milestone unit="vs" n="10" />
+				‎ Quia abraham erat perfectus in omnibus operibus suis cum deo. Et
+				beneplacens in ueritate omnibus
 
+				diebus uitae suae. Et ecce non conpleuit quattuor iubeleos in uita sua
+				quousque senuit a facie malignorum. Et satiatus est diebus suis.
+				<milestone unit="vs" n="11" />
+				‎ Et generationes quae surrexerunt ex hoc et usque in diem iudicii
+				magni sed senescent cito priusquam conpleant duos iubeleos et erunt
+				transeuntes ab ipsis spiritus intellectus ipsorum.
+				<milestone unit="vs" n="12" />
+				‎ Et in diebus illis si uixerit homo iubeleos et dimidium annorum
+				dicent de ipso: abundauit uita sua et plurimum dierum
 
+				<!-- p19c=76 p5c=132 -->
 
+				ipsius - - -r et angustiae et non est pax.
+				<milestone unit="vs" n="13" />
+				‎ Propter quod uulnus super uulnus et dolor super dolorem et
+				tribulatio super tribulationem et auditus malus super auditum malum
+				et infirmitas super infirmitatem et uniuersa iudicia eius - - -
+				maligna secundum hoc ipsud cum corruptione et clades et niues et
+				pruinae et glacies et febris et frigora et pr*aef*ocatio et famis et
+				mors et gladius et captiuitas et uniuersae plaga planctus.
+				<milestone unit="vs" n="14" />
+				‎ Et omnia haec (superuenit) superuenient
 
-</p>
-</body>
-</text>
-
+				super generationem quae est iniqua quae iniquitatem facit in terra et
+				inmunditia et fomicationes et pollutiones abominationes operum
+				ipsorum.
+				<milestone unit="vs" n="15" />
+				‎ Tunc dicent: antiqui dies multi usque ad mille annos et dies boni.
+				Nam ecce dies uitae nostrae si multum uixerit homo annis septuaginta
+				et si ual[de octoginta Et isti maligni et non est omnis pax in
+				diebus generationis illius pessimi.]
+				<milestone unit="vs" n="16" />
+				‎ Et in ipsa generatione erit ut pueri arguant patres suos et
+				seniores
+			</p>
+		</body>
+	</text>
+</TEI>

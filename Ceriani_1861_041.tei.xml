@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -37,26 +38,26 @@
 	<p part="F">
 		<milestone unit="vs" n="29"/>
 		addita est in dies die
-		<lb type="inword"/>rum festorum secun
-		<lb type="inword"/>dum numerum die
-		<lb type="inword"/>rum anni.
-		
+		<lb type="inWord"/>rum festorum secun
+		<lb type="inWord"/>dum numerum die
+		<lb type="inWord"/>rum anni.
+
 	</p>
 	<p>Et uigensimo die
 		<lb/>mensis huius in noc
-		<lb type="inword"/>te tertia mortua
+		<lb type="inWord"/>te tertia mortua
 		<lb/>est. Deborra nutrix
 		<lb/>rebeccae<add resp="#ocp">.</add> Et sepel
-		<lb type="inword"/>lierunt eam inferi
-		<lb type="inword"/>us ciuitate sub glan
-		<lb type="inword"/>de in torrentem et
-		<lb type="inword"/>uocauerunt nomen
+		<lb type="inWord"/>lierunt eam inferi
+		<lb type="inWord"/>us ciuitate sub glan
+		<lb type="inWord"/>de in torrentem et
+		<lb type="inWord"/>uocauerunt nomen
 		<lb/>loci illius torrens
 		<lb/>debborae<add resp="#ocp">.</add> <milestone unit="vs" n="31"/> Et abiit ia
-		<lb type="inword"/>cob et reuersus est 
-		<lb/>in barin ad patrem 
-		<lb/>suum isac et misit 
-		<lb/>iacob in manu eius 
+		<lb type="inWord"/>cob et reuersus est
+		<lb/>in barin ad patrem
+		<lb/>suum isac et misit
+		<lb/>iacob in manu eius
 		<lb/>arietes et oues et
 		<lb/>hircos facere patri
 		<lb/>suo cibos secundum
@@ -64,27 +65,27 @@
 		<milestone unit="vs" n="32"/> Et abiit post matrem
 		<lb/>
 		<milestone unit="column" n="b"/> suam quousque adue
-		<lb type="inword"/>nit i<unclear>n d</unclear>abrata et re
-		<lb type="inword"/>mansit ibi<add resp="#ocp">.</add> <milestone unit="vs" n="33"/> Et pepe
-		<lb type="inword"/>rit rachel in nocte
+		<lb type="inWord"/>nit i<unclear>n d</unclear>abrata et re
+		<lb type="inWord"/>mansit ibi<add resp="#ocp">.</add> <milestone unit="vs" n="33"/> Et pepe
+		<lb type="inWord"/>rit rachel in nocte
 		<lb/>illa puerum et uoca
-		<lb type="inword"/>uit nomen eius be
-		<lb type="inword"/>niamin. <!-- Appears as if there is a period on Cerianis script that is not found on the xml version --> et iubeleo 
+		<lb type="inWord"/>uit nomen eius be
+		<lb type="inWord"/>niamin. <!-- Appears as if there is a period on Cerianis script that is not found on the xml version --> et iubeleo
 		<lb/>huius in decimo die
 		<lb/>mensis octaui pri
-		<lb type="inword"/>mo anno septima
-		<lb type="inword"/>narum sexti<add resp="#ocp">.</add> <milestone unit="vs" n="34"/> Tunc 
+		<lb type="inWord"/>mo anno septima
+		<lb type="inWord"/>narum sexti<add resp="#ocp">.</add> <milestone unit="vs" n="34"/> Tunc
 		<lb/>mortua est illic ra
-		<lb type="inword"/>chel et sepulta est 
-		<lb/>in terra eufrata haec 
+		<lb type="inWord"/>chel et sepulta est
+		<lb/>in terra eufrata haec
 		<lb/>est bethlem et ae
-		<lb type="inword"/>dificauit iacob super 
+		<lb type="inWord"/>dificauit iacob super
 		<lb/>sepulcrum rachel
 		<lb/>titulum <choice><sic>eius</sic><corr resp="#ocp">in uia</corr></choice> sepul
-		<lb type="inword"/>cri eius. <milestone unit="ch" n="33"/> Et abiit ia
-		<lb type="inword"/>cob et requieuit
+		<lb type="inWord"/>cri eius. <milestone unit="ch" n="33"/> Et abiit ia
+		<lb type="inWord"/>cob et requieuit
 		<lb/>ad austrum magda
-		<lb type="inword"/>le efratam et abiit
+		<lb type="inWord"/>le efratam et abiit
 		<lb/>ad patrem suum isac
 		<lb/>ipse et uxor sua lia
 		</p>
@@ -94,50 +95,50 @@
 	<milestone unit="column" n="a"/>
 	<p>in prima die mensis
 		<lb/>decimi. <milestone unit="vs" n="2"/> Et uidit ru
-		<lb type="inword"/>ben ballam ancillam
-		<lb/>rachel concubinam 
+		<lb type="inWord"/>ben ballam ancillam
+		<lb/>rachel concubinam
 		<lb/>patris sui labantem
 		<lb/>se in aqua in loco oc
 		<lb/>culto et dilexit eam<add resp="#ocp">.</add>
 		<milestone unit="vs" n="3"/> Et introiuit nocte
 		<lb/>occultae ad ballan
 		<lb/>et inuenit eam dor
-		<lb type="inword"/>mientem in lectu
-		<lb type="inword"/>lum suum solam 
+		<lb type="inWord"/>mientem in lectu
+		<lb type="inWord"/>lum suum solam
 		<lb/>in tabernaculo suo<add resp="#ocp">.</add>
 		<milestone unit="vs" n="4"/> Et dormiuit cum ea et
-		<lb/>expergefacta est. Et ecce erat 
+		<lb/>expergefacta est. Et ecce erat
 		<lb/>ruben cum ipsa su
-		<lb type="inword"/>per lectum et le
-		<lb type="inword"/>uans sagum tenu
-		<lb type="inword"/>it illum et uocife
-		<lb type="inword"/>rata est et cogno
-		<lb type="inword"/>uit quoniam ruben
-		<lb/>est <milestone unit="vs" n="5"/> Et confusus est 
+		<lb type="inWord"/>per lectum et le
+		<lb type="inWord"/>uans sagum tenu
+		<lb type="inWord"/>it illum et uocife
+		<lb type="inWord"/>rata est et cogno
+		<lb type="inWord"/>uit quoniam ruben
+		<lb/>est <milestone unit="vs" n="5"/> Et confusus est
 		<lb/>ab ea et dimisit illa
 		<lb/>
-		<milestone unit="column" n="b"/>manus sua ab illo 
-		<lb/>et fugit <milestone unit="vs" n="6"/> Et lugebat 
+		<milestone unit="column" n="b"/>manus sua ab illo
+		<lb/>et fugit <milestone unit="vs" n="6"/> Et lugebat
 		<lb/>pro hoc ualde et om
-		<lb type="inword"/>ni homini indicauit
+		<lb type="inWord"/>ni homini indicauit
 		<lb/>quemadmodum ueniret. <milestone unit="vs" n="7"/> Et cum ue
-		<lb type="inword"/>nit iacob indicauit 
-		<lb/>illi et dixit ad iacob<add resp="#ocp">:</add> 
+		<lb type="inWord"/>nit iacob indicauit
+		<lb/>illi et dixit ad iacob<add resp="#ocp">:</add>
 		<lb/>non sum tibi mun
-		<lb type="inword"/>da quoniam pollu
-		<lb type="inword"/>ta sum abs te quo
-		<lb type="inword"/>niam polluit me ru
-		<lb type="inword"/>ben et dormiuit me <!-- Ceriani has a line break:'me-cum' where the XML version consideres 'me cum' two different words --> 
-		<lb/>cum nocte et ego 
+		<lb type="inWord"/>da quoniam pollu
+		<lb type="inWord"/>ta sum abs te quo
+		<lb type="inWord"/>niam polluit me ru
+		<lb type="inWord"/>ben et dormiuit me <!-- Ceriani has a line break:'me-cum' where the XML version consideres 'me cum' two different words -->
+		<lb/>cum nocte et ego
 		<lb/>eram obdormiens
 		<lb/>et nesciui quousque
 		<lb/>decooperuit coo
-		<lb type="inword"/>pertorium meum 
+		<lb type="inWord"/>pertorium meum
 		<lb/>et dormiuit me <!-- XML consideres me cum two seperate words whereas Ceriani considers it one word: mecum -->cum<add resp="#ocp">:</add>
-		<milestone unit="vs" n="8"/> Et iratus est iacob 
+		<milestone unit="vs" n="8"/> Et iratus est iacob
 		<lb/>aduersus ruben
 		<lb/>ualde quoniam dor
-		<lb type="inword"/>miuit cum balla<add resp="#ocp">:</add>
+		<lb type="inWord"/>miuit cum balla<add resp="#ocp">:</add>
 		<milestone unit="vs" n="9"/> Et non cognouit - - -<gap reason="illegible" quantity="3" unit="character"/> <add resp="#ocp">:</add>
 
 
