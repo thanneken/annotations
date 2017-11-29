@@ -27,7 +27,7 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
+	
 <pb type="1861" n="42" xml:id="Ceriani_1861_042"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="187"/>
@@ -102,7 +102,49 @@
 		<lb/>isac ualde quoniam 
 		<lb/>uidit filios iacob filii 
 		<lb/>sui iunioris et bene
-		<lb type="inWord"/>dixit eos<add resp="#ocp">.</add>
+		<lb type="inWord"/>dixit eos<add resp="#ocp">.</add> <milestone unit="ch" n="34"/><milestone unit="vs" n="1"/> Et quadra
+		<lb type="inWord"/>gesimo quarto iube
+		<lb type="inWord"/>leo in anno sexto 
+		<lb/>septimanarum huius
+		<lb/>misit iacob filios suos 
+		>lb/>ut pascerent oues
+		<lb/>suas et pueros suos
+		<lb/>cum ipsis campum sy
+		<lb type="inWord"/>cimae<add resp="#ocp">.</add> <milestone unit="vs" n="2"/> Et conuene
+		<lb type="inWord"/>runt eos septem re
+		<lb type="inWord"/>ges amorreorum et
+		<lb/>sederunt in lucum
+		<lb/>ut interficerent eos 
+		<lb/>et ut praedarentur
+		<lb/>oues ipsorum <gap reason="illegible" quantity="4" unit="character"/><add resp="#ocp">.</add>
+		<lb/><milestone unit="vs" n="3"/> Iacob autem et leuui
+		<lb/>
+		<milestone unit="column" n="b"/>et iudas et ioseph
+		<lb/>erant in bari secus 
+		<lb/>isac patrem suum 
+		<lb/>quoniam pusillani
+		<lb type="inWord"/>mis erat spiritus eius et
+		<lb/>non poterant eum 
+		<lb/>derelinquere<add resp="#ocp">.</add> Et
+		<lb/>beniamin erat iuni
+		<lb type="inWord"/>or propter hoc re
+		<lb type="inWord"/>manserat cum pa
+		<lb/>tre suo. <milestone unit="vs" n="4"/> Et adue
+		<lb type="inWord"/>nerunt reges saf
+		<lb type="inWord"/>fo et rex arco et
+		<lb/>rex saragan et rex 
+		<lb/>silo et rex gaas
+		<lb/>et rex <choice><sic>boton</sic><corr resp="#ocp">beton</corr></choice> et
+		<lb/>rex manesacer et
+		<lb/>uniuersi qui inhabi
+		<lb type="inWord"/>tant montana et 
+		<lb/>qui inhabitant in locis in terra ca
+		<lb type="inWord"/>naan<add resp="#ocp">.</add> <milestone unit="vs" n="5"/> Et indicatum
+		<lb/>est iacob quoniam 
+		<lb/>ecce reges amor - - -<add resp="#ocp">.</add>
+	</p>
+
+
 
 
 
@@ -124,15 +166,14 @@ medio populi sancti.
 	<!-- p19c=115 p5c=188 -->
 
 adorauerunt isac et rebeccam. Et uidentes eos benedixerunt iacob et omnes filios eius. Et gauisus est isac ualde quoniam uidit filios iacob filii sui iunioris et benedixit eos.
-34:1  Et quadragesimo quarto iubeleo in anno sexto septimanarum huius misit iacob filios suos ut pascerent oues suas et pueros suos cum ipsis campum sycimae.
-34:2 ‎ Et conuenerunt eos septem reges amorreorum et sederunt in lucum ut interficerent eos et ut praedarentur oues ipsorum - - -.
-34:3 ‎ Iacob autem et leuui
+<milestone unit="vs" n="1"/>  Et quadragesimo quarto iubeleo in anno sexto septimanarum huius misit iacob filios suos ut pascerent oues suas et pueros suos cum ipsis campum sycimae.
+<milestone unit="vs" n="2"/> ‎ Et conuenerunt eos septem reges amorreorum et sederunt in lucum ut interficerent eos et ut praedarentur oues ipsorum - - -.
+<milestone unit="vs" n="3"/> ‎ Iacob autem et leuui
 
 et iudas et ioseph erant in bari secus isac patrem suum quoniam pusillanimis erat spiritus eius et non poterant eum derelinquere. Et beniamin erat iunior propter hoc remanserat cum patre suo.
-34:4 ‎ Et aduenerunt reges saffo et rex arco et rex saragan et rex silo et rex gaas et rex b*e*ton et rex manesacer et uniuersi qui inhabitant montana et qui inhabitant in locis in terra canaan.
-34:5 ‎ Et indicatum est iacob quoniam ecce reges amor - - -.
+<milestone unit="vs" n="4"/> ‎ Et aduenerunt reges saffo et rex arco et rex saragan et rex silo et rex gaas et rex b*e*ton et rex manesacer et uniuersi qui inhabitant montana et qui inhabitant in locis in terra canaan.
+<milestone unit="vs" n="5"/> ‎ Et indicatum est iacob quoniam ecce reges amor - - -.
 
-</p>
 
 </body>
 </text>
