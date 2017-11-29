@@ -30,8 +30,8 @@
 
 <pb type="1861" n="42" xml:id="Ceriani_1861_042"/>
 	<cb type="Ceriani" n="1"/>
-	<milestone type="5c" unit="page" n="83"/>
-	<milestone type="19c" unit="page" n="62" xml:id="palimpsest_page_062"/>
+	<milestone type="5c" unit="page" n="187"/>
+	<milestone type="19c" unit="page" n="116" xml:id="palimpsest_page_116"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="33"/>
 	<p part="F">
@@ -62,6 +62,50 @@
 		<lb/>est inmunditia in
 		<lb/>
 		<milestone unit="column" n="b"/>medio populi sancti<add resp="#ocp">.</add>
+		<milestone unit="vs" n="21"/> Et in anno tertio sep
+		<lb type="inWord"/> timanarum huius
+		<lb/>sexti erat iens iacob 
+		<lb/>et omnes filii sui et
+		<lb/>inhabitauerunt in
+		<lb/>barin abraham iux
+		<lb type="inWord"/>ta isac patrem <unclear>su</unclear>um 
+		<lb/>et rebeccam <unclear>matrem</unclear> 
+		<lb/>suam<add resp="#ocp">.</add> <milestone unit="vs" n="22"/> Haec sunt <unclear>aute</unclear>m 
+		<lb/>nomina filiorum
+		<lb/>iacob<add resp="#ocp">:</add> primogenitus
+		<lb/>ruben symeon leu<unclear>ui</unclear> 
+		<lb/>iudas isachar zab<unclear>y</unclear>
+		<lb type="inWord"/>lon filii liae<add resp="#ocp">.</add>
+	</p>
+	<p>Et filii rachel ioseph 
+		<lb/>et beniamin. 
+	</p>
+	<p>Et filii ballae dan et 
+		<lb/>neptalim. 
+	</p>
+	<p>Et filii zelfae gad
+		<lb/>et aser<add resp="#ocp">.</add>
+		<lb/>Et dina filia liae sin
+		<lb type="inWord"/>gularis filia iacob<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="23"/> Et aduenientes <unclear>hii</unclear>
+	</p>
+	<milestone type="5c" unit="page" n="187"/>
+	<milestone type="19c" unit="page" n="115" xml:id="palimpsest_page_115"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="33"/>
+	<p>adorauerunt isac
+		<lb/>et rebeccam<add resp="#ocp">.</add> Et uiden
+		<lb type="inWord"/>tes eos benedixerunt 
+		<lb/>iacob et omnes filios
+		<lb/>eius<add resp="#ocp">.</add> Et gauisus est
+		<lb/>isac ualde quoniam 
+		<lb/>uidit filios iacob filii 
+		<lb/>sui iunioris et bene
+		<lb type="inWord"/>dixit eos<add resp="#ocp">.</add>
+
+
+
 		
 
 
