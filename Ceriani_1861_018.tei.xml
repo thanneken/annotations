@@ -8,6 +8,8 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -34,28 +36,29 @@
 <milestone type="5c" unit="page" n="99"/>
 <milestone unit="column" n="a"/>
 <milestone unit="ch" n="16"/>
-
+<p part="F">
+		<milestone unit="vs" n="17"/>
 	<!-- p19c=54 p5c=99 -->
 <p>
 nomen.
-16:17 ‎ Et omne semen filiorum eius gentes erunt et cum gentibus deputabuntur et ex filiis isac unus erit in semen sanctum qui cum gentibus non conputabitur
-16:18 ‎ Quoniam in sorte excelsi erit quoniam in possesionem dei cecidit omne semen eius esse deo in populum sanctificatum ex omnibus gentibus eius et ut sit regnum sacerdotale et populus sanctus.
-16:19 ‎ Et abibimus uiam nostram et indicauimus sarrae quaecumque indicauimus ei et gauisi sunt utrique gaudio
+<milestone unit="vs" n="17"/> ‎ Et omne semen filiorum eius gentes erunt et cum gentibus deputabuntur et ex filiis isac unus erit in semen sanctum qui cum gentibus non conputabitur
+<milestone unit="vs" n="18"/> ‎ Quoniam in sorte excelsi erit quoniam in possesionem dei cecidit omne semen eius esse deo in populum sanctificatum ex omnibus gentibus eius et ut sit regnum sacerdotale et populus sanctus.
+<milestone unit="vs" n="19"/> ‎ Et abibimus uiam nostram et indicauimus sarrae quaecumque indicauimus ei et gauisi sunt utrique gaudio
 
 magno.
-16:20 ‎ Et aedificauit illic altarium domino qui liberauit eum et gratiae eius in terram commorationis suae. Et fecit diem festum laetitiae in mense hoc septem dies secus altarium
-16:21 ‎ et aedificauit tabemacula sibi et seruis suis in die festo hoc. Et hic primus fecit diem festum tabernaculorum super terram.
-16:22 ‎ Et in diebus erat offerens per singulos dies super altare fructum domino uitulos duos et arietes duos oues septem et hircum caprarum unum pro peccatis
+<milestone unit="vs" n="20"/> ‎ Et aedificauit illic altarium domino qui liberauit eum et gratiae eius in terram commorationis suae. Et fecit diem festum laetitiae in mense hoc septem dies secus altarium
+<milestone unit="vs" n="21"/> ‎ et aedificauit tabemacula sibi et seruis suis in die festo hoc. Et hic primus fecit diem festum tabernaculorum super terram.
+<milestone unit="vs" n="22"/> ‎ Et in diebus erat offerens per singulos dies super altare fructum domino uitulos duos et arietes duos oues septem et hircum caprarum unum pro peccatis
 
 	<!-- p19c=53 p5c=100 -->
 propitiari in ipso pro se et pro semine suo.
-16:23 ‎ Et in sacrificium salutare arietes septem hedos septem oues septem et hircos septem et sacrificia ipsorum et uinum ipsorum et uniuersam adipem eorum erat incendens super altari - - - ostiam in odorem suauitatis.
-16:24 ‎ Et mane et uesperam erat incendens incensum compositionis libanum et galbanum et stacten et nardum et myrram et spicam et costum septem has species mundas erat incen-
+<milestone unit="vs" n="23"/> ‎ Et in sacrificium salutare arietes septem hedos septem oues septem et hircos septem et sacrificia ipsorum et uinum ipsorum et uniuersam adipem eorum erat incendens super altari - - - ostiam in odorem suauitatis.
+<milestone unit="vs" n="24"/> ‎ Et mane et uesperam erat incendens incensum compositionis libanum et galbanum et stacten et nardum et myrram et spicam et costum septem has species mundas erat incen-
 
 dens concisas et aequaliter mixtas.
-16:25 ‎ Et fecit diem festum hunc per septem dies aepulans in toto corde suo et in omni anima sua ipse et uniuersi domestici sui et omnis alienus non erat cum ipsis et omnis in>circumcisus.
-16:26 ‎ Et benedixit creatorem suum qui creauit illum quia cognouit et sciuit quia ex ipso erit plantatio ueritatis in generationibus aeternis et ex ipso semen sanctum ut sit secundum h*un*c qui creauit uniuersa.
-16:27 ‎ Et benedixit et gauisus est et
+<milestone unit="vs" n="25"/> ‎ Et fecit diem festum hunc per septem dies aepulans in toto corde suo et in omni anima sua ipse et uniuersi domestici sui et omnis alienus non erat cum ipsis et omnis in>circumcisus.
+<milestone unit="vs" n="26"/> ‎ Et benedixit creatorem suum qui creauit illum quia cognouit et sciuit quia ex ipso erit plantatio ueritatis in generationibus aeternis et ex ipso semen sanctum ut sit secundum h*un*c qui creauit uniuersa.
+<milestone unit="vs" n="27"/> ‎ Et benedixit et gauisus est et
 </p>
 
 </body>
