@@ -1,7 +1,7 @@
 Ceriani_1861_015.tei.xml Hanneken
 Ceriani_1861_016.tei.xml Hanneken
 Ceriani_1861_017.tei.xml Selvanathan
-Ceriani_1861_018.tei.xml
+Ceriani_1861_018.tei.xml Dominguez
 Ceriani_1861_019.tei.xml Zeitzmann
 Ceriani_1861_020.tei.xml AlShobber
 Ceriani_1861_021.tei.xml Dominguez
