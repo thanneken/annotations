@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -27,31 +28,120 @@
 <text xml:lang="la">
 <body>
 
-<ab>
+
 <pb type="1861" n="43" xml:id="Ceriani_1861_043"/>
-
-	<!-- p19c=114 p5c=193 -->
-
-35:3 ‎ - - - usque in diem hunc et uniuersa opera mea et omnia quae sunt in corde meo quoniam omnibus diebus ego - - - bona facere - - - omnibus.
-35:4 ‎ Et quomodo non faciam sermonem hunc quae tu mandas mihi ut faciam patri meo et fratribus meis.
-35:5 ‎ Sed rogo indica mihi mater quod uidisti in me peruersum ut auertar ab eo et sit super me misericordia domini.
-35:6 ‎ Et dixit illi rebecca: nate omnibus meis non uidi in te omne opus peruersum sed rectum. Et tamen omnem ueritatem indicabo tibi nate ego in
-
-anno isto morior et non transeam annum istum adhuc in uita mea. Ego moriar et non uiuam amplius - - - quinquaginta annorum sum conplens in uita mea.
-35:7 ‎ Et risit iacob de sermonibus matris suae qu - - - riram. Et ipsa sedebat in conspectu eius et erat ualida et non infirmis uiribus suis erat enim exiens et intrans et dentes sui fortes et infirmitas non contristauit eam omnibus diebus suis.
-35:8 ‎ Et dixit ad eam iacob:
-
-	<!-- p19c=113 p5c=194 -->
-
-beatus sum si adproximauerunt dies mei in diebus uitae tuae - - -. - - - in me - - - simil - - - est locuta es me cum de morte tua.
-35:9 ‎ Et introiuit - - - ad isac et dixit illi: petitionem unam peto a te ut adiures esau ut non adfligat iacob fratrem suum et non persequatur eum et non inimicitias exerceat aduersus eum. Tu enim noscis sensum esau quia malignus est a pueritia sua et non est cum eo quicquam rectum. Nequa et
-
-- - -m meo - - - fratrem suum.
-35:10 ‎ - - - omnia quaecumque fecit - - - die - - - u - - - in diem hunc quo - - - rapuit - - -.
-35:11 ‎ Petentes eramus - - - eo de nostris - - - quasi misericordiam faciebat nobis cum.
-35:12 ‎ Et amaricabatur tibi propter quod benedixeras iacob filium tuum perfectum et ueracem quia non est cum illo malignitas - - -.
-
-</ab>
+<cb type="Ceriani" n="1"/>
+<milestone type="5c" unit="page" n="193"/>
+<milestone type="19c" unit="page" n="114" xml:id="palimpsest_page_114"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="35"/>
+<p part="F">
+	<milestone unit="vs" n="3"/>usque in diem hunc et
+	<lb/>uniuersa opera mea
+		<lb/>et omnia quae sunt
+		<lb/>in corde meo quoniam
+		<lb/>omnibus diebus <unclear>ego</unclear> <gap reason="illegible" quantity="6" unit="character"/>
+		<lb/>bona facere<gap reason="illegible" quantity="2" unit="character"/> omnibus<add resp="#ocp">.</add>
+		<milestone unit="vs" n="4"/> Et quomodo non fa
+		<lb type="inWord"/>ciam sermonem hunc 
+		<lb/>quae tu mandas mi
+		<lb type="inWord"/>hi ut faciam patri meo
+		<lb type="inWord"/>et fratribus meis<add resp="#ocp">.</add> <milestone unit="vs" n="5"/> Sed 
+		<lb/>rogo indica mihi ma
+		<lb type="inWord"/>ter qu<unclear>od</unclear> uidisti in
+		<lb/>me peruersum ut
+		<lb/>auertar ab eo et sit
+		<lb/>super me misericor
+		<lb type="inWord"/>dia domini<add resp="#ocp">.</add> <milestone unit="vs" n="6"/> Et dixit illi 
+		<lb/>rebecca<add resp="#ocp">:</add> nate omni
+		<lb type="inWord"/>bus meis non uidi 
+		<lb/>in te omne opus per
+		<lb type="inWord"/>uersum sed rectum<add resp="#ocp">.</add>
+		<lb/>Et tamen omnem 
+		<lb/>ueritatem indica
+		<lb type="inWord"/>bo tibi nate ego in
+		<lb/>
+		<milestone unit="column" n="b"/>anno isto morior
+		<lb/>et non transeam
+		<lb/>annum istum adhuc
+		<lb/>in uita mea<add resp="#ocp">.</add> <unclear>Ego</unclear> mo
+		<lb type="inWord"/>riar et non uiuam
+		<lb/>amplius <gap reason="illegible" quantity="5" unit="character"/> 
+		<lb/> <gap reason="illegible" quantity="5" unit="character"/>quinquagin
+		<lb type="inWord"/>ta annorum sum 
+		<lb/>conplens in uita 
+		<lb/>mea<add resp="#ocp">.</add> <milestone unit="vs" n="7"/> Et risit iacob 
+		<lb/>de sermonibus ma
+		<lb type="inWord"/>tris <unclear>suae</unclear> qu <gap reason="illegible" quantity="4" unit="character"/>
+		<lb/><gap reason="illegible" quantity="2" unit="character"/>ri <gap reason="illegible" quantity="3" unit="character"/>ram<add resp="#ocp">.</add>
+		<lb/>Et ipsa <unclear>sedebat</unclear> in
+		<lb/>conspectu eius et
+		<lb/>erat ualida et non
+		<lb/>infirmis uiribus suis
+		<lb/>erat enim exiens
+		<lb/>et intrans et den
+		<lb type="inWord"/>tes sui fortes et in
+		<lb type="inWord"/>firmitas non con
+		<lb type="inWord"/>tristauit eam om
+		<lb type="inWord"/>nibus diebus suis<add resp="#ocp">.</add>
+		</p>
+	<p><milestone unit="vs" n="8"/> Et dixit ad eam iacob<add resp="#ocp">:</add> <!-- Ceriani's text has a period instead of a colon -->
+	</p>
+		<milestone type="5c" unit="page" n="194"/>
+		<milestone type="19c" unit="page" n="113" xml:id="palimpsest_page_113"/>
+		<cb type="Ceriani" n="2"/>
+		<milestone unit="column" n="a"/>
+		<p>beatus sum si adpro
+		<lb type="inWord"/>ximauer<unclear>u</unclear>nt dies mei
+		<lb/>in diebus uitae tuae
+		<lb/><gap reason="illegible" quantity="12" unit="character"/> <add resp="#ocp">.</add>
+		<lb/><gap reason="illegible" quantity="12" unit="character"/>
+		<lb/>in me <gap reason="illegible" quantity="9" unit="character"/> <unclear>simi</unclear> 
+		<lb/> <unclear>l</unclear> <lb/><gap reason="illegible" quantity="7" unit="character"/> <unclear>est lo</unclear> 
+		<lb type="inWord"/>cuta es <unclear>me cum</unclear> <!-- Ceriani's script considers 'me cum' one word:mecum --> de
+		<lb/>morte tua<add resp="#ocp">.</add> <milestone unit="vs" n="9"/> Et intro
+		<lb type="inWord"/>iuit <gap reason="illegible" quantity="5" unit="character"/> ad isac
+		<lb/>et dixit illi<add resp="#ocp">:</add> petitio
+		<lb type="inWord"/>nem unam peto a t<unclear>e</unclear> 
+		<lb/>ut adiures esau ut 
+		<lb/>non adfligat iacob 
+		<lb/>fratrem suum et
+		<lb/>non persequatur
+		<lb/>eum<!-- there appears to be a period on Ceriani's version --> et non inimi
+		<lb type="inWord"/>citias exerceat ad
+		<lb type="inWord"/>uersus eum. Tu enim
+		<lb/>noscis sensum esau
+		<lb/>quia malignus est
+		<lb/>a pueritia sua et non 
+		<lb/>est cum eo quicquam 
+		<lb/>rectum. Nequa et
+		<lb/>
+		<milestone unit="column" n="b"/> <gap reason="illegible" quantity="7" unit="character"/> m meo 
+		<lb/><gap reason="illegible" quantity="8" unit="character"/> fratrem 
+		<lb/>suum<add resp="#ocp">.</add> <gap reason="illegible" quantity="9" unit="character"/>
+		<lb/><milestone unit="vs" n="10"/> omnia quaecumque
+		<lb/> fecit <gap reason="illegible" quantity="10" unit="character"/>
+		<lb/> die <gap reason="illegible" quantity="11" unit="character"/> 
+		<lb/> <gap reason="illegible" quantity="13" unit="character"/> 
+		<lb/><gap reason="illegible" quantity="4" unit="character"/> u <gap reason="illegible" quantity="4" unit="character"/> <unlear>in diem</unlear>
+		<lb/>hunc <unclear>quo</unclear> <gap reason="illegible" quantity="7" unit="character"/>
+		<lb/><gap reason="illegible" quantity="13" unit="character"/>
+		<lb/><gap reason="illegible" quantity="13" unit="character"/> 
+		<lb/><gap reason="illegible" quantity="13" unit="character"/>
+		<lb/><gap reason="illegible" quantity="13" unit="character"/>
+		<lb/>rapuit <gap reason="illegible" quantity="9" unit="character"/><add resp="#ocp">.</add>
+		<lb/><milestone unit="vs" n="11"/> Petentes eramus <gap reason="illegible" quantity="4" unit="character"/> 
+		<lb/>eo de nostris<gap reason="illegible" quantity="5" unit="character"/>
+		<lb/>quasi misericordia<unlear>m</unlear>
+		<lb/>faciebat nobis cum <!-- Ceriani's script considers 'nobis cum' as one word: nobiscum --><add resp="#ocp">.</add>
+		<lb/><milestone unit="vs" n="12"/> Et amaricabatur tibi
+		<lb/> propter quod bene
+		<lb type="inWord"/>dixeras iacob filium
+		<lb/>tuum perfectum et 
+		<lb/>ueracem quia non
+		<lb/>est cum illo malignitas - - - <add resp="#ocp">.</add>
+		
+</p>
 
 </body>
 </text>
