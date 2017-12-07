@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Todd Hanneken</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -31,33 +33,32 @@
 	<milestone type="5c" unit="page" n="93"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="15"/>
-	<p>‎illum et multiplica-
-		<lb/>bo eum et adaugam
-		<lb/>eum ualde Nam duo-
-		<lb type="inWord"/>decim principes ge-
+	<p part="F">illum et multiplica
+		<lb type="inWord"/>bo eum et adaugam
+		<lb/>eum ualde Nam duo
+		<lb type="inWord"/>decim principes ge
 		<lb type="inWord"/>nerauit et ponam
 		<lb/>eum in gentem mag
 		<lb type="inWord"/>nam et testamen
 		<lb type="inWord"/>tum meum statuam
-		<lb/>cum isac quem pari-
-		<lb type="inWord"/>et tibi sarra secun-
+		<lb/>cum isac quem pari
+		<lb type="inWord"/>et tibi sarra secun
 		<lb type="inWord"/>dum tempus hoc in anno
 		<lb/>ueniente.
 	</p>
-	<p>Et consummauit lo-
+	<p>Et consummauit lo
 		<lb type="inWord"/>quens cum ipso et
-		<lb/>ascendit deus ab abra-
+		<lb/>ascendit deus ab abra
 		<lb type="inWord"/>ham et fecit abraham
-		<lb/>quemammodum di-
+		<lb/>quemammodum di
 		<lb type="inWord"/>xit illi deus et accepit
 		<lb/>ismael filium suum
-		<lb/>et omnes domina-
-		<lb type="inWord"/>tos suos et empti-
+		<lb/>et omnes domina
+		<lb type="inWord"/>tos suos et empti
 		<lb type="inWord"/>cios omnem ergo
 		<lb/>masculum in domo
 		<lb/>sua circumcidit carnem
-		<milestone unit="column" n="b"/>
-		<lb/>praeputii ipsorum
+		<lb/><milestone unit="column" n="b"/>praeputii ipsorum
 		<lb/>in illo tempore
 	</p>
 	<p>Et circumcidit se
@@ -65,76 +66,76 @@
 		<lb/>et dominatos suos
 		<lb/>et domesticos suos
 		<lb/>et empticios etiam
-		<lb/>de filiis alienis cir-
+		<lb/>de filiis alienis cir
 		<lb type="inWord"/>cumcidit omneis
 	</p>
 	<p>Haec lex in omnibus
-		<lb/>generationibus sae-
-		<lb type="inWord"/>culi et non est prae-
+		<lb/>generationibus sae
+		<lb type="inWord"/>culi et non est prae
 		<lb type="inWord"/>terire diem unum
-		<lb/>ex diebus quibus <add resp="#ocp">[quia]</add> prae-
-		<lb type="inWord"/>ceptum est aeter-
+		<lb/>ex diebus <choice><sic>quibus</sic><corr resp="#ocp">quia</corr></choice> prae
+		<lb type="inWord"/>ceptum est aeter
 		<lb type="inWord"/>num mandatum et
-		<lb/>scriptum est in ta-
+		<lb/>scriptum est in ta
 		<lb type="inWord"/>bulis caeli ut omnis
 		<lb/>natus cuiuscumque
-		<lb/>non fuerit circum-
+		<lb/>non fuerit circum
 		<lb type="inWord"/>cisa caro praeputii
-		<lb/>eius usque in diem oc-
+		<lb/>eius usque in diem oc
 		<lb type="inWord"/>tauam non est de
 		<lb/>testamento quod
-		<milestone type="19c" unit="page" n="51" xml:id="modern_page_051"/>
-		<milestone type="5c" unit="page" n="94"/>
-		<milestone unit="column" n="a"/>
-		<lb/>testatus est deus ad
-		<lb/>abraham quia de fi-
-		<lb type="inWord"/>liis exterminatio-
-		<lb type="inWord"/>nes <add resp="#ocp">[nis]</add> est et amplius
+	</p>
+	<milestone type="19c" unit="page" n="51" xml:id="modern_page_051"/>
+	<milestone type="5c" unit="page" n="94"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">testatus est deus ad
+		<lb/>abraham quia de fi
+		<lb type="inWord"/>liis exterminatio
+		<lb type="inWord"/>n<choice><sic>e</sic><corr resp="#ocp">i</corr></choice>s est et amplius
 		<lb/>non est super eum
 		<lb/>signum ut sit deo sed
-		<lb/>exterminii et per-
-		<lb type="inWord"/>ditionis a terra quo-
+		<lb/>exterminii et per
+		<lb type="inWord"/>ditionis a terra quo
 		<lb type="inWord"/>niam testamentum
 		<lb/>domini dei nostri dissipauit
-		<lb/>quoniam omnis <add resp="#ocp">[omnes]</add> an-
-		<lb type="inWord"/>geli uultuus et om-
-		<lb type="inWord"/>nes archangeli be-
+		<lb/>quoniam omn<choice><sic>i</sic><corr resp="#ocp">e</corr></choice>s an
+		<lb type="inWord"/>geli uultuus et om
+		<lb type="inWord"/>nes archangeli be
 		<lb type="inWord"/>nedictionis a diebus
 		<lb/>creaturae ipsorum
 		<lb/>coram angelorum
-		<lb/>uultuum et angelo-
-		<lb type="inWord"/>rum sanctificatio-
-		<lb type="inWord"/>nis sanctificauit is-
-		<lb type="inWord"/>trahel ut esset si-
+		<lb/>uultuum et angelo
+		<lb type="inWord"/>rum sanctificatio
+		<lb type="inWord"/>nis sanctificauit is
+		<lb type="inWord"/>trahel ut esset si
 		<lb type="inWord"/>mul cum ipso et cum
 		<lb/>angelis sanctorum
-		<lb/>ipsius. Et tu deman-
-		<lb type="inWord"/>da filios <add resp="#ocp">filiis</add>istrahel
-		<milestone unit="column" n="b"/>
-		<lb/>ut custodiant tes-
+		<lb/>ipsius. Et tu deman
+		<lb type="inWord"/>da filiis istrahel
+		<lb/><milestone unit="column" n="b"/>ut custodiant tes
 		<lb type="inWord"/>tamentum signi
-		<lb/>huius in generatio-
-		<lb type="inWord"/>nibus suis in testamen-
+		<lb/>huius in generatio
+		<lb type="inWord"/>nibus suis in testamen
 		<lb type="inWord"/>tum aeternum et
-		<lb/>non exterminabun-
+		<lb/>non exterminabun
 		<lb type="inWord"/>tur a terra quoniam
-		<lb/>decreuit in decre-
+		<lb/>decreuit in decre
 		<lb type="inWord"/>to testamenti ut
-		<lb/>custodiatur in ae-
-		<lb type="inWord"/>ternum super om-
+		<lb/>custodiatur in ae
+		<lb type="inWord"/>ternum super om
 		<lb type="inWord"/>nes filios istrahel
 		<lb/>quoniam ismael et
 		<lb/>filios eius et fratres
-		<lb/>eius et esau non ad-
+		<lb/>eius et esau non ad
 		<lb type="inWord"/>plicabit ad se deus et
 		<lb/>non elegit ex ipsis
 		<lb/>quoniam et ipsi ex
 		<lb/>filiis sunt abraham
 		<lb/>sicut cognouit eos
-		<lb/>sed in istrahel ele-
-		<lb type="inWord"/>git ut sint ei in po-
-		<lb type="inWord"/>pulum et sanctifi-
-		<lb type="inWord"/>cauit eum et prae-
+		<lb/>sed in istrahel ele
+		<lb type="inWord"/>git ut sint ei in po
+		<lb type="inWord"/>pulum et sanctifi
+		<lb type="inWord"/>cauit eum et <w part="I">prae</w>
 	</p>
 </body>
 </text>
