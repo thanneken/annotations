@@ -127,7 +127,22 @@
 	<lb/>uniuersi domesti
 	<lb type="inWord"/>ci sui et omnis alie
 	<lb type="inWord"/>nus non erat cum 
-	<lb/>ipsis et omnis in>circumcisus.
+	<lb/>ipsis et omnis in>cir <!-- XML version inserted 'in>' before circumcisus -->
+	<lb type="inWord"/>cumcisus<add resp="#ocp">.</add> <milestone unit="vs" n="26"/> ‎ Et bene
+	<lb type="inWord"/>dixit creatorem suum 
+	<lb/>qui creauit illum 
+	<lb/>quia cognouit et sci
+	<lb/>uit quia ex ipso erit 
+	<lb/>plantatio uerita
+	<lb type="inWord"/>tis in generationi
+	<lb type="inWord"/>bus aeternis et ex ip
+	<lb type="inWord"/>so semen sanctum 
+	<lb type="inWord"/>ut sit secundum 
+	<lb/>h*un*c<choice><sic>hoc</sic><corr resp="#ocp">hunc</corr></choice> qui creauit uni
+	<lb type="inWord"/>uersa<add resp="#ocp">.</add> <milestone unit="vs" n="27"/> ‎ Et benedixit 
+	<lb/>et gauisus est et
+	
+	
 	
 	
 	
