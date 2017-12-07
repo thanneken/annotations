@@ -31,29 +31,35 @@
 <body>
 
 <pb type="1861" n="34" xml:id="Ceriani_1861_034"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="165"/>
+	<milestone type="19c" unit="page" n="89" xml:id="palimpsest_page_089"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="29"/>
+	<p part="F">
 
 	<!-- p19c=89 p5c=165 -->
 
-29:8 ‎ - - - quod uocatum est nomen loci illius congeries testis secundum collem istum.
-29:9 ‎ Antea enim uocabatur terra galaad terrafain quoniam terra rafain est. Et illic nati sunt rafain id est gigantes decem cubitorum et nouem et octo cubitis etiam et septem cubitorum erat altitudo ipsorum.
-29:10 ‎ Et erat habitatio ipsorum a terra filiorum ammon usque in montem heremoth et domus regni ipsorum carnain et mastaroth et draa et msum - - - et seo.
-29:11 ‎ Et perdidit illos dominus de malitia
+<milestone unit="vs" n="8"/> ‎ - - - quod uocatum est nomen loci illius congeries testis secundum collem istum.
+<milestone unit="vs" n="9"/> ‎ Antea enim uocabatur terra galaad terrafain quoniam terra rafain est. Et illic nati sunt rafain id est gigantes decem cubitorum et nouem et octo cubitis etiam et septem cubitorum erat altitudo ipsorum.
+<milestone unit="vs" n="10"/> ‎ Et erat habitatio ipsorum a terra filiorum ammon usque in montem heremoth et domus regni ipsorum carnain et mastaroth et draa et msum - - - et seo.
+<milestone unit="vs" n="11"/> ‎ Et perdidit illos dominus de malitia
 
 studiorum quoniam maligni erant ualde et habitare fecit pro illis amorreos malignos et peccatores sicut non est gens odi(o) quia conpleuerunt omnia peccata sua et non est illis amplius longitudo uitae super terram.
-29:12 ‎ Et emisit iacob laban et abiit in mesopotamiam in terram orientis et iacob conuertit se a terram galaad.
-29:13 ‎ Et in mense nono transiuit iacob undecim filii ipsius et in die aduenit ad illum esau frater(s) suus et propitiatus et abiit ab ipso in terram
+<milestone unit="vs" n="12"/> ‎ Et emisit iacob laban et abiit in mesopotamiam in terram orientis et iacob conuertit se a terram galaad.
+<milestone unit="vs" n="13"/> ‎ Et in mense nono transiuit iacob undecim filii ipsius et in die aduenit ad illum esau frater(s) suus et propitiatus et abiit ab ipso in terram
 
 	<!-- p19c=90 p5c=166 -->
 
 seir et iacob inhabitauit in taberna(cu)culis.
-29:14 ‎ Et in anno primo iubelei huius septimanarum quinti transibit iordanem et inhabitauit trans iordanem. Et erat pascens oues suas a mare salso usque aggruum acrabin.
-29:15 ‎ Et tradidit patri suo isac ex omnibus substantiis suis uestes et escas et carnes et potum lac boty(te)rum et caseum et dactilos de conuallae.
-29:16 ‎ Et matris suae rebeccae per singulos annos quater in medio temporum mensuum et in medio area usque ad messem autumnum
+<milestone unit="vs" n="14"/> ‎ Et in anno primo iubelei huius septimanarum quinti transibit iordanem et inhabitauit trans iordanem. Et erat pascens oues suas a mare salso usque aggruum acrabin.
+<milestone unit="vs" n="15"/> ‎ Et tradidit patri suo isac ex omnibus substantiis suis uestes et escas et carnes et potum lac boty(te)rum et caseum et dactilos de conuallae.
+<milestone unit="vs" n="16"/> ‎ Et matris suae rebeccae per singulos annos quater in medio temporum mensuum et in medio area usque ad messem autumnum
 
 et in medio autumni pluuias et in medio pluuiarum *ueris* barin huius abrahae.
-29:17 ‎ Quoniam reuersus est isac a puteo iurationis et ascendit in barin patris sui abraham et inhabitauit ibi in terra sua et filii sui.
-29:18 ‎ Propter quod in tempore quo abiit iacob in mesopotamiam accepit sibi esau mulierem maellet filiam ismael et uxor eius uniuersos greges patris sui et ascendens inhabitauit in monte seir et dereliquid isac patrem suum ad puteum iurationis.
-29:19 ‎ Ascendit ergo isac
+<milestone unit="vs" n="17"/> ‎ Quoniam reuersus est isac a puteo iurationis et ascendit in barin patris sui abraham et inhabitauit ibi in terra sua et filii sui.
+<milestone unit="vs" n="18"/> ‎ Propter quod in tempore quo abiit iacob in mesopotamiam accepit sibi esau mulierem maellet filiam ismael et uxor eius uniuersos greges patris sui et ascendens inhabitauit in monte seir et dereliquid isac patrem suum ad puteum iurationis.
+<milestone unit="vs" n="19"/> ‎ Ascendit ergo isac
 
 </p>
 
