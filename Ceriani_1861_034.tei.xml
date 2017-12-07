@@ -8,6 +8,8 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -28,7 +30,6 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="34" xml:id="Ceriani_1861_034"/>
 
 	<!-- p19c=89 p5c=165 -->
@@ -54,7 +55,7 @@ et in medio autumni pluuias et in medio pluuiarum *ueris* barin huius abrahae.
 29:18 ‎ Propter quod in tempore quo abiit iacob in mesopotamiam accepit sibi esau mulierem maellet filiam ismael et uxor eius uniuersos greges patris sui et ascendens inhabitauit in monte seir et dereliquid isac patrem suum ad puteum iurationis.
 29:19 ‎ Ascendit ergo isac
 
-</ab>
+</p>
 
 </body>
 </text>
