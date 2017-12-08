@@ -27,17 +27,17 @@ Ceriani_1861_040.tei.xml Repka
 Ceriani_1861_041.tei.xml Dominguez
 Ceriani_1861_042.tei.xml Dominguez
 Ceriani_1861_043.tei.xml Dominguez
-Ceriani_1861_044.tei.xml
+Ceriani_1861_044.tei.xml HERRERA
 Ceriani_1861_045.tei.xml Marissa Gonzalez
-Ceriani_1861_046.tei.xml
-Ceriani_1861_047.tei.xml
-Ceriani_1861_048.tei.xml
-Ceriani_1861_049.tei.xml
-Ceriani_1861_050.tei.xml
-Ceriani_1861_051.tei.xml
-Ceriani_1861_052.tei.xml
-Ceriani_1861_053.tei.xml
-Ceriani_1861_054.tei.xml
+Ceriani_1861_046.tei.xml HERRERA
+Ceriani_1861_047.tei.xml HERRERA
+Ceriani_1861_048.tei.xml HERRERA
+Ceriani_1861_049.tei.xml HERRERA
+Ceriani_1861_050.tei.xml HERRERA
+Ceriani_1861_051.tei.xml HERRERA
+Ceriani_1861_052.tei.xml HERRERA
+Ceriani_1861_053.tei.xml HERRERA
+Ceriani_1861_054.tei.xml HERRERA
 Ceriani_1861_055.tei.xml
 Ceriani_1861_056.tei.xml
 Ceriani_1861_057.tei.xml
