@@ -37,6 +37,127 @@
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="29"/>
 	<p part="F">
+		<milestone unit="vs" n="8"/>quod uocatum est
+		<lb/>nomen loci illius con
+		<lb type="inWord"/>geries testis secun
+		<lb type="inWord"/>dum collem istum<add resp="#ocp">.</add>
+		<milestone unit="vs" n="9"/> ‎ Antea enim uocaba
+		<lb type="inWord"/>tur terra galaad ter
+		<lb type="inWord"/>rafain quoniam ter
+		<lb type="inWord"/>ra rafain est<add resp="#ocp">.</add>
+		</p>
+		<p>Et illic nati sunt ra
+		<lb type="inWord"/>fain id est gigantes 
+		<lb/>decem cubitorum 
+		<lb/>et noue <unclear>m<unclear/> et octo cu
+		<lb type="inWord"/>bitis etiam et septem 
+		<lb/>cubitorum erat al
+		<lb type="inWord"/>titudo ipsorum<add resp="#ocp">.</add> <milestone unit="vs" n="10"/> ‎ Et 
+		<lb/>erat habitatio ipso
+		<lb type="inWord"/>rum a terra filiorum 
+		<lb/>ammon usque in mon
+		<lb type="inWord"/>te <unclear>m</unclear> heremoth <!-- appears to be a period in Ceriani's version --> et do
+		<lb type="inWord"/>mus regni ipsorum 
+		<lb/>carnain et <unclear>mas</unclear>tar<unclear>oth</unclear> 
+		<lb/>et draa et <gap reason="illegible" quantity="2" unit="character"/> msum <gap reason="illegible" quantity="4" unit="character"/>
+		<lb/><unclear>et seo</unclear><add resp="#ocp">.</add> <milestone unit="vs" n="11"/> ‎ Et perdidit il
+		<lb type="inWord"/>los dominus de malitia
+		<lb/>
+		<milestone unit="column" n="b"/>studiorum quoniam 
+		<lb/>maligni erant ual
+		<lb type="inWord"/>de et habitare fecit 
+		<lb/>pro illis amorreos 
+		<lb/>malignos et pecca
+		<lb type="inWord"/>tores si<unclear>cut</unclear> non est
+		<lb/> gens odi(<unclear>o</unclear>) quia con
+		<lb type="inWord"/>pleuerunt omnia 
+		<lb/>peccata sua et non 
+		<lb/>est illis amplius lon
+		<lb type="inWord"/>gitudo uitae super 
+		<lb/>terram. <milestone unit="vs" n="12"/> ‎ Et emisit 
+		<lb/>iacob laban et abiit 
+		<lb/>in mesopotamiam 
+		<lb/>in terram orientis 
+		<lb/>et iacob conuertit 
+		<lb/>se a terram galaad<add resp="#ocp">.</add>
+	</p>
+	<p>
+	 <milestone unit="vs" n="13"/> ‎ Et in mense nono 
+		<lb/>transiuit iacob un
+		<lb type="inWord"/>decim filii ipsius et 
+		<lb/>in die aduenit ad illum 
+		<lb/>esau frater(<unclear>s</unclear>) suus 
+		<lb/>et propitiatus <unclear>e</unclear>t 
+		<lb/>abiit ab ipso in terram
+		</p>
+	<milestone type="5c" unit="page" n="165"/>
+	<milestone type="19c" unit="page" n="89" xml:id="palimpsest_page_089"/>
+	<cb type="Ceriani" n="2"/>
+	<milestone unit="column" n="a"/>
+	<p>seir et iacob inhabi
+	<lb type="inWord"/>tauit in taberna(cu)
+	<lb type="inWord"/>culis<add resp="#ocp">.</add> <milestone unit="vs" n="14"/> ‎ Et in anno primo 
+	<lb/>iubelei huius septima
+	<lb type="inWord"/>narum quinti tran
+	<lb type="inWord"/>sibit iordanem et in
+	<lb type="inWord"/>habitauit trans ior
+	<lb type="inWord"/>danem <!-- Ceriani's version: 'danen' --> . Et erat pas
+	<lb type="inWord"/>cens oues suas a ma
+	<lb type="inWord"/>re salso usque a<unclear>gg</unclear>ruum 
+	<lb/>acrabin. <milestone unit="vs" n="15"/> ‎ Et tradi
+	<lb type="inWord"/>dit patri suo isac ex 
+	<lb/>omnibus substantiis 
+	<lb/>suis uestes et escas 
+	<lb/>et carnes et potum 
+	<lb/>lac boty(te)rum et 
+	<lb/>caseum et dactilos 
+	<lb/>de conuallae<add resp="#ocp">.</add> <milestone unit="vs" n="16"/> ‎ Et ma
+	<lb type="inWord"/>tris suae rebeccae 
+	<lb/>per singulos annos 
+	<lb/>quater in medio tem
+	<lb type="inWord"/>porum mensuum et 
+	<lb/>in medio area usque ad 
+	<lb/>messem autumnum
+	<lb/>
+		<milestone unit="column" n="b"/> et in medio autumni 
+		<lb/>pluuias et in medio 
+		<lb/>pluuiarum <choice><sic>eius</sic><corr resp="#ocp">ueris</corr></choice> barin 
+		<lb/>huius abrahae<add resp="#ocp">.</add> <milestone unit="vs" n="17"/> ‎ Quo
+		<lb type="inWord"/>niam reuersus est 
+		<lb/>isac a puteo iuratio
+		<lb type="inWord"/>nis et ascendit in 
+		<lb/>barin patris sui abra
+		<lb type="inWord"/>ham et inhabitauit 
+		<lb/>ibi in terra sua et filii 
+		</lb>sui<add resp="#ocp">.</add> <milestone unit="vs" n="18"/> ‎ Propter quod in 
+		<lb/>tempore quo abiit 
+		<lb/>iacob in mesopota
+		<lb type="inWord"/>miam accepit sibi 
+		<lb/>esau mulierem mael
+		<lb type="inWord"/>let filiam ismael et 
+		<lb/>uxor eius uniuersos 
+		<lb/>greges patris sui et 
+		<lb/>ascendens inhabi
+		<lb type="inWord"/>tauit in monte seir 
+		<lb/>et dereliquid isac 
+		<lb/>patrem suum ad pu
+		<lb type="inWord"/>teum iurationis<add resp="#ocp">.</add>
+		</p>
+		<p> <milestone unit="vs" n="19"/> ‎ Ascendit ergo isac 
+		
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+	
 
 	<!-- p19c=89 p5c=165 -->
 
