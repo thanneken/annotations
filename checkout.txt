@@ -39,10 +39,10 @@ Ceriani_1861_052.tei.xml HERRERA
 Ceriani_1861_053.tei.xml HERRERA
 Ceriani_1861_054.tei.xml HERRERA
 Ceriani_1861_055.tei.xml Marissa Gonzalez
-Ceriani_1861_056.tei.xml
-Ceriani_1861_057.tei.xml
-Ceriani_1861_058.tei.xml
-Ceriani_1861_059.tei.xml
-Ceriani_1861_060.tei.xml
-Ceriani_1861_061.tei.xml
-Ceriani_1861_062.tei.xml
+Ceriani_1861_056.tei.xml Bryan
+Ceriani_1861_057.tei.xml Bryan
+Ceriani_1861_058.tei.xml Bryan
+Ceriani_1861_059.tei.xml 
+Ceriani_1861_060.tei.xml 
+Ceriani_1861_061.tei.xml 
+Ceriani_1861_062.tei.xml 
