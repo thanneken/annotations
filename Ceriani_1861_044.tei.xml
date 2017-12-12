@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+			<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -21,24 +22,78 @@
 		</sourceDesc>
 	</fileDesc>
 	<encodingDesc>
-		<p>Editedrom the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
 	</encodingDesc>
 </teiHeader>
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="44" xml:id="Ceriani_1861_044"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="205
+	<milestone type="19c" unit="page" n="128" xml:id="palimpsest_page_128"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="36"/>
+	<p part="F">
+		<milestone unit="vs" n="20"/> ‎ Et seruiuit deo in toto 
+		<lb/>corde suo et in tota 
+		<lb/>anima sua et secun
+		<lb type="inWord"/>dum praecepta uisi
+		<lb type="inWord"/>bilia secundum diui
+		<lb type="inWord"/>sionem temporum 
+		<lb/>generationum eius. 
+		</p>
+		<p><milestone unit="vs" n="21"/> ‎ Et quadragesimo quin
+		<lb type="inWord"/>to iubeleo in anno 
+		<lb/>quarto septimana
+		<lb type="inWord"/>rum secundi mor
+		<lb type="inWord"/>tua est lia uxor iacob 
+		<lb/>et sepellierunt eam 
+		<lb/>in spelunca duplici 
+		<lb/>secus rebeccam ma
+		<lb type="inWord"/>trem eius. <milestone unit="vs" n="22"/> ‎ Et adfue
+		<lb type="inWord"/>runt omnes filii eius 
+		<lb/>et pueri eius ut fle
+		<lb type="inWord"/>rent cum eo liam
+		<lb/> mulierem eius et 
+		<lb/>ut consolarentur 
+		<lb/>eum de illa quia erat 
+		<lb/>lugens eum<!-- Ceriani's Version: 'eam' --> <add resp="#ocp">.</add> <milestone unit="vs" n="23"/> ‎ Quoniam 
+		<lb/>diligebat eam ualde
+		<lb/>
+		<milestone unit="column" n="b"/> ex die qua mortua 
+		<lb/>est rachel soror 
+		<lb/>eius quia perfecta 
+		<lb/>et recta erat in om
+		<lb type="inWord"/>nibus uiis suis et ho
+		<lb type="inWord"/>norificans iacob om
+		<lb type="inWord"/>nibus diebus quibus <unclear>uixit</unclear> 
+		<lb/>cum ea et non <unclear>audiuit</unclear> 
+		<lb/>omnem sermone<unclear>m</unclear>
+		<lb/>nequam ex ore eius 
+		<lb/>quoniam <unclear>quieta et</unclear> 
+		<lb/>pacifica erat et <gap reason="illegible" quantity="3" unit="character"/>
+		<lb/><gap reason="illegible" quantity="9" unit="character"/>hono 
+		<lb type="inWord"/> <gap reason="illegible" quantity="9" unit="character"/><add resp="#ocp">.</add> <milestone unit="vs" n="24"/> ‎ Et erat 
+		<lb/>memor omnium ope
+		<lb type="inWord"/>rum eius quae fecit 
+		<lb/>in uita sua et ideo di
+		<lb type="inWord"/>ligebat eam ualde in 
+		<lb/>toto corde suo et 
+		<lb/>in anima sua<add resp="#ocp">.</add>
+		
+		 
+		
+		
 
 	<!-- p19c=128 p5c=205 -->
-
-36:20 ‎ Et seruiuit deo in toto corde suo et in tota anima sua et secundum praecepta uisibilia secundum diuisionem temporum generationum eius.
-36:21 ‎ Et quadragesimo quinto iubeleo in anno quarto septimanarum secundi mortua est lia uxor iacob et sepellierunt eam in spelunca duplici secus rebeccam matrem eius.
-36:22 ‎ Et adfuerunt omnes filii eius et pueri eius ut flerent cum eo liam mulierem eius et ut consolarentur eum de illa quia erat lugens eum.
-36:23 ‎ Quoniam diligebat eam ualde
+<milestone unit="vs" n="20"/> ‎ Et seruiuit deo in toto corde suo et in tota anima sua et secundum praecepta uisibilia secundum diuisionem temporum generationum eius.
+<milestone unit="vs" n="21"/> ‎ Et quadragesimo quinto iubeleo in anno quarto septimanarum secundi mortua est lia uxor iacob et sepellierunt eam in spelunca duplici secus rebeccam matrem eius.
+<milestone unit="vs" n="22"/> ‎ Et adfuerunt omnes filii eius et pueri eius ut flerent cum eo liam mulierem eius et ut consolarentur eum de illa quia erat lugens eum.
+<milestone unit="vs" n="23"/> ‎ Quoniam diligebat eam ualde
 
 ex die qua mortua est rachel soror eius quia perfecta et recta erat in omnibus uiis suis et honorificans iacob omnibus diebus quibus uixit cum ea et non audiuit omnem sermonem nequam ex ore eius quoniam quieta et pacifica erat et - - - hono - - -.
-36:24 ‎ Et erat memor omnium operum eius quae fecit in uita sua et ideo diligebat eam ualde in toto corde suo et in anima sua.
+<milestone unit="vs" n="24"/> ‎ Et erat memor omnium operum eius quae fecit in uita sua et ideo diligebat eam ualde in toto corde suo et in anima sua.
 37:1 ‎ Et in die qua mortuus est isac pater iacob et esau audierunt filii esau quoniam dedit
 
 	<!-- p19c=127 p5c=206 -->
@@ -56,3 +111,4 @@ et potum et benedixit eum pater meus et me dedit sub manu eius.
 </body>
 </text>
 </TEI>
+		
