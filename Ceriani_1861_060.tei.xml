@@ -29,119 +29,165 @@
 
 <ab>
 <pb type="1861" n="60" xml:id="Ceriani_1861_060"/>
+	 <cb type="Ceriani" n="1"/>
+     <milestone type="5c" unit="page" n="267"/>
+     <milestone type="19c" unit="page" n="91" xml:id="palimpsest_page_091"/>
+     <milestone unit="ch" n="9"/>
 
 	<!-- p19c=91 p5c=267 -->
 <p>
 
-quanta nobis con
-<lb type="inWord"/>tegerunt
-9:4 ‎ <lb/>Nunc ergo filii audite 
-<lb/>me uidete enim et 
-<lb/>scite quia numquam 
-<lb/>temptans deum nec pa
-<lb type="inWord"/>rentes nec proaui 
-<lb/>eorum ut praetere
-<lb type="inWord"/>ant mandata illius
-9:5 ‎ <lb/>scitis enim quia haec 
-<lb/>sunt uires nobis et 
-<lb/>hoc faciemus
-9:6 ‎ ieiu
-<lb type="inWord"/>nemus triduo et 
-<lb/>quarto die intremus 
-<lb/>in spelunca quae in 
-<lb/>agro est et moria
-<lb/>mur potius quam 
-<lb/>praetereamus man
-<lb type="inWord"/>data domini dominorum dei 
-<lb/>parentum nostro
-<lb type="inWord"/>rum
-9:7 ‎ hoc enim si fa
-<lb type="inWord"/>ciemus et morie
-<lb type="inWord"/>mur sanguis nos
-<lb type="inWord"/>ter uindicauitur 
-<lb/>coram domino
-
-10:1 ‎ Et tunc parebit reg
-<lb type="inWord"/>num illius in omni 
-<lb/>creatura illius 
-<lb/>Et tunc zabulus finem 
-<lb/>habebit et tristitiam 
-<lb/>cum eo adducetur
-10:2 ‎ Tunc implebuntur 
-<lb/>manus nuntii qui 
-<lb/>est in summo cons
-<lb type="inWord"/>titutus qui proti
-<lb type="inWord"/>nus uindicauit illos 
-<lb/>ab inimicis eorum
-10:3 ‎ .....get enim caeles
-<lb type="inWord"/>tis a sede regni sui 
-<lb/>et exiet de habita
-<lb type="inWord"/>tione sancta sua cum 
-<lb/>indignationem et 
-<lb/>iram propter filios 
-<lb/>suos
-10:4 ‎ et tremebit 
-<lb/>terra usque ad fi
-<lb type="inWord"/>nes suas concutie
-<lb type="inWord"/>tur et alti montes 
-<lb/>humiliabuntur
+	<milestone unit="column" n="a"/>
+	quanta nobis con
+	<lb type="inWord"/>tegerunt
+<!-- 9:4 --><milestone unit="vs" n="4"/>
 </p>
+
+<p>
+	Nunc ergo filii audite 
+	<lb/>me uidete enim et 
+	<lb/>scite quia numquam 
+	<lb/>temptans deum nec pa
+	<lb type="inWord"/>rentes nec proaui 
+	<lb/>eorum ut praetere
+	<lb type="inWord"/>ant mandata illius
+<!-- 9:5 --><milestone unit="vs" n="5"/>
+	<lb/>scitis enim quia haec 
+	<lb/>sunt uires nobis  
+	<lb/>et hoc faciemus
+<!-- 9:6 --><milestone type="vs" n="6"/> ‎ 
+	ieiu
+	<lb type="inWord"/>nemus triduo<unclear>.</unclear> et 
+	<lb/>quarto die intremus 
+	<lb/>in spelunca quae in 
+	<lb/>agro est et moria
+	<lb/>mur potius quam 
+	<lb/>praetereamus man
+	<lb type="inWord"/>data domini dominorum dei 
+	<lb/>parentum nostro
+	<lb type="inWord"/>rum<unclear>.</unclear>
+<!-- 9:7 --><milestone type="vs" n="7"/>
+	hoc enim si fa
+	<lb type="inWord"/>ciemus et morie
+	<lb type="inWord"/>mur sanguis nos
+	<lb type="inWord"/>ter uindicauitur 
+	<milestone type="column" n="b"/>
+	<lb/>coram domino
+</p>
+
+<p>
+<!-- 10:1 --><milestone type="vs" n="1"/> ‎ 
+	Et tunc parebit reg
+	<lb type="inWord"/>num illius in omni 
+	<lb/>creatura illius 
+</p>
+
+<p>
+	<lb/>Et tunc zabulus finem 
+	<lb/>habebit et tristitiam 
+	<lb/>cum eo adducetur
+	<milestone unit="ch" n="10"/>
+<!-- 10:2 --><milestone type="vs" n="2"/> ‎
+</p>
+
+<p> 
+	Tunc implebuntur 
+	<lb/>manus nuntii qui 
+	<lb/>est in summo cons
+	<lb type="inWord"/>titutus<unclear>.</unclear> qui proti
+	<lb type="inWord"/>nus uindicauit illos 
+	<lb/>ab inimicis eorum
+<!-- 10:3 --><milestone type="vs" n="3"/>‎ 
+	.....get enim caeles
+	<lb type="inWord"/>tis a sede regni sui 
+	<lb/>et exiet de habita
+	<lb type="inWord"/>tione sancta sua cum 
+	<lb/>indignationem et 
+	<lb/>iram propter filios 
+	<lb/>suos
+<!-- 10:4 --><milestone type="vs" n="4"/> ‎ 
+	et tremebit 
+	<lb/>terra usque ad fi
+	<lb type="inWord"/>nes suas concutie
+	<lb type="inWord"/>tur et alti montes 
+	<lb/>humiliabuntur
+</p>
+<!-- do not know if this is right -->
+     <milestone type="5c" unit="page" n="268"/>
+     <milestone type="19c" unit="page" n="92" xml:id="palimpsest_page_092"/>
+     <milestone unit="ch" n="10"/>
 	<!-- p19c=92 p5c=268 -->
 <p>
-et concutientur 
-<lb/>et conualles cadent
-10:5 ‎ <lb/>sol non dabit lumen 
-<lb/>et in tenebris con
-<lb type="inWord"/>uertent se cornua 
-<lb/>lunae et confringen
-<lb type="inWord"/>tur et tota conuer
-<lb type="inWord"/>tit se in sanguine et 
-<lb/>orbis stellarum con
-<lb type="inWord"/>turuauitur
-10:6 ‎ et ma
-<lb type="inWord"/>re usque ad abyssum 
-<lb/>decedit ad fontes 
-<lb/>aquarum deficient 
-<lb/>et flumina expaues
-<lb type="inWOrd"/>cent
-10:7 ‎ quia exurgit 
-<lb/>summus deus aeternus 
-<lb/>solus et palam ue
-<lb type="inWord"/>niet ut uindicet gen
-<lb type="inWord"/>tes et perdet om
-<lb type="inWord"/>nia idola eorum
-10:8 ‎ <lb/>Tunc felix eris tu is
-<lb type="inWord"/>trahel et ascendes 
-<lb/>supra ceruices et 
-<lb/>alas aquilae et in-
+	<milestone type="column" n="a"/>
+	et concutientur 
+	<lb/>et conualles cadent
+<!-- 10:5 --><milestone type="vs" n="5"/> ‎ 
+	<lb/>sol non dabit lumen 
+	<lb/>et in tenebris con
+	<lb type="inWord"/>uertent se cornua 
+	<lb/>lunae et confringen
+	<lb type="inWord"/>tur et tota conuer
+	<lb type="inWord"/>tit se in sanguine et 
+	<lb/>orbis stellarum con
+	<lb type="inWord"/>turuauitur
+<!-- 10:6 --><milestone type="vs" n="6"/> ‎ 
+	et ma
+	<lb type="inWord"/>re usque ad abyssum 
+	<lb/>decedit ad fontes 
+	<lb/>aquarum deficient 
+	<lb/>et flumina expaues
+	<lb type="inWOrd"/>cent<unclear>.</unclear>
+<!-- 10:7 --><milestone type="vs" n="7"/> ‎ 
+	quia exurgit 
+	<lb/>summus deus aeternus 
+	<lb/>solus et palam ue
+	<lb type="inWord"/>niet ut uindicet gen
+	<lb type="inWord"/>tes et perdet om
+	<lb type="inWord"/>nia idola eorum
+<!-- 10:8 --><milestone type="vs" n="8"/> ‎ 
+</p>
 
-<lb type="inWord"/>-plebuntur
-10:9 ‎ et alta
-<lb type="inWord"/>uit te deus et faciet te 
-<lb/>herere caelo stella
-<lb type="inWord"/>rum loco habitatio
-<lb type="inWord"/>nis eorum 10 ‎ et cons
-<lb type="inWord"/>piges a summo et ui
-<lb type="inWord"/>des inimicos tuos 
-<lb/>in terram et cognos
-<lb type="inWord"/>ces illos et gaudebis 
-<lb/>et agis gratias et con
-<lb type="inWord"/>fiteberis creatori 
-<lb/>tuo
-10:11 ‎ nam tu iesu na
-<lb type="inWord"/>ue custodi uerba 
-<lb/>haec et hunc librum
-10:12 ‎ <lb/>erunt enim a morte 
-<lb/>receptionem usque 
-<lb/>ad aduentum illius 
-<lb/>tempora ccl quae 
-<lb/>fiunt
-10:13 ‎ Et hic cursus 
-<lb/>... horum quem 
-<lb/>conueniunt donec 
-<lb/>consummentur
-10:14 ‎ <lb/>Ego autem ad dormi
-<lb type="inWord"/>tionem patrum me-
+<p>
+	<lb/>Tunc felix eris tu is
+	<lb type="inWord"/>trahel et ascendes 
+	<lb/>supra ceruices et 
+	<lb/>alas aquilae et in-
+	<milestone type="column" n="b"/>
+	<lb type="inWord"/><add resp="#ocp">-</add>plebuntur
+<!-- 10:9 --><milestone type="vs" n="9"/>
+	et alta
+	<lb type="inWord"/>uit te deus et faciet te 
+	<lb/>herere caelo stella
+	<lb type="inWord"/>rum loco habitatio
+	<lb type="inWord"/>nis eorum<unclear>.</unclear> <!-- 10 (it was on the xml) --> ‎ et cons
+	<lb type="inWord"/>pi<unclear>g</unclear>es a summo et ui
+	<lb type="inWord"/>des inimicos tuos 
+	<lb/>in terram et cognos
+	<lb type="inWord"/>ces illos et gaudebis 
+	<lb/>et agis gratias et con
+	<lb type="inWord"/>fiteberis creatori 
+	<lb/>tuo
+<!-- 10:11 --><milestone type="vs" n="11"/> ‎ 
+	nam tu iesu na
+	<lb type="inWord"/>ue custodi uerba 
+	<lb/>haec et hunc librum
+<!-- 10:12 --><milestone type="vs" n="12"/> ‎ 
+	<lb/>erunt enim a morte 
+	<lb/>receptionem usque 
+	<lb/>ad aduentum illius 
+	<lb/>tempora <unclear>.</unclear>ccl<unclear>.</unclear> quae 
+	<lb/>fiunt
+<!-- 10:13 --><milestone type="vs" n="13"/> ‎ 
+	<unclear>Et hic</unclear> cursus 
+	<lb/>... horum quem 
+	<lb/>conueniunt donec 
+	<lb/>consummentur
+<!-- 10:14 --><milestone type="vs" n="14"/> ‎ 
+</p>
+
+<p>
+	<lb/>Ego autem ad dormi
+	<lb type="inWord"/>tionem patrum me-
 
 </p>
 </ab>
