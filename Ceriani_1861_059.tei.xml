@@ -29,31 +29,112 @@
 
 <ab>
 <pb type="1861" n="59" xml:id="Ceriani_1861_059"/>
+<cb type="Cerani" n="1"/>
+<milestone type="5c" unit="page" n="265"/>
+<milestone type="19c" unit="page" n="68" xml:id="palimpsest_page_68"/>
+<milestone unit="column" n="a"/>
+	
+<!-- p19c=68 p5c=265 -->
 
-	<!-- p19c=68 p5c=265 -->
-
-7:5 ‎ s ... n ... ca ......... nus diis ........ omnis ....................... u .... o .... rue ..... elentes
-7:6 ‎ ..... rum bonorum comestores dicentes se haec facere propter misericordiam qu ...
-7:7 ‎ se et exterminatores quaeru ... fallaces celantes se ne possent cognosci impii in scelere pleni et iniquitate ab oriente usque ad occidentem
-7:8 ‎ dicentes habebimus discubitiones et luxuriam edentes et bibentes Et putauimus nos
-
-tamquam principes erimus
-7:9 ‎ et manus eorum et mentes inmunda tractantes et os eorum loquetur ingentia et super dicent
-10 ‎ noli .... tange ne inquines me loco in quo ... s ...... is d ........ su ..... us ..... in ......... re .... raui .... in plebem quae s .. a .. illis
-8:1 ‎ et .. ta .. ueniet in eos ultio et ira quae talis non fuit in illis a saeculo usque ad illum tempus in quo suscitauit illis regem regum terrae et potestatem a potentia magna qui confitentes
+<lb/><milestone unit="ch" n="7"/><milestone unit="vs" n="5"/><milestone unit="column" n="a"/>s<gap reason="illegible" quantity="3" unit="character"/>n<gap reason="illegible" quantity="3" unit="character"/>ca<gap reason="illegible" quantity="4" unit="character"/>
+<lb/><gap reason="illegible" quantity="5" unit="character"/><unclear>nus diis</unclear><gap reason="illegible" quantity="4" unit="character"/>
+<lb/><gap reason="illegible" quantity="4" unit="character"/>omnis<gap reason="illegible" quantity="4" unit="character"/>
+<lb/><gap reason="illegible" quantity="15" unit="character"/>
+<lb/><gap reason="illegible" quantity="4" unit="character"/>u<gap reason="illegible" quantity="4" unit="character"/>o<gap reason="illegible" quantity="4" unit="character"/>
+<lb/><unclear>rue</unclear><gap reason="illegible" quantity="5" unit="character"/> <unclear>elen</unclear><lb type="inWord"/>
+<lb/><unclear>tes</unclear><milestone unit="ch" n="7"/><milestone unit="vs" n="6"/>‎<gap reason="illegible" quantity="5" unit="character"/><unclear>rum</unclear> bo<lb type="inWord"/>
+<lb/>norum com<unclear>e</unclear>sto<lb type="inWord"/>
+<lb/>res dicentes se <unclear>haec</unclear>
+<lb/>fa<unclear>ce</unclear>re propter mi<lb type="inWord"/>
+<lb/>sericordiam <unclear>qu</unclear><gap reason="illegible" quantity="3" unit="character"/>
+<lb/><milestone unit="ch" n="7"/><milestone unit="vs" n="7"/>se <unclear>et</unclear> extermina<lb type="inWord"/>
+<lb/>tores quaeru<gap reason="illegible" quantity="3" unit="character"/>
+<lb/><milestone unit="ch" n="7"/><milestone unit="vs" n="8"/>fallaces celantes se
+<lb/>ne possent cognos<lb type="inWord"/>
+<lb/>ci impii in scelere
+<lb/>pleni et iniquitate
+<lb/>ab oriente usque ad
+<lb/>occidentem dicen<lb type="inWord"/>
+<lb/>tes habebimus dis<lb type="inWord"/>
+<lb/>cubitiones et luxu<lb type="inWord"/>
+<lb/>riam edentes et
+<lb/>bibentes
+<lb/>Et <unclear>pu</unclear>tauimus nos
+<lb/><milestone unit="column" n="b"/>tamquam <unclear>princip</unclear>es 
+<lb/>erimus <milestone unit="ch" n="7"/><milestone unit="vs" n="8"/> et manus
+<lb/>eorum et mentes
+<lb/><unclear>inmu</unclear>nda tractantes
+<lb/><unclear>e</unclear>t os eorum loque<lb type="inWord"/>
+<lb/>tur ingentia et <unclear>su</unclear><lb type="inWord"/>
+<lb/>per dicent <add resp="#ocp">10</add>‎ n<unclear>oli</unclear><gap reason="illegible" quantity="4" unit="character"/> 
+<lb/><unclear>t</unclear>ange n<unclear>e</unclear> inquin<unclear>es</unclear>
+<lb/>me loco <unclear>in quo</unclear> <gap reason="illegible" quantity="3" unit="character"/> s <gap reason="illegible" quantity="3" unit="character"/>
+<lb/><gap reason="illegible" quantity="3" unit="character"/> is d <gap reason="illegible" quantity="8" unit="character"/>
+<lb/>su <gap reason="illegible" quantity="5" unit="character"/> us <gap reason="illegible" quantity="5" unit="character"/> 
+<lb/>in <gap reason="illegible" quantity="9" unit="character"/> 
+<lb/><unclear>re</unclear><gap reason="illegible" quantity="4" unit="character"/> <unclear>raui</unclear> <gap reason="illegible" quantity="4" unit="character"/>
+<lb/>in plebem quae <unclear>s</unclear> <gap reason="illegible" quantity="2" unit="character"/> <unclear>a</unclear> <gap reason="illegible" quantity="2" unit="character"/>
+<lb/>illis <milestone unit="ch" n="8"/><milestone unit="vs" n="1"/><unclear>et</unclear><gap reason="illegible" quantity="2" unit="character"/><unclear>ta</unclear><gap reason="illegible" quantity="2" unit="character"/> ue<lb type="inWord"/>
+<lb/>niet in eos ultio <unclear>et</unclear>
+<lb/>ira quae talis non
+<lb/>fuit in illis a saeculo
+<lb/>usque ad illum tem<lb type="inWord"/>
+<lb/>pus in quo suscita<lb type="inWord"/>
+<lb/>uit illis regem regum
+<lb/>terrae et potesta<lb type="inWord"/>
+<lb/>tem a potentia mag<lb type="inWord"/>
+<lb/>na qui confitentes
 
 	<!-- p19c=67 p5c=266 -->
 
-circumcisionem in cruce suspendit
-8:2 ‎ Nam necantes torquebit et tradidit duci uinctos in custodiam
-8:3 ‎ et uxores eorum diis donabuntur gentibus Et filii eorum pueri secabantur a medicis pueri inducere acrosisam illis
-8:4 ‎ nam illi in eis punientur in tormentis et igne et ferro et cogentur palam baiulare idola eorum inquinata quomodo sunt pariter continentibus ea
-8:5 ‎ et a torquentibus illos pariter cogentur intrare in abditum locum eorum et cogentur
-
-stimulis blasfemare uerbum contumeliose nouissime post haec et leges quod haberent supra altarium suum
-9:1 ‎ tunc illo dicente hom de tribu leuui cuius nomen erit taxo qui habens vii filios dicens ad eos rogans
-9:2 ‎ uidete filii ecce ultio facta est in plebe altera crudelis inmunda et traductio sine misericordia et eminent principatum
-9:3 ‎ quae enim gens aut quae regio aut quis populus impiorum in domum qui multa scelesta fecerunt tanta mala passi sunt
+<lb/><milestone unit="column" n="a"/>circumcisionem
+<lb/>in cruce suspendit
+<lb/><milestone unit="ch" n="8"/><milestone unit="vs" n="2"/>Nam necantes tor<lb type="inWord"/>
+<lb/>quebit et tradidit
+<lb/>duci uinctos in cus<lb type="inWord"/>
+<lb/>todiam <milestone unit="ch" n="8"/><milestone unit="vs" n="3"/> et uxores
+<lb/>eorum diis donabun<lb type="inWord"/>
+<lb/>tur gentibus
+<lb/>Et filii eorum pueri
+<lb/>secabantur a medicis
+<lb/>pueri inducere a<unclear>c</unclear><lb type="inWord"/>
+<lb/>rosisam illis <milestone unit="ch" n="8"/><milestone unit="vs" n="4"/> nam illi
+<lb/>in eis punientur in
+<lb/>tormentis et igne
+<lb/>et ferro et cogen<lb type="inWord"/>
+<lb/>tur palam baiulare
+<lb/>idola eorum inqui<lb type="inWord"/>
+<lb/>nata quomod<unclear>o</unclear> sunt
+<lb/>pariter continen<lb type="inWord"/>
+<lb/>tibus ea <milestone unit="ch" n="8"/><milestone unit="vs" n="5"/> et a torquen<lb type="inWord"/>
+<lb/>tibus illos pariter co<lb type="inWord"/>
+<lb/>gentur intrare in
+<lb/>abditum locum eo<lb type="inWord"/>
+<lb/>rum et cogentur
+<lb/>
+<lb/>stimulis blasfema<lb type="inWord"/>
+<lb/>re uerbum contu<lb type="inWord"/>
+<lb/>meliose nouissime
+<lb/>post haec et leges
+<lb/>quod haberent su<lb type="inWord"/>
+<lb/>pra altarium suum
+<lb/><milestone unit="ch" n="9"/><milestone unit="vs" n="1"/> tunc illo dicente ho<lb type="inWord"/>
+<lb/>m<add resp="#ocp">o</add> de tribu leuui
+<lb/>cuius nomen erit
+<lb/>taxo qui habens vii
+<lb/>filios dicens ad eos
+<lb/>rogans <milestone unit="ch" n="9"/><milestone unit="vs" n="2"/> uidete filii
+<lb/>ecce ultio facta est
+<lb/>in plebe altera cru<lb type="inWord"/>
+<lb/>delis inmunda et
+<lb/>traductio sine mi<lb type="inWord"/>
+<lb/>sericordia et emi<lb type="inWord"/>
+<lb/>nent principatum
+<lb/><milestone unit="ch" n="9"/><milestone unit="vs" n="3"/>quae enim gens aut
+<lb/>quae regio aut quis
+<lb/>populus impiorum in domum qui mul<lb type="inWord"/>
+<lb/>ta scelesta fecerunt
+<lb/>tanta mala passi sunt
 
 </ab>
 
