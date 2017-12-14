@@ -29,120 +29,138 @@
 
 <ab>
 <pb type="1861" n="36" xml:id="Ceriani_1861_036"/>
+     <cb type="Ceriani" n="1"/>
+     <milestone type="5c" unit="page" n="169"/>
+     <milestone type="19c" unit="page" n="81" xml:id="palimpsest_page_081"/>
+     <milestone unit="column" n="a"/>
+     <milestone unit="ch" n="30"/>
 
 	<!-- p19c=81 p5c=169 -->
 <p>
-eum morietur in la
-<lb type="inWord"/>pidibus<add resp="#ocp">.</add>
-<!-- 30:9 --> ‎ <choice><sic>p</sic><corr resp="#ocp">P</corr></choice>ropter quod
-<lb/>sic scriptum est et 
-<lb/>decretum est in ta
-<lb type="inWord"/>bulis caeli de omni 
-<lb/>semine istrahel quo
-<lb type="inWord"/>niam qui polluerit 
-<lb/>mortem morietur 
-<lb/>et lapidibus lapidabi
-<lb type="inWord"/>tur<add resp="#ocp">.</add>
-<!-- 30:10 -->‎ <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t non erit huic 
-<lb/>legi finis temporis 
-<lb/>et non erit illi remis
-<lb type="inWord"/>sio et omnis propitia
-<lb type="inWord"/>tio<add resp="#ocp">.</add><choice><sic>s</sic><corr resp="#ocp">S</corr></choice>ed ut extermi
-<lb type="inWord"/>netur homo quicum
-<lb type="inWord"/>que polluerit filia<unclear>m</unclear>
-<lb/>ipsius in medio homi
-<lb type="inWord"/>nis istrahel quoni
-<lb type="inWord"/>am ab omni semine 
-<lb/>eius dedit alienige
-<lb type="inWord"/>na et inpie egerunt 
-<lb/>intaminare illud.
+	eum morietur in la
+	<lb type="inWord"/>pidibus<add resp="#ocp">.</add>
+	<!-- 30:9 -->‎<milestone unit="vs" n="9"/> 
+	<choice><sic>p</sic><corr resp="#ocp">P</corr></choice>ropter quod
+	<lb/>sic scriptum est et 
+	<lb/>decretum est in ta
+	<lb type="inWord"/>bulis caeli de omni 
+	<lb/>semine istrahel quo
+	<lb type="inWord"/>niam qui polluerit 
+	<lb/>mortem morietur 
+	<lb/>et lapidibus lapidabi
+	<lb type="inWord"/>tur<add resp="#ocp">.</add>
+	<!-- 30:10 -->‎<milestone unit="vs" n="10"/>
+	<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t non erit huic 
+	<lb/>legi finis temporis 
+	<lb/>et non erit illi remis
+	<lb type="inWord"/>sio et omnis propitia
+	<lb type="inWord"/>tio<add resp="#ocp">.</add><choice><sic>s</sic><corr resp="#ocp">S</corr></choice>ed ut extermi
+	<lb type="inWord"/>netur homo quicum
+	<lb type="inWord"/>que polluerit filia<unclear>m</unclear>
+	<lb/>ipsius in medio homi
+	<lb type="inWord"/>nis istrahel quoni
+	<lb type="inWord"/>am ab omni semine 
+	<lb/>eius dedit alienige
+	<lb type="inWord"/>na et inpie egerunt 
+	<lb/>intaminare illud.
 </p>
 
 <p>
-<!--30:11--><lb/> ‎ Et tu monses man
-<lb type="inWord"/>da filiis istrahel et
-
-testificare super eos 
-<lb/>ut non dent ex filiabus 
-<lb/>suis gentibus et ut non 
-<lb/>accipiant filiis suis 
-<lb/>de filiabus eorum quo
-<lb type="inWord"/>niam abominatio est 
-<lb/>coram domino<add resp="#ocp">.</add>
-<!-- 30:12 --><choice><sic>p</sic><corr resp="#ocp">P</corr></choice>‎ropter 
-<lb/> hoc scripsi tibi in ser
-<lb type="inWord"/>monibus legis omnis 
-<lb/>sermones operum 
-<lb/>sychimorum quae fe
-<lb type="inWord"/>cerunt dine et quem
-<lb type="inWord"/>admodum locuti sunt 
-<lb/>filii iacob dicentes<add resp="#ocp">:</add> 
-<lb/>non dabimus filiam 
-<lb/>nostram homini qui 
-<lb/>habet praeputium 
-<lb/>obprobrium enim 
-<lb/>est nobis<add resp="#ocp">.</add>
-<!-- 30:13 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t obpro
-<lb type="inWord"/>brium istrahel qui 
-<lb/>dant siue accipiunt 
-<lb/>a filiabus gentium prop
-<lb type="inWord"/>ter quod abomina
-<lb type="inWord"/>tio est et inmunditia
-<!-- left off here-->
+	<!--30:11--><milestone unit="vs" n="11"/> 
+	<lb/> ‎ Et tu monses man
+	<lb type="inWord"/>da filiis istrahel et
+	<milestone unit="column" n="b"/>
+	<lb/>testificare super eos 
+	<lb/>ut non dent ex filiabus 
+	<lb/>suis gentibus et ut non 
+	<lb/>accipiant filiis suis 
+	<lb/>de filiabus eorum quo
+	<lb type="inWord"/>niam abominatio est 
+	<lb/>coram domino<add resp="#ocp">.</add>
+	<!-- 30:12 --><milestone unit="vs" n="12"/> 
+	<choice><sic>p</sic><corr resp="#ocp">P</corr></choice>‎ropter 
+	<lb/> hoc scripsi tibi in ser
+	<lb type="inWord"/>monibus legis omnis 
+	<lb/>sermones operum 
+	<lb/>sychimorum quae fe
+	<lb type="inWord"/>cerunt dine et quem
+	<lb type="inWord"/>admodum locuti sunt 
+	<lb/>filii iacob dicentes<add resp="#ocp">:</add> 
+	<lb/>non dabimus filiam 
+	<lb/>nostram homini qui 
+	<lb/>habet praeputium 
+	<lb/>obprobrium enim 
+	<lb/>est nobis<add resp="#ocp">.</add>
+	<!-- 30:13 --><milestone unit="vs" n="13"/> 
+	<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t obpro
+	<lb type="inWord"/>brium istrahel qui 
+	<lb/>dant siue accipiunt 
+	<lb/>a filiabus gentium prop
+	<lb type="inWord"/>ter quod abomina
+	<lb type="inWord"/>tio est et inmunditia
 	<!-- p19c=82 p5c=170 -->
-
-<lb/>in omni istrahel.
-<!--30:14--> ‎ Et
-<lb/>non mundabitur is
-<lb type="inWord"/>trahel ab abomina
-<lb type="inWord"/>tione ista si fuerit 
-<lb/>illi mulier de gentibus 
-<lb/>et non mundabimus 
-<lb/>de filiabus nostris om
-<lb type="inWord"/>nibus gentibus.
-<!-- 30:15 --> ‎ Quoniam 
-<lb/>plaga super plagam 
-<lb/>est et maledictum 
-<lb/>super maledictum 
-<lb/>et omnia iudicia pla
-<lb type="inWord"/>garum et maledic
-<lb type="inWord"/>tio maledictionum 
-<lb/>aduenient super 
-<lb/>illum faciet sermo
-<lb type="inWord"/>nem istum et si prae
-<lb type="inWord"/>terierit et despe
-<lb type="inWord"/>xerit faciens abo
-<lb type="inWord"/>minationis et pollu
-<lb type="inWord"/>erit sanctificatio
-<lb type="inWord"/>nem dei et qui pollu
-<lb type="inWord"/>unt nomen sanctum eius 
-<lb/>iudicabitur tota
-
-<lb/>plebs simul de om
-<lb type="inWord"/>nibus abominationibus 
-<lb/>huius.
-<!-- 30:16 -->‎ Et non erit ut 
-<lb/>accipiat personam 
-<lb/>et non accipiet sa
-<lb type="inWord"/>crificium et olocaus
-<lb type="inWord"/>tomata neque odora
-<lb type="inWord"/>uitur odore suaui
-<lb type="inWord"/>tatis suscipere ip
-<lb type="inWord"/>sud. Et erit in istra
-<lb type="inWord"/>hel omnis homo si
-<lb type="inWord"/>ue mulier polluens 
-<lb/>sanctificationes.
-<!-- 30:17 --> <lb/> Propter quod man
-<lb type="inWord"/>daui tibi dicens: tes
-<lb type="inWord"/>tare testificatio
-<lb type="inWord"/>ne ista in istrahel 
-<lb/>et uide quid factum 
-<lb/>sit sychimis et filiis 
-<lb/>ipsius quomodo tra
-<lb type="inWord"/>diti sunt in manu 
-<lb/>hominum filiorum 
-<lb/>iacob et occiderunt 
-<lb/>illos in iudicio et
+	<!--Do not know if this is right-->
+     <milestone type="5c" unit="page" n="170"/>
+     <milestone type="19c" unit="page" n="82" xml:id="palimpsest_page_082"/>
+     <milestone unit="column" n="a"/>
+     <milestone unit="ch" n="30"/>
+     
+	<lb/>in omni istrahel<add resp="#ocp">.</add>
+	<!--30:14--><milestone unit="vs" n="14"/> ‎ 
+	<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t
+	<lb/>non mundabitur is
+	<lb type="inWord"/>trahel ab abomina
+	<lb type="inWord"/>tione ista si fuerit 
+	<lb/>illi mulier de gentibus 
+	<lb/>et non mundabimus 
+	<lb/>de filiabus nostris om
+	<lb type="inWord"/>nibus gentibus<add resp="#ocp">.</add>
+	<!-- 30:15 --><milestone unit="vs" n="15"/> ‎ 
+	<choice><sic>q</sic><corr resp="#ocp">Q</corr></choice>uoniam 
+	<lb/>plaga super plaga<unclear>m</unclear>
+	<lb/>est et maledictum 
+	<lb/>super maledictum 
+	<lb/>et omnia iudicia pla
+	<lb type="inWord"/>garum et maledic
+	<lb type="inWord"/>tio maledictionum 
+	<lb/>aduenient super 
+	<lb/>illum faciet sermo
+	<lb type="inWord"/>nem istum et si prae
+	<lb type="inWord"/>terierit et despe
+	<lb type="inWord"/>xerit faciens abo
+	<lb type="inWord"/>minationis et pollu
+	<lb type="inWord"/>erit sanctificatio
+	<lb type="inWord"/>nem dei et qui pollu
+	<lb type="inWord"/>unt nomen sanctum eius 
+	<lb/>iudicabitur tota
+	<milestone unit="column" n="b"/>
+	<lb/>plebs simul de om
+	<lb type="inWord"/>nibus abominationibus 
+	<lb/>huius<add resp="#ocp">.</add>
+	<!-- 30:16 -->‎<milestone unit="vs" n="16"/> 
+	<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t non erit ut 
+	<lb/>accipiat personam 
+	<lb/>et non accipiet sa
+	<lb type="inWord"/>crificium et olocaus
+	<lb type="inWord"/>tomata neque odora
+	<lb type="inWord"/>uitur odore suaui
+	<lb type="inWord"/>tatis suscipere ip
+	<lb type="inWord"/>sud<add resp="#ocp">.</add> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t erit in istra
+	<lb type="inWord"/>hel omnis homo si
+	<lb type="inWord"/>ue mulier polluens 
+	<lb/>sanctificationes<add resp="#ocp">.</add>
+	<!-- 30:17 --><milestone unit="vs" n="17"/> 
+	<lb/><choice><sic>p</sic><corr resp="#ocp">P</corr></choice>ropter quod man
+	<lb type="inWord"/>daui tibi dicens<add resp="#ocp">:</add> tes
+	<lb type="inWord"/>tare testificatio
+	<lb type="inWord"/>ne ista in istrahel 
+	<lb/>et uide quid factum 
+	<lb/>sit sychimis et filiis 
+	<lb/>ipsius quomodo tra
+	<lb type="inWord"/>diti sunt in manu 
+	<lb/>hominum filiorum 
+	<lb/>iacob et occiderunt 
+	<lb/>illos in iudicio et
 </p>
 </ab>
 
