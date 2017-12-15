@@ -28,34 +28,114 @@
 <body>
 <ab>
 <pb type="1861" n="62" xml:id="Ceriani_1861_062"/>
+<cb type="Cerani" n="1"/>
+<milestone type="5c" unit="page" n="271"/>
+<milestone type="19c" unit="page" n="98" xml:id="palimpsest_page_98"/>
+<milestone unit="column" n="a"/>
+	
+<!-- p19c=98 p5c=271 -->
 
-	<!-- p19c=98 p5c=271 -->
+<lb/><add resp="#ocp">-</add>cens Eamus ad e<lb type="inWord"/>
+<lb/>os <milestone unit="ch" n="11"/><milestone unit="vs" n="17"/> si inimici impie
+<lb/>fecerunt semel ad<lb type="inWord"/>
+<lb/>huc in dominum suum
+<lb/>non est defensor
+<lb/>illis qui ferat pro
+<lb/>eis praeces domino
+<lb/>quomodo monse
+<lb/>erat magnus nunti<lb type="inWord"/>
+<lb/>us qui singulis horis
+<lb/>diebus et noctibus ha<lb type="inWord"/>
+<lb/>bebat genua sua in<lb type="inWord"/>
+<lb/>fixa in terra orans
+<lb/>et intuens homini<lb type="inWord"/>
+<lb/>potentem orbem
+<lb/>terrarum cum mi<lb type="inWord"/>
+<lb/>sericordia et ius<lb type="inWord"/>
+<lb/>titia reminiscens
+<lb/>testamentum pa<lb type="inWord"/>
+<lb/>rentum et iure<lb type="inWord"/>
+<lb/>iurando placando
+<lb/>dominum <milestone unit="ch" n="11"/><milestone unit="vs" n="18"/>dicent enim
+<lb/>non est ille cum eis
+<lb/>eamus itaque et con<lb type="inWord"/>
 
--cens Eamus ad eos
-11:17 ‎ si inimici impie fecerunt semel adhuc in dominum suum non est defensor illis qui ferat pro eis praeces domino quomodo monse erat magnus nuntius qui singulis horis diebus et noctibus habebat genua sua infixa in terra orans et intuens hominipotentem orbem terrarum cum misericordia et iustitia reminiscens testamentum parentum et iureiurando placando dominum
-11:18 ‎ dicent enim non est ille cum eis eamus itaque et con-
-
--fundamus eos a faciae terrae
-11:19 ‎ quod ergo fiet plebi isti domine monse
-12:1 ‎ et postquam finiuit uerba iesus iterum procidit ad pedes monsi
-12:2 ‎ Et monse prendit manum ipsius et erexit illum in cathedra ante se Et respondit et dixit illi
-12:3 ‎ iesus et ne contemnas sed praebe te securum et adtende uerbis meis
-12:4 ‎ omnes gentes quae sunt in ore terrarum deus creauit et nos praeuidit illos et nos ab initio creaturae orbis terrarum ut ad exitum saeculi Et nihil est
+<lb/><milestone unit="column" n="b"/><add resp="#ocp">-</add>fundamus eos a fa<lb type="inWord"/>
+<lb/>ciae terrae <milestone unit="ch" n="11"/><milestone unit="vs" n="19"/> quod
+<lb/>ergo fiet plebi isti
+<lb/>domine monse <milestone unit="ch" n="12"/><milestone unit="vs" n="1"/> et post<lb type="inWord"/>
+<lb/>quam finiuit uer<lb type="inWord"/>
+<lb/>ba iesus iterum pro<lb type="inWord"/>
+<lb/>cidit ad pedes monsi
+<lb/><milestone unit="ch" n="12"/><milestone unit="vs" n="2"/> Et monse prendit
+<lb/>manum ipsius et e<lb type="inWord"/>
+<lb/>rexit illum in cathe<lb type="inWord"/>
+<lb/>dra ante se Et res<lb type="inWord"/>
+<lb/>pondit et dixit illi
+<lb/><milestone unit="ch" n="12"/><milestone unit="vs" n="3"/> iesus et ne contem<lb type="inWord"/>
+<lb/>nas sed praebe te
+<lb/>securum et adten<lb type="inWord"/>
+<lb/>de uerbis meis <milestone unit="ch" n="12"/><milestone unit="vs" n="4"/> om<lb type="inWord"/>
+<lb/>nes gentes quae sunt
+<lb/>in ore terrarum
+<lb/>deus creauit et nos
+<lb/>praeuidit illos et
+<lb/>nos ab initio crea<lb type="inWord"/>
+<lb/>turae orbis terra<lb type="inWord"/>
+<lb/>rum ut ad exitum 
+<lb/>saeculi Et nihil est
 
 	<!-- p19c=97 p5c=272 -->
 
-ab eo neglectum usque ad pusillum sed omnia praeuidit et prououit cum eis ..
-12:5 ‎ dns omnia quae futura essent in hoc orbe terrarum prouidit et ecce aufertur
-12:6 ‎ ......... s me constituit pro eis et pro peccatis eorum .. .... et in .. ccare .. pro eis
-12:7 ‎ non enim propter meam uirtutem aut infirmitatem sed temperantius misericordiae ipsius et patientia contegerunt mihi
-12:8 ‎ dico enim tibi iesu non propter pietatem plebis huius exterminabis
-
-gentes
-12:9 ‎ omnia caeli firmamenta orbis facta ut prouata a deo et sub nullo dexterae illius sunt
-12:10 ‎ Facientes itaque et consummantes mandata dei crescunt et bonam uiam exigunt
-12:11 ‎ nam peccantibus et neglegentibus mandata carere bonam quae praedicta sunt Et punientur a gentibus multis tormentis
-12:12 ‎ nam in totum exterminet et relinquat eos fieri non potest
-12:13 ‎ exiuit enim deus qui praeuidit omnia in saecula et stabilitum est testamentum illius et iureiu ando quod
+<lb/><milestone unit="column" n="a"/>ab eo neglectum us<lb type="inWord"/>
+<lb/>que ad pusillum
+<lb/>sed omnia praeuidit
+<lb/>et prououit cum
+<lb/><unclear>eis</unclear><gap reason="illegible" quantity="2" unit="character"/><milestone unit="ch" n="12"/><milestone unit="vs" n="5"/> <unclear>dns</unclear> omnia quae
+<lb/>futura essent in <unclear>h</unclear>o<unclear>c</unclear>
+<lb/>orbe terrarum pro<lb type="inWord"/>
+<lb/>uidit et <unclear>ec</unclear>ce aufe<unclear>r</unclear><lb type="inWord"/>
+<lb/>tur <milestone unit="ch" n="12"/><milestone unit="vs" n="6"/><gap reason="illegible" quantity="6" unit="character"/>
+<lb/><gap reason="illegible" quantity="3" unit="character"/> s <unclear>m</unclear>e consti<lb type="inWord"/>
+<lb/><unclear>tuit</unclear> pro eis et pro pec<lb type="inWord"/>
+<lb/>catis eorum <gap reason="illegible" quantity="3" unit="character"/>
+<lb/><gap reason="illegible" quantity="3" unit="character"/> et in <gap reason="illegible" quantity="2" unit="character"/> <unclear>cc</unclear>ar<unclear>e</unclear><gap reason="illegible" quantity="2" unit="character"/>
+<lb/>pro eis <milestone unit="ch" n="12"/><milestone unit="vs" n="7"/> non enim
+<lb/>propter meam uir<lb type="inWord"/>
+<lb/>tutem aut infirmi<lb type="inWord"/>
+<lb/>tatem sed tempe<lb type="inWord"/>
+<lb/>rantius misericor<lb type="inWord"/>
+<lb/>diae ipsius et pati<lb type="inWord"/>
+<lb/>entia contegerunt
+<lb/>mihi <milestone unit="ch" n="12"/><milestone unit="vs" n="8"/> dico enim ti<lb type="inWord"/>
+<lb/>bi iesu non propter
+<lb/>pietatem plebis hu<lb type="inWord"/>
+<lb/>ius exterminabis
+<lb/>
+<lb/><milestone unit="column" n="b"/>gentes <milestone unit="ch" n="12"/><milestone unit="vs" n="9"/> omnia c<unclear>aeli</unclear>
+<lb/>firmamenta or<unclear>bis</unclear> <unclear>fac</unclear><lb type="inWord"/>
+<lb/>ta ut p<unclear>r</unclear>ouata a deo
+<lb/>et sub nullo dexte<lb type="inWord"/>
+<lb/>rae illius sunt
+<lb/><milestone unit="ch" n="12"/><milestone unit="vs" n="10"/> Facientes itaque et con<lb type="inWord"/>
+<lb/>summantes manda<lb type="inWord"/>
+<lb/>ta dei crescunt et bo<lb type="inWord"/>
+<lb/>nam uiam exigunt
+<lb/><milestone unit="ch" n="12"/><milestone unit="vs" n="11"/>nam peccantibus et
+<lb/>negl<unclear>e</unclear>gentibus man<lb type="inWord"/>
+<lb/>data carere bona<unclear>m</unclear>
+<lb/>quae praedicta sunt
+<lb/>Et punient<unclear>ur</unclear> a <unclear>g</unclear>en<lb type="inWord"/>
+<lb/>tibus multis tormen<lb type="inWord"/>
+<lb/>tis <milestone unit="ch" n="12"/><milestone unit="vs" n="12"/> nam in totum ex<lb type="inWord"/>
+<lb/>terminet et relin<lb type="inWord"/>
+<lb/>quat eos fieri non
+<lb/>potest <milestone unit="ch" n="12"/><milestone unit="vs" n="13"/> exiuit enim 
+<lb/>deus qui praeuidit om<lb type="inWord"/>
+<lb/>nia in saecula et sta<lb type="inWord"/>
+<lb/>bilitum est testa<lb type="inWord"/>
+<lb/>mentum illius et
+<lb/>iureiurando quod
 
 </ab>
 </body>
