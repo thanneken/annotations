@@ -1,5 +1,8 @@
+<!-- DOCTYPE tag removed because it threw error in TEI by example validator. Error Code:
+	"Error while parsing XML: A DOCTYPE is not allowed in content. [at line 109, column 10]" -->
+
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xml>
+
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -29,8 +32,9 @@
 <text xml:lang="la">
 <body>
 
-<p part="F">
+
 <pb type="1861" n="40" xml:id="Ceriani_1861_040"/>
+<p part="F">
 <cb type="Ceriani" n="1"/>
 <milestone type="5c" unit="page" n="183"/>
 <milestone type="19c" unit="page" n="74" xml:id="palimpsest_page_074"/>
@@ -39,56 +43,56 @@
 <lb/>ubicumque fecerint
 <lb/>uestigium pedum
 <lb/>suorum aduersus
-<lb/>filios hominum. <milestone unit="vs" n="19"/> Et da
-<lb type="inword"/>bo semini tuo uni
-<lb type="inword"/>uersas benedictio
-<lb type="inword"/>nes quaecumque sunt
+<lb/>filios hominum<add resp="#ocp">.</add> <milestone unit="vs" n="19"/> Et da
+<lb type="inWord"/>bo semini tuo uni
+<lb type="inWord"/>uersas benedictio
+<lb type="inWord"/>nes quaecumque sunt
 <lb/>sub caelo et domina
-<lb type="inword"/>buntur et potesta
-<lb type="inword"/>tem exercent in om
-<lb type="inword"/>nibus gentibus secundum
+<lb type="inWord"/>buntur et potesta
+<lb type="inWord"/>tem exercent in om
+<lb type="inWord"/>nibus gentibus secundum
 <lb/>uolumtatem suam
 <lb/>et post haec optine
-<lb type="inword"/>bunt uniuersam
+<lb type="inWord"/>bunt uniuersam
 <lb/>terram et heredita
-<lb type="inword"/>bunt eam in saecula.
+<lb type="inWord"/>bunt eam in saecula<add resp="#ocp">.</add>
 </p>
 
 <p>
 <milestone unit="vs" n="20"/>‎ Et ut consummauit
 <lb/>loquens cum eo as
-<lb type="inword"/>cendit ab eo et erat
+<lb type="inWord"/>cendit ab eo et erat
 <lb/>iacob considerans
 <lb/>usquequo ascendit
-<lb/>ab eo in caelo. <milestone unit="vs" n="21"/> ‎ Et ui
-<lb type="inword"/>dit in uisione noctis
+<lb/>ab eo in caelo<add resp="#ocp">.</add> <milestone unit="vs" n="21"/> Et ui
+<lb type="inWord"/>dit in uisione noctis
 <lb/>et ecce angelus dei
 
 <lb/><milestone unit="column" n="b"/>descendebat de cae
-<lb type="inword"/>lo et septem tabu
-<lb type="inword"/>lae buxeae in manu
+<lb type="inWord"/>lo et septem tabu
+<lb type="inWord"/>lae buxeae in manu
 <lb/>eius et dedit illas
 <lb/>iacob et legit et cog
-<lb type="inword"/>nouit quae scripta
+<lb type="inWord"/>nouit quae scripta
 <lb/>sunt in eis et quae
 <lb/>erunt super ipsum
 <lb/>et filios eius in om
-<lb type="inword"/>nia saecula. <milestone unit="vs" n="22"/> Et mons
-<lb type="inword"/>trauit illi quaecumque
+<lb type="inWord"/>nia saecula<add resp="#ocp">.</add> <milestone unit="vs" n="22"/> Et mons
+<lb type="inWord"/>trauit illi quaecumque
 <lb/>erant scripta in ta
-<lb type="inword"/>bulis (bulis) buxeis
-<lb type="inword"/>et dixit illi: non ae
-<lb type="inword"/>dificabis hunc locum
+<lb type="inWord"/>bulis <choice><sic>bulis</sic><corr resp="#ocp"></corr></choice>.buxeis                 <!-- "(bulis)" parenthesis added. Ceriani has "tabulis bulis buxeis" -->
+<lb type="inWord"/>et dixit illi<add resp="#ocp">:</add> non ae
+<lb type="inWord"/>dificabis hunc locum
 <lb/>et non facias eum
 <lb/>in sanctificationem
-<lb/>aeternam et nol*i*
+<lb/>aeternam et <choice><sic>nolo</sic><corr resp="#ocp">noli</corr></choice>. 
 <lb/>habitari in hunc lo
-<lb type="inword"/>cum quia sic erit lo
-<lb type="inword"/>cus iste. Sed uade
+<lb type="inWord"/>cum quia sic erit lo
+<lb type="inWord"/>cus iste<add resp="#ocp">.</add> Sed uade
 <lb/>in locum barin abra
-<lb type="inword"/>ham patris tui et in
-<lb type="inword"/>habita ad isac patrem
-<lb/>tuum
+<lb type="inWord"/>ham patris tui et in
+<lb type="inWord"/>habita ad isac patrem
+<lb/>tuum <!-- not certain if indent of last line in Ceriani is intended to denote gap, but no gap indicated in original TEI XML file. Will leave as is for time being -->
 
 <milestone unit="column" n="a"/>
 <milestone type="5c" unit="page" n="184"/>
@@ -96,46 +100,45 @@
 	<!-- p19c=73 p5c=184 -->
 
 <lb/>usque ad diem mortis
-<lb/>patris tui.
-<milestone unit ="ch" n="32"/> <milestone unit ="vs" n="23"/> Quoniam
+<lb/>patris tui<add resp="#ocp">.</add><milestone unit ="ch" n="32"/> <milestone unit ="vs" n="23"/> Quoniam
 <lb/>in aegyptum morie
-<lb type="inword"/>ris in pace et in ter
-<lb type="inword"/>ra hac sepellieris in
+<lb type="inWord"/>ris in pace et in ter
+<lb type="inWord"/>ra hac sepellieris in
 <lb/>gloria et in monumen
-<lb type="inword"/>to patrum tuorum
+<lb type="inWord"/>to patrum tuorum
 <lb/>poneris cum abra
-<lb type="inword"/>ham et isac.<milestone unit ="vs" n="24"/> Noli ti
-<lb type="inword"/>mere quoniam quem
-<lb type="inword"/>admodum uidisti
+<lb type="inWord"/>ham et isac<add resp="#ocp">.</add><milestone unit ="vs" n="24"/> Noli ti
+<lb type="inWord"/>mere quoniam quem
+<lb type="inWord"/>admodum uidisti
 <lb/>et legisti sic erunt
 <lb/>uniuersa quae scrip
-<lb/>ta sunt omnia.
+<lb/>ta sunt omnia<add resp="#ocp">.</add>
 </p>
 
 <p>
-<milestone unit ="vs" n="25"/>‎ Et dixit iacob: domine quo
-<lb type="inword"/>modo memor ero
+<milestone unit ="vs" n="25"/>‎ Et dixit iacob<add resp="#ocp">:</add> domine quo
+<lb type="inWord"/>modo memor ero
 <lb/>uniuersa quae legi
-<lb/>et uidi. Et dixit illi: ego
+<lb/>et uidi<add resp="#ocp">.</add> Et dixit illi<add resp="#ocp">:</add> ego
 <lb/>commemorabo te
-<lb/>uniuersa.<milestone unit ="vs" n="26"/>‎ Et ascen
-<lb type="inword"/>dit ab eo et experge
-<lb type="inword"/>factus a somno suo
+<lb/>uniuersa<add resp="#ocp">.</add><milestone unit ="vs" n="26"/>‎ Et ascen
+<lb type="inWord"/>dit ab eo et experge
+<lb type="inWord"/>factus a somno suo
 <lb/>memor fuit omnium
 <lb/>quaecumque legit et
 <lb/><milestone unit="column" n="b"/>uidit et celauit uni
-<lb type="inword"/>uersos sermones
+<lb type="inWord"/>uersos sermones
 <lb/>quoscumque legit et
-<lb/>uidit.<milestone unit ="vs" n="27"/>‎ Et fecit ibi diem
+<lb/>uidit<add resp="#ocp">.</add><milestone unit ="vs" n="27"/>‎ Et fecit ibi diem
 <lb/>unam et sacrifica
-<lb type="inword"/>uit in ea quanta erat
+<lb type="inWord"/>uit in ea quanta erat
 <lb/>sacrificans in diebus
 <lb/>prioribus et uocauit
 <lb/>nomen eius reten
 <lb/>tatio quoniam reten
-<lb type="inword"/>tus est ibi una die et
+<lb type="inWord"/>tus est ibi una die et
 <lb/>priores dies uoca
-<lb type="inword"/>uit dies festos.<milestone unit ="vs" n="28"/>‎ Et sic
+<lb type="inWord"/>uit dies festos<add resp="#ocp">.</add><milestone unit ="vs" n="28"/>‎ Et sic
 <lb/>manifestum erat
 <lb/>ut fierent et erat
 <lb/>scriptum in tabulis
@@ -143,10 +146,10 @@
 <lb/>reuelatum est illi
 <lb/>facere ipsam diem
 <lb/>et adicere super
-<lb/>septem dies festos.
-<milestone unit ="vs" n="29"/>‎ Et uocatum est no
-<lb type="inword"/>men eius retenta
-<lb type="inword"/>tio propter quod
+<lb/>septem dies festos<add resp="#ocp">.</add>
+<lb/><milestone unit ="vs" n="29"/>‎ Et uocatum est no
+<lb type="inWord"/>men eius retenta
+<lb type="inWord"/>tio propter quod
 </p>
 
 
