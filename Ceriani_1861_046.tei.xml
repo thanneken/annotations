@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Teresa Valdez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -27,33 +28,129 @@
 <text xml:lang="la">
 <body>
 
-<ab>
-<pb type="1861" n="46" xml:id="Ceriani_1861_046"/>
-
-	<!-- p19c=143 p5c=215 -->
-
-39:9 ‎ Et adgressa est eum et tenuit eum intra domum ut faceret ei uim et dormiret cum ea et clusit ostia domus et detinuit eum. Et demisit ioseph uestimenta sua et aperiens ostium fugit foris a facie eius.
-39:10 ‎ Et uidit mulier quoniam contemsit eam mentita est uiro suo aduersus eum in conspectum domini eius dicens: seruus tuus hebreus iste uim mihi molitus est facere quem diligebas ut dormiret me cum. Et factum est cum exaltassem uocem meam fugiens foras dereliquid uestimen-
-
--ta sua in manibus meis qui ram ex imo ei uestimenta sua - - -.
-39:11 ‎ Et uidit aegyptius uestimenta ioseph et ostium fractum et audiuit sermonem mulieris suae et posuit ioseph in domum uinculatorum in locum in quo diuincti reges detinebantur.
-39:12 ‎ Et erat illic in uincula et dedit illi dominus gratiam in conspectu principis carceris et misericordiam in conspectu eius quia uidit quod dominus erat cum eo et omnia quae faciebat ioseph deus dirigebat.
-39:13 ‎ Et ideo dedit
-
-	<!-- p19c=144 p5c=216 -->
-
-uniuersa in manus eius. Et non erat sciens princeps carceris quidquam eorum quae fieban in carcere. Quia uniuersa ea faciens erat ioseph et dominus dirigebat ea.
-39:14 ‎ Et erat illic annis duobus. Et in tempore illo iratus est farao rex aegypti super duos eunuchos suos id est super uinifusores et super principem pistorum et posuit eos in carcerem in domum principis cocorum in uinculatorio in quo et ioseph tenebatur.
-39:15 ‎ Et posuit princeps uinculorum ioseph
-
-ut ministraret eis et ministrabat in conspectu eorum.
-39:16 ‎ Et somniauerunt uiri somnia princeps uinifusorum et princeps pistorum et indicauerunt ea ioseph.
-39:17 ‎ Et quemadmodum interpraetatus est illis ioseph sic est eis et factum. Principem uinifusorum farao restituit in locum suum et principem pistorum suspendit sicut ei dixit ioseph.
-39:18 ‎ Et non fuit memor princeps uinifusorum ioseph in uinculatorio cum indicasset illi quaecumque uenissent ei et non fuit memor
-
-
-</ab>
-
+	<pb type="1861" n="46" xml:id="Ceriani_1861_046"/>
+	<milestone type="5c" unit="page" n="215"/>
+	<milestone type="19c" unit="page" n="143" xml:id="palimpsest_page_143"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="39"/>
+	<p><milestone unit="vs" n="9"/>Et adgressa est eum
+		<lb/>et tenuit eum intra
+		<lb/>domum ut faceret
+		<lb/>ei uim et dormiret
+		<lb/>cum ea et clusit os
+		<lb type="inWord"/>tia domus et detinuit
+		<lb/>eum. Et demisit io
+		<lb type="inWord"/>seph uestimenta sua
+		<lb/>et aperiens ostium
+		<lb/>fugit foris a facie eius<add resp="#ocp">.</add>
+		<lb/><milestone unit="vs" n="10"/>Et uidit mulier quo
+		<lb type="inWord"/>niam contemsit eam
+		<lb/>mentita est uiro suo
+		<lb/>aduersus eum in cons
+		<lb type="inWord"/>p<unclear>ect</unclear>um domini eius
+		<lb/>dicens<add resp="#ocp">:</add> seruus tuus
+		<lb/>hebreus iste uim mi
+		<lb type="inWord"/>hi molitus est face
+		<lb type="inWord"/>re quem diligebas
+		<lb/>ut dormiret me cum
+		<choice>
+			<sic>mecum</sic>
+			<corr resp="#ocp">me cum</corr>
+		</choice>
+		<add resp="#ocp">.</add>
+	</p>
+	<p>Et factum est cum
+		<lb/>exaltassem uocem
+		<lb/>meam fugiens foras
+		<lb/>dereliquid uestimen
+		<lb type="inWord"/>
+		<milestone unit="column" n="b"/>ta sua in manibus
+		<lb/>meis qui<gap reason="illegible" quantity="5" unit="character"/>
+		ram ex imo e<unclear>i</unclear> uestimen
+		<lb type="inWord"/>ta sua <gap reason="illegible" quantity="5" unit="character"/> <!-- ocp has - - - -->.
+	</p>
+	<p><milestone unit="vs" n="11"/>Et uidit aegyptius ues
+		<lb type="inWord"/>timenta ioseph et
+		<lb/>ostium fractum
+		<lb/>et audiuit sermonem
+		<lb/>mulieris suae et po
+		<lb type="inWord"/>suit ioseph in domum
+		<lb/>uinculatorum in
+		<lb/>locum in quo diuinc
+		<lb type="inWord"/>ti reges detineban
+		<lb type="inWord"/>tur. <milestone unit="vs" n="12"/>Et erat illic in
+		<lb/>uincula et dedit il
+		<lb type="inWord"/>li dominus gratiam in cons
+		<lb type="inWord"/>pectu principis car
+		<lb type="inWord"/>ceris et misericor
+		<lb type="inWord"/>diam in conspectu
+		<lb/>eius quia uidit quod
+		<lb/>dominus erat cum eo<!-- Ceriani has '.' --> et
+		<lb/>omnia quae facie
+		<lb type="inWord"/>bat ioseph deus diri
+		<lb type="inWord"/>gebat. <milestone unit="vs" n="13"/>Et ideo dedit
+	</p>
+	<milestone type="5c" unit="page" n="216"/>
+	<milestone type="19c" unit="page" n="144" xml:id="palimpsest_page_144"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">
+		<milestone unit="vs" n="13"/>
+		uniuersa in manus
+		<lb/>eius. Et non erat
+		<lb/>sciens princeps car
+		<lb type="inWord"/>ceris quidquam eo
+		<lb type="inWord"/>rum quae fieban in
+		<lb/>carcere<add resp="#ocp">.</add> Quia uniuer
+		<lb type="inWord"/>sa ea faciens erat io
+		<lb type="inWord"/>seph et dominus dirigebat
+		<lb/>ea<add resp="#ocp">.</add> <milestone unit="vs" n="14"/>Et erat illic annis
+		<lb/>duobus. 
+	</p>
+	<p>Et in tempore illo ira
+		<lb type="inWord"/>tus est farao rex ae
+		<lb type="inWord"/>gypti super duos eu
+		<lb type="inWord"/>nuchos suos id est
+		<choice>
+			<sic>idest</sic>
+			<corr resp="#ocp">id est</corr>
+		</choice>
+		<lb/>super uinifusores
+		<lb/>et super principem
+		<lb/>pistorum et posuit
+		<lb/>eos in carcerem in
+		<lb/>domum principis
+		<lb/>cocorum in uincula
+		<lb type="inWord"/>torio in quo et io
+		<lb type="inWord"/>seph tenebatur<add resp="#ocp">.</add> <milestone unit="vs" n="15"/>Et
+		<lb/>posuit princeps uin
+		<lb type="inWord"/>culorum ioseph
+		<lb/>
+		<milestone unit="column" n="b"/>ut ministraret eis
+		<lb/>et ministrabat in cons
+		<lb type="inWord"/>pectu eorum<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="16"/>Et somniauerunt ui
+		<lb type="inWord"/>ri somnia<!-- Ceriani has '.' --> princeps
+		<lb/>uinifusorum<!-- Ceriani has '.' --> et prin
+		<lb type="inWord"/>ceps pistorum<!-- Ceriani has '.' --> et in
+		<lb type="inWord"/>dicauerunt ea ioseph<add resp="#ocp">.</add>
+		<lb/><milestone unit="vs" n="17"/>Et quemadmodum
+		<lb/>interpraetatus est
+		<lb/>illis ioseph s<unclear>ic est eis</unclear>
+		<lb/>et factum. Principem
+		<lb/>uinifusorum farao
+		<lb/>restituit in locum
+		<lb/>suum et prin<unclear>cipem</unclear>
+		<lb/>pistorum suspen
+		<lb type="inWord"/>dit sicut ei dixit io
+		<lb type="inWord"/>seph<add resp="#ocp">.</add> <milestone unit="vs" n="19"/>Et non fuit me
+		<lb type="inWord"/>mor princeps uini
+		<lb type="inWord"/>fusorum ioseph in
+		<lb/>uinculatorio cum
+		<lb/>indicasset illi quae
+		<lb type="inWord"/>cumque uenissent ei
+		<lb/>et non fuit memor
+	</p>
 </body>
 </text>
 </TEI>
