@@ -30,7 +30,7 @@ Ceriani_1861_043.tei.xml Dominguez
 Ceriani_1861_044.tei.xml Dominguez HERRERA
 Ceriani_1861_045.tei.xml Marissa Gonzalez
 Ceriani_1861_046.tei.xml Valdez
-Ceriani_1861_047.tei.xml 
+Ceriani_1861_047.tei.xml Valdez
 Ceriani_1861_048.tei.xml 
 Text files created for 48-54 with line breaks, but don't have inWord attributes, deleted chapter and verse information, and are not valid XML. It is probably easier to start from scratch on these pages. 
 Ceriani_1861_049.tei.xml 
