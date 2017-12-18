@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -32,22 +34,112 @@
 
 	<!-- p19c=108 p5c=253 -->
 
--ris sui et erit in testimonium in conspectu dei acceptabile et non eueniet ab illo plaga ut perdat et ut exterminet eos in anno illo in quo facient pascha in tempore suo secundum uniuersa praecepta eius.
-49:16 ‎ Et non manducauitur foris a sanctificatione domini sed secus tabernaculum domini et omnis multitudo filiorum istrahel facient illud in tempore suo.
-49:17 ‎ Et omnis homo quicumque praetermiserit in uisitatione manducare illud in sanctificatione dei nostri in cons-
-
--pectu domini a uicensimo anno et supra quoniam sic praeceptum est et scribtum ut manducetur in sanctificatione eius.
-49:18 ‎ Et quemadmodum uenient filii istrahel in terra possessionis ipsorum in terra chanaam et inhabitabunt in tabernaculo dei in medio terrae in una tribu ipsorum usque in diem qua aedificabitur sanctificatio dei in terra et erunt uenientes et facientes pascha in conspectu tabernaculi dei per singulos annos.
-49:19 ‎ Et in tempore
+      <lb type="inWord"/>-ris sui et erit in tes
+      <lb type="inWord"/>timonium in cons
+      <lb type="inWord"/>pectu dei acceptabi
+      <lb type="inWord"/>le et non eueniet 
+      <lb/>ab illo plaga ut per
+      <lb type="inWord"/>dat et ut exterminet 
+      <lb/>eos in anno illo in quo 
+      <lb/>facient pascha in tem
+      <lb type="inWord"/>pore suo secundum 
+      <lb/>uniuersa praecep
+      <lb type="inWord"/>ta eius.Et non man
+      <!-- a period was added after "eius" along with a capital E in "Et" that is not found in Ceriani's edition  -->
+		ce<add resp="#ocp">.</add>
+	  <lb type="inWord"/>ducauitur foris a 
+	  <lb/>sanctificatione domini 
+	  <lb/>sed secus taberna
+	  <lb type="inWord"/>culum domini et omnis 
+	  <lb/>multitudo filiorum 
+	  <lb/>istrahel facient il
+	  <lb type="inWord"/>lud in tempore suo.
+	  <!-- a period was added after "suo" that is not found in Ceriani's edition  -->
+		ce<add resp="#ocp">.</add>
+      <lb/>Et omnis homo qui
+      <lb type="inWord"/>cumque praetermise
+      <lb type="inWord"/>rit in uisitatione 
+      <lb/>manducare illud 
+      <lb/>in sanctificatione 
+      <lb/>dei nostri in cons-
+      <lb type="inWord"/>-pectu domini a uicensi
+      <lb type="inWord"/>mo anno et supra 
+      <lb/>quoniam sic prae
+      <lb type="inWord"/>ceptum est et scrib
+      <lb type="inWord"/>tum ut manduce
+      <lb type="inWord"/>tur in sanctifica
+      <lb type="inWord"/>tione eius.Et quem
+      <!-- a period was added after "eius" along with a capital E in "Et" that is not found in Ceriani's edition  -->
+		ce<add resp="#ocp">.</add>
+      <lb type="inWord"/>admodum uenient 
+      <lb/>filii istrahel in ter
+      <lb type="inWord"/>ra possessionis 
+      <lb/>ipsorum in terra 
+      <lb/>chanaam et inhabi
+      <lb type="inWord"/>tabunt in taberna
+      <lb type="inWord"/>culo dei in medio ter
+      <lb type="inWord"/>rae in una tribu ip
+      <lb type="inWord"/>sorum usque in diem 
+      <lb/>qua aedificabitur 
+      <lb/>sanctificatio dei in 
+      <lb/>terra<add resp="#ocp">.</add> et erunt ue
+      <lb type="inWord"/>nientes et facien
+      <lb type="inWord"/>tes pascha in cons
+      <lb type="inWord"/>pectu tabernaculi 
+      <lb/>dei per singulos an
+      <lb type="inWord"/>nos.Et in tempore
 
 	<!-- p19c=107 p5c=254 -->
 
-quo aedificabitur domus in nomine domini in terra possessionis ipsorum illic offerentes et mactabunt pascha ad uespera circa occasum solis in tertia die.
-49:20 ‎ Et offerent sanguinem eius super basem altaris et adipem offerent super ignem altaris et carnes manducabunt assas igne in atrium domus sanctificatae in nomine domini.
-49:21 ‎ Et non poterunt facere pascha in ciuitatibus ipsorum in omni loco nisi in conspectum tabernaculi domini
-
-et in conspectu domus ubi habitauit nomen eius super ipsam et non exerrabunt de post dominum.
-49:22 ‎ Et tu monse manda filiis istrahel ut custodiant praeceptum paschae et quemadmodum mandatum est tibi indica illis per singulos enim annos in tempore dierum suorum et per diem festum azymorum ut manducent azyma septem dies et ut faciant diem festum eius et ut offerant oblationem per singulos dies in septem diebus laetitiae in cons - - -.
+      quo aedificabitur 
+      <lb/>domus in nomine 
+      <lb/>domini in terra posses
+      <lb type="inWord"/>sionis ipsorum 
+      <lb/>illic offerentes et 
+      <lb/>mactabunt pascha 
+      <lb/>ad uespera circa 
+      <lb/>occasum solis in 
+      <lb/>tertia die.Et offe
+      <lb type="inWord"/>rent sanguinem eius 
+      <lb/>super basem alta
+      <lb type="inWord"/>ris et adipem offe
+      <lb type="inWord"/>rent super ignem 
+      <lb/>altaris et carnes 
+      <lb/>manducabunt as
+      <lb type="inWord"/>sas igne in atrium 
+      <lb/>domus sanctifica
+      <lb type="inWord"/>tae in nomine domini.
+      <lb/>Et non poterunt 
+      <lb/>facere pascha in ci
+      <lb type="inWord"/>uitatibus ipsorum 
+      <lb/>in omni loco nisi 
+      <lb/>in conspectum 
+      <lb/>tabernaculi<add resp="#ocp">.</add> domini
+      <lb/>et in conspectu do
+      <lb type="inWord"/>mus ubi habitauit 
+      <lb/>nomen eius super 
+      <lb/>ipsam<add resp="#ocp">.</add> et non exe
+      <lb type="inWord"/>rrabunt de post dominum.
+ </p>
+   <p>Et tu monse manda 
+	  <lb/>filiis istrahel ut 
+	  <lb/>custodiant prae
+	  <lb type="inWord"/>ceptum paschae 
+	  <lb/>et quemadmodum 
+	  <lb/>mandatum est tibi 
+	  <lb/>indica illis per singu
+	  <lb type="inWord"/>los enim annos in 
+	  <lb/>tempore dierum 
+	  <lb/>suorum et per diem 
+	  <lb/>festum azymorum 
+	  <lb/>ut manducent azy
+	  <lb type="inWord"/>ma septem dies 
+	  <lb/>et ut faciant diem 
+	  <lb/>festum eius et ut 
+	  <lb/>offerant oblatio
+	  <lb type="inWord"/>nem per singulos 
+	  <lb/>dies in septem diebus 
+	  <lb/>laetitiae in cons - - -.
 
 </ab>
 
