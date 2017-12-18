@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,35 +28,118 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
+            <pb type="1861" n="15" xml:id="Ceriani_1861_015"/>
+	    <head>Fragmenta Parvae Genesis</head>
+	    <cb type="Ceriani" n="1"/>
+	    <milestone type="5c" unit="page" n="83"/>
+	    <milestone type="19c" unit="page" n="62" xml:id="palimpsest_page_062"/>
+	    <milestone unit="column" n="a"/>
+	    <milestone unit="ch" n="13"/>
+	    <p part="F">
 <ab>
 <pb type="1861" n="58" xml:id="Ceriani_1861_058"/>
 
 	<!-- p19c=78 p5c=263 -->
-
-muneribus quae inponent domino qui non sunt sacerdotes sed serui de seruis nati
-5:5 ‎ qui enim magistri sunt doctores eorum illis temporibus erunt mirantes personas cupiditatum et acceptiones munerum et peruendent iustitias accipiendo poenas
-5:6 ‎ et ideo implebitur colonia et fines habitationis eorum sceleribus et iniquitatibus a deo ut qui facit erunt impii iudices erunt in eam post fines habitationis sceleribus et iniquitatibus
-
-a domino qui faciunt erunt impii iudices inerunt in campo iudicare quomodo quisquae uolet
-6:1 ‎ tunc exurgent illis reges imperantes et in sacerdotes summi dei uocabuntur facient facientes impietatem ab sancto sanctitatis
-6:2 ‎ et succedit illis rex petulans qui non erit de genere sacerdotum homo temerarius et improbus et iudicabit illis quomodo digni erunt
-6:3 ‎ qui elidit principales eorum gladio et locis ignotis singuli et corpora illorum ut nemo sciat ubi sint
+</p>
+	<p>muneribus quae 
+	<lb/>inponent domino qui<add resp="#ocp">.</add> 
+	<lb/>non sunt sacerdo
+	<lb type="inWord"/>tes sed serui de ser
+	<lb type="inWord"/>uis nati<add resp="#ocp">.</add> qui enim ma
+	<lb type="inWord"/>gistri sunt docto
+	<lb type="inWord"/>res eorum illis tem
+	<lb type="inWord"/>poribus erunt miran
+	<lb type="inWord"/>tes personas cupi
+	<lb type="inWord"/>ditatum<add resp="#ocp">.</add> et accep
+	<lb type="inWord"/>tiones munerum 
+	<lb/>et peruendent 
+	<lb/>iustitias accipien
+	<lb type="inWord"/>do poenas<add resp="#ocp">.</add> et ideo 
+	<lb/>implebitur colo
+	<lb type="inWord"/>nia et fines habita
+	<lb type="inWord"/>tionis eorum sce
+	<lb type="inWord"/>leribus et iniquita
+	<lb type="inWord"/>tibus a deo ut qui fa
+	<lb type="inWord"/>cit erunt impii iu
+	<lb type="inWord"/>dices erunt in eam 
+	<lb/>post fines habita
+	<lb type="inWord"/>tionis sceleribus 
+	<lb/>et iniquitatibus
+    <lb/>a domino qui faciunt 
+    <lb/>erunt impii iudices 
+    <lb/>inerunt in campo 
+    <lb/>iudicare quomodo 
+    <lb/>quisquae uolet tunc 
+    <lb/>exurgent illis re
+    <lb type="inWord"/>ges imperantes et 
+    <lb/>in sacerdotes sum
+    <lb type="inWord"/>mi dei uocabuntur 
+    <lb/>facient facientes 
+    <lb/>impietatem ab sancto 
+    <lb/>sanctitatis<add resp="#ocp">.</add> et succedit illis 
+    <lb/>rex petulans qui 
+    <lb/>non erit de genere 
+    <lb/>sacerdotum<add resp="#ocp">.</add> homo 
+    <lb/>temerarius et im
+    <lb type="inWord"/>probus et iudicabit 
+    <lb/>illis quomodo dig
+    <lb type="inWord"/>ni erunt<add resp="#ocp">.</add> qui elidit 
+    <lb/>principales eorum 
+    <lb/>gladio<add resp="#ocp">.</add> et locis igno
+    <lb type="inWord"/>tis singuli et corpo
+    <lb type="inWord"/>ra illorum ut ne
+    <lb type="inWord"/>mo sciat ubi sint
 
 	<!-- p19c=77 p5c=264 -->
-
-corpora illorum
-6:4 ‎ occidit maiores natu et iuuenes et non parcet
-6:5 ‎ tunc timor erit illius aceruus in eis in terram eorum
-6:6 ‎ et faciet in eis iudicia quomodo fecerunt in illis aegypti per xxx et iiii annos et puniunt eos
-6:7 ‎ et .. rodincit natos ... ecedentes sibi breuiora tempora donarent
-6:8 ‎ in pares eorum mortis uenient et occidentes rex potens quia expugnabit eos
-6:9 ‎ et ducent captiuos et partem aedis ipsorum igni incendit aliquos crucifigit circa coloniam eorum
-
-7:1 ‎ ex quo facto finientur tempora momento .... etur cursus a .... horae iiii ueniant
-7:2 ‎ coguntur secun ..... ae .... pos .... initiis tribus ad exitus viiii propter initium tres septimae secunda tria in tertia duae h .. ra .. tae
-7:3 ‎ et regnarunt de his homines pestilentiosi et impii docentes se esse iustos
-7:4 ‎ et hi suscitabunt iram animorum suorum qui erunt homines dolosi sibi placentes ficti in omnibus suis et omni hora diei amantes conuiuia deuoratores gulae
+</p>
+<p>corpora illorum
+    ‎<lb/>occidit maiores 
+    <lb/>natu et iuuenes 
+    <lb/>et non parcet<add resp="#ocp">.</add> tunc 
+    <lb/>timor erit illius a
+    <lb type="inWord"/>ceruus in eis in ter
+    <lb type="inWord"/>ram eorum<add resp="#ocp">.</add> et faci
+    <lb type="inWord"/>et in eis iudicia quo
+    <lb type="inWord"/>modo fecerunt in 
+    <lb type="inWord"/>illis aegypti per <add resp="#ocp">.</add>xxx 
+    <lb/>et <add resp="#ocp">.</add>iiii<add resp="#ocp">.</add> annos et pu
+    <lb type="inWord"/>niunt eos<add resp="#ocp">.</add> et .. rodin
+    <lb type="inWord"/>cit natos ... eceden
+    <lb type="inWord"/>tes sibi breuiora tem
+    <lb type="inWord"/>pora donarent in 
+    <lb/>pares eorum mor
+    <lb type="inWord"/>tis uenient et occi
+    <lb type="inWord"/>dentes rex potens 
+    <lb/>quia expugnabit eos
+    ‎<lb/>et ducent captiuos 
+    <lb/>et partem aedis ipso
+    <lb type="inWord"/>rum igni incendit 
+    <lb/>aliquos crucifigit 
+    <lb/>circa coloniam eorum
+    <lb/>ex quo facto finien
+    <lb type="inWord"/>tur tempora momen
+    <lb type="inWord"/>to .... etur cursus 
+    <lb/>a .... horae <add resp="#ocp">.</add>iiii<add resp="#ocp">.</add> ue
+    <lb type="inWord"/>niant coguntur secun 
+    <lb/>.....<add resp="#ocp">.</add> ae .... pos ...
+    <lb type="inWord"/>.<add resp="#ocp">...</add> initiis tribus ad 
+    <lb/>exitus <add resp="#ocp">.</add>viiii propter 
+    <lb/>initium tres sep
+    <lb type="inWord"/>timae secunda tria 
+    <lb/>in tertia duae h .. ra .. 
+    <lb/>tae et regnarunt 
+    <lb/>de his homines pes
+    <lb type="inWord"/>tilentiosi et impii 
+    <lb/>docentes se esse 
+    <lb/>iustos<add resp="#ocp">.</add> et hi susci
+    <lb type="inWord"/>tabunt iram animo
+    <lb type="inWord"/>rum suorum qui 
+    <lb/>erunt homines do
+    <lb type="inWord"/>losi sibi placentes 
+    <lb/>ficti in omnibus suis 
+    <lb/>et omni hora diei 
+    <lb/>amantes conuiuia 
+    <lb/>deuoratores gulae
 
 </ab>
 
