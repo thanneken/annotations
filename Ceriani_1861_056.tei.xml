@@ -1,150 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DOCTYPExml> 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
-	schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-	<fileDesc>
-		<titleStmt>
-			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
-			<respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>
-	 	</titleStmt>
-		<publicationStmt>
-			<publisher>The Jubilees Palimpsest Project</publisher>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl>
-				<title>Monumenta Sacra et Profana</title>
-				<author>Antonio Maria Ceriani</author>
-				<publisher>Brepols</publisher>
-				<date when="1861">1861</date>
-			</bibl>
-		</sourceDesc>
-	</fileDesc>
-	<encodingDesc>
-		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
-	</encodingDesc>
-</teiHeader>
-<text xml:lang="la">
-<body>
-	<pb type="1861" n="56" xml:id="Ceriani_1861_056"/>
-	<head>Fragmenta Parvae Genesis</head>
-	<cb type="Ceriani" n="1"/>
-	<milestone type="5c" unit="page" n="56"/>
-	<milestone type="19c" unit="page" n="56" xml:id="palimpsest_page_110"/>
-	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="56"/>
-	<p part="F">
-<pb type="1861" n="56" xml:id="Ceriani_1861_056"/>
-
-	<!-- p19c=110 p5c=259 -->
+  <?xml version="1.0" encoding="UTF-8"?>
+ <DOCTYPExml> 
+  <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+  	schematypens="http://relaxng.org/ns/structure/1.0"?>
+  <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+  	<fileDesc>
+  		<titleStmt>
+  			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+ 		</titleStmt>
+ 			<respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>
+ 	 	</titleStmt>
+  		<publicationStmt>
+  			<publisher>The Jubilees Palimpsest Project</publisher>
+  		</publicationStmt>
+  </teiHeader>
+  <text xml:lang="la">
+  <body>
+  -<ab>
+ 	<pb type="1861" n="56" xml:id="Ceriani_1861_056"/>
+ 	<head>Fragmenta Parvae Genesis</head>
+ 	<cb type="Ceriani" n="1"/>
+ 	<milestone type="5c" unit="page" n="259"/>
+ 	<milestone type="19c" unit="page" n="110" xml:id="palimpsest_page_110"/>
+ 	<milestone unit="column" n="a"/>
+ 	<milestone unit="ch" n="2"/>
+ 	<p part="F">
+  
+  	<!-- p19c=110 p5c=259 -->
+ 
+ --rum dimittes illis secus quod placebit domino eorum in iudicio et iustitia
+ -2:3 ‎ autem postquam intrabunt in terram suam annos et postea dominabitur a principibus et tyrannis per annos xuiii et xuiiii annos abrumpens tib x nam descendent tribus duae et transferunt scenae testimonium
+ -2:4 ‎ tunc deus caelestis fecit palam scenae suae et ferrum sanctuarii sui et ponentur duae tribus sanctitatis
+ -2:5 ‎ nam x tribus stabilient sibi secus ordinationes suas
+ -
+ -regna
+ -2:6 ‎ et adferent uictimas per annos xx
+ -2:7 ‎ et uii circumuallabunt muros Et circumibo uiiii et adcedent ad testamentum domini et finem polluent quem fecit dominus cum eis
+ -2:8 ‎ et immolabunt natos suos diis alienis et ponent idola scenae seruientes illis
+ -2:9 ‎ et in domo domini facient sceleste et sculpent omnem animalium idola multa
+ -3:1 ‎ illis temporibus ueniet illis ab oriente rex et teget equitatus terram eorum et
+ -3:2 ‎ incendet colonia eorum igne cum aede sancta
 </p>
-	<lb type="inWord"/>rum dimittes illis
-	<lb/>secus quod place
-	<lb type="inWord"/>bit domino eorum in iu
-	<lb type="inWord"/>dicio et iustitia
-</p>
-<p>autem postquam
-    <lb/>intrabunt in terram
-	<lb/>suam annos
-	<lb/>et postea dominabi
-	<lb type="inWord"/>tur a principibus et
-	<lb/>tyrannis per annos 
-	<lb/>xuiii<add resp="#ocp">.</add> et <add resp="#ocp">.</add> xuiiii <add resp="#ocp">.</add> annos 
-	<lb/>abrumpens tib<add resp="#ocp">.</add> x<add resp="#ocp">.</add> 
-	<lb/>nam descendent tri
-	<lb type="inWord"/>bus duae et transfe
-	<lb type="inWord"/>runt scenae testi
-	<lb type="inWord"/>monium<add resp="#ocp">.</add>tunc deus 
-	<lb/>caelestis fecit pa
-	<lb type="inWord"/>lam scenae suae 
-	<lb/>et ferrum sanctua
-	<lb type="inWord"/>rii sui<add resp="#ocp">.</add> et ponentur 
-	<lb/>duae tribus sanctita
-	<lb type="inWord"/>tis<add resp="#ocp">.</add> nam <add resp="#ocp">.</add>x<add resp="#ocp">.</add> tribus sta
-	<lb type="inWord"/>bilient sibi secus 
-	<lb/>ordinationes suas 
-	<lb/>regna et adferent 
-	<lb/>uictimas per annos 
-	<lb/>xx<add resp="#ocp">.</add> et <add resp="#ocp">.</add>uii<add resp="#ocp">.</add> circumual
-	<lb type="inWord"/>labunt muros Et 
-	<lb/>circumibo <add resp="#ocp">.</add>uiiii<add resp="#ocp">.</add> et 
-	<lb/>adcedent ad testa
-	<lb type="inWord"/>mentum domini <add resp="#ocp">.</add> et finem 
-	<lb/>polluent quem fe
-	<lb type="inWord"/>cit dominus cum eis<add resp="#ocp">.</add> et im
-	<lb type="inWord"/>molabunt natos 
-	<lb/>suos diis alienis<add resp="#ocp">.</add> et 
-	<lb/>ponent idola scenae 
-	<lb/>seruientes illis<add resp="#ocp">.</add>
-    <lb/>et in domo domini faci
-    <lb type="inWord"/>ent sceleste<add resp="#ocp">.</add> et s
-    <lb type="inWord"/>culpent omnem ani
-    <lb type="inWord"/>malium idola multa
-    
-</p>
-<p>illis temporibus
-    <lb/> ueniet illis ab ori
-    <lb type="inWord"/>ente rex et teget 
-    <lb/>equitatus terram 
-    <lb/>eorum et incendet 
-    <lb/>colonia eorum ig
-    <lb type="inWord"/>ne cum aede sancta
-
-	<!-- p19c=109 p5c=260 -->
-</p>
-<p>domini et sancta uasa om
-    <lb type="inWord"/>nia tollet et omnem 
-    <lb/>plebem eiciet et du
-    <lb type="inWord"/>cet illos in terram 
-    <lb/>patriae suae et duas 
-    <lb/>tribus ducit secum
-   <lb/>Tunc inuocabunt 
-    <lb/>duae tribus x<add resp="#ocp">.</add> tribus 
-    <lb/>et ducent se ut liena 
-    <lb/>in campis puluerati 
-    <lb/>esurientes et siti
-    <lb type="inWord"/>entes cum infantibus 
-    <lb/>nostris et clamabunt 
-    <lb/>iustus et sanctus dominus 
-    <lb/>quia enim uos peccas
-    <lb type="inWord"/>tis et nos pariter ad
-    <lb type="inWord"/>ducti sumus uobis
-    <lb type="inWord"/>cum tunc plora
-    <lb type="inWord"/>bunt <add resp="#ocp">.</add>x<add resp="#ocp">.</add> tribus audien
-    <lb type="inWord"/>tes inproperia uer
-    <lb type="inWord"/>borum tribum dua
+ 	<lb type="inWord"/>rum dimittes illis
+ 	<lb/>secus quod place
+ 	<lb type="inWord"/>bit domino eorum in iu
+ 	<lb type="inWord"/>dicio et iustitia
+ </p>
+ <p> <milestone unit="vs" n="3"/>autem postquam
+     <lb/>intrabunt in terram
+ 	<lb/>suam annos
+ 	<lb/>et postea dominabi
+ 	<lb type="inWord"/>tur a principibus et
+ 	<lb/>tyrannis per annos 
+ 	<lb/>xuiii<add resp="#ocp">.</add> et <add resp="#ocp">.</add> xuiiii <add resp="#ocp">.</add> annos 
+ 	<lb/>abrumpens tib<add resp="#ocp">.</add> x<add resp="#ocp">.</add> 
+ 	<lb/>nam descendent tri
+ 	<lb type="inWord"/>bus duae et transfe
+ 	<lb type="inWord"/>runt scenae testi
+ 	<lb type="inWord"/>monium<add resp="#ocp">.</add> <milestone unit="vs" n="4"/>tunc deus 
+ 	<lb/>caelestis fecit pa
+ 	<lb type="inWord"/>lam scenae suae 
+ 	<lb/>et ferrum sanctua
+ 	<lb type="inWord"/>rii sui<add resp="#ocp">.</add> et ponentur 
+ 	<lb/>duae tribus sanctita
+ 	<lb type="inWord"/>tis<add resp="#ocp">.</add> <milestone unit="vs" n="5"/> nam <add resp="#ocp">.</add>x<add resp="#ocp">.</add> tribus sta
+ 	<lb type="inWord"/>bilient sibi secus 
+ 	<lb/>ordinationes suas 
+ 	<lb/>regna <milestone unit="vs" n="6"/> et adferent 
+ 	<lb/>uictimas per annos 
+        <lb/>xx<add resp="#ocp">.</add> <milestone unit="vs" n="7"/> et <add resp="#ocp">.</add>uii<add resp="#ocp">.</add> circumual
+ 	<lb type="inWord"/>labunt muros Et 
+ 	<lb/>circumibo <add resp="#ocp">.</add>uiiii<add resp="#ocp">.</add> et 
+ 	<lb/>adcedent ad testa
+ 	<lb type="inWord"/>mentum domini <add resp="#ocp">.</add> et finem 
+ 	<lb/>polluent quem fe
+ 	<lb type="inWord"/>cit dominus cum eis<add resp="#ocp">.</add> <milestone unit="vs" n="8"/> et im
+ 	<lb type="inWord"/>molabunt natos 
+ 	<lb/>suos diis alienis<add resp="#ocp">.</add> et 
+ 	<lb/>ponent idola scenae 
+ 	<lb/>seruientes illis<add resp="#ocp">.</add>
+     <lb/> <milestone unit="vs" n="9"/>et in domo domini faci
+     <lb type="inWord"/>ent sceleste<add resp="#ocp">.</add> et s
+     <lb type="inWord"/>culpent omnem ani
+     <lb type="inWord"/>malium idola multa
+     
+ </p>
+ <p> <milestone unit="ch" n="3"/><milestone unit="vs" n="1"/>illis temporibus
+     <lb/> ueniet illis ab ori
+     <lb type="inWord"/>ente rex et teget 
+     <lb/>equitatus terram 
+     <lb/>eorum et <milestone unit="vs" n="2"/> incendet 
+     <lb/>colonia eorum ig
+     <lb type="inWord"/>ne cum aede sancta
+  
+  	<!-- p19c=109 p5c=260 -->
+ -
+ -domini et sancta uasa omnia tollet
+ -<milestone unit="vs" n="3"/> ‎ et omnem plebem eiciet et ducet illos in terram patriae suae et duas tribus ducit secum
+ -<milestone unit="vs" n="4"/> ‎ Tunc inuocabunt duae tribus x tribus et ducent se ut liena in campis puluerati esurientes et sitientes cum infantibus nostris
+ -<milestone unit="vs" n="5"/> ‎ et clamabunt iustus et sanctus dominus quia enim uos peccastis et nos pariter adducti sumus uobiscum
+ -<milestone unit="vs" n="6"/> ‎ tunc plorabunt x tribus audientes inproperia uerborum tribum duarum
+ -<milestone unit="vs" n="7"/> ‎ et dicent quid faciemus uobis fratres nonne in omnem
+ -
+ -domum istrahel aduenit clibsis haec
+ -<milestone unit="vs" n="8"/> ‎ et omnes tribus plorabunt clamantes in caelum et dicentes
+ -<milestone unit="vs" n="9"/> ‎ deus abraham et deus isaac et deus iacob reminiscere testamentum tuum quod factasti cum eis et iusiurandum quod iurasti eis per te ne umquam deficiat semen eorum a terra quam dedisti illis
+ -<milestone unit="vs" n="10"/> ‎ Tunc reminiscentur me die illo dicentes tribus ad tribum et homo de proximo suo
+ -<milestone unit="vs" n="11"/> ‎ nonne hoc est quod testabatur nobis cum moyses in profetis qui multa passus est in aegypto
+ </p>
+ <p>domini et sancta uasa om
+     <lb type="inWord"/>nia tollet <milestone unit="vs" n="3"/> et omnem 
+     <lb/>plebem eiciet et du
+     <lb type="inWord"/>cet illos in terram 
+     <lb/>patriae suae et duas 
+     <lb/>tribus ducit secum
+    <lb/> <milestone unit="vs" n="4"/> Tunc inuocabunt 
+     <lb/>duae tribus x<add resp="#ocp">.</add> tribus 
+     <lb/>et ducent se ut liena 
+     <lb/>in campis puluerati 
+     <lb/>esurientes et siti
+     <lb type="inWord"/>entes cum infantibus 
+     <lb/>nostris <milestone unit="vs" n="5"/> et clamabunt 
+     <lb/>iustus et sanctus dominus 
+     <lb/>quia enim uos peccas
+     <lb type="inWord"/>tis et nos pariter ad
+     <lb type="inWord"/>ducti sumus uobis
+     <lb type="inWord"/>cum <milestone unit="vs" n="6"/> tunc plora
+     <lb type="inWord"/>bunt <add resp="#ocp">.</add>x<add resp="#ocp">.</add> tribus audien
+     <lb type="inWord"/>tes inproperia uer
+     <lb type="inWord"/>borum tribum dua
     <lb type="inWord"/>rum et dicent<add resp="#ocp">.</add> quid 
-    <lb/>faciemus uobis fra
-    <lb type="inWord"/>tres<add resp="#ocp">.</add> nonne in omnem
-    <lb/>domum istrahel ad
-    <lb type="inWord"/>uenit clibsis haec
-    <lb/>et omnes tribus plora
-    <lb type="inWord"/>bunt clamantes in 
-    <lb/>caelum et dicentes
-    <lb/>deus abraham<add resp="#ocp">.</add> et deus isa
-    <lb type="inWord"/>ac<add resp="#ocp">.</add> et deus iacob remi
-    <lb type="inWord"/>niscere testamen
-    <lb type="inWord"/>tum tuum quod fac
-    <lb type="inWord"/>tasti cum eis et ius
-    <lb type="inWord"/>iurandum quod iu
-    <lb type="inWord"/>rasti eis per te ne um
-    <lb type="inWord"/>quam deficiat semen 
-    <lb/>eorum a terra quam 
-    <lb/>dedisti illis
-   <lb/>Tunc reminiscentur 
-    <lb/>me die illo dicentes 
-    <lb/>tribus ad tribum<add resp="#ocp">.</add> et 
-    <lb/>homo de proximo 
-    <lb/>suo nonne hoc est 
-    <lb/>quod testabatur no
-    <lb type="inWord"/>bis cum moyses in 
-    <lb/>profetis qui multa 
-    <lb/>passus est in aegypto
-
-</ab>
-
-</body>
-</text>
-</TEI>
+     <lb/>faciemus uobis fra
+     <lb type="inWord"/>tres<add resp="#ocp">.</add> nonne in omnem
+     <lb/>domum istrahel ad
+     <lb type="inWord"/>uenit clibsis haec
+     <lb/> <milestone unit="vs" n="7"/> et omnes tribus plora
+     <lb type="inWord"/>bunt clamantes in 
+     <lb/>caelum et dicentes
+     <lb/> <milestone unit="vs" n="9"/> deus abraham<add resp="#ocp">.</add> et deus isa
+     <lb type="inWord"/>ac<add resp="#ocp">.</add> et deus iacob remi
+     <lb type="inWord"/>niscere testamen
+     <lb type="inWord"/>tum tuum quod fac
+     <lb type="inWord"/>tasti cum eis et ius
+     <lb type="inWord"/>iurandum quod iu
+     <lb type="inWord"/>rasti eis per te ne um
+     <lb type="inWord"/>quam deficiat semen 
+     <lb/>eorum a terra quam 
+     <lb/>dedisti illis
+    <lb/> <milestone unit="vs" n="10"/> Tunc reminiscentur 
+     <lb/>me die illo dicentes 
+     <lb/>tribus ad tribum<add resp="#ocp">.</add> et 
+     <lb/>homo de proximo 
+     <lb/>suo <milestone unit="vs" n="11"/> nonne hoc est 
+     <lb/>quod testabatur no
+     <lb type="inWord"/>bis cum moyses in 
+     <lb/>profetis qui multa 
+     <lb/>passus est in aegypto
+  
+  </p>
+  
+  </body>
+  </text>
+ </TEI> 
+ </TEI>
