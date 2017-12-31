@@ -81,6 +81,71 @@
 		<lb type="inWord"/>ligebat eam ualde in 
 		<lb/>toto corde suo et 
 		<lb/>in anima sua<add resp="#ocp">.</add>
+		</p>
+ <p> <milestone unit="ch" n="37"/><milestone unit="vs" n="1"/>Et in die qua mortuus
+ <lb/> est isac pater iacob
+ <lb/> et esau audierunt 
+ <lb/>filii esau quoniam dedit
+ </p>
+ 	<milestone type="5c" unit="page" n="206"/>
+ 	<milestone type="19c" unit="page" n="127" xml:id="palimpsest_page_127"/>
+ 	<milestone unit="column" n="a"/>
+ 	<milestone unit="ch" n="37"/>
+ 	<p> isaac maiorem <gap reason="illegible" quantity="5" unit="character"/>
+ 	<lb/> honorif <gap reason="illegible" quantity="7" unit="character"/>
+ 	<lb/>portionem iacob 
+ 	<lb/>filio suo iuniori et 
+ 	<lb/>indignati sunt ualde<add resp="#ocp">.</add>
+ 	<milestone unit="vs" n="2"/> ‎ Et litigabant cum 
+ 	<lb/>esau dicentes<add resp="#ocp">:</add> quare 
+ 	<lb/>praepositus est ti
+ 	<lb type="inWord"/>bi iacob cum sit iu
+ 	<lb type="inWord"/>nior et dedit illi pater
+ 	<lb/>tuus maiorem por
+ 	<lb type="inWord"/>tionem et te inferio
+ 	<lb type="inWord"/>rem fecit. <milestone unit="vs" n="3"/> ‎ Et dixit
+ 	<lb/> ad illos esau<add resp="#ocp">:</add> quia ego
+ 	<lb/> dederam iacob primi
+ 	<lb type="inWord"/>tiua propter modi
+ 	<lb type="inWord"/>cam cocturam lentis 
+ 	<lb/>et in die in qua misit 
+ 	<lb/>me pater meus uena
+ 	<lb type="inWord"/>re illi uenationem
+ 	<lb/>ut manducans bene
+ 	<lb type="inWord"/>diceret me <!-- appears to be a period in Ceriani's version --> ueniens 
+ 	<lb/>ille cum dolo intu
+ 	<lb type="inWord"/>lit patri meo escam
+ 	<lb/>
+		<milestone unit="column" n="b"/>et potum et bene
+		<lb type="inWord"/>dixit eum pater me
+		<lb type="inWord"/>us et me dedit sub ma
+		<lb type="inWord"/>nu eius<add resp="#ocp">:</add> <milestone unit="vs" n="4"/> ‎ Et nunc adiu
+		<lb type="inWord"/>rauit nos pater nos
+		<lb type="inWord"/>ter me et illum ut non
+		<lb/>exquirarnus nobis 
+		<lb/>mala singuli fratri 
+		<lb/>suo et ut simus in di
+		<lb type="inWord"/>lectionem et in pa
+		<lb type="inWord"/>ce homo cum fratre 
+		<lb/>suo <!-- appears to be a period in Ceriani --> ut non malitiam 
+		<lb/>exerceamus ad inuicem<add resp="#ocp">:</add>
+		</p>
+		<p><milestone unit="vs" n="5"/> ‎ Et dixerunt ad eum<add resp="#ocp">:</add> 
+		<lb/>non audiemus te ut 
+		<lb/>faciamus cum illo pa
+		<lb type="inWord"/>cem quoniam uirtus
+		<lb/>nostra potens su
+		<lb type="inWord"/>per uirtutem eius
+		<lb/>et nos uiri fortes 
+		<lb/>super illum<add resp="#ocp">.</add> Ibimus aduersus eum et oc
+		<lb type="inWord"/>cidemus eum et per
+		<lb type="inWord"/>dimus illum et filios
+		
+		
+		 
+ 	
+ 	
+ 	
 		
 		 
 		
@@ -94,19 +159,19 @@
 
 ex die qua mortua est rachel soror eius quia perfecta et recta erat in omnibus uiis suis et honorificans iacob omnibus diebus quibus uixit cum ea et non audiuit omnem sermonem nequam ex ore eius quoniam quieta et pacifica erat et - - - hono - - -.
 <milestone unit="vs" n="24"/> ‎ Et erat memor omnium operum eius quae fecit in uita sua et ideo diligebat eam ualde in toto corde suo et in anima sua.
-37:1 ‎ Et in die qua mortuus est isac pater iacob et esau audierunt filii esau quoniam dedit
+<milestone unit="vs" n="1"/> ‎ Et in die qua mortuus est isac pater iacob et esau audierunt filii esau quoniam dedit
 
 	<!-- p19c=127 p5c=206 -->
 
 isaac maiorem - - - honorif- - - portionem iacob filio suo iuniori et indignati sunt ualde.
-37:2 ‎ Et litigabant cum esau dicentes: quare praepositus est tibi iacob cum sit iunior et dedit illi pater tuus maiorem portionem et te inferiorem fecit.
-37:3 ‎ Et dixit ad illos esau: quia ego dederam iacob primitiua propter modicam cocturam lentis et in die in qua misit me pater meus uenare illi uenationem ut manducans benediceret me ueniens ille cum dolo intulit patri meo escam
+<milestone unit="vs" n="2"/> ‎ Et litigabant cum esau dicentes: quare praepositus est tibi iacob cum sit iunior et dedit illi pater tuus maiorem portionem et te inferiorem fecit.
+<milestone unit="vs" n="3"/> ‎ Et dixit ad illos esau: quia ego dederam iacob primitiua propter modicam cocturam lentis et in die in qua misit me pater meus uenare illi uenationem ut manducans benediceret me ueniens ille cum dolo intulit patri meo escam
 
 et potum et benedixit eum pater meus et me dedit sub manu eius.
-37:4 ‎ Et nunc adiurauit nos pater noster me et illum ut non exquirarnus nobis mala singuli fratri suo et ut simus in dilectionem et in pace homo cum fratre suo ut non malitiam exerceamus ad inuicem.
-37:5 ‎ Et dixerunt ad eum: non audiemus te ut faciamus cum illo pacem quoniam uirtus nostra potens super uirtutem eius et nos uiri fortes super illum. Ibimus aduersus eum et occidemus eum et perdimus illum et filios - - -.
+<milestone unit="vs" n="4"/> ‎ Et nunc adiurauit nos pater noster me et illum ut non exquirarnus nobis mala singuli fratri suo et ut simus in dilectionem et in pace homo cum fratre suo ut non malitiam exerceamus ad inuicem.
+<milestone unit="vs" n="5"/> ‎ Et dixerunt ad eum: non audiemus te ut faciamus cum illo pacem quoniam uirtus nostra potens super uirtutem eius et nos uiri fortes super illum. Ibimus aduersus eum et occidemus eum et perdimus illum et filios - - -.
 
-</ab>
+</p>
 
 </body>
 </text>
