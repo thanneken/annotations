@@ -29,12 +29,16 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="54" xml:id="Ceriani_1861_054"/>
+<cb type="Ceriani" n="1"/>
+<milestone type="19c" unit="page" n="108"/>
+<milestone type="5c" unit="page" n="253"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="49"/>
+<p part="F">
 
-	<!-- p19c=108 p5c=253 -->
 
-      <lb type="inWord"/>-ris sui et erit in tes
+      <lb type="inWord"/>ris sui et erit in tes
       <lb type="inWord"/>timonium in cons
       <lb type="inWord"/>pectu dei acceptabi
       <lb type="inWord"/>le et non eueniet 
@@ -44,33 +48,29 @@
       <lb/>facient pascha in tem
       <lb type="inWord"/>pore suo secundum 
       <lb/>uniuersa praecep
-      <lb type="inWord"/>ta eius.Et non man
-      <!-- a period was added after "eius" along with a capital E in "Et" that is not found in Ceriani's edition  -->
-		ce<add resp="#ocp">.</add>
+      <lb type="inWord"/>ta eius<add resp="#ocp">.</add>Et non man
 	  <lb type="inWord"/>ducauitur foris a 
 	  <lb/>sanctificatione domini 
 	  <lb/>sed secus taberna
 	  <lb type="inWord"/>culum domini et omnis 
 	  <lb/>multitudo filiorum 
 	  <lb/>istrahel facient il
-	  <lb type="inWord"/>lud in tempore suo.
-	  <!-- a period was added after "suo" that is not found in Ceriani's edition  -->
-		ce<add resp="#ocp">.</add>
+	  <lb type="inWord"/>lud in tempore suo<add resp="#ocp">.</add>
       <lb/>Et omnis homo qui
       <lb type="inWord"/>cumque praetermise
       <lb type="inWord"/>rit in uisitatione 
       <lb/>manducare illud 
       <lb/>in sanctificatione 
-      <lb/>dei nostri in cons-
-      <lb type="inWord"/>-pectu domini a uicensi
+      <lb/>dei nostri in cons
+<lb/>
+	<milestone unit="column" n="b"/>
+      <lb type="inWord"/>pectu domini a uicensi
       <lb type="inWord"/>mo anno et supra 
       <lb/>quoniam sic prae
       <lb type="inWord"/>ceptum est et scrib
       <lb type="inWord"/>tum ut manduce
       <lb type="inWord"/>tur in sanctifica
-      <lb type="inWord"/>tione eius.Et quem
-      <!-- a period was added after "eius" along with a capital E in "Et" that is not found in Ceriani's edition  -->
-		ce<add resp="#ocp">.</add>
+      <lb type="inWord"/>tione eius<add resp="#ocp">.</add> Et quem
       <lb type="inWord"/>admodum uenient 
       <lb/>filii istrahel in ter
       <lb type="inWord"/>ra possessionis 
@@ -87,11 +87,12 @@
       <lb type="inWord"/>tes pascha in cons
       <lb type="inWord"/>pectu tabernaculi 
       <lb/>dei per singulos an
-      <lb type="inWord"/>nos.Et in tempore
-
-	<!-- p19c=107 p5c=254 -->
-
-      quo aedificabitur 
+      <lb type="inWord"/>nos. Et in tempore
+	
+	<milestone type="5c" unit="page" n="254"/>
+	<milestone type="19c" unit="page" n="107" xml:id="palimpsest_page_107"/>
+	<cb type="Ceriani" n="2"/>
+	<milestone unit="column" n="a"/> quo aedificabitur 
       <lb/>domus in nomine 
       <lb/>domini in terra posses
       <lb type="inWord"/>sionis ipsorum 
@@ -99,7 +100,7 @@
       <lb/>mactabunt pascha 
       <lb/>ad uespera circa 
       <lb/>occasum solis in 
-      <lb/>tertia die.Et offe
+      <lb/>tertia die<add resp="#ocp">.</add> Et offe
       <lb type="inWord"/>rent sanguinem eius 
       <lb/>super basem alta
       <lb type="inWord"/>ris et adipem offe
@@ -108,18 +109,19 @@
       <lb/>manducabunt as
       <lb type="inWord"/>sas igne in atrium 
       <lb/>domus sanctifica
-      <lb type="inWord"/>tae in nomine domini.
+      <lb type="inWord"/> <unclear>tae</unclear> in nomine domini<add resp="#ocp">.</add>
       <lb/>Et non poterunt 
       <lb/>facere pascha in ci
       <lb type="inWord"/>uitatibus ipsorum 
       <lb/>in omni loco nisi 
       <lb/>in conspectum 
       <lb/>tabernaculi<add resp="#ocp">.</add> domini
-      <lb/>et in conspectu do
+	<lb/>
+		<milestone unit="column" n="b"/>et in conspectu do
       <lb type="inWord"/>mus ubi habitauit 
       <lb/>nomen eius super 
-      <lb/>ipsam<add resp="#ocp">.</add> et non exe
-      <lb type="inWord"/>rrabunt de post dominum.
+      <lb/>ipsam. et non exe
+      <lb type="inWord"/>rrabunt de post dominum<add resp="#ocp">.</add>
  </p>
    <p>Et tu monse manda 
 	  <lb/>filiis istrahel ut 
@@ -141,7 +143,7 @@
 	  <lb/>dies in septem diebus 
 	  <lb/>laetitiae in cons - - -.
 
-</ab>
+</p>
 
 </body>
 </text>
