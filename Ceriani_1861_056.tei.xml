@@ -15,7 +15,7 @@
   </teiHeader>
   <text xml:lang="la">
   <body>
-  -<ab>
+  
  	<pb type="1861" n="56" xml:id="Ceriani_1861_056"/>
  	<head>Fragmenta Parvae Genesis</head>
  	<cb type="Ceriani" n="1"/>
@@ -25,20 +25,9 @@
  	<milestone unit="ch" n="2"/>
  	<p part="F">
   
-  	<!-- p19c=110 p5c=259 -->
+  
  
- --rum dimittes illis secus quod placebit domino eorum in iudicio et iustitia
- -2:3 ‎ autem postquam intrabunt in terram suam annos et postea dominabitur a principibus et tyrannis per annos xuiii et xuiiii annos abrumpens tib x nam descendent tribus duae et transferunt scenae testimonium
- -2:4 ‎ tunc deus caelestis fecit palam scenae suae et ferrum sanctuarii sui et ponentur duae tribus sanctitatis
- -2:5 ‎ nam x tribus stabilient sibi secus ordinationes suas
- -
- -regna
- -2:6 ‎ et adferent uictimas per annos xx
- -2:7 ‎ et uii circumuallabunt muros Et circumibo uiiii et adcedent ad testamentum domini et finem polluent quem fecit dominus cum eis
- -2:8 ‎ et immolabunt natos suos diis alienis et ponent idola scenae seruientes illis
- -2:9 ‎ et in domo domini facient sceleste et sculpent omnem animalium idola multa
- -3:1 ‎ illis temporibus ueniet illis ab oriente rex et teget equitatus terram eorum et
- -3:2 ‎ incendet colonia eorum igne cum aede sancta
+
 </p>
  	<lb type="inWord"/>rum dimittes illis
  	<lb/>secus quod place
@@ -91,22 +80,8 @@
      <lb/>eorum et <milestone unit="vs" n="2"/> incendet 
      <lb/>colonia eorum ig
      <lb type="inWord"/>ne cum aede sancta
-  
-  	<!-- p19c=109 p5c=260 -->
- -
- -domini et sancta uasa omnia tollet
- -<milestone unit="vs" n="3"/> ‎ et omnem plebem eiciet et ducet illos in terram patriae suae et duas tribus ducit secum
- -<milestone unit="vs" n="4"/> ‎ Tunc inuocabunt duae tribus x tribus et ducent se ut liena in campis puluerati esurientes et sitientes cum infantibus nostris
- -<milestone unit="vs" n="5"/> ‎ et clamabunt iustus et sanctus dominus quia enim uos peccastis et nos pariter adducti sumus uobiscum
- -<milestone unit="vs" n="6"/> ‎ tunc plorabunt x tribus audientes inproperia uerborum tribum duarum
- -<milestone unit="vs" n="7"/> ‎ et dicent quid faciemus uobis fratres nonne in omnem
- -
- -domum istrahel aduenit clibsis haec
- -<milestone unit="vs" n="8"/> ‎ et omnes tribus plorabunt clamantes in caelum et dicentes
- -<milestone unit="vs" n="9"/> ‎ deus abraham et deus isaac et deus iacob reminiscere testamentum tuum quod factasti cum eis et iusiurandum quod iurasti eis per te ne umquam deficiat semen eorum a terra quam dedisti illis
- -<milestone unit="vs" n="10"/> ‎ Tunc reminiscentur me die illo dicentes tribus ad tribum et homo de proximo suo
- -<milestone unit="vs" n="11"/> ‎ nonne hoc est quod testabatur nobis cum moyses in profetis qui multa passus est in aegypto
- </p>
+   
+   	 </p>
  <p>domini et sancta uasa om
      <lb type="inWord"/>nia tollet <milestone unit="vs" n="3"/> et omnem 
      <lb/>plebem eiciet et du
@@ -155,6 +130,37 @@
      <lb type="inWord"/>bis cum moyses in 
      <lb/>profetis qui multa 
      <lb/>passus est in aegypto
+   
+   <!-- p19c=110 p5c=259 -->
+   
+    --rum dimittes illis secus quod placebit domino eorum in iudicio et iustitia
+ -2:3 ‎ autem postquam intrabunt in terram suam annos et postea dominabitur a principibus et tyrannis per annos xuiii et xuiiii annos abrumpens tib x nam descendent tribus duae et transferunt scenae testimonium
+ -2:4 ‎ tunc deus caelestis fecit palam scenae suae et ferrum sanctuarii sui et ponentur duae tribus sanctitatis
+ -2:5 ‎ nam x tribus stabilient sibi secus ordinationes suas
+ -
+ -regna
+ -2:6 ‎ et adferent uictimas per annos xx
+ -2:7 ‎ et uii circumuallabunt muros Et circumibo uiiii et adcedent ad testamentum domini et finem polluent quem fecit dominus cum eis
+ -2:8 ‎ et immolabunt natos suos diis alienis et ponent idola scenae seruientes illis
+ -2:9 ‎ et in domo domini facient sceleste et sculpent omnem animalium idola multa
+ -3:1 ‎ illis temporibus ueniet illis ab oriente rex et teget equitatus terram eorum et
+ -3:2 ‎ incendet colonia eorum igne cum aede sancta
+  
+  	<!-- p19c=109 p5c=260 -->
+ -
+ -domini et sancta uasa omnia tollet
+ -<milestone unit="vs" n="3"/> ‎ et omnem plebem eiciet et ducet illos in terram patriae suae et duas tribus ducit secum
+ -<milestone unit="vs" n="4"/> ‎ Tunc inuocabunt duae tribus x tribus et ducent se ut liena in campis puluerati esurientes et sitientes cum infantibus nostris
+ -<milestone unit="vs" n="5"/> ‎ et clamabunt iustus et sanctus dominus quia enim uos peccastis et nos pariter adducti sumus uobiscum
+ -<milestone unit="vs" n="6"/> ‎ tunc plorabunt x tribus audientes inproperia uerborum tribum duarum
+ -<milestone unit="vs" n="7"/> ‎ et dicent quid faciemus uobis fratres nonne in omnem
+ -
+ -domum istrahel aduenit clibsis haec
+ -<milestone unit="vs" n="8"/> ‎ et omnes tribus plorabunt clamantes in caelum et dicentes
+ -<milestone unit="vs" n="9"/> ‎ deus abraham et deus isaac et deus iacob reminiscere testamentum tuum quod factasti cum eis et iusiurandum quod iurasti eis per te ne umquam deficiat semen eorum a terra quam dedisti illis
+ -<milestone unit="vs" n="10"/> ‎ Tunc reminiscentur me die illo dicentes tribus ad tribum et homo de proximo suo
+ -<milestone unit="vs" n="11"/> ‎ nonne hoc est quod testabatur nobis cum moyses in profetis qui multa passus est in aegypto
+
   
   </p>
   
