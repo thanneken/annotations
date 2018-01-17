@@ -1,8 +1,4 @@
-<!-- DOCTYPE tag removed because it threw error in TEI by example validator. Error Code:
-	"Error while parsing XML: A DOCTYPE is not allowed in content. [at line 109, column 10]" -->
-
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -85,7 +81,7 @@
 <lb type="inWord"/>dificabis hunc locum
 <lb/>et non facias eum
 <lb/>in sanctificationem
-<lb/>aeternam et <choice><sic>nolo</sic><corr resp="#ocp">noli</corr></choice>. 
+<lb/>aeternam et <choice><sic>nolo</sic><corr resp="#ocp">noli</corr></choice>.
 <lb/>habitari in hunc lo
 <lb type="inWord"/>cum quia sic erit lo
 <lb type="inWord"/>cus iste<add resp="#ocp">.</add> Sed uade

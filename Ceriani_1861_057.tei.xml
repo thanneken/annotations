@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -28,122 +28,114 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-    <pb type="1861" n="15" xml:id="Ceriani_1861_015"/>
-	<head>Fragmenta Parvae Genesis</head>
+	<pb type="1861" n="57" xml:id="Ceriani_1861_057"/>
 	<cb type="Ceriani" n="1"/>
-	<milestone type="5c" unit="page" n="83"/>
-	<milestone type="19c" unit="page" n="62" xml:id="palimpsest_page_062"/>
+	<milestone type="5c" unit="page" n="261"/>
+	<milestone type="19c" unit="page" n="85" xml:id="palimpsest_page_085"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="13"/>
 	<p part="F">
-<ab>
-<pb type="1861" n="57" xml:id="Ceriani_1861_057"/>
-
-	<!-- p19c=85 p5c=261 -->
-	
-        
-        et in mari rubro<add resp="#ocp">.</add> et 
+        et in mari rubro<add resp="#ocp">.</add> et
         <lb/>in heremo annis <add resp="#ocp">.</add>xl<add resp="#ocp">.</add>
         <lb/>testatus et inuoca
         <lb type="inWord"/>bat nobis testes cae
         <lb type="inWord"/>lum et terram ne prae
         <lb type="inWord"/>teriremus manda
         <lb type="inWord"/>ta illius in quibus arbi
-        <lb type="inWord"/>ter fuit nobis quae 
-        <lb/>aduenerunt nobis 
-        <lb/>de isto secus uerba 
+        <lb type="inWord"/>ter fuit nobis quae
+        <lb/>aduenerunt nobis
+        <lb/>de isto secus uerba
         <lb/>ipsius<add resp="#ocp">.</add> et secus adfir
-        <lb type="inWord"/>mationem ipsius 
-        <lb/>quomodo testatus 
+        <lb type="inWord"/>mationem ipsius
+        <lb/>quomodo testatus
         <lb/>est nobis tempori
         <lb type="inWord"/>bus illis et quae conue
-        <lb type="inWord"/>nerunt usque nos 
+        <lb type="inWord"/>nerunt usque nos
         <lb/>duci captiuos in par
-        <lb type="inWord"/>tem orientis qui 
-        <lb/>et seruient circa 
+        <lb type="inWord"/>tem orientis qui
+        <lb/>et seruient circa
         <lb/>annos <add resp="#ocp">.</add>lxxvii<add resp="#ocp">.</add>
     </p>
-	<p>Tunc intrauit unus 
-	    <lb/>qui supra eos est 
-	    <lb/>et expandit manus 
+	<p>Tunc intrauit unus
+	    <lb/>qui supra eos est
+	    <lb/>et expandit manus
 	    <lb/>et ponit genua sua
         <lb/>et orauit pro eis di
-        <lb type="inWord"/>cens Domine omnis 
-        <lb/>rex in alta sede qui 
-        <lb/>dominaris saeculo 
-        <lb/>qui uoluisti plebem 
-        <lb/>hanc esse tibi plebem 
-        <lb/>hanc exceptam tunc 
-        <lb/>uoluisti inuocari 
+        <lb type="inWord"/>cens Domine omnis
+        <lb/>rex in alta sede qui
+        <lb/>dominaris saeculo
+        <lb/>qui uoluisti plebem
+        <lb/>hanc esse tibi plebem
+        <lb/>hanc exceptam tunc
+        <lb/>uoluisti inuocari
         <lb/>eorum deus secus tes
         <lb type="inWord"/>tamentum quod fe
-        <lb type="inWord"/>cisti cum patribus 
-        <lb/>eorum et ierunt 
-        <lb/>captiui in terram 
+        <lb type="inWord"/>cisti cum patribus
+        <lb/>eorum et ierunt
+        <lb/>captiui in terram
         <lb/>alienam cum uxori
-        <lb type="inWord"/>bus et natis suis et 
+        <lb type="inWord"/>bus et natis suis et
         <lb/>circa ostium allofi
-        <lb type="inWord"/>lorum et ubi est 
+        <lb type="inWord"/>lorum et ubi est
         <lb/>maiestas magna
         <lb/>respice et misere
         <lb type="inWord"/>re eorum domine cae
         <lb type="inWord"/>lestis Tunc remi
-        <lb type="inWord"/>niscitur deus eorum 
+        <lb type="inWord"/>niscitur deus eorum
         <lb/>propter testamen
         <lb type="inWord"/>tum quod fecit cum
 
 	<!-- p19c=86 p5c=262 -->
 
-    patribus illorum et 
+    patribus illorum et
        <lb/>palam faciet mise
-       <lb type="inWord"/>ricordiam suam<add resp="#ocp">.</add> et 
-       <lb/>temporibus illis et 
+       <lb type="inWord"/>ricordiam suam<add resp="#ocp">.</add> et
+       <lb/>temporibus illis et
        <lb/>mittit in animam re
-       <lb type="inWord"/><add resp="#ocp">.</add>gis ut misereator 
-       <lb/>eorum et dimittit 
-       <lb/>illos in terram eorum 
-       <lb/>et regionem<add resp="#ocp">.</add> tunc 
-       <lb/>ascendent aliquae 
-       <lb/>partes tribuum et 
-       <lb/>uenient in locum 
-       <lb/>constitutum suum 
-       <lb/>et circumuallabunt 
+       <lb type="inWord"/><add resp="#ocp">.</add>gis ut misereator
+       <lb/>eorum et dimittit
+       <lb/>illos in terram eorum
+       <lb/>et regionem<add resp="#ocp">.</add> tunc
+       <lb/>ascendent aliquae
+       <lb/>partes tribuum et
+       <lb/>uenient in locum
+       <lb/>constitutum suum
+       <lb/>et circumuallabunt
        <lb/>locum renouantes
-       <lb/>duae autem tribus 
-       <lb/>permanebunt in 
-       <lb/>praeposita fide sua 
+       <lb/>duae autem tribus
+       <lb/>permanebunt in
+       <lb/>praeposita fide sua
        <lb/>tristes et gemen
        <lb type="inWord"/>tes quia non pote
        <lb type="inWord"/>rint referre im
-       <lb type="inWord"/>molationes domino 
+       <lb type="inWord"/>molationes domino
        <lb/>patruum suorum
        <lb/>et <add resp="#ocp">.</add>x<add resp="#ocp">.</add> tribus cres-
-       <lb type="inWord"/>cent et deuenient 
+       <lb type="inWord"/>cent et deuenient
        <lb/>apud natos in tem
-       <lb type="inWord"/>pore tribum<add resp="#ocp">.</add> et 
-       <lb/>cum adpropiabunt 
-       <lb/>tempora arguendi 
-       <lb/>et uindicta surgit 
-       <lb/>de reges participes 
+       <lb type="inWord"/>pore tribum<add resp="#ocp">.</add> et
+       <lb/>cum adpropiabunt
+       <lb/>tempora arguendi
+       <lb/>et uindicta surgit
+       <lb/>de reges participes
        <lb/>scelerum et puni
-       <lb type="inWord"/>entes eos et ipsi 
+       <lb type="inWord"/>entes eos et ipsi
        <lb/>diuidentur ad ue
-       <lb type="inWord"/>ritatem<add resp="#ocp">.</add> propter 
+       <lb type="inWord"/>ritatem<add resp="#ocp">.</add> propter
        <lb/>quod factum fuit
        <lb/>deuitabunt iusti
-       <lb type="inWord"/>tiam et accedent 
-       <lb/>ad iniquitatem et 
-       <lb/>contaminabunt in 
-       <lb/>genationibus domum 
-       <lb/>seruitutis suae 
-       <lb/>et quia fornicabunt 
+       <lb type="inWord"/>tiam et accedent
+       <lb/>ad iniquitatem et
+       <lb/>contaminabunt in
+       <lb/>genationibus domum
+       <lb/>seruitutis suae
+       <lb/>et quia fornicabunt
        <lb/>post deos alienos
        <lb/>non enim sequen
-       <lb type="inWord"/>tur ueritatem dei 
-       <lb/>sed quidam altarium 
+       <lb type="inWord"/>tur ueritatem dei
+       <lb/>sed quidam altarium
        <lb/>inquinabunt de
 
-</ab>
+</p>
 
 </body>
 </text>

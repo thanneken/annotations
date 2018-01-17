@@ -1,5 +1,5 @@
-			<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -30,61 +30,61 @@
 
 <pb type="1861" n="44" xml:id="Ceriani_1861_044"/>
 	<cb type="Ceriani" n="1"/>
-	<milestone type="5c" unit="page" n="205
+	<milestone type="5c" unit="page" n="205"/>
 	<milestone type="19c" unit="page" n="128" xml:id="palimpsest_page_128"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="36"/>
 	<p part="F">
-		<milestone unit="vs" n="20"/> ‎ Et seruiuit deo in toto 
-		<lb/>corde suo et in tota 
+		<milestone unit="vs" n="20"/> ‎ Et seruiuit deo in toto
+		<lb/>corde suo et in tota
 		<lb/>anima sua et secun
 		<lb type="inWord"/>dum praecepta uisi
 		<lb type="inWord"/>bilia secundum diui
-		<lb type="inWord"/>sionem temporum 
-		<lb/>generationum eius. 
+		<lb type="inWord"/>sionem temporum
+		<lb/>generationum eius.
 		</p>
 		<p><milestone unit="vs" n="21"/> ‎ Et quadragesimo quin
-		<lb type="inWord"/>to iubeleo in anno 
+		<lb type="inWord"/>to iubeleo in anno
 		<lb/>quarto septimana
 		<lb type="inWord"/>rum secundi mor
-		<lb type="inWord"/>tua est lia uxor iacob 
-		<lb/>et sepellierunt eam 
-		<lb/>in spelunca duplici 
+		<lb type="inWord"/>tua est lia uxor iacob
+		<lb/>et sepellierunt eam
+		<lb/>in spelunca duplici
 		<lb/>secus rebeccam ma
 		<lb type="inWord"/>trem eius. <milestone unit="vs" n="22"/> ‎ Et adfue
-		<lb type="inWord"/>runt omnes filii eius 
+		<lb type="inWord"/>runt omnes filii eius
 		<lb/>et pueri eius ut fle
 		<lb type="inWord"/>rent cum eo liam
-		<lb/> mulierem eius et 
-		<lb/>ut consolarentur 
-		<lb/>eum de illa quia erat 
-		<lb/>lugens eum<!-- Ceriani's Version: 'eam' --> <add resp="#ocp">.</add> <milestone unit="vs" n="23"/> ‎ Quoniam 
+		<lb/> mulierem eius et
+		<lb/>ut consolarentur
+		<lb/>eum de illa quia erat
+		<lb/>lugens eum<!-- Ceriani's Version: 'eam' --> <add resp="#ocp">.</add> <milestone unit="vs" n="23"/> ‎ Quoniam
 		<lb/>diligebat eam ualde
 		<lb/>
-		<milestone unit="column" n="b"/> ex die qua mortua 
-		<lb/>est rachel soror 
-		<lb/>eius quia perfecta 
+		<milestone unit="column" n="b"/> ex die qua mortua
+		<lb/>est rachel soror
+		<lb/>eius quia perfecta
 		<lb/>et recta erat in om
 		<lb type="inWord"/>nibus uiis suis et ho
 		<lb type="inWord"/>norificans iacob om
-		<lb type="inWord"/>nibus diebus quibus <unclear>uixit</unclear> 
-		<lb/>cum ea et non <unclear>audiuit</unclear> 
+		<lb type="inWord"/>nibus diebus quibus <unclear>uixit</unclear>
+		<lb/>cum ea et non <unclear>audiuit</unclear>
 		<lb/>omnem sermone<unclear>m</unclear>
-		<lb/>nequam ex ore eius 
-		<lb/>quoniam <unclear>quieta et</unclear> 
+		<lb/>nequam ex ore eius
+		<lb/>quoniam <unclear>quieta et</unclear>
 		<lb/>pacifica erat et <gap reason="illegible" quantity="3" unit="character"/>
-		<lb/><gap reason="illegible" quantity="9" unit="character"/>hono 
-		<lb type="inWord"/> <gap reason="illegible" quantity="9" unit="character"/><add resp="#ocp">.</add> <milestone unit="vs" n="24"/> ‎ Et erat 
+		<lb/><gap reason="illegible" quantity="9" unit="character"/>hono
+		<lb type="inWord"/> <gap reason="illegible" quantity="9" unit="character"/><add resp="#ocp">.</add> <milestone unit="vs" n="24"/> ‎ Et erat
 		<lb/>memor omnium ope
-		<lb type="inWord"/>rum eius quae fecit 
+		<lb type="inWord"/>rum eius quae fecit
 		<lb/>in uita sua et ideo di
-		<lb type="inWord"/>ligebat eam ualde in 
-		<lb/>toto corde suo et 
+		<lb type="inWord"/>ligebat eam ualde in
+		<lb/>toto corde suo et
 		<lb/>in anima sua<add resp="#ocp">.</add>
 		</p>
  <p> <milestone unit="ch" n="37"/><milestone unit="vs" n="1"/>Et in die qua mortuus
  <lb/> est isac pater iacob
- <lb/> et esau audierunt 
+ <lb/> et esau audierunt
  <lb/>filii esau quoniam dedit
  </p>
  	<milestone type="5c" unit="page" n="206"/>
@@ -93,11 +93,11 @@
  	<milestone unit="ch" n="37"/>
  	<p> isaac maiorem <gap reason="illegible" quantity="5" unit="character"/>
  	<lb/> honorif <gap reason="illegible" quantity="7" unit="character"/>
- 	<lb/>portionem iacob 
- 	<lb/>filio suo iuniori et 
+ 	<lb/>portionem iacob
+ 	<lb/>filio suo iuniori et
  	<lb/>indignati sunt ualde<add resp="#ocp">.</add>
- 	<milestone unit="vs" n="2"/> ‎ Et litigabant cum 
- 	<lb/>esau dicentes<add resp="#ocp">:</add> quare 
+ 	<milestone unit="vs" n="2"/> ‎ Et litigabant cum
+ 	<lb/>esau dicentes<add resp="#ocp">:</add> quare
  	<lb/>praepositus est ti
  	<lb type="inWord"/>bi iacob cum sit iu
  	<lb type="inWord"/>nior et dedit illi pater
@@ -107,12 +107,12 @@
  	<lb/> ad illos esau<add resp="#ocp">:</add> quia ego
  	<lb/> dederam iacob primi
  	<lb type="inWord"/>tiua propter modi
- 	<lb type="inWord"/>cam cocturam lentis 
- 	<lb/>et in die in qua misit 
+ 	<lb type="inWord"/>cam cocturam lentis
+ 	<lb/>et in die in qua misit
  	<lb/>me pater meus uena
  	<lb type="inWord"/>re illi uenationem
  	<lb/>ut manducans bene
- 	<lb type="inWord"/>diceret me <!-- appears to be a period in Ceriani's version --> ueniens 
+ 	<lb type="inWord"/>diceret me <!-- appears to be a period in Ceriani's version --> ueniens
  	<lb/>ille cum dolo intu
  	<lb type="inWord"/>lit patri meo escam
  	<lb/>
@@ -122,34 +122,34 @@
 		<lb type="inWord"/>nu eius<add resp="#ocp">:</add> <milestone unit="vs" n="4"/> ‎ Et nunc adiu
 		<lb type="inWord"/>rauit nos pater nos
 		<lb type="inWord"/>ter me et illum ut non
-		<lb/>exquirarnus nobis 
-		<lb/>mala singuli fratri 
+		<lb/>exquirarnus nobis
+		<lb/>mala singuli fratri
 		<lb/>suo et ut simus in di
 		<lb type="inWord"/>lectionem et in pa
-		<lb type="inWord"/>ce homo cum fratre 
-		<lb/>suo <!-- appears to be a period in Ceriani --> ut non malitiam 
+		<lb type="inWord"/>ce homo cum fratre
+		<lb/>suo <!-- appears to be a period in Ceriani --> ut non malitiam
 		<lb/>exerceamus ad inuicem<add resp="#ocp">:</add>
 		</p>
-		<p><milestone unit="vs" n="5"/> ‎ Et dixerunt ad eum<add resp="#ocp">:</add> 
-		<lb/>non audiemus te ut 
+		<p><milestone unit="vs" n="5"/> ‎ Et dixerunt ad eum<add resp="#ocp">:</add>
+		<lb/>non audiemus te ut
 		<lb/>faciamus cum illo pa
 		<lb type="inWord"/>cem quoniam uirtus
 		<lb/>nostra potens su
 		<lb type="inWord"/>per uirtutem eius
-		<lb/>et nos uiri fortes 
+		<lb/>et nos uiri fortes
 		<lb/>super illum<add resp="#ocp">.</add> Ibimus aduersus eum et oc
 		<lb type="inWord"/>cidemus eum et per
 		<lb type="inWord"/>dimus illum et filios
-		
-		
-		 
- 	
- 	
- 	
-		
-		 
-		
-		
+
+
+
+
+
+
+
+
+
+
 
 	<!-- p19c=128 p5c=205 -->
 <milestone unit="vs" n="20"/> ‎ Et seruiuit deo in toto corde suo et in tota anima sua et secundum praecepta uisibilia secundum diuisionem temporum generationum eius.
@@ -176,4 +176,4 @@ et potum et benedixit eum pater meus et me dedit sub manu eius.
 </body>
 </text>
 </TEI>
-		
+

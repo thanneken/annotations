@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -31,14 +31,14 @@
 	<pb type="1861" n="39" xml:id="Ceriani_1861_039"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="179"/>
-	<milestone type="19c" unit="page" n="126" xml:id="palimpsest_page_0126"/>
+	<milestone type="19c" unit="page" n="126" xml:id="palimpsest_page_126"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="31"/>
 	<p part="F">
 		<milestone unit="vs" n="29"/>
 		creans cuncta cui
 		<lb/>orasti orationem
-					  
+
 		</p>
 		<p>
 		<milestone unit="vs" n="30"/> Et dixit rebeccae<add resp="#ocp">:</add>
@@ -51,18 +51,18 @@
 		<lb/>fuit benedictionis
 		<lb/>qua benedixit eum
 		<lb/>pater suus et duos
-		<lb/>filios eius leuui et 
+		<lb/>filios eius leuui et
 		<lb/>iudam et gauisus est
 		<lb/> et benedixit deum pa
 		<lb type="inWord"/>trum suorum abra
 		<lb type="inWord"/>ham et isac<add resp="#ocp">:</add> <milestone unit="vs" n="32"/> nunc cog
 		<lb type="inword"/>noui quoniam spes
-		<lb/>mihi est aeterna et 
+		<lb/>mihi est aeterna et
 		<lb/>filiis meis in cons
 		<lb type="inword"/>pectu dei omnipoten
 		<lb type="inword"/>tis et sic erat depu
 		<lb type="inword"/>tatum super duos
-		<lb/>et portio ipsorum 
+		<lb/>et portio ipsorum
 		<lb/>
 		<milestone unit="column" n="b"/>in testimoniis sae
 		<lb type="inword"/>culi in tabulis caeli
@@ -72,7 +72,7 @@
 		<milestone unit="ch" n="32"/>
 		<milestone unit="vs" n="1"/>Et dormierunt in
 		<lb/>nocte illa in bethel
-		<lb/>et somniauit leuui 
+		<lb/>et somniauit leuui
 		<lb/>quasi ordinatus sit
 		<lb/>in sacerdotem dei ex
 		<lb type="inword"/>celsi usque in saecula
@@ -82,15 +82,15 @@
 		<lb/>iacob diluculo in quar
 		<lb type="inword"/>tadecima die mensis
 		<lb/>huius decimauit uni
-		<lb type="inword"/>uersa quaecumque 
-		<lb/>uenerunt cum eo 
+		<lb type="inword"/>uersa quaecumque
+		<lb/>uenerunt cum eo
 		<lb/>ab homine usque ad om
 		<lb type="inword"/>nem animam et ab
 		<lb/>auro et usque ad om
 		<lb type="inword"/>ne uas et uestimen
 		<lb type="inword"/>tum decimauit uni
 		<lb type="inword"/>uersa<add resp="#ocp">.</add>
-		
+
 		</p>
 		<milestone type="5c" unit="page" n="180"/>
 		<milestone type="19c" unit="page" n="125" xml:id="palimpsest_page_125"/>
@@ -98,26 +98,26 @@
 		<milestone unit="column" n="a"/>
 		<p>Et in illo tempore
 			<lb/>rachel in utero ha
-			<lb type="inword"/>bentem beniamin 
+			<lb type="inword"/>bentem beniamin
 			<lb/>filium suum enume
 			<lb type="inword"/>rauit iacob ab ipso fi
 			<lb type="inword"/>lios suos et ascendit
-			<lb/>et cecidit leuui in 
+			<lb/>et cecidit leuui in
 			<lb/>sortem dei et induit eum
 			<lb/>pater suus uestimen
 			<lb type="inword"/>ta sacerdotalia et in
 			<lb type="inword"/>pleuit manus eius<add resp="#ocp">.</add>
-			<milestone unit="vs" n="4"/> In die quintodecima 
+			<milestone unit="vs" n="4"/> In die quintodecima
 			<lb/>mensis huius et ob
 			<lb type="inword"/>tulit in ipso ad altare
 			<lb/>uitulos de bubus quat
 			<lb type="inword"/>tuordecim et arie
 			<lb type="inword"/>tis uiginti et octo
 			<lb/>et oues quadragin
-			<lb type="inword"/>ta et nouem et hedos 
+			<lb type="inword"/>ta et nouem et hedos
 			<lb/>septem hircos capra
 			<lb type="inword"/>rum uiginti et unum
-			<lb/>haec olocaustomata 
+			<lb/>haec olocaustomata
 			<lb/>in altarium fructu
 			<lb type="inword"/>um acceptabile in
 			<lb/>
@@ -128,7 +128,7 @@
 			<lb type="inword"/>ciis et cum uino ipso
 			<lb type="inword"/>rum<add resp="#ocp">.</add> <milestone unit="vs" n="6"/> Et quando con
 			<lb type="inword"/>sumpsit ignis liba
-			<lb type="inword"/>num super ignem 
+			<lb type="inword"/>num super ignem
 			<lb/>desuper et sacrifi
 			<lb type="inword"/>cium salutare uitu
 			<lb type="inword"/>los duos arietes quat
@@ -138,15 +138,15 @@
 			<lb/>haec faciebat cot
 			<lb type="inword"/>tidie in septem diebus<add resp="#ocp">.</add>
 			<milestone unit="vs" n="7"/> Et benedicebat et
-			<lb/>hymnum dicebat deo 
+			<lb/>hymnum dicebat deo
 			<lb/>qui liberauit eum de
 			<lb/>omnibus tribulatio
-			<lb type="inword"/>nibus eius et quoniam 
+			<lb type="inword"/>nibus eius et quoniam
 			<lb/>reddidit uotum suum<add resp="#ocp">.</add>
 			<milestone unit="vs" n="8"/> Et decimauit uniu<unclear>er</unclear>- <add resp="#ocp">- -</add>
 
-		
-		
+
+
 
 	<!-- p19c=126 p5c=179 -->
 
