@@ -33,23 +33,23 @@
 	<milestone type="5c" unit="page" n="93"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="15"/>
-	<p part="F">illum et multiplica
+	<p part="F"><milestone unit="vs" n="20"/>illum et multiplica
 		<lb type="inWord"/>bo eum et adaugam
 		<lb/>eum ualde Nam duo
 		<lb type="inWord"/>decim principes ge
 		<lb type="inWord"/>nerauit et ponam
 		<lb/>eum in gentem mag
-		<lb type="inWord"/>nam et testamen
+		<lb type="inWord"/>nam <milestone unit="vs" n="21"/>et testamen
 		<lb type="inWord"/>tum meum statuam
 		<lb/>cum isac quem pari
 		<lb type="inWord"/>et tibi sarra secun
 		<lb type="inWord"/>dum tempus hoc in
 		<lb/>anno ueniente.
 	</p>
-	<p>Et consummauit lo
+	<p><milestone unit="vs" n="22"/>Et consummauit lo
 		<lb type="inWord"/>quens cum ipso et
 		<lb/>ascendit deus ab abra
-		<lb type="inWord"/>ham et fecit abraham
+		<lb type="inWord"/>ham <milestone unit="vs" n="23"/>et fecit abraham
 		<lb/>quemammodum di
 		<lb type="inWord"/>xit illi deus et accepit
 		<lb/>ismael filium suum
@@ -61,7 +61,7 @@
 		<lb/><milestone unit="column" n="b"/>praeputii ipsorum
 		<lb/>in illo tempore.
 	</p>
-	<p>Et circumcidit se
+	<p><milestone unit="vs" n="24"/>Et circumcidit se
 		<lb/>abraham in illa die
 		<lb/>et dominatos suos
 		<lb/>et domesticos suos
@@ -69,7 +69,7 @@
 		<lb/>de filiis alienis cir
 		<lb type="inWord"/>cumcidit omneis.
 	</p>
-	<p>Haec lex in omnibus
+	<p><milestone unit="vs" n="25"/>Haec lex in omnibus
 		<lb/>generationibus sae
 		<lb type="inWord"/>culi et non est prae
 		<lb type="inWord"/>terire diem unum
@@ -77,7 +77,7 @@
 		<lb type="inWord"/>ceptum est aeter
 		<lb type="inWord"/>num mandatum et
 		<lb/>scriptum est in ta
-		<lb type="inWord"/>bulis caeli ut omnis
+		<lb type="inWord"/>bulis caeli <milestone unit="vs" n="26"/>ut omnis
 		<lb/>natus cuiuscumque
 		<lb/>non fuerit circum
 		<lb type="inWord"/>cisa caro praeputii
@@ -98,7 +98,7 @@
 		<lb type="inWord"/>ditionis a terra quo
 		<lb type="inWord"/>niam testamentum
 		<lb/>domini dei nostri dissipauit
-		<lb/>quoniam omn<choice><sic>i</sic><corr resp="#ocp">e</corr></choice>s an
+		<lb/><milestone unit="vs" n="27"/>quoniam omn<choice><sic>i</sic><corr resp="#ocp">e</corr></choice>s an
 		<lb type="inWord"/>geli uultuus et om
 		<lb type="inWord"/>nes archangeli be
 		<lb type="inWord"/>nedictionis a diebus
@@ -110,7 +110,7 @@
 		<lb type="inWord"/>trahel ut esset si
 		<lb type="inWord"/>mul cum ipso et cum
 		<lb/>angelis sanctorum
-		<lb/>ipsius. Et tu deman
+		<lb/>ipsius. <milestone unit="vs" n="<milestone unit="vs" n="28"/>"/>Et tu deman
 		<lb type="inWord"/>da filiis istrahel
 		<lb/><milestone unit="column" n="b"/>ut custodiant tes
 		<lb type="inWord"/>tamentum signi
@@ -118,13 +118,13 @@
 		<lb type="inWord"/>nibus suis in testamen
 		<lb type="inWord"/>tum aeternum et
 		<lb/>non exterminabun
-		<lb type="inWord"/>tur a terra quoniam
+		<lb type="inWord"/>tur a terra <milestone unit="vs" n="29"/>quoniam
 		<lb/>decreuit in decre
 		<lb type="inWord"/>to testamenti ut
 		<lb/>custodiatur in ae
 		<lb type="inWord"/>ternum super om
 		<lb type="inWord"/>nes filios istrahel
-		<lb/>quoniam ismael et
+		<lb/><milestone unit="vs" n="30"/>quoniam ismael et
 		<lb/>filios eius et fratres
 		<lb/>eius et esau non ad
 		<lb type="inWord"/>plicabit ad se deus et
@@ -134,7 +134,7 @@
 		<lb/>sicut cognouit eos
 		<lb/>sed in istrahel ele
 		<lb type="inWord"/>git ut sint ei in po
-		<lb type="inWord"/>pulum et sanctifi
+		<lb type="inWord"/>pulum <milestone unit="vs" n="31"/>et sanctifi
 		<lb type="inWord"/>cauit eum et <w part="I">prae</w>
 	</p>
 </body>

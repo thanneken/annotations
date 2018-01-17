@@ -44,14 +44,14 @@
 		<lb/>in austrum usque ba
 		<lb type="inWord"/>halot et facta est
 		<lb/>famis super terram<add resp="#ocp">.</add>
-		<lb/>Et abiit abram in ae
+		<lb/><milestone unit="vs" n="11"/>Et abiit abram in ae
 		<lb type="inWord"/>gyptum anno tertio
 		<lb/>septimani et inha
 		<lb type="inWord"/>bitauit in terram
 		<lb/>aegypti quinque annis
 		<lb/>priusquam rapere
 		<lb type="inWord"/>tur uxor ipsius ab eo<add resp="#ocp">.</add>
-		<lb/>
+		<lb/><milestone unit="vs" n="12"/>
 		<choice>
 			<sic>e</sic>
 			<corr resp="#ocp">E</corr>
@@ -61,7 +61,7 @@
 		<lb/>est annis septem
 		<lb/>post cebron<add resp="#ocp">.</add>
 	</p>
-	<p>Et factum est cum
+	<p><milestone unit="vs" n="13"/>Et factum est cum
 		<lb/>rapuisset farao sa
 		<lb type="inWord"/>ram uxorem abram
 		<lb/>quaestionauit dominus
@@ -70,7 +70,7 @@
 		<lb/>magnis propter
 		<lb/>
 		<milestone unit="column" n="b"/>saram uxorem abram.
-		<lb/>Et tunc abram glo
+		<lb/><milestone unit="vs" n="14"/>Et tunc abram glo
 		<lb type="inWord"/>rificauit diuitiis ual
 		<lb type="inWord"/>de omnibus ouibus et
 		<lb/>bubus et asinis et
@@ -79,7 +79,7 @@
 		<lb/>argento et aro ual
 		<lb type="inWord"/>de<add resp="#ocp">.</add>Etenim et loth
 		<lb/>filio fratris sui e
-		<lb type="inWord"/>rant diuitiae<add resp="#ocp">.</add> Et red
+		<lb type="inWord"/>rant diuitiae<add resp="#ocp">.</add> <milestone unit="vs" n="15"/>Et red
 		<lb type="inWord"/>didit farao saram
 		<lb/>uxorem abram uiro
 		<lb/>suo et eiecit eum
@@ -101,7 +101,7 @@
 	<milestone type="19c" unit="page" n="61" xml:id="palimpsest_page_061"/>
 	<cb type="Ceriani" n="2"/>
 	<milestone unit="column" n="a"/>
-	<p>Et factum est in qua
+	<p><milestone unit="vs" n="16"/>Et factum est in qua
 		<lb type="inWord"/>dragesimo et primo
 		<lb/>iubeleo anno tert<unclear>io</unclear>
 		<lb/>ebdomadarum pri
@@ -113,7 +113,7 @@
 		<lb type="inWord"/>celsus deus meus in
 		<lb/>saecula saeculorum.
 	</p>
-	<p>Et in no quarto septi
+	<p><milestone unit="vs" n="17"/>Et in no quarto septi
 		<lb type="inWord"/>manarum huius se
 		<lb type="inWord"/>paratus est loth ab
 		<lb/>ipso et inhabitauit
@@ -121,11 +121,11 @@
 		<lb/>sodomitae pecca
 		<lb type="inWord"/>tores erant ualde
 		<lb/>et iniqui in cordibus
-		<lb/>suis. propter quod
+		<lb/>suis. <milestone unit="vs" n="18"/>propter quod
 		<lb/>separatus est loth
 		<lb/>filius fratris sui ab
 		<lb/>eo eo quod non erant
-		<lb/>illi filii captiuatus est
+		<lb/>illi filii <milestone unit="vs" n="19"/>captiuatus est
 		<lb/>
 		<milestone unit="column" n="b"/>loth ab ipso. In quar
 		<lb type="inWord"/>to autem anno sep
@@ -136,7 +136,7 @@
 		<lb/>ad occasum et afri
 		<lb type="inWord"/>cum et orientem
 		<lb/>et septentrionem.
-		<lb/>Quoniam omnem
+		<lb/><milestone unit="vs" n="20"/>Quoniam omnem
 		<lb/>terram quam tu ui
 		<lb type="inWord"/>des tibi et semini tuo
 		<lb/>dabo eam in saecula<add resp="#ocp">.</add>
@@ -144,7 +144,7 @@
 		<lb/>tuum sicut harena
 		<lb/>maris etenim semen
 		<lb/>tuum non enume
-		<lb type="inWord"/>rabitur. Et tu ex
+		<lb type="inWord"/>rabitur. <milestone unit="vs" n="21"/>Et tu ex
 		<lb type="inWord"/>surgens perambu
 		<lb type="inWord"/>la latitudinem eius
 		<lb/>et uide uniuersa quia
