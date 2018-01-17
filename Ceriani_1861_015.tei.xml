@@ -37,7 +37,7 @@
 	<milestone unit="ch" n="13"/>
 	<p part="F">
 		<milestone unit="vs" n="10"/>
-		Et inhabitauit illic
+		et inhabitauit illic
 		<lb/>annis duobus.
 	</p>
 	<p>Et promouit inde
@@ -101,25 +101,25 @@
 	<milestone type="19c" unit="page" n="61" xml:id="palimpsest_page_061"/>
 	<cb type="Ceriani" n="2"/>
 	<milestone unit="column" n="a"/>
-	<p>Et factum est in quadragesimo
-		<lb/>et primo
-		<lb/>iubeleo anno tertio
-		<lb/>ebdomadarum primi
-		<lb/>reuersus est in
-		<lb/>locum hunc et obtulit
-		<lb/>olocaustomata
-		<lb/>et inuocauit in nomine
-		<lb/>domini: tu es deus excelsus
-		<lb/>deus meus in
+	<p>Et factum est in qua
+		<lb type="inWord"/>dragesimo et primo
+		<lb/>iubeleo anno tert<unclear>io</unclear>
+		<lb/>ebdomadarum pri
+		<lb type="inWord"/>mi reuersus est in
+		<lb/>locum hunc et obtu
+		<lb type="inWord"/>lit olocaustomata
+		<lb/>et inuocauit in no
+		<lb type="inWord"/>mine domini: tu es deus ex
+		<lb type="inWord"/>celsus deus meus in
 		<lb/>saecula saeculorum.
 	</p>
-	<p>Et in no quarto septimanarum
-		<lb/>huius separatus
-		<lb/>est loth ab
+	<p>Et in no quarto septi
+		<lb type="inWord"/>manarum huius se
+		<lb type="inWord"/>paratus est loth ab
 		<lb/>ipso et inhabitauit
 		<lb/>sodomis. Et homines
-		<lb/>sodomitae peccatores
-		<lb/>erant ualde
+		<lb/>sodomitae pecca
+		<lb type="inWord"/>tores erant ualde
 		<lb/>et iniqui in cordibus
 		<lb/>suis. propter quod
 		<lb/>separatus est loth
@@ -127,31 +127,31 @@
 		<lb/>eo eo quod non erant
 		<lb/>illi filii captiuatus est
 		<lb/>
-		<milestone unit="column" n="b"/>loth ab ipso. In quarto
-		<lb/>autem anno septimani
-		<lb/>huius iubelei
+		<milestone unit="column" n="b"/>loth ab ipso. In quar
+		<lb type="inWord"/>to autem anno sep
+		<lb type="inWord"/>timani huius iubelei
 		<lb/>ipsius dixit deus ad abram:
 		<lb/>eleua oculos tuos
 		<lb/>de loco ubi sedes tu
-		<lb/>ad occasum et africum
-		<lb/>et orientem
+		<lb/>ad occasum et afri
+		<lb type="inWord"/>cum et orientem
 		<lb/>et septentrionem.
 		<lb/>Quoniam omnem
-		<lb/>terram quam tu uides
-		<lb/>tibi et semini tuo
-		<lb/>dabo eam in saecula.
+		<lb/>terram quam tu ui
+		<lb type="inWord"/>des tibi et semini tuo
+		<lb/>dabo eam in saecula<add resp="#ocp">.</add>
 		<lb/>Et ponam semen
 		<lb/>tuum sicut harena
 		<lb/>maris etenim semen
-		<lb/>tuum non enumerabitur.
-		<lb/>Et tu exsurgens
-		<lb/>perambula
-		<lb/>latitudinem eius
+		<lb/>tuum non enume
+		<lb type="inWord"/>rabitur. Et tu ex
+		<lb type="inWord"/>surgens perambu
+		<lb type="inWord"/>la latitudinem eius
 		<lb/>et uide uniuersa quia
-		<lb/>semini tuo dabo eam.
+		<lb/>semini tuo dabo eam<add resp="#ocp">.</add>
 	</p>
-	<p part="I">Et abiit abram in cebron
-		<lb/>et inhabitauit.
+	<p part="I">Et abiit abram in ce
+		<lb type="inWord"/>bron et inhabitauit<add resp="#ocp">.</add>
 	</p>
 </body>
 </text>
