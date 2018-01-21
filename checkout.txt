@@ -1,7 +1,7 @@
-Ceriani_1861_015.tei.xml Hanneken
-Ceriani_1861_016.tei.xml Hanneken
-Ceriani_1861_017.tei.xml Selvanathan
-Ceriani_1861_018.tei.xml Dominguez
+Ceriani_1861_015.tei.xml Hanneken CHECKED HANNEKEN
+Ceriani_1861_016.tei.xml Hanneken CHECKED HANNEKEN
+Ceriani_1861_017.tei.xml Selvanathan CHECKED HANNEKEN
+Ceriani_1861_018.tei.xml Dominguez CHECKED HANNEKEN
 Ceriani_1861_019.tei.xml Zeitzmann
 Ceriani_1861_020.tei.xml AlShobber
 Ceriani_1861_021.tei.xml Dominguez
@@ -32,11 +32,11 @@ Ceriani_1861_045.tei.xml Marissa Gonzalez
 Ceriani_1861_046.tei.xml Valdez
 Ceriani_1861_047.tei.xml Valdez
 Ceriani_1861_048.tei.xml Selvanathan
-Text files created for 48-54 with line breaks, but don't have inWord attributes, deleted chapter and verse information, and are not valid XML. It is probably easier to start from scratch on these pages. 
+Text files created for 48-54 with line breaks, but don't have inWord attributes, deleted chapter and verse information, and are not valid XML. It is probably easier to start from scratch on these pages.
 Ceriani_1861_049.tei.xml Selvanathan
-Ceriani_1861_050.tei.xml 
-Ceriani_1861_051.tei.xml 
-Ceriani_1861_052.tei.xml 
+Ceriani_1861_050.tei.xml
+Ceriani_1861_051.tei.xml
+Ceriani_1861_052.tei.xml
 Ceriani_1861_053.tei.xml Bryan
 Ceriani_1861_054.tei.xml Bryan
 Ceriani_1861_055.tei.xml Marissa Gonzalez

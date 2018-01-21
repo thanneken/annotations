@@ -9,7 +9,6 @@
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
 			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
-
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -29,25 +28,24 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="18" xml:id="Ceriani_1861_018"/>
-<cb type="Ceriani" n="1"/>
-<milestone type="19c" unit="page" n="54"/>
-<milestone type="5c" unit="page" n="99"/>
-<milestone unit="column" n="a"/>
-<milestone unit="ch" n="16"/>
-<p part="F">
-		<lb/>nomen <milestone unit="vs" n="17"/> Et omne se
-		<lb/>men filiorum eius 
+	<pb type="1861" n="18" xml:id="Ceriani_1861_018"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="19c" unit="page" n="54"/>
+	<milestone type="5c" unit="page" n="99"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="16"/>
+	<p part="F">
+		<lb/>nomen <milestone unit="vs" n="17"/>Et omne se
+		<lb type="inWord"/>men filiorum eius
 		<lb/>gentes erunt et cum
 		<lb/>gentibus deputabun
-		<lb type="inWord"/>tur et ex filiis isac 
-		<lb/>unus erit in semen 
-		<lb/>sanctum qui cum gentibus 
+		<lb type="inWord"/>tur et ex filiis isac
+		<lb/>unus erit in semen
+		<lb/>sanctum qui cum gentibus
 		<lb/>non conputabitur
-		<lb/><milestone unit="vs" n="18"/> ‎Quoniam in sorte 
+		<lb/><milestone unit="vs" n="18"/>‎Quoniam in sorte
 		<lb/>excelsi erit quoni
-		<lb type="inWord"/>am in possesionem 
+		<lb type="inWord"/>am in possesionem
 		<lb/>dei cecidit omne se
 		<lb type="inWord"/>men eius esse deo
 		<lb/>in populum sancti
@@ -55,126 +53,92 @@
 		<lb/>gentibus eius et ut
 		<lb/>sit regnum sacer
 		<lb type="inWord"/>dotale et populus
-		<lb/>sanctus<add resp="#ocp">.</add> <milestone unit="vs" n="19"/> ‎Et abibimus
+		<lb/>sanctus<add resp="#ocp">.</add> <milestone unit="vs" n="19"/>‎Et abibimus
 		<lb/>uiam nostram et in
 		<lb type="inWord"/>dicauimus sarrae
 		<lb/>quaecumque indica
-		<lb type="inWord"/>uimus ei et gauisi 
+		<lb type="inWord"/>uimus ei et gauisi
 		<lb/>sunt utrique gaudio
-		<lb/>
-		<milestone unit="column" n="b"/> magno<add resp="#ocp">.</add> <milestone unit="vs" n="20"/> ‎ Et aedifica
-		<lb type="inWord"/>uit illic altarium 
-		<lb/>domino qui liberauit eum 
-		<lb/>et gratiae eius in 
+		<lb/><milestone unit="column" n="b"/> magno<add resp="#ocp">.</add> <milestone unit="vs" n="20"/>Et aedifica
+		<lb type="inWord"/>uit illic altarium
+		<lb/>domino qui liberauit eum
+		<lb/>et gratiae eius in
 		<lb/>terram commora
 		<lb type="inWord"/>tionis suae<add resp="#ocp">.</add>
-		</p>
-		<p>Et fecit diem festum 
-		<lb/>laetitiae in mense 
+	</p>
+	<p>Et fecit diem festum
+		<lb/>laetitiae in mense
 		<lb/>hoc septem dies se
-		<lb type="inWord"/>cus altarium <milestone unit="vs" n="21"/> ‎ et ae
-		<lb type="inWord"/>dificauit tabema <!-- Cerianis version: 'tabernacula' --> 
+		<lb type="inWord"/>cus altarium <milestone unit="vs" n="21"/>et ae
+		<lb type="inWord"/>dificauit tabema <!-- Cerianis version: 'tabernacula' -->
 		<lb type="inWord"/>cula sibi et seruis
 		<lb/>suis in die festo hoc<add resp="#ocp">.</add>
-		<lb/> Et hic primus fecit 
+		<lb/> Et hic primus fecit
 		<lb/>diem festum taber
-		<lb type="inWord"/>naculorum super 
-		<lb/>terram<add resp="#ocp">.</add> <milestone unit="vs" n="22"/> ‎ Et in diebus
+		<lb type="inWord"/>naculorum super
+		<lb/>terram<add resp="#ocp">.</add> <milestone unit="vs" n="22"/>Et in diebus
 		<lb/>erat offerens per
 		<lb/>singulos dies super
 		<lb/>altare fructum domino
 		<lb/>uitulos duos et arie
-		<lb type="inWord"/>tes duos oues septem 
-		<lb/>et hircum caprarum 
+		<lb type="inWord"/>tes duos oues septem
+		<lb/>et hircum caprarum
 		<lb/>unum pro peccatis
+	</p>
 	<milestone type="5c" unit="page" n="100"/>
 	<milestone type="19c" unit="page" n="53" xml:id="palimpsest_page_053"/>
 	<cb type="Ceriani" n="2"/>
 	<milestone unit="column" n="a"/>
-	<lb/>propitiari in ipso pro
-	<lb/>se et pro semine suo<add resp="#ocp">.</add>
-	<lb/><milestone unit="vs" n="23"/> ‎<unclear>Et in</unclear> sacrificium
-	<lb/>salutare arietes 
-	<lb/>septem hedos sep
-	<lb type="inWord"/>tem oues septem
-	<lb/>et hircos septem 
-	<lb/>et sacrificia ipsorum 
-	<lb/>et uinum ipsorum 
-	<lb/>et uniuersam adipem 
-	<lb/>eorum erat incen
-	<lb type="inWord"/>dens super altari 
-	<lb/> <gap reason="illegible" quantity="9" unit="character"/>
-	<lb/>ostiam in odorem 
-	<lb/>suauitatis<add resp="#ocp">.</add> <milestone unit="vs" n="24"/> ‎ Et mane 
-	<lb/>et uesperam erat 
-	<lb/>incendens incen
-	<lb type="inWord"/>sum compositionis
-	<lb/>libanum et galba
-	<lb type="inWord"/>num et stacten et 
-	<lb/>nardum et myrram
-	<lb/>et spicam et costum
-	<lb/>septem has species
-	<lb/> mundas erat incen-
-	<lb/>
-	<milestone unit="column" n="b"/>dens concisas et ae
-	<lb type="inWord"/>qualiter mixtas<add resp="#ocp">.</add>
+	<p part="F">propitiari in ipso pro
+		<lb/>se et pro semine suo<add resp="#ocp">.</add>
+		<lb/><milestone unit="vs" n="23"/>‎<unclear>Et in</unclear> sacrificium
+		<lb/>salutare arietes
+		<lb/>septem hedos sep
+		<lb type="inWord"/>tem oues septem
+		<lb/>et hircos septem
+		<lb/>et sacrificia ipsorum
+		<lb/>et uinum ipsorum
+		<lb/>et uniuersam adipem
+		<lb/>eorum erat incen
+		<lb type="inWord"/>dens super altari
+		<lb/><gap reason="illegible" quantity="9" unit="character"/>
+		<lb/>ostiam in odorem
+		<lb/>suauitatis<add resp="#ocp">.</add> <milestone unit="vs" n="24"/>Et mane
+		<lb/>et uesper<unclear>a</unclear>m erat
+		<lb/>incendens incen
+		<lb type="inWord"/>sum compositionis
+		<lb/>libanum et galba
+		<lb type="inWord"/>num et stacten et
+		<lb/>nardum et myrram
+		<lb/>et spicam et costum
+		<lb/>septem has species
+		<lb/> mundas erat incen-
+		<lb/><milestone unit="column" n="b"/>dens concisas et ae
+		<lb type="inWord"/>qualiter mixtas<add resp="#ocp">.</add>
 	</p>
-	<p><milestone unit="vs" n="25"/> ‎ Et fecit diem festum
-	<lb/>hunc per septem 
-	<lb/>dies aepulans in to
-	<lb type="inWord"/>to corde suo et in om
-	<lb type="inWord"/>ni anima sua ipse et 
-	<lb/>uniuersi domesti
-	<lb type="inWord"/>ci sui et omnis alie
-	<lb type="inWord"/>nus non erat cum 
-	<lb/>ipsis et omnis in>cir <!-- XML version inserted 'in>' before circumcisus -->
-	<lb type="inWord"/>cumcisus<add resp="#ocp">.</add> <milestone unit="vs" n="26"/> ‎ Et bene
-	<lb type="inWord"/>dixit creatorem suum 
-	<lb/>qui creauit illum 
-	<lb/>quia cognouit et sci
-	<lb/>uit quia ex ipso erit 
-	<lb/>plantatio uerita
-	<lb type="inWord"/>tis in generationi
-	<lb type="inWord"/>bus aeternis et ex ip
-	<lb type="inWord"/>so semen sanctum 
-	<lb type="inWord"/>ut sit secundum 
-	<lb/>h*un*c<choice><sic>hoc</sic><corr resp="#ocp">hunc</corr></choice> qui creauit uni
-	<lb type="inWord"/>uersa<add resp="#ocp">.</add> <milestone unit="vs" n="27"/> ‎ Et benedixit 
-	<lb/>et gauisus est et
-	
-	
-	
-	
-	
-	
-		
-		
-		
-		
-	
-
-nomen.
-<milestone unit="vs" n="17"/> ‎ Et omne semen filiorum eius gentes erunt et cum gentibus deputabuntur et ex filiis isac unus erit in semen sanctum qui cum gentibus non conputabitur
-<milestone unit="vs" n="18"/> ‎ Quoniam in sorte excelsi erit quoniam in possesionem dei cecidit omne semen eius esse deo in populum sanctificatum ex omnibus gentibus eius et ut sit regnum sacerdotale et populus sanctus.
-<milestone unit="vs" n="19"/> ‎ Et abibimus uiam nostram et indicauimus sarrae quaecumque indicauimus ei et gauisi sunt utrique gaudio
-
-magno.
-<milestone unit="vs" n="20"/> ‎ Et aedificauit illic altarium domino qui liberauit eum et gratiae eius in terram commorationis suae. Et fecit diem festum laetitiae in mense hoc septem dies secus altarium
-<milestone unit="vs" n="21"/> ‎ et aedificauit tabemacula sibi et seruis suis in die festo hoc. Et hic primus fecit diem festum tabernaculorum super terram.
-<milestone unit="vs" n="22"/> ‎ Et in diebus erat offerens per singulos dies super altare fructum domino uitulos duos et arietes duos oues septem et hircum caprarum unum pro peccatis
-
-	<!-- p19c=53 p5c=100 -->
-propitiari in ipso pro se et pro semine suo.
-<milestone unit="vs" n="23"/> ‎ Et in sacrificium salutare arietes septem hedos septem oues septem et hircos septem et sacrificia ipsorum et uinum ipsorum et uniuersam adipem eorum erat incendens super altari - - - ostiam in odorem suauitatis.
-<milestone unit="vs" n="24"/> ‎ Et mane et uesperam erat incendens incensum compositionis libanum et galbanum et stacten et nardum et myrram et spicam et costum septem has species mundas erat incen-
-
-dens concisas et aequaliter mixtas.
-<milestone unit="vs" n="25"/> ‎ Et fecit diem festum hunc per septem dies aepulans in toto corde suo et in omni anima sua ipse et uniuersi domestici sui et omnis alienus non erat cum ipsis et omnis in>circumcisus.
-<milestone unit="vs" n="26"/> ‎ Et benedixit creatorem suum qui creauit illum quia cognouit et sciuit quia ex ipso erit plantatio ueritatis in generationibus aeternis et ex ipso semen sanctum ut sit secundum h*un*c qui creauit uniuersa.
-<milestone unit="vs" n="27"/> ‎ Et benedixit et gauisus est et
-
-</p>
-
+	<p><milestone unit="vs" n="25"/>Et fecit diem festum
+		<lb/>hunc per septem
+		<lb/>dies aepulans in to
+		<lb type="inWord"/>to corde suo et in om
+		<lb type="inWord"/>ni anima sua ipse et
+		<lb/>uniuersi domesti
+		<lb type="inWord"/>ci sui et omnis alie
+		<lb type="inWord"/>nus non erat cum
+		<lb/>ipsis et omnis <add resp="#ocp">in</add> cir
+		<lb type="inWord"/>cumcisus<add resp="#ocp">.</add> <milestone unit="vs" n="26"/>Et bene
+		<lb type="inWord"/>dixit creatorem suum
+		<lb/>qui creauit illum
+		<lb/>quia cognouit et sci
+		<lb type="inWord"/>uit quia ex ipso erit
+		<lb/>plantatio uerita
+		<lb type="inWord"/>tis in generationi
+		<lb type="inWord"/>bus aeternis et ex ip
+		<lb type="inWord"/>so semen sanctum
+		<lb/>ut sit secundum
+		<lb/><choice><sic>hoc</sic><corr resp="#ocp">hunc</corr></choice> qui creauit uni
+		<lb type="inWord"/>uersa<add resp="#ocp">.</add> <milestone unit="vs" n="27"/>Et benedixit
+		<lb/>et gauisus est et
+	</p>
 </body>
 </text>
 </TEI>
