@@ -8,9 +8,9 @@ Ceriani_1861_021.tei.xml Dominguez CHECKED HANNEKEN
 Ceriani_1861_022.tei.xml Repka CHECKED HANNEKEN
 Ceriani_1861_023.tei.xml started by Tinajero, continued by Dominguez
 Ceriani_1861_024.tei.xml Bodden CHECKED HANNNEKEN
-Ceriani_1861_025.tei.xml MarissaGonzalez CHECKED BY HANNEKEN
-Ceriani_1861_026.tei.xml Valdez
-Ceriani_1861_027.tei.xml Bryan
+Ceriani_1861_025.tei.xml MarissaGonzalez CHECKED HANNEKEN
+Ceriani_1861_026.tei.xml Valdez CHECKED HANNEKEN
+Ceriani_1861_027.tei.xml Bryan CHECKED HANNEKEN
 Ceriani_1861_028.tei.xml AniGonzalez
 Ceriani_1861_029.tei.xml Herrera
 Ceriani_1861_030.tei.xml AlexandraGonzalez
