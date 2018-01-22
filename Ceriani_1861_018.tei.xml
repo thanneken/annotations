@@ -34,8 +34,7 @@
 	<milestone type="5c" unit="page" n="99"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="16"/>
-	<p part="F">
-		<lb/>nomen <milestone unit="vs" n="17"/>Et omne se
+	<p part="F">nomen <milestone unit="vs" n="17"/>Et omne se
 		<lb type="inWord"/>men filiorum eius
 		<lb/>gentes erunt et cum
 		<lb/>gentibus deputabun
@@ -70,7 +69,7 @@
 		<lb/>laetitiae in mense
 		<lb/>hoc septem dies se
 		<lb type="inWord"/>cus altarium <milestone unit="vs" n="21"/>et ae
-		<lb type="inWord"/>dificauit tabema <!-- Cerianis version: 'tabernacula' -->
+		<lb type="inWord"/>dificauit taberna <!-- ocp "tabema" is just an ocr error, not worth encoding -->
 		<lb type="inWord"/>cula sibi et seruis
 		<lb/>suis in die festo hoc<add resp="#ocp">.</add>
 		<lb/> Et hic primus fecit
