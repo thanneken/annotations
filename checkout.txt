@@ -11,8 +11,8 @@ Ceriani_1861_024.tei.xml Bodden CHECKED HANNNEKEN
 Ceriani_1861_025.tei.xml MarissaGonzalez CHECKED HANNEKEN
 Ceriani_1861_026.tei.xml Valdez CHECKED HANNEKEN
 Ceriani_1861_027.tei.xml Bryan CHECKED HANNEKEN
-Ceriani_1861_028.tei.xml AniGonzalez
-Ceriani_1861_029.tei.xml Herrera
+Ceriani_1861_028.tei.xml AniGonzalez CHECKED HANNEKEN
+Ceriani_1861_029.tei.xml
 Ceriani_1861_030.tei.xml AlexandraGonzalez
 Ceriani_1861_031.tei.xml started by Mondragon
 Ceriani_1861_032.tei.xml Garza
@@ -27,7 +27,7 @@ Ceriani_1861_040.tei.xml Repka
 Ceriani_1861_041.tei.xml Dominguez
 Ceriani_1861_042.tei.xml Dominguez
 Ceriani_1861_043.tei.xml Dominguez
-Ceriani_1861_044.tei.xml Dominguez HERRERA
+Ceriani_1861_044.tei.xml Dominguez
 Ceriani_1861_045.tei.xml Marissa Gonzalez
 Ceriani_1861_046.tei.xml Valdez
 Ceriani_1861_047.tei.xml Valdez
