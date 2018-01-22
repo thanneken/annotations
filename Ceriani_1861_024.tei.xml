@@ -8,7 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
-			<respStmt><resp>TEI Encoding</resp><name> Marcia Bodden</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Marcia Bodden</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -28,124 +28,116 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-   <pb type="1861" n="24" xml:id="Ceriani_1861_024"/>
-   <cb type="Ceriani"  n="1"/>
-   <milestone type="5c" unit="page" n= "117"/>
-   <milestone type="19c" unit="page" n="105" xml:id="palimpsest_pge_105"/>
-   <milestone unit="column"  n="a"/>
-   <milestone unit= "ch" n="21"/>
-   <p part="F">
-           <milestone unit="vs" n="1"/>
-           timanarum sept
-           <lb type= "inword"/>imi iubelei huius uo
-           <lb type= "inword"/> cabit habraham isac
-           <lb/>filium suum et deman
-           <lb type= "inword"/> dauit illi dicens <add resp="#ocp">:</add> ego
-           <lb/>senui et nescio diem
-           <lb/> mortis meae et repletus sum diebus
-           <lb/>meis<add resp="#ocp">.</add>
-           <milestone unit="vs" n="2"/>
-‎           <lb/>Et ecce ego fi
-           <lb type= "inword"/>lii quinque et sep
-           <lb/>tuaginta et centum
-           <lb type= "inword"/>annorum sum in die
-           <lb type= "inword"/>bus uitae meae deum nos
-           <lb type= "inword"/>trum in memoria
-           <lb/>habens semper et
-           <lb/>exquirens eum in
-           <lb/>omni uirtute mea
-           <lb/>ut facerem omnem
-           <lb/>uolumtatem eius
-           <lb/>et ut dirigerem in
-           <lb/>omnibus uiis eius<add resp="#ocp">.</add>
- ‎          <lb/><add resp="#ocp">21:3</add> Et ideo simulacra
-           <lb/>odiuit anima mea et
-           <lb/>seruientes eis eram
-
-   <milestone unit="column"  n="b"/>
-
-           <lb/>spernens. Et dedi
-           <lb/>cor meum et spiritum
-           <lb type= "inword"/>ut custodiam et fa
-           <lb type= "inword"/>ciam uolumtatem
-           <lb/>eius qui me creauit<add resp="#ocp">.</add>
- ‎          <lb/><add resp="#ocp">21:4</add> Quia deus uiuens est
-           <lb/>et sanctus et fidelis et
-           <lb/>iustus et ex omnibus
-           <lb/>non est apud eum
-           <lb/>accipere personam
-           <lb/>ut accipiat munera
-           <lb/>quoniam deus iustus
-           <lb/>est et iudicium ex
-           <lb type= "inword"/>omnibus qui trans
-           <lb type= "inword"/>grediuntur ser
-           <lb type= "inword"/>mones eius et qui
-           <lb/>contemnunt tes
-           <lb type= "inword"/>timonium eius.
- ‎          <lb/><add resp="#ocp">21:5</add> Et tu filii custodi
-           <lb/>praecepta eius et
-           <lb/>mandata eius et iu
-           <lb type= "inword"/>dicia eius et noli
-           <lb/>abire post abomi
-           <lb type= "inword"/>nationes et post
-
-   <milestone unit="column"  n="a"/>
-
-           <lb/>fusiles<add resp="#ocp">.</add><add resp="#ocp">21:6</add> ‎ Et nolite
-           <lb/>manducare omnem
-           <lb/>sanguinem omnis
-           <lb/>carnis siue de his quae
-           <lb/>in terris sunt siue
-           <lb/>quae uolant in aere<add resp="#ocp">.</add>
- ‎          <lb/><add resp="#ocp">21:7</add> Et si occidas ostiam
-           <lb/>fructuum pacis oc
-           <lb type= "inword"/>ciditis eum sangui
-           <lb type= "inword"/>nem autem eius ef
-           <lb type= "inword"/>fundetis super al
-           <lb type= "inword"/>tarium<add resp="#ocp">.</add> Et omnem
-           <lb/>sanguinem olocaus
-           <lb type= "inword"/>ti super altarium
-           <lb/>cum similagine et
-           <lb/>confectum in oleo
-           <lb/>cum uino ipsius of
-           <lb type= "inword"/>feres omnia ea su
-           <lb type= "inword"/>per altarium fruc
-           <lb type= "inword"/>tuum<add resp="#ocp">:</add> odor suauita
-           <lb type= "inword"/>tis est in conspec
-           <lb type= "inword"/>tu dei<add resp="#ocp">.</add>
-           <lb/><add resp="#ocp">21:8</add> ‎ Et adip*e*m sa
-           <lb type= "inword"/>crificii salutaris
-           <lb/>offeres super ignem
-
-   <milestone unit="column"  n="b"/>
-
-           <lb/>super altare et adi
-           <lb type= "inword"/>pem quae est super
-           <lb/>uentrem et omnem
-           <lb/>adipem quae est su
-           <lb type= "inword"/>per interanea et
-           <lb/>duos renes et omnem
-           <lb/>adipem quae est su
-           <lb type= "inword"/>per illos et quae est
-           <lb/>super femus et ie
-           <lb type= "inword"/>cur quod est super
-           <lb/>pulmonem cum renibus
-           <lb/>separa. <add resp="#ocp">21:9</add> Et sic of
-           <lb type= "inword"/>fers uniuersa in
-           <lb/>odorem suauitatis
-           <lb/>acceptabile in cons
-           <lb type= "inword"/>pectu domini cum sa
-           <lb type= "inword"/>crificiis ipsorum
-           <lb/>et cum uino eius
-           <lb/>in odorem suauita
-           <lb type= "inword"/>tis Panem fruc
-           <lb type= "inword"/>tuum domino<add resp="#ocp">.</add><add resp="#ocp">21:10</add> Et car
-           <lb type= "inword"/>nem manducabitis
-           <lb/>in illa die et in cras
-           <lb type= "inword"/>tino et non occidet - - -.
-
-</p>
-
+	<pb type="1861" n="24" xml:id="Ceriani_1861_024"/>
+	<cb type="Ceriani"  n="1"/>
+	<milestone type="5c" unit="page" n= "117"/>
+	<milestone type="19c" unit="page" n="105" xml:id="palimpsest_pge_105"/>
+	<milestone unit="column"  n="a"/>
+	<milestone unit= "ch" n="21"/>
+	<p part="F">timanarum septi
+		<lb type="inWord"/>mi iubelei huius uo
+		<lb type="inWord"/>cabit habraham isac
+		<lb/>filium suum et deman
+		<lb type="inWord"/>dauit illi dicens<add resp="#ocp">:</add> ego
+		<lb/>senui et nescio diem
+		<lb/> mortis meae et re
+		<lb type="inWord"/>pletus sum diebus
+		<lb/>meis<add resp="#ocp">.</add> <milestone unit="vs" n="2"/>Et ecce ego fi
+		<lb type="inWord"/>lii quinque et sep
+		<lb/>tuaginta et centum
+		<lb type="inWord"/>annorum sum in die
+		<lb type="inWord"/>bus uitae meae deum nos
+		<lb type="inWord"/>trum in memoria
+		<lb/>habens semper et
+		<lb/>exquirens eum in
+		<lb/>omni uirtute mea
+		<lb/>ut facerem omnem
+		<lb/>uolumtatem eius
+		<lb/>et ut dirigerem in
+		<lb/>omnibus uiis eius<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="3"/>Et ideo simulacra
+		<lb/>odiuit anima mea et
+		<lb/>seruientes eis eram
+		<lb/><milestone unit="column" n="b"/>spernens. Et dedi
+		<lb/>cor meum et spiritum
+		<lb type="inWord"/>ut custodiam et fa
+		<lb type="inWord"/>ciam uolumtatem
+		<lb/>eius qui me creauit<add resp="#ocp">.</add>
+	    <lb/><milestone unit="vs" n="4"/>Quia deus uiuens est
+		<lb/>et sanctus et fidelis et
+		<lb/>iustus et ex omnibus
+		<lb/>non est apud eum
+		<lb/>accipere personam
+		<lb/>ut accipiat munera
+		<lb/>quoniam deus iustus
+		<lb/>est et iudicium ex
+		<lb/>omnibus qui trans
+		<lb type="inWord"/>grediuntur ser
+		<lb type="inWord"/>mones eius et qui
+		<lb/>contemnunt tes
+		<lb type="inWord"/>timonium eius.
+	</p>
+	<p><milestone unit="vs" n="5"/>Et tu filii custodi
+		<lb/>praecepta eius et
+		<lb/>mandata eius et iu
+		<lb type="inWord"/>dicia eius et noli
+		<lb/>abire post abomi
+		<lb type="inWord"/>nationes et post
+	</p>
+	<milestone type="5c" unit="page" n="118"/>
+	<milestone type="19c" unit="page" n="106" xml:id="palimpsest_page_106"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">fusiles<add resp="#ocp">.</add> <milestone unit="vs" n="6"/>‎Et nolite
+		<lb/>manducare omnem
+		<lb/>sanguinem omnis
+		<lb/>carnis si<choice><sic>v</sic><corr resp="#ocp">u</corr></choice>e de his quae
+		<lb/>in terris sunt siue
+		<lb/>quae uolant in aere<add resp="#ocp">.</add>
+		<lb/><milestone unit="vs" n="7"/>Et si occidas ostiam
+		<lb/>fructuum pacis oc
+		<lb type="inWord"/>ciditis eum sangui
+		<lb type="inWord"/>nem autem eius ef
+		<lb type="inWord"/>fundetis super al
+		<lb type="inWord"/>tarium<add resp="#ocp">.</add> Et omnem
+		<lb/>sanguinem olocaus
+		<lb type="inWord"/>ti super altarium
+		<lb/>cum similagine et
+		<lb/>confectum in oleo
+		<lb/>cum uino ipsius of
+		<lb type="inWord"/>feres omnia ea su
+		<lb type="inWord"/>per altarium fruc
+		<lb type="inWord"/>tuum<add resp="#ocp">:</add> odor suauita
+		<lb type="inWord"/>tis est in conspec
+		<lb type="inWord"/>tu dei<add resp="#ocp">.</add> <milestone unit="vs" n="8"/>‎Et ad ip<choice><sic>su</sic><corr resp="#ocp">e</corr></choice>m sa
+		<lb type="inWord"/>crificii salutaris
+		<lb/>offeres super ignem
+		<lb/><milestone unit="column" n="b"/>super altare et adi
+		<lb type="inWord"/>pem quae est super
+		<lb/>uentrem et omnem
+		<lb/>adipem quae est su
+		<lb type="inWord"/>per interanea et
+		<lb/>duos renes et omnem
+		<lb/>adipem quae est su
+		<lb type="inWord"/>per illos et quae est
+		<lb/>super femus et ie
+		<lb type="inWord"/>cur quod est super
+		<lb/>pulmonem cum renibus
+		<lb/>separa. <milestone unit="vs" n="9"/>Et sic of
+		<lb type="inWord"/>fers uniuersa in
+		<lb/>odorem suauitatis
+		<lb/>acceptabile in cons
+		<lb type="inWord"/>pectu domini cum sa
+		<lb type="inWord"/>crificiis ipsorum
+		<lb/>et cum uino eius
+		<lb/>in odorem suauita
+		<lb type="inWord"/>tis Panem fruc
+		<lb type="inWord"/>tuum domino<add resp="#ocp">.</add> <milestone unit="vs" n="10"/>Et car
+		<lb type="inWord"/>nem manducabitis
+		<lb/>in illa die et in cras
+		<lb type="inWord"/>tino et non occidet
+	</p>
+	<gap reason="lost" quantity="4" unit="pages"/>
 </body>
 </text>
 </TEI>

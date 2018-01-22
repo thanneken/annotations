@@ -27,126 +27,118 @@
 	</encodingDesc>
 </teiHeader>
 <text xml:lang="la">
-	<body>
-
-<p>
+<body>
 	<pb type="1861" n="25" xml:id="Ceriani_1861_025"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="123"/>
-	<milestone type="19c" unit="page" n="103" xml:id="palimpsest_page_123"/>
+	<milestone type="19c" unit="page" n="103" xml:id="palimpsest_page_103"/>
 	<milestone unit="column" n="a"/>
-
-
-	<!-- p19c=103 p5c=123 -->
-
-<lb/><milestone unit="ch" n="22"/><milestone unit="vs" n="2"/><milestone unit="column" n="a"/>erant multae diuiti
-	<lb/>ae isac in bersabee
-        <lb/>et erat isac abiens
-        <lb/>et considerans ad<lb type="inWord"/>
-        <lb/>huc quae posside<lb type="inWord"/>
-        <lb/>bat et reuersus est
-        <lb/>ad patrem suum<add resp="#ocp">.</add><milestone unit="ch" n="22"/><milestone unit="vs" n="3"/>In
-        <lb/>tempore hoc adue<lb type="inWord"/>
-        <lb/>nit ismael uidere
-        <lb/>patrem suum et con<lb type="inWord"/>
-        <lb/>uenerunt utrique si<lb type="inWord"/>
-        <lb/>mul. Et immolauit isac
-        <lb/>hostiam fruc<lb type="inWord"/>
-        <lb/>tuum et optulit su<lb type="inWord"/>
-        <lb/>per altarium patris
-        <lb/>sui quod fecit in ce<lb type="inWord"/>
-        <lb/>bron<add resp="#ocp">.</add><milestone unit="ch" n="22"/><milestone unit="vs" n="4"/>Et fecit sacri<lb type="inWord"/>
-        <lb/>ficium salutare et
-        <lb/>fecit conuiuium lae<lb type="inWord"/>
-        <lb/>titiae in conspectu
-        <lb/>ismael fratris sui<add resp="#ocp">.</add>
-       <lb/>Et fecit rebecca
-        <lb/>collyridam nouam
-        <lb/>de frumento nouo
-        <lb/>
-        <milestone unit="column" n="b"/>
-        <lb/>et dedit eam iacob
-        <lb/>filio suo ut infer<lb type="inWord"/>
-        <lb/>ret abrahae patri
-        <lb/>suo de primos fruc<lb type="inWord"/>
-        <lb/>tus terrae ut man<lb type="inWord"/>
-        <lb/>ducaret et bene<lb type="inWord"/>
-        <lb/>diceret creatorem
-        <lb/>omnium priusquam
-        <lb/>moreretur<add resp="#ocp">.</add><milestone unit="ch" n="22"/><milestone unit="vs" n="5"/>Et isac
-        <lb/> et transmisit per
-        <lb/>manus iacob optima
-        <lb/>sacrificiorum sa<lb type="inWord"/>
-        <lb/>lutarium ipsius et
-        <lb/>uinum patri suo
-        <lb/>abraham ut mandu<lb type="inWord"/>
-        <lb/>cet et bibat<add resp="#ocp">.</add>
-        <milestone unit="ch" n="22"/><milestone unit="vs" n="6"/>Et manducauit et
-        <lb/>bibit abraham et be<lb type="inWord"/>
-        <lb/>nedixit dominum excel<lb type="inWord"/>
-        <lb/>sum qui ceauit cae<lb type="inWord"/>
-        <lb/>lum et terram qui
-        <lb/>fecit uniuersa pin<lb type="inWord"/>
-        <lb/>guedinis terrae
-        <lb/>et dedit ea filiis ho<lb type="inWord"/>
-                               <lb/>minum
-
-	<!-- p19c=104 p5c=124 -->
-
-        <lb/><milestone unit="ch" n="22"/><milestone unit="vs" n="2"/><milestone unit="column" n="b"/>ut manducent et
-        <lb/>bibant et benedi<lb type="inWord"/>
-        <lb/>cant creatorem
-        <lb/>ipsorum<add resp="#ocp">.</add><milestone unit="ch" n="22"/><milestone unit="vs" n="7"/>Et nunc con<lb type="inWord"/>
-        <lb/>fiteor ego deus meus
-        <lb/>quoniam ostendis<lb type="inWord"/>
-        <lb/>ti mihi diem hunc et
-        <lb/>ecce ego sum filius
-        <lb/>quinque et septua<lb type="inWord"/>
-        <lb/>ginta et centum an<lb type="inWord"/>
-        <lb/>norum senior et ple<lb type="inWord"/>
-        <lb/>nus dierum et om<lb type="inWord"/>
-        <lb/>nes dies mei fuerunt
-        <lb/>mihi pacis<add resp="#ocp">.</add><milestone unit="ch" n="22"/><milestone unit="vs" n="8"/>Et gladius
-        <lb/>inimihi non <add resp="#ocp">do></add>mina<lb type="inWord"/>
-        <lb/>tus est mei in omni<lb type="inWord"/>
-        <lb/>bus diebus quibus dedisti
-        <lb/>mihi <unclear>hos</unclear> in filios ist<lb type="inWord"/>
-        <lb/>os meos omnibus diebus
-        <lb/>uitae meae usque in
-        <lb/>hunc diem<add resp="#ocp">.</add>‎<milestone unit="ch" n="22"/><milestone unit="vs" n="9"/><gap reason="illegible" quantity="5" unit="character"/>nunc
-        <lb/>misericordia tua
-        <lb/>et pax tua super pue<lb type="inWord"/>
-        <lb/>rum istum domine et
-        <lb/>
-        <milestone unit="column" n="b"/>
-        <lb/>super semen eius
-        <lb/>ut sint tibi in popu<lb type="inWord"/>
-        <lb/>lum acceptabilem
-        <lb/>et hereditas ex om<lb type="inWord"/>
-        <lb/>nibus filiis terrae ex
-        <lb/>hoc nunc et usque in
-        <lb/>omnibus diebus gene<lb type="inWord"/>
-        <lb/>rationum terrae
-        <lb/>in uniuersa saecula<add resp="#ocp">.</add>
-       <lb/><milestone unit="ch" n="22"/><milestone unit="vs" n="10"/>Et uocauit abraham
-        <lb/>filium suum et iacob
-        <lb/> et dixit<add resp="#ocp">:</add> nate iacob
-        <lb/>benedicat te deus om<lb type="inWord"/>
-        <lb/>nium et conforta<lb type="inWord"/>
-        <lb/>bit te facere ueri<lb type="inWord"/>
-        <lb/>tatem et uolunta<lb type="inWord"/>
-        <lb/>tem suam in cons<lb type="inWord"/>
-        <lb/>pectu eius et elige<lb type="inWord"/>
-        <lb/>re in te et in semi<lb type="inWord"/>
-        <lb/>ne tuo esse illi
-        <lb/>populum et in uo<lb type="inWord"/>
-        <lb/>lumtatem eius <unclear>in</unclear>
-        <lb/>omnibus diebus<add resp="#ocp">.</add> Et <unclear>tu</unclear>
-        <lb/>nate iacob adproxi-
-
-
-</p>
-
+	<milestone unit="ch" n="22"/>
+	<p part="F">erant multae diuiti
+		<lb type="inWord"/>ae isac in bersabe<unclear>e</unclear>
+		<lb/>et erat isac abiens
+		<lb/>et considerans ad
+		<lb type="inWord"/>huc quae posside
+		<lb type="inWord"/>bat et reuersus est
+		<lb/>ad patrem suum<add resp="#ocp">.</add> <milestone unit="vs" n="3"/>In
+		<lb/>tempore hoc adue
+		<lb type="inWord"/>nit ismael uidere
+		<lb/>patrem suum et con
+		<lb type="inWord"/>uenerunt utrique si
+		<lb type="inWord"/>mul. Et immolauit
+		<lb/>isac hostiam fruc
+		<lb type="inWord"/>tuum et optulit su
+		<lb type="inWord"/>per altarium patris
+		<lb/>sui quod fecit in ce
+		<lb type="inWord"/>bron<add resp="#ocp">.</add> <milestone unit="vs" n="4"/>Et fecit sacri
+		<lb type="inWord"/>ficium salutare et
+		<lb/>fecit conuiuium lae
+		<lb type="inWord"/>titiae in conspectu
+		<lb/>ismael fratris sui<add resp="#ocp">.</add>
+	</p>
+	<p>Et fecit rebecca
+		<lb/>collyridam nouam
+		<lb/>de frumento nouo
+		<lb/><milestone unit="column" n="b"/>et dedit eam iacob
+		<lb/>filio suo ut infer
+		<lb type="inWord"/>ret abrahae patri
+		<lb/>suo de primos fruc
+		<lb type="inWord"/>tus terrae ut man
+		<lb type="inWord"/>ducaret et bene
+		<lb type="inWord"/>diceret creatorem
+		<lb/>omnium priusquam
+		<lb/>moreretur<add resp="#ocp">.</add> <milestone unit="vs" n="5"/>Et isac
+		<lb/> et transmisit per
+		<lb/>manus iacob optima
+		<lb/>sacrificiorum sa
+		<lb type="inWord"/>lutarium ipsius et
+		<lb/>uinum patri suo
+		<lb/>abraham ut mandu
+		<lb type="inWord"/>cet et bibat<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="6"/>Et manducauit et
+		<lb/>bibit abraham et be
+		<lb type="inWord"/>nedixit dominum excel
+		<lb type="inWord"/>sum qui creauit cae
+		<lb type="inWord"/>lum et terram qui
+		<lb/>fecit uniuersa pin
+		<lb type="inWord"/>guedinis terrae
+		<lb/>et dedit ea filiis ho
+		<lb type="inWord"/>minum
+	</p>
+	<milestone type="5c" unit="page" n="124"/>
+	<milestone type="19c" unit="page" n="104" xml:id="palimpsest_page_104"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">ut manducent et
+		<lb/>bibant et benedi
+		<lb type="inWord"/>cant creatorem
+		<lb/>ipsorum<add resp="#ocp">.</add> <milestone unit="vs" n="7"/>Et nunc con
+		<lb type="inWord"/>fiteor ego deus meus
+		<lb/>quoniam ostendis
+		<lb type="inWord"/>ti mihi diem hunc et
+		<lb/>ecce ego sum filius
+		<lb/>quinque et septua
+		<lb type="inWord"/>ginta et centum an
+		<lb type="inWord"/>norum senior et ple
+		<lb type="inWord"/>nus dierum et om
+		<lb type="inWord"/>nes dies mei fuerunt
+		<lb/>mihi pacis<add resp="#ocp">.</add> <milestone unit="vs" n="8"/>Et gladius
+		<lb/>inimihi non <add resp="#ocp">do</add>mina
+		<lb type="inWord"/>tus est mei in omni
+		<lb type="inWord"/>bus diebus quibus dedisti
+		<lb/>mihi <unclear>hos</unclear> in filios ist
+		<lb type="inWord"/>os meos omnibus diebus
+		<lb/>uitae meae usque in
+		<lb/>hunc diem<add resp="#ocp">.</add>‎ <milestone unit="vs" n="9"/><choice><sic><gap reason="illegible" quantity="5" unit="character"/></sic><corr resp="#ocp">Sit</corr></choice> nunc
+		<lb/>misericordia tua
+		<lb/>et pax tua super pue
+		<lb type="inWord"/>rum istum domine et
+		<lb/><milestone unit="column" n="b"/>super semen eius
+		<lb/>ut sint tibi in popu
+		<lb type="inWord"/>lum acceptabilem
+		<lb/>et hereditas ex om
+		<lb type="inWord"/>nibus filiis terrae ex
+		<lb/>hoc nunc et usque in
+		<lb/>omnibus diebus gene
+		<lb type="inWord"/>rationum terrae
+		<lb/>in uniuersa saecula<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="10"/>Et uocauit abraham
+		<lb/>filium suum et iacob
+		<lb/> et dixit<add resp="#ocp">:</add> nate iacob
+		<lb/>benedicat te deus om
+		<lb type="inWord"/>nium et conforta
+		<lb type="inWord"/>bit te facere ueri
+		<lb type="inWord"/>tatem et uolunta
+		<lb type="inWord"/>tem suam in cons
+		<lb type="inWord"/>pectu eius et elige
+		<lb type="inWord"/>re in te et in semi
+		<lb type="inWord"/>ne tuo esse illi
+		<lb/>populum et in uo
+		<lb type="inWord"/>lumtatem eius <unclear>in</unclear>
+		<lb/>omnibus diebus<add resp="#ocp">.</add> Et <unclear>tu</unclear>
+		<lb/>nate iacob adproxi-
+	</p>
 </body>
 </text>
 </TEI>
