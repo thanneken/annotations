@@ -41,15 +41,15 @@
 		et propter maliti<lb type="inWord"/>
 		as magnas quas ipsi<lb/>
 		faciunt propter<lb/>
-		quod derelinquunt<lb/>
+		quod derelinq<unclear>uunt</unclear><lb/>
 		testamentum quod<lb/>
-		testatus est deus in<lb type="inWord"/>
-		ter manum sui et<lb/>
+		testatus est deus <unclear>in</unclear><lb type="inWord"/>
+		ter <unclear>man</unclear>um sui <unclear>et</unclear><lb/>
 		ipsorum custodire<lb/>
 		et facere uniuer<lb type="inWord"/>
 		sa mandata eius et<lb/>
 		praecepta eius et<lb/>
-		omnia legitima eius<lb/>
+		omnia legitima ei<unclear>us</unclear><lb/>
 		et non est qui prae<lb type="inWord"/>
 		tereat ex dextra<lb/>
 		siue sinistra.
@@ -59,24 +59,25 @@
 		omne os loquitur<lb/>
 		maligna et omnes<lb/>
 		operationes eorum<lb/>
-		inmunditia et odi<lb type="inWord"/>
+		<milestone unit="column" n="b"/>inmunditia et odi<lb type="inWord"/>
 		um et uniuersae<lb/>
 		uiae eorum pollu<lb type="inWord"/>
-		tion et abomina<lb type="inWord"/>
+		tion <gap reason="illegible" quantity="2" unit="character"/> et abomina<lb type="inWord"/>
 		tio et exterminium<lb/>
 		<milestone unit="vs" n="18"/>Et ecce terra erit<lb/>
-		propter omnia ope<lb/>
+		propter omnia ope<lb type="inWord"/>
 		ra ipsorum et non<lb/>
 		est semen et uinum<lb/>
 		et oleum propter<lb/>
 		quod uniuersa <unclear>m</unclear><gap reason="illegible" quantity="3" unit="character"/><lb/>
-		ata sunt opera ip<lb type="inWord"/>
-		sorum et uniuersi <gap reason="illegible" quantity="3" unit="character"/>reunt bestiae<lb/>
+		<unclear>tata</unclear> sunt opera ip<lb type="inWord"/>
+		sorum et uniuersi<lb/>
+		<gap reason="illegible" quantity="4" unit="character"/>reunt bestiae<lb/>
 		et animalia et aues<lb/>
 		et omnes pisces<lb/>
 		maris a malitia fi<lb type="inWord"/>
-		liorum hominum. <milestone unit="vs" n="19"/><lb/>
-		Et litigabunt isti<lb/>
+		liorum hominum.<lb/>
+		<milestone unit="vs" n="19"/>Et litigabunt isti<lb/>
 		cum illis. Nam iu<lb type="inWord"/>
 		benes cum senio<lb type="inWord"/>
 		ribus et seniores<lb/>
@@ -88,8 +89,7 @@
 	<milestone type="5c" unit="page" n="134" />
 	<milestone type="19c" unit="page" n="123" xml:id="palimpsest_page_123" />
 	<milestone unit="column" n="a" />
-	<p part="F">
-		cum magno et ege<lb type="inWord"/>
+	<p part="F">cum magno et ege<lb type="inWord"/>
 		nus cum eo qui potes<lb type="inWord"/>
 		tatem exercet in<lb/>
 		lege pro testamen<lb type="inWord"/>
@@ -99,32 +99,33 @@
 		et diem festum et<lb/>
 		mensem et sabba<lb type="inWord"/>
 		tum et iubeleum<lb/>
-		et omnia iudicia. <milestone unit="vs" n="20"/>Et<lb/>
-		stabunt in arcu et<lb/>
-		in gladiis et in bello<lb/>
+		et omnia iudicia. <milestone unit="vs" n="20"/><unclear>Et</unclear><lb/>
+		stabunt in arc<unclear>u et</unclear><lb/>
+		in gladiis et in <unclear>b</unclear>ell<unclear>o</unclear><lb/>
 		ut conuertant eos<lb/>
 		in uiam et non con<lb type="inWord"/>
 		uertentur usquequo<lb/>
 		effundatur sanguis<lb/>
 		multus in terra is<lb type="inWord"/>
-		ti in illis.‎<milestone unit="vs" n="21"/>Et qui ser<lb type="inWord"/>
-		uati sunt in uia ue<lb type="inWord"/>
-		ritatis non abibunt<lb/>
+		ti in illis. ‎<milestone unit="vs" n="21"/>Et qui s<unclear>er</unclear><lb type="inWord"/>
+		uati sunt in ui<unclear>a</unclear> ue<lb type="inWord"/>
+		ritatis non abibu<unclear>nt</unclear><lb/>
 		a malitia sua non<lb/>
 		conuertentur. Quo<lb type="inWord"/>
 		niam uniuersi ad<lb/>
-		fraudem et ad diui<lb type="inWord"/>
+		<milestone unit="column" n="b"/>fraudem et ad diui<lb type="inWord"/>
 		tias se extollent<lb/>
 		ut accipiant singu<lb type="inWord"/>
 		li uniuersa quae sunt<lb/>
 		proximi sui et nomen<lb/>
 		magnum nomina<lb type="inWord"/>
 		bunt non in uerita<lb type="inWord"/>
-		te et non in iustitia.<lb/>
-		Et sanctificationem<lb/>
+		te et non in iustitia.
+	</p>
+	<p>Et sanctificationem<lb/>
 		sanctam polluent<lb/>
 		in abominationibus<lb/>
-		<choice><sic>ueritatis</sic><corr resp="#ocp">prauitatis</corr></choice> et inmun<lb type="inWord"/>
+		<choice><sic>uer</sic><corr resp="#ocp">prau</corr></choice>itatis et inmun<lb type="inWord"/>
 		ditiis. <milestone unit="vs" n="22"/>Et erit ira mag<lb type="inWord"/>
 		na super opera ge<lb type="inWord"/>
 		nerationis illius<lb/>
