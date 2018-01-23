@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -106,7 +107,7 @@
 				cantur a terra.
 			</p>
 			<p><milestone unit="vs" n="23"/>Et in die qua percus<lb type="inWord"/>
-				serunt filii iacob sy<lb/>
+				serunt filii iacob sy<lb type="inWord"/>
 				cimam ascendit illis<lb/>
 				scriptura in caelis<lb/>
 				facientes ueritatem<lb/>
@@ -136,15 +137,15 @@
 				tus est timor domini<lb/>
 				super omnes ciuita<lb type="inWord"/>
 				tes quae erant in<lb/>
-				circuitu sycimorum et non persecuti<lb/>
+				circuitu sycimorum<lb/>
+				et non persecuti<lb/>
 				sunt post iacob ut<lb/>
 				nocerent eum quo<lb type="inWord"/>
 				niam timor cecidit<lb/>
 				super ipsos<add resp="#ocp">.</add>
 			</p>
-			<milestone unit="ch" n="31"/>
 			<p>
-				<milestone unit="vs" n="1"/>Et in prima die mensis
+				<milestone unit="ch" n="31"/><milestone unit="vs" n="1"/>Et in prima die mensis
 			</p>
 		</body>
 	</text>

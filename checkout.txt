@@ -20,7 +20,7 @@ Ceriani_1861_033.tei.xml Bodden CHECKED HANNEKEN
 Ceriani_1861_034.tei.xml Dominguez CHECKED HANNEKEN
 Ceriani_1861_035.tei.xml Bodden CHECKED HANNEKEN
 Ceriani_1861_036.tei.xml Garza CHECKED HANNEKEN
-Ceriani_1861_037.tei.xml Dominguez
+Ceriani_1861_037.tei.xml Dominguez CHECKED HANNEKEN
 Ceriani_1861_038.tei.xml Valdez
 Ceriani_1861_039.tei.xml Dominguez
 Ceriani_1861_040.tei.xml Repka
