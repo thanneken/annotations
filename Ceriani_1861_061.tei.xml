@@ -29,16 +29,25 @@
 
 <ab>
 <pb type="1861" n="61" xml:id="Ceriani_1861_061"/>
+     <cb type="Ceriani" n="1"/>
+     <milestone type="5c" unit="page" n="269"/>
+     <milestone type="19c" unit="page" n="100" xml:id="palimpsest_page_100"/>
+     <milestone unit="column" n="a"/>
+     <milestone unit="ch" n="10"/>
 
 	<!-- p19c=100 p5c=269 -->
+	<!-- Periods that were in Ceriani and not in the XML added them under the unclear tag -->
 <p>
 	-orum eram
-	10:15 ‎ itaque 
+<!-- 10:15 -->
+<milestone type="vs" n="15"/>itaque 
 	<lb/>tu iesu naue forma te 
 	<lb/>elegit deus esse mihi 
 	<lb/>successorem eiusdem 
-	<lb/>testamenti
-<!-- 11:1 --><milestone type="vs" n="1"/>‎ 
+	<lb/>testamenti<unclear>.</unclear>
+<!-- 11:1 -->
+<milestone unit="ch" n="11"/>
+<milestone type="vs" n="1"/>‎ 
 	et cum 
 	<lb/>audisset iesus uerba 
 	<lb/>moysi tam scripta 
@@ -56,11 +65,11 @@
 <p>
 <!-- 11:3 --><milestone type="vs" n="3"/> ‎ 
 	Et respondit illi et
-	<lb/> dixit iesus
+	<lb/> dixit iesus<unclear>.</unclear>
 <!-- 11:4 --><milestone type="vs" n="4"/>
  	quid me ce
 	<lb type="inWord"/>lares domine monse 
-	<lb/>et quo genere cela
+	<lb/>et quo <unclear>g</unclear>enere cela
 	<lb type="inWord"/>bor de qua locutus 
 	<lb/>est uoce acerua que 
 	<lb/>exiuit de ore tuo 
@@ -70,7 +79,7 @@
 	
 	<lb/>plebe ist ......
 <!-- 11:5 --><milestone type="vs" n="5"/> ‎ 
-	<lb/>quis locus recipit .... 
+	<lb/>quis locus recip<unclear>it</unclear> .... 
 	<lb/>te
 <!-- 11:6 --><milestone type="vs" n="6"/> ‎ 
 	aut quod erit mo
@@ -78,8 +87,8 @@
 	<lb type="inWord"/>turae
 <!-- 11:7 --><milestone type="vs" n="7"/> ‎ 
 	aut quis aude
-	<lb type="inWord"/>uit corpus tuum trans
-	<lb type="inWord"/>ferre in eut homo 
+	<lb type="inWord"/>uit corpus tuum tra<unclear>ns</unclear>
+	<lb type="inWord"/>ferre in <unclear>e</unclear>ut homo 
 	<lb type="inWord"/>de loco in locum
 </p>
 
@@ -91,31 +100,37 @@
 	<lb type="inWord"/>ae sunt in terris 
 	<lb/>nam tua sepultura 
 	<lb/>ab oriente sole usque 
-	<lb/>ad occidentem et 
+	<lb/>ad occidentem<unclear>.</unclear> et 
 	<lb/>ab austro usque ad fi
 	<lb type="inWord"/>nes aquilonis omnis 
 	<lb/>orbis terrarum se
 	<lb type="inWord"/>pulcrum est tuum
 <!-- 11:9 --><milestone type="vs" n="9"/> ‎ 
-	<lb/>domine abhis 
+	<lb/>domine ab his 
 </p>
 
 <p>
 	Et quis nutrit plebem 
-	<lb/>istam 10 ‎ aut quis est 
+	<lb/>istam‎ aut quis est 
 	<lb/>qui miserebitur il
 	<lb type="inWord"/>lis et quis eis dux erit
 	
+	<pb type="1861" n="61" xml:id="Ceriani_1861_061"/>
+     <cb type="Ceriani" n="1"/>
+     <milestone type="5c" unit="page" n="270"/>
+     <milestone type="19c" unit="page" n="99" xml:id="palimpsest_page_099"/>
+     <milestone unit="column" n="b"/>
+     <milestone unit="ch" n="11"/>
 	<!-- p19c=99 p5c=270 -->
 
-	<lb/>in uia
+	<lb/>in uia <unclear>.</unclear>
 <!-- 11:11 --><milestone type="vs" n="11"/> ‎ 
-	aut quis ora
-	<lb type="inWord"/>bit pro eis nec pati
-	<lb type="inWord"/>ens ne uno quidem 
+	aut quis ora<unclear>.</unclear>
+	<lb type="inWord"/>bit pro eis<unclear>.</unclear> nec pati
+	<lb type="inWord"/><unclear>ens</unclear> ne uno quidem 
 	<lb/>diem ut inducam il
 	<lb type="inWord"/>los in terram ara
-	<lb type="inWord"/>borum
+	<lb type="inWord"/>borum<unclear>.</unclear>
 <!-- 11:12 --><milestone type="vs" n="12"/> ‎ 
 	quomodo 
 	<lb/>ergo potero plebem 
@@ -129,7 +144,7 @@
 	<lb/>a sole et ne scalcia
 	<lb type="inWord"/>ti pedes eius ad cur
 	<lb type="inWord"/>rendum supra ter
-	<lb type="inWord"/>ram
+	<lb type="inWord"/>ram 
 <!-- 11:13 --><milestone type="vs" n="13"/> ‎ 
 	..... de uo
 	<lb type="inWord"/>luntatem eorum 
@@ -140,7 +155,7 @@
 <!-- 11:14 --><milestone type="vs" n="14"/> ‎ 
 	<lb/>..... enim illorum
 
-	<lb/>erant c milia nam 
+	<lb/>erant <unclear>.c.</unclear> milia<unclear>.</unclear> nam 
 	<lb/>isti in tantum qui 
 	<lb/>creuerunt in tuis 
 	<lb/>orationibus domine mon
