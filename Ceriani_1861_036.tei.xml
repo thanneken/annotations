@@ -69,8 +69,8 @@
 	<!--30:11--><milestone unit="vs" n="11"/> 
 	<lb/> ‎ Et tu monses man
 	<lb type="inWord"/>da filiis istrahel et
-	<milestone unit="column" n="b"/>
 	<lb/>testificare super eos 
+	<milestone unit="column" n="b"/>
 	<lb/>ut non dent ex filiabus 
 	<lb/>suis gentibus et ut non 
 	<lb/>accipiant filiis suis 
@@ -100,10 +100,10 @@
 	<lb type="inWord"/>tio est et inmunditia
 	<!-- p19c=82 p5c=170 -->
 	<!--Do not know if this is right-->
-     <milestone type="5c" unit="page" n="170"/>
-     <milestone type="19c" unit="page" n="82" xml:id="palimpsest_page_082"/>
-     <milestone unit="column" n="a"/>
-     <milestone unit="ch" n="30"/>
+<lb/><milestone type="5c" unit="page" n="170"/>
+<milestone type="19c" unit="page" n="82" xml:id="palimpsest_page_082"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="30"/>
      
 	<lb/>in omni istrahel<add resp="#ocp">.</add>
 	<!--30:14--><milestone unit="vs" n="14"/> ‎ 
