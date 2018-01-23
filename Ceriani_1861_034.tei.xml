@@ -9,7 +9,6 @@
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
 			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
-
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -29,161 +28,117 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="34" xml:id="Ceriani_1861_034"/>
+	<pb type="1861" n="34" xml:id="Ceriani_1861_034"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="165"/>
 	<milestone type="19c" unit="page" n="89" xml:id="palimpsest_page_089"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="29"/>
-	<p part="F">
-		<milestone unit="vs" n="8"/>quod uocatum est
-		<lb/>nomen loci illius con
-		<lb type="inWord"/>geries testis secun
-		<lb type="inWord"/>dum collem istum<add resp="#ocp">.</add>
-		<milestone unit="vs" n="9"/> ‎ Antea enim uocaba
-		<lb type="inWord"/>tur terra galaad ter
-		<lb type="inWord"/>rafain quoniam ter
-		<lb type="inWord"/>ra rafain est<add resp="#ocp">.</add>
-		</p>
-		<p>Et illic nati sunt ra
-		<lb type="inWord"/>fain id est gigantes
-		<lb/>decem cubitorum
-		<lb/>et noue <unclear>m</unclear> et octo cu
-		<lb type="inWord"/>bitis etiam et septem
-		<lb/>cubitorum erat al
-		<lb type="inWord"/>titudo ipsorum<add resp="#ocp">.</add> <milestone unit="vs" n="10"/> ‎ Et
-		<lb/>erat habitatio ipso
-		<lb type="inWord"/>rum a terra filiorum
-		<lb/>ammon usque in mon
-		<lb type="inWord"/>te <unclear>m</unclear> heremoth <!-- appears to be a period in Ceriani's version --> et do
-		<lb type="inWord"/>mus regni ipsorum
-		<lb/>carnain et <unclear>mas</unclear>tar<unclear>oth</unclear>
-		<lb/>et draa et <gap reason="illegible" quantity="2" unit="character"/> msum <gap reason="illegible" quantity="4" unit="character"/>
-		<lb/><unclear>et seo</unclear><add resp="#ocp">.</add> <milestone unit="vs" n="11"/> ‎ Et perdidit il
-		<lb type="inWord"/>los dominus de malitia
-		<lb/>
-		<milestone unit="column" n="b"/>studiorum quoniam
-		<lb/>maligni erant ual
-		<lb type="inWord"/>de et habitare fecit
-		<lb/>pro illis amorreos
-		<lb/>malignos et pecca
-		<lb type="inWord"/>tores si<unclear>cut</unclear> non est
-		<lb/> gens odi(<unclear>o</unclear>) quia con
-		<lb type="inWord"/>pleuerunt omnia
-		<lb/>peccata sua et non
-		<lb/>est illis amplius lon
-		<lb type="inWord"/>gitudo uitae super
-		<lb/>terram. <milestone unit="vs" n="12"/> ‎ Et emisit
-		<lb/>iacob laban et abiit
-		<lb/>in mesopotamiam
-		<lb/>in terram orientis
-		<lb/>et iacob conuertit
-		<lb/>se a terram galaad<add resp="#ocp">.</add>
+	<p part="F">quod uocatum est<lb/>
+		nomen loci illius con<lb type="inWord"/>
+		geries testis secun<lb type="inWord"/>
+		dum collem istum<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="9"/>Antea enim uocaba<lb type="inWord"/>
+		tur terra galaad ter<lb type="inWord"/>
+		rafain quoniam ter<lb type="inWord"/>
+		ra rafain est<add resp="#ocp">.</add>
 	</p>
-	<p>
-	 <milestone unit="vs" n="13"/> ‎ Et in mense nono
-		<lb/>transiuit iacob un
-		<lb type="inWord"/>decim filii ipsius et
-		<lb/>in die aduenit ad illum
-		<lb/>esau frater(<unclear>s</unclear>) suus
-		<lb/>et propitiatus <unclear>e</unclear>t
-		<lb/>abiit ab ipso in terram
-		</p>
-	<milestone type="5c" unit="page" n="165"/>
-	<milestone type="19c" unit="page" n="89" xml:id="palimpsest_page_089"/>
+	<p>Et illic nati sunt ra<lb type="inWord"/>
+		fain id est gigantes<lb/>
+		decem cubitorum<lb/>
+		et noue<unclear>m</unclear> et octo cu<lb type="inWord"/>
+		bitis etiam et septem<lb/>
+		cubitorum erat al<lb type="inWord"/>
+		titudo ipsorum<add resp="#ocp">.</add> <milestone unit="vs" n="10"/>Et<lb/>
+		erat habitatio ipso<lb type="inWord"/>
+		rum a terra filiorum<lb/>
+		ammon usque in mon<lb type="inWord"/>
+		te<unclear>m</unclear> heremoth. et do<lb type="inWord"/>
+		mus regni ipsorum<lb/>
+		carnain et <unclear>m</unclear>astar<unclear>oth</unclear><lb/>
+		et draa et <gap reason="illegible" quantity="2" unit="character"/> msum <gap reason="illegible" quantity="4" unit="character"/><lb/>
+		<unclear>et se</unclear>o<add resp="#ocp">.</add> <milestone unit="vs" n="11"/>Et perdidit il<lb type="inWord"/>
+		los dominus de malitia<lb/>
+		<milestone unit="column" n="b"/>studiorum quoniam<lb/>
+		maligni erant ual<lb type="inWord"/>
+		de et habitare fecit<lb/>
+		pro illis amorreos<lb/>
+		malignos et pecca<lb type="inWord"/>
+		tores <unclear>sicut</unclear> non est<lb/>
+		gens odi<surplus resp="#ocp"><unclear>o</unclear></surplus> quia con<lb type="inWord"/>
+		pleuerunt omnia<lb/>
+		peccata sua et non<lb/>
+		est illis amplius lon<lb type="inWord"/>
+		gitudo uitae super<lb/>
+		terram. <milestone unit="vs" n="12"/>Et emisit<lb/>
+		iacob laban et abiit<lb/>
+		in mesopotamiam<lb/>
+		in terram orientis<lb/>
+		et iacob conuertit<lb/>
+		se a terram galaad<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="13"/>Et in mense nono<lb/>
+		transiuit iacob un<lb type="inWord"/>
+		decim filii ipsius et<lb/>
+		in die aduenit ad illum<lb/>
+		esau frater<surplus resp="#ocp">s</surplus> suus<lb/>
+		et propitiatus <unclear>e</unclear>t<lb/>
+		abiit ab ipso in terram
+	</p>
 	<cb type="Ceriani" n="2"/>
+	<milestone type="5c" unit="page" n="166"/>
+	<milestone type="19c" unit="page" n="90" xml:id="palimpsest_page_090"/>
 	<milestone unit="column" n="a"/>
-	<p>seir et iacob inhabi
-	<lb type="inWord"/>tauit in taberna(cu)
-	<lb type="inWord"/>culis<add resp="#ocp">.</add> <milestone unit="vs" n="14"/> ‎ Et in anno primo
-	<lb/>iubelei huius septima
-	<lb type="inWord"/>narum quinti tran
-	<lb type="inWord"/>sibit iordanem et in
-	<lb type="inWord"/>habitauit trans ior
-	<lb type="inWord"/>danem <!-- Ceriani's version: 'danen' --> . Et erat pas
-	<lb type="inWord"/>cens oues suas a ma
-	<lb type="inWord"/>re salso usque a<unclear>gg</unclear>ruum
-	<lb/>acrabin. <milestone unit="vs" n="15"/> ‎ Et tradi
-	<lb type="inWord"/>dit patri suo isac ex
-	<lb/>omnibus substantiis
-	<lb/>suis uestes et escas
-	<lb/>et carnes et potum
-	<lb/>lac boty(te)rum et
-	<lb/>caseum et dactilos
-	<lb/>de conuallae<add resp="#ocp">.</add> <milestone unit="vs" n="16"/> ‎ Et ma
-	<lb type="inWord"/>tris suae rebeccae
-	<lb/>per singulos annos
-	<lb/>quater in medio tem
-	<lb type="inWord"/>porum mensuum et
-	<lb/>in medio area usque ad
-	<lb/>messem autumnum
-	<lb/>
-		<milestone unit="column" n="b"/> et in medio autumni
-		<lb/>pluuias et in medio
-		<lb/>pluuiarum <choice><sic>eius</sic><corr resp="#ocp">ueris</corr></choice> barin
-		<lb/>huius abrahae<add resp="#ocp">.</add> <milestone unit="vs" n="17"/> ‎ Quo
-		<lb type="inWord"/>niam reuersus est
-		<lb/>isac a puteo iuratio
-		<lb type="inWord"/>nis et ascendit in
-		<lb/>barin patris sui abra
-		<lb type="inWord"/>ham et inhabitauit
-		<lb/>ibi in terra sua et filii
-		<lb/>sui<add resp="#ocp">.</add> <milestone unit="vs" n="18"/> ‎ Propter quod in
-		<lb/>tempore quo abiit
-		<lb/>iacob in mesopota
-		<lb type="inWord"/>miam accepit sibi
-		<lb/>esau mulierem mael
-		<lb type="inWord"/>let filiam ismael et
-		<lb/>uxor eius uniuersos
-		<lb/>greges patris sui et
-		<lb/>ascendens inhabi
-		<lb type="inWord"/>tauit in monte seir
-		<lb/>et dereliquid isac
-		<lb/>patrem suum ad pu
-		<lb type="inWord"/>teum iurationis<add resp="#ocp">.</add>
-		</p>
-		<p> <milestone unit="vs" n="19"/> ‎ Ascendit ergo isac
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- p19c=89 p5c=165 -->
-
-<milestone unit="vs" n="8"/> ‎ - - - quod uocatum est nomen loci illius congeries testis secundum collem istum.
-<milestone unit="vs" n="9"/> ‎ Antea enim uocabatur terra galaad terrafain quoniam terra rafain est. Et illic nati sunt rafain id est gigantes decem cubitorum et nouem et octo cubitis etiam et septem cubitorum erat altitudo ipsorum.
-<milestone unit="vs" n="10"/> ‎ Et erat habitatio ipsorum a terra filiorum ammon usque in montem heremoth et domus regni ipsorum carnain et mastaroth et draa et msum - - - et seo.
-<milestone unit="vs" n="11"/> ‎ Et perdidit illos dominus de malitia
-
-studiorum quoniam maligni erant ualde et habitare fecit pro illis amorreos malignos et peccatores sicut non est gens odi(o) quia conpleuerunt omnia peccata sua et non est illis amplius longitudo uitae super terram.
-<milestone unit="vs" n="12"/> ‎ Et emisit iacob laban et abiit in mesopotamiam in terram orientis et iacob conuertit se a terram galaad.
-<milestone unit="vs" n="13"/> ‎ Et in mense nono transiuit iacob undecim filii ipsius et in die aduenit ad illum esau frater(s) suus et propitiatus et abiit ab ipso in terram
-
-	<!-- p19c=90 p5c=166 -->
-
-seir et iacob inhabitauit in taberna(cu)culis.
-<milestone unit="vs" n="14"/> ‎ Et in anno primo iubelei huius septimanarum quinti transibit iordanem et inhabitauit trans iordanem. Et erat pascens oues suas a mare salso usque aggruum acrabin.
-<milestone unit="vs" n="15"/> ‎ Et tradidit patri suo isac ex omnibus substantiis suis uestes et escas et carnes et potum lac boty(te)rum et caseum et dactilos de conuallae.
-<milestone unit="vs" n="16"/> ‎ Et matris suae rebeccae per singulos annos quater in medio temporum mensuum et in medio area usque ad messem autumnum
-
-et in medio autumni pluuias et in medio pluuiarum *ueris* barin huius abrahae.
-<milestone unit="vs" n="17"/> ‎ Quoniam reuersus est isac a puteo iurationis et ascendit in barin patris sui abraham et inhabitauit ibi in terra sua et filii sui.
-<milestone unit="vs" n="18"/> ‎ Propter quod in tempore quo abiit iacob in mesopotamiam accepit sibi esau mulierem maellet filiam ismael et uxor eius uniuersos greges patris sui et ascendens inhabitauit in monte seir et dereliquid isac patrem suum ad puteum iurationis.
-<milestone unit="vs" n="19"/> ‎ Ascendit ergo isac
-
-</p>
-
+	<p part="F">seir et iacob inhabi<lb type="inWord"/>
+		tauit in taberna<surplus resp="#ocp">cu</surplus><lb type="inWord"/>
+		culis<add resp="#ocp">.</add> <milestone unit="vs" n="14"/>Et in anno primo<lb/>
+		iubelei huius septima<lb type="inWord"/>
+		narum quinti tran<lb type="inWord"/>
+		sibit iordanem et in<lb type="inWord"/>
+		habitauit trans ior<lb type="inWord"/>
+		dane<choice><sic>n</sic><corr resp="#ocp">m</corr></choice>. Et erat pas<lb type="inWord"/>
+		cens oues suas a ma<lb type="inWord"/>
+		re salso usque a<unclear>gg</unclear>ruum<lb/>
+		acrabin. <milestone unit="vs" n="15"/>Et tradi<lb type="inWord"/>
+		dit patri suo isac ex<lb/>
+		omnibus substantiis<lb/>
+		suis uestes et escas<lb/>
+		et carnes et potum<lb/>
+		lac boty<surplus resp="#ocp">te</surplus>rum et<lb/>
+		caseum et dactilos<lb/>
+		de conuallae<add resp="#ocp">.</add> <milestone unit="vs" n="16"/>Et ma<lb type="inWord"/>
+		tris suae rebeccae<lb/>
+		per singulos annos<lb/>
+		quater in medio tem<lb type="inWord"/>
+		porum mensuum et<lb/>
+		in medio area usque ad<lb/>
+		messem autumnum<lb/>
+		<milestone unit="column" n="b"/> et in medio autumni<lb/>
+		pluuias et in medio<lb/>
+		pluuiarum <choice><sic>ei</sic><corr resp="#ocp">uer</corr></choice>is barin<lb/>
+		huius abrahae<add resp="#ocp">.</add> <milestone unit="vs" n="17"/>Quo<lb type="inWord"/>
+		niam reuersus est<lb/>
+		isac a puteo iuratio<lb type="inWord"/>
+		nis et ascendit in<lb/>
+		barin patris sui abra<lb type="inWord"/>
+		ham et inhabitauit<lb/>
+		ibi in terra sua et filii<lb/>
+		sui<add resp="#ocp">.</add> <milestone unit="vs" n="18"/>Propter quod in<lb/>
+		tempore quo abiit<lb/>
+		iacob in mesopota<lb type="inWord"/>
+		miam accepit sibi<lb/>
+		esau mulierem mael<lb type="inWord"/>
+		let filiam ismael et<lb/>
+		uxor eius uniuersos<lb/>
+		greges patris sui et<lb/>
+		ascendens inhabi<lb type="inWord"/>
+		tauit in monte seir<lb/>
+		et dereliquid isac<lb/>
+		patrem suum ad pu<lb type="inWord"/>
+		teum iurationis<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="19"/>Ascendit ergo isac
+	</p>
 </body>
 </text>
 </TEI>

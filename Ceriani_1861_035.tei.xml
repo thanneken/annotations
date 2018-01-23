@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Bodden</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,128 +28,117 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="95" xml:id="Ceriani_1861_095"/>
-   <cb type="Ceriani"  n="1"/>
-   <milestone type="5c" unit="page" n= "167"/>
-   <milestone type="19c" unit="page" n="95" xml:id="palimpsest_pge_95"/>
-   <milestone unit="column"  n="a"/> 
-   <milestone unit= "ch" n="29"/>	
-   <p part="F">
-
-           <lb/>de puteo iurationis 
-           <lb/>in barin abraham pa 
-           <lb type= "inword"/>tris sui in monte ce 
-           <lb type= "inword"/>bron<add resp="#ocp">.</add> <add resp="#ocp">29:20</add> ‎Illic erat iacob 
-           <lb/>transmittens quae 
-           <lb type= "inword"/>cumque erant patri 
-           <lb/>suo siue matri suae 
-           <lb/>per singula tempo 
-           <lb type= "inword"/>ra uniuersa quae e 
-           <lb type= "inword"/>rant illis necessa 
-           <lb type= "inword"/>ria in omni usu suo 
-           <lb/>et erant benedicen 
-           <lb type= "inword"/>tes iacob in omni cor 
-           <lb type= "inword"/>de ipsorum et in tota 
-           <lb/>anima sua.
-           <lb/><add resp="#ocp">30:1</add> ‎Et in anno primo sep 
-           <lb type= "inword"/>timanarum sexti as 
-           <lb type= "inword"/>cendit in salem se 
-           <lb type= "inword"/>cundum orientem si 
-           <lb type= "inword"/>cimam in pace quar 
-           <lb type= "inword"/>to mense<add resp="#ocp">.</add> <add resp="#ocp">30:2</add> Et illic 
-ra 
-           <lb type= "inword"/>puerunt dinam fili 
-           <lb type= "inword"/>am iacob in dom sychem 
-           <lb/>fili emmor euuei prin-
-
-   <milestone unit="column"  n="b"/>
-
-           <lb type= "inword"/>-cipis terrae et pol
-           <lb type= "inword"/>luit eam quia dormi
-           <lb type= "inword"/>uit cum ea et ipsa 
-           <lb/>adulescens erat filia 
-           <lb/>duodecim annorum<add resp="#ocp">.</add>
-           <lb/><add resp="#ocp">30:3</add> ‎Et petierat illam 
-           <lb/>postea a patre suo 
-           <lb/>et omnibus fratribus suis 
-           <lb/>in mulierem<add resp="#ocp">.</add> 
-           <lb/>Et indignatus est 
-           <lb/>iacob et filii sui ad 
-           <lb/>uiros sychemorum 
-           <lb/>quia polluerant di
-           <lb type= "inword"/>nam sororem suam 
-           <lb/>et locuti sunt ad eos 
-           <lb/>in simulationem 
-           <lb/>et in dolo derise
-           <lb type= "inword"/>runt eos<add resp="#ocp">.</add> <add resp="#ocp">30:4</add> symeon 
-           <lb/>et leuui et posue
-           <lb type= "inword"/>runt in corde suo 
-           <lb/>symeon et leuui ex
-           <lb type= "inword"/>terminare eos et fe
-           <lb type= "inword"/>cerunt iudicium in 
-           <lb/>uiros sychemorum
-
-   <pb type="1861" n="96" xml:id="Ceriani_1861_096"/>
-   <milestone type="5c" unit="page" n= "168"/>
-   <milestone type="19c" unit="page" n="96" xml:id="palimpsest_pge_96"/>
-   <milestone unit="column"  n="a"/>   
-
-           <lb/><add resp="#ocp">- - -</add> quem inuenerunt in 
-           <lb/>ea et non reliquerunt 
-           <lb/>in ea usque unum uni 
-           <lb type= "inword"/>uersos enim occide 
-           <lb type= "inword"/>runt in iudicio prop 
-           <lb type= "inword"/>ter quod polluerant 
-           <lb/>dinam sororem suam.
-           <lb/><add resp="#ocp">30:5</add> ‎ - - - non erit ampli 
-           <lb type= "inword"/>us ut polluantur fi 
-           <lb type= "inword"/>liae istrahel prop 
-           <lb type= "inword"/>ter quod in caelo sit 
-           <lb/>iudicum super ipsos 
-           <lb/>ut pugnent in gladio 
-           <lb/>aduersus sychem- - -
-           <lb/>um propter quod 
-           <lb/>fecerunt ignominiam 
-           <lb/>in istrahel<add resp="#ocp">.</add> <add resp="#ocp">30:6</add>Et tradid
-           <lb type= "inword"/>it eos dominus in manibus 
-           <lb/>filiorum iacob ut era
-           <lb type= "inword"/>dicent eos in gladio 
-           <lb/>et fiat in ipsis iudici
-           <lb type= "inword"/>um et non amplius 
-           <lb/>erit in - - - istrahel 
-           <lb/>ut polluatur uirgo
-           <lb/>istrahel.
-
-   <milestone unit="column"  n="b"/>
-
-           <lb/><add resp="#ocp">30:7</add> ‎Et homo quicumque est 
-           <lb/>ex filiis istrahel et 
-           <lb/>placuerit ei dare fili
-           <lb type= "inword"/>am suam aut sororem 
-           <lb/>suam omni uiro ex se
-           <lb type= "inword"/>mine gentium peri
-           <lb type= "inword"/>et et lapidabitur la
-           <lb type= "inword"/>pidibus propter quod 
-           <lb/>fecerit ignominiam 
-           <lb/>in istrahel et muli
-           <lb type= "inword"/>er conburetur igni 
-           <lb/>propter quod conta
-           <lb type= "inword"/>minauerit domum 
-           <lb/>patris sui eradicabi
-           <lb type= "inword"/>tur ex istrahel<add resp="#ocp">.</add> <add resp="#ocp">30:8</add> Et 
-           <lb/>non erit fornicaria 
-           <lb/>et abominatio in is
-           <lb type= "inword"/>trahel omnibus diebus 
-           <lb/>generationis terrae 
-           <lb/>propter quod sanc 
-           <lb type= "inword"/>tus est istrahel domino 
-           <lb/>et omnis homo qui
-           <lb type= "inword"/>cumque polluerit
-
-
-</p>
-
+	<pb type="1861" n="35" xml:id="Ceriani_1861_035"/>
+	<cb type="Ceriani"  n="1"/>
+	<milestone type="5c" unit="page" n= "167"/>
+	<milestone type="19c" unit="page" n="95" xml:id="palimpsest_pge_95"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit= "ch" n="29"/>
+	<p part="F">de puteo iurationis<lb/>
+		in barin abraham pa<lb type="inWord"/>
+		tris sui in monte ce<lb type="inWord"/>
+		bron<add resp="#ocp">.</add> <milestone unit="vs" n="20"/>‎Illic erat iacob<lb/>
+		transmittens quae<lb type="inWord"/>
+		cumque erant patri<lb/>
+		suo siue matri suae<lb/>
+		per singula tempo<lb type="inWord"/>
+		ra uniuersa quae e<lb type="inWord"/>
+		rant illis necessa<lb type="inWord"/>
+		ria in omni usu suo<lb/>
+		et erant benedicen<lb type="inWord"/>
+		tes iacob in omni cor<lb type="inWord"/>
+		de ipsorum et in tota<lb/>
+		anima sua.
+	</p>
+	<p><milestone unit="ch" n="30"/><milestone unit="vs" n="1"/>‎Et in anno primo sep<lb type="inWord"/>
+		timanarum sexti as<lb type="inWord"/>
+		cendit in salem se<lb type="inWord"/>
+		cundum oriente<unclear>m</unclear> si<lb type="inWord"/>
+		cimam in pace quar<lb type="inWord"/>
+		to mense<add resp="#ocp">.</add> <milestone unit="vs" n="2"/>Et illic ra<lb type="inWord"/>
+		puerunt dinam fili<lb type="inWord"/>
+		am iacob in dom sychem<lb/>
+		fili emmor euuei prin<lb type="inWord"/>
+		<milestone unit="column"  n="b"/>cipis terrae et pol<lb type="inWord"/>
+		luit eam quia dormi<lb type="inWord"/>
+		uit cum ea et ipsa<lb/>
+		adulescens erat filia<lb/>
+		duodecim annorum<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="3"/>‎Et petierat illam<lb/>
+		postea a patre suo<lb/>
+		et omnibus fratribus suis<lb/>
+		in mulierem<add resp="#ocp">.</add>
+	</p>
+	<p>Et indignatus est<lb/>
+		iacob et filii sui ad<lb/>
+		uiros sychemorum<lb/>
+		quia polluerant di<lb type="inWord"/>
+		nam sororem suam<lb/>
+		et locuti sunt ad eos<lb/>
+		in simulationem<lb/>
+		et in dolo derise<lb type="inWord"/>
+		runt eos<add resp="#ocp">.</add> <milestone unit="vs" n="4"/><!-- Denis asserts lacuna -->symeon<lb/>
+		et leuui et posue<lb type="inWord"/>
+		runt in corde suo<lb/>
+		symeon et leuui ex<lb type="inWord"/>
+		terminare eos et fe<lb type="inWord"/>
+		cerunt iudicium in<lb/>
+		uiros sychemorum
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="5c" unit="page" n= "168"/>
+	<milestone type="19c" unit="page" n="96" xml:id="palimpsest_pge_96"/>
+	<milestone unit="column"  n="a"/>
+	<p part="F"><!-- Denis asserts lacuna -->quem inuenerunt in<lb/>
+		ea et non reliquerunt<lb/>
+		in ea usque unum uni<lb type="inWord"/>
+		uersos enim occide<lb type="inWord"/>
+		runt in iudicio prop<lb type="inWord"/>
+		ter quod polluerant<lb/>
+		dinam sororem suam.<lb/>
+		<milestone unit="vs" n="5"/>‎<gap reason="illegible" quantity="5" unit="characters"/> <unclear>non</unclear> erit ampli<lb type="inWord"/>
+		<unclear>us ut</unclear> polluantur fi<lb type="inWord"/>
+		liae istrahel prop<lb type="inWord"/>
+		ter quod in caelo sit<lb/>
+		iudicum super ipsos<lb/>
+		ut pugnent in gladi<unclear>o</unclear><lb/>
+		aduersus sychem <gap reason="illegible" quantity="4" unit="characters"/><lb/>
+		<gap reason="illegible" quantity="3" unit="characters"/><unclear>u</unclear>m propter quod<lb/>
+		fecerunt ignominiam<lb/>
+		<unclear>in i</unclear>strahel<add resp="#ocp">.</add> <milestone unit="vs" n="6"/>Et tradi<lb type="inWord"/>
+		dit eos dominus in manibus<lb/>
+		filiorum iacob ut era<lb type="inWord"/>
+		dicent eos in gladio<lb/>
+		<unclear>et</unclear> fiat in ipsis iudici<lb type="inWord"/>
+		um et non amplius<lb/>
+		<unclear>erit in</unclear> <gap reason="illegible" quantity="4" unit="characters"/> istrahel<lb/>
+		ut polluatur uirgo<lb/>
+		<milestone unit="column" n="b"/>istrahel.
+	</p>
+	<p><milestone unit="vs" n="7"/>‎Et homo quicumque est<lb/>
+		ex filiis istrahel et<lb/>
+		placuerit ei dare fili<lb type="inWord"/>
+		am suam aut sororem<lb/>
+		suam omni uiro ex se<lb type="inWord"/>
+		mine gentium peri<lb type="inWord"/>
+		et et lapidabitur la<lb type="inWord"/>
+		pidibus propter quod<lb/>
+		fecerit ignominiam<lb/>
+		in istrahel et muli<lb type="inWord"/>
+		er conburetur igni<lb/>
+		propter quod conta<lb type="inWord"/>
+		minauerit domum<lb/>
+		patris sui eradicabi<lb type="inWord"/>
+		tur ex istrahel<add resp="#ocp">.</add> <milestone unit="vs" n="8"/>Et<lb/>
+		non erit fornicaria<lb/>
+		et abominatio in is<lb type="inWord"/>
+		trahel omnibus diebus<lb/>
+		generationis terrae<lb/>
+		propter quod sanc<lb type="inWord"/>
+		tus est istrahel domino<lb/>
+		et omnis homo qui<lb type="inWord"/>
+		cumque polluerit
+	</p>
 </body>
 </text>
 </TEI>

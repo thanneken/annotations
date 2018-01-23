@@ -13,12 +13,12 @@ Ceriani_1861_026.tei.xml Valdez CHECKED HANNEKEN
 Ceriani_1861_027.tei.xml Bryan CHECKED HANNEKEN
 Ceriani_1861_028.tei.xml AniGonzalez CHECKED HANNEKEN
 Ceriani_1861_029.tei.xml
-Ceriani_1861_030.tei.xml AlexandraGonzalez
-Ceriani_1861_031.tei.xml started by Mondragon
-Ceriani_1861_032.tei.xml Garza
-Ceriani_1861_033.tei.xml Bodden
-Ceriani_1861_034.tei.xml Dominguez
-Ceriani_1861_035.tei.xml Bodden
+Ceriani_1861_030.tei.xml
+Ceriani_1861_031.tei.xml started by Mondragon, continued by __________
+Ceriani_1861_032.tei.xml Garza CHECKED HANNEKEN
+Ceriani_1861_033.tei.xml Bodden CHECKED HANNEKEN
+Ceriani_1861_034.tei.xml Dominguez CHECKED HANNEKEN
+Ceriani_1861_035.tei.xml Bodden CHECKED HANNEKEN
 Ceriani_1861_036.tei.xml Garza
 Ceriani_1861_037.tei.xml Dominguez
 Ceriani_1861_038.tei.xml Valdez

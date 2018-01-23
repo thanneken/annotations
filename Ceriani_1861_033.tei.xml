@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Bodden</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,127 +28,117 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-   <pb type="1861" n="33" xml:id="Ceriani_1861_033"/>
-   <cb type= "Ceriani" n="1"/>
-   <milestone type="19c" unit="page" n="33" xml:id="palimpsest_page_136"/>
-   <milestone type="5c" unit="page" n="33"/>
-   <milestone unit="column" n="a"/>
-   <milestone unit="ch" n="16"/>
-   <p part="F">
-
-	
-
-‎           <add resp="#ocp">&lt;28:16</add>uentris tui aut dere 
-           <lb type= "inword"/>liqui te.<add resp="#ocp">></add> <add resp="#ocp">28:17</add> Et quoniam 
-           <lb/>uidit rachel quia pe
-           <lb type= "inword"/>perit lia iacob quat
-           <lb type= "inword"/>tuor filios rubem 
-           <lb/>symeon leui iudas 
-           <lb/>dixit rachel ad iacob<add resp="#ocp">:</add> 
-           <lb/>intra ad ballam an
-           <lb type= "inword"/>cillam meam et (con)con
-           <lb type= "inword"/>cipiet et pariet 
-           <lb/>mihi filium.
-           <lb/><add resp="#ocp">28:18</add> ‎Et dedit ballam an
-           <lb type= "inword"/>cillam suam in uxo
-           <lb type= "inword"/>rem et concepit et 
-           <lb/>peperit filium et uo
-           <lb type= "inword"/>cauit nomen eius 
-           <lb/>dan nono mense hu
-           <lb type= "inword"/>ius sexti anni septi
-           <lb type= "inword"/>manarum. <add resp="#ocp">28:19</add> Et adie
-           <lb type= "inword"/>cit iacob et introi
-           <lb type= "inword"/>uit ad ballam et con
-           <lb type= "inword"/>cepit et peperit fi
-           <lb type= "inword"/>lium secundum iacob 
-           <lb/>et uocauit rachel
-
-<milestone unit="column" n="b"/>
-
-           <lb/>nomen eius nepta
-           <lb type= "inword"/>lim in quinto mense 
-           <lb/>septimi anni secun
-           <lb type= "inword"/>da septimanarum 
-           <lb/>quarta. <add resp="#ocp">28:20</add> Et uidens 
-           <lb/>lia quoniam deten
-           <lb type= "inword"/>ta est et non est pa
-           <lb type= "inword"/>riens et dedit aliam 
-           <lb/>ancillam suam iacob 
-           <lb/>in mulierem et con
-           <lb type= "inword"/>cepit et peperit fi
-           <lb type= "inword"/>lium et uocauit lia 
-           <lb/>nomen eius gad<add resp="#ocp">.</add> 
-           <lb/>Et in duodecimo men
-           <lb/>se octaui anni ter
-           <lb/>tio die septimana
-           <lb type= "inword"/>rum quinti<add resp="#ocp">.</add> <add resp="#ocp">28:21</add> Introi 
-           <lb type= "inword"/>uit ad eam et pepe
-           <lb type= "inword"/>rit illi filium et uo
-           <lb type= "inword"/>cauit nomen eius aser<add resp="#ocp">.</add> 
-           <lb/>In secundo mense 
-           <lb/>decimi diei in quinto 
-           <lb/>anno septimanarum 
-           <lb/>quarto<add resp="#ocp">.</add> <add resp="#ocp">28:22</add> Introiuit
-           
-
-   <milestone type="19c" unit="page" n="33" xml:id="palimpsest_page_135"/>
-   <milestone type="5c" unit="page" n="33"/>
-   <milestone unit="column" n="a"/>
-
-           <lb/>ad illam<add resp="#ocp">*</add> et concepit 
-           <lb/>et peperit filium 
-           <lb/>et uocauit nomen 
-           <lb/>eius isacahar et in 
-           <lb/>quarto anno men
-           <lb type= "inword"/>se quinti anni die 
-           <lb/>septimanarum quar
-           <lb type= "inword"/>to dedit illum nu
-           <lb type= "inword"/>trici. <add resp="#ocp">28:23</add> Et introiuit 
-           <lb/>adhuc iacob ad liam 
-           <lb/>et concepit et pe
-           <lb type= "inword"/>perit duos mascu
-           <lb type= "inword"/>lum et feminam et 
-           <lb/>uocauit nomen mas
-           <lb type= "inword"/>culi zabylon et no
-           <lb type= "inword"/>men faeminae dinam 
-           <lb/>et in septimi mensis 
-           <lb/>septimi anni sexti 
-           <lb/>septimanarum quar
-           <lb type= "inword"/>ti<add resp="#ocp">.</add> <add resp="#ocp">28:24</add> Misertus est deus 
-           <lb/>rachel et aperuit 
-           <lb/>matricem eius et 
-           <lb/>concepit et pepe
-           <lb type= "inword"/>rit filium et uoca-
-           <lb/>-uit nomen eius ioseph<add resp="#ocp">.</add> 
-
-<milestone unit="column" n="b"/>
-
-           <lb/>In primo die mensis 
-           <lb/>quarti in sexto sep
-           <lb type= "inword"/>timanarum quarto 
-           <lb/>huius<add resp="#ocp">.</add> <add resp="#ocp">28:25</add> In tempore quo 
-           <lb/>natus est ioseph di
-           <lb type= "inword"/>xit iacob ad laban<add resp="#ocp">:</add> 
-           <lb/>da mihi mulieres me
-           <lb type= "inword"/>as et filios meos et 
-           <lb/>abibo ad patrem me
-           <lb type= "inword"/>um isac et faciam 
-           <lb/>mihi domum quoni
-           <lb type= "inword"/>am conplebi annos 
-           <lb/>quibus seruiui tibi 
-           <lb/>pro duabus filiabus tuis 
-           <lb/>et ibo in domum pa
-           <lb type= "inword"/>tris mei<add resp="#ocp">.</add> <add resp="#ocp">28:26</add> Et dixit la
-           <lb type= "inword"/>ban ad iacob<add resp="#ocp">:</add> expec
-           <lb type= "inword"/>ta me in mercede 
-           <lb/>et pasce iterum 
-           <lb/>oues meas et dabo 
-           <lb/>tibi mercedem<add resp="#ocp">.</add> <add resp="#ocp">28:27</add> Et 
-           <lb/>placuerunt de 
-           <lb/>mercede ut det illi<add resp="#ocp">.</add>
-           
-</p>
-
+	<pb type="1861" n="33" xml:id="Ceriani_1861_033"/>
+	<cb type= "Ceriani" n="1"/>
+	<milestone type="19c" unit="page" n="136" xml:id="palimpsest_page_136"/>
+	<milestone type="5c" unit="page" n="161"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="28"/>
+	<p part="F">uentris tui aut dere<lb type="inWord"/>
+		liqui te. <milestone unit="vs" n="17"/>Et quoniam<lb/>
+		uidit rachel quia pe<lb type="inWord"/>
+		perit lia iacob quat<lb type="inWord"/>
+		tuor filios rubem<lb/>
+		symeon. leui iudas<lb/>
+		dixit rachel ad iacob<add resp="#ocp">:</add><lb/>
+		intra ad ballam an<lb type="inWord"/>
+		cillam meam et <surplus resp="#ocp">con</surplus><lb type="inWord"/>
+		concipiet et pariet<lb/>
+		mihi filium.<lb/>
+		<milestone unit="vs" n="18"/>‎Et dedit ballam an<lb type="inWord"/>
+		cillam suam in uxo<lb type="inWord"/>
+		rem et concepit et<lb/>
+		peperit filium et uo<lb type="inWord"/>
+		cauit nomen eius<lb/>
+		dan nono mense hu<lb type="inWord"/>
+		ius sexti anni septi<lb type="inWord"/>
+		manarum. <milestone unit="vs" n="19"/>Et adie<lb type="inWord"/>
+		cit iacob et introi<lb type="inWord"/>
+		uit ad ballam et con<lb type="inWord"/>
+		cepit et peperit fi<lb type="inWord"/>
+		lium secundum iacob<lb/>
+		et uocauit rachel<lb/>
+		<milestone unit="column" n="b"/>nomen eius nepta<lb type="inWord"/>
+		lim in quinto mense<lb/>
+		septimi anni secun<lb type="inWord"/>
+		da septimanarum<lb/>
+		quarta. <milestone unit="vs" n="20"/>Et uidens<lb/>
+		lia quoniam deten<lb type="inWord"/>
+		ta est et non est pa<lb type="inWord"/>
+		riens et dedit aliam<lb/>
+		ancillam suam iacob<lb/>
+		in mulierem et con<lb type="inWord"/>
+		cepit et peperit fi<lb type="inWord"/>
+		lium et uocauit lia<lb/>
+		nomen eius gad<add resp="#ocp">.</add>
+	</p>
+	<p>Et in duodecimo men<lb type="inWord"/>
+		se octaui anni ter<lb type="inWord"/>
+		tio die septimana<lb type="inWord"/>
+		rum quinti<add resp="#ocp">.</add> <milestone unit="vs" n="21"/>Introi<lb type="inWord"/>
+		uit ad eam et pepe<lb type="inWord"/>
+		rit illi filium et uo<lb type="inWord"/>
+		cauit nomen eius aser<add resp="#ocp">.</add>
+	</p>
+	<p>In secundo mense<lb/>
+		decimi diei in quinto<lb/>
+		anno septimanarum<lb/>
+		quarto<add resp="#ocp">.</add> <milestone unit="vs" n="22"/>Introiuit
+	</p>
+	<cb type= "Ceriani" n="2"/>
+	<milestone type="19c" unit="page" n="135" xml:id="palimpsest_page_135"/>
+	<milestone type="5c" unit="page" n="162"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">ad <choice><sic>ill</sic><corr resp="#ocp">li</corr></choice>am et concepit<lb/>
+		et peperit filium<lb/>
+		et uocauit nomen<lb/>
+		eius isacahar et in<lb/>
+		quarto anno men<lb type="inWord"/>
+		se quinti anni die<lb/>
+		septimanarum quar<lb type="inWord"/>
+		to dedit illum nu<lb type="inWord"/>
+		trici. <milestone unit="vs" n="23"/>Et introiuit<lb/>
+		adhuc iacob ad liam<lb/>
+		et concepit et pe<lb type="inWord"/>
+		perit duos mascu<lb type="inWord"/>
+		lum et feminam et<lb/>
+		uocauit nomen mas<lb type="inWord"/>
+		culi zabylon et no<lb type="inWord"/>
+		men faeminae dinam<lb/>
+		et in septimi mensis<lb/>
+		septimi anni sexti<lb/>
+		septimanarum quar<lb type="inWord"/>
+		ti<add resp="#ocp">.</add> <milestone unit="vs" n="24"/>Misertus est deus<lb/>
+		rachel et aperuit<lb/>
+		matricem eius et<lb/>
+		concepit et pepe<lb type="inWord"/>
+		rit filium et uoca-<lb/>
+		<milestone unit="column" n="b"/>uit nomen eius ioseph<add resp="#ocp">.</add>
+	</p>
+	<p>In primo die mensis<lb/>
+		quarti in sexto sep<lb type="inWord"/>
+		timanarum quarto<lb/>
+		huius<add resp="#ocp">.</add> <milestone unit="vs" n="25"/>In tempore quo<lb/>
+		natus est ioseph di<lb type="inWord"/>
+		xit iacob ad laban<add resp="#ocp">:</add><lb/>
+		da mihi mulieres me<lb type="inWord"/>
+		as et filios meos et<lb/>
+		abibo ad patrem me<lb type="inWord"/>
+		um isac et faciam<lb/>
+		mihi domum quoni<lb type="inWord"/>
+		am conplebi annos<lb/>
+		quibus seruiui tibi<lb/>
+		pro duabus filiabus tuis<lb/>
+		et ibo in domum pa<lb type="inWord"/>
+		tris mei<add resp="#ocp">.</add> <milestone unit="vs" n="26"/>Et dixit la<lb type="inWord"/>
+		ban ad iacob<add resp="#ocp">:</add> expec<lb type="inWord"/>
+		ta me in mercede<lb/>
+		et pasce iterum<lb/>
+		oues meas et dabo<lb/>
+		tibi mercedem<add resp="#ocp">.</add> <milestone unit="vs" n="27"/>Et<lb/>
+		placuerunt de<lb/>
+		mercede ut det illi<add resp="#ocp">.</add>
+	</p>
 </body>
 </text>
 </TEI>

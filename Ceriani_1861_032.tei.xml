@@ -8,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Maria Garza</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -27,157 +28,121 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-
-<pb type="1861" n="32" xml:id="Ceriani_1861_032"/>
-     <cb type="Ceriani" n="1"/>
-     <milestone type="5c" unit="page" n="155"/>
-     <milestone type="19c" unit="page" n="66" xml:id="palimpsest_page_066"/>
-     <milestone unit="column" n="a"/>
-     <milestone unit="ch" n="27"/>
-     <milestone unit="vs" n="11"/>
-     <p part="F">
-
-<!--27:11-->et semini tuo post
-     <lb/>te ut hereditate pos
-     <lb type="inWord"/>sideas terram pere
-     <lb type="inWord"/>grinationis tuae
-     <lb/>et omnem terram
-     <lb/>quam dedit deus abra
-     <lb type="inWord"/>hae<add resp="#ocp">.</add> Uade nate in pa
-     <lb type="inWord"/>ce.
-<!--27:12--><milestone unit="vs" n="12"/>Et emisit isac
-     <lb/>iacob et abiit in me
-     <lb type="inWord"/>sopotamiam ad la
-     <lb type="inWord"/>ban filium bathuel
-     <lb/>syri fratrem rebec
-     <lb type="inWord"/>cae matris iacob<add resp="#ocp">.</add>
-</p>
-
-<p>
-     <milestone unit="vs" n="13"/>
-<!--27:13-->Et factum est quan
-     <lb type="inWord"/>do abiit in mesopo
-     <lb type="inWord"/>tamiam contrista
-     <lb type="inWord"/>tus est spiritus re
-     <lb type="inWord"/>becce post iacob fi
-     <lb type="inWord"/>lium suum et fleuit.
-</p>
-
-<p>
-     <milestone unit="vs" n="14"/>Et dixit isac ad rebec
-     <lb type="inWord"/>cam<add resp="#ocp">:</add> soror noli fle
-     <lb type="inWord"/>re iacob filium meum
-     <lb/>quoniam in pace ibit
-     <lb/>et in pace rediet<add resp="#ocp">.</add>
-</p>
-
-<p>
-     <milestone unit="column" n="b"/>
-     <milestone unit="vs" n="15"/>
-     <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t deus excelsus cus
-     <lb type="inWord"/>todiet eum ab omni
-     <lb/>malo et erit cum ip
-     <lb type="inWord"/>so et non derelin
-     <lb type="inWord"/>quet eum omnibus die
-     <lb type="inWord"/>bus<add resp="#ocp">.</add>
-     <milestone unit="vs" n="16"/>
-     <choice><sic>q</sic><corr resp="#ocp">Q</corr></choice>uoniam scio ego
-     <lb/>quod dirigentur om
-     <lb type="inWord"/>
-     <choice><sic>nis</sic><corr resp="#ocp">nes</corr></choice>uiae eius in om
-     <lb type="inWord"/>nibus in quibus iter fa
-     <lb type="inWord"/>ciet quousque reuer
-     <lb type="inWord"/>tatur ad nos in pace
-     <lb/>et uidebimus eum
-     <lb/>cum pace.
-     <milestone unit="vs" n="17"/>Noli ergo
-     <lb/>timere de illo soror
-     <lb/>mea quoniam in uia
-     <lb/>recta est et erit per
-     <lb type="inWord"/>fectus uir uerax et
-     <lb/>non derelinquetur<add resp="#ocp">:</add>
-     <lb/>noli flere<add resp="#ocp">.</add>
-     <milestone unit="vs" n="18"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t conso
-     <lb type="inWord"/>labatur isac rebec
-     <lb type="inWord"/>ca<unclear>m</unclear> pro iacob filio suo
-     <lb/>et benedixit eum.
-
-</p>
-
-<p>
-     <milestone unit="vs" n="19"/>Et quadragesimo et quarto iubeleo
-
-     <!-- p19c=65 p5c=156 -->
-     <!--Do not know if this is right-->
-     <milestone type="5c" unit="page" n="156"/>
-     <milestone type="19c" unit="page" n="65" xml:id="palimpsest_page_065"/>
-     <milestone unit="column" n="a"/>
-     <milestone unit="ch" n="27"/>
-     <milestone unit="vs" n="19"/>
-     <lb/>in anno septimana
-     <lb type="inWord"/>rum secundo exiuit
-     <lb/>iacob a puteo iuratio
-     <lb type="inWord"/>nis ut iret in charran.
-</p>
-
-<p>
-      Et aduenit in lydiam
-     <lb/>quae est in monte
-     <lb/>haec est bethel in
-     <lb/>primo die mensis
-     <lb/>primi septimanarum
-     <lb/>huius et aduenit in
-     <lb/>locum uespera et
-     <lb/>deuertit a uia ad oc
-     <lb type="inWord"/>cansum itineris in
-     <lb/>hac nocte dormiuit
-     <lb/>ibi deciderat enim
-     <lb/>sol<add resp="#ocp">.</add>
-     <milestone unit="vs" n="20"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t accipiens de
-     <lb/>lapidibus loci illius
-     <lb/>supposuit ad caput
-     <lb/>sibi sub arbore et
-     <lb/>ipse erat singula
-     <lb type="inWord"/>ris iter faciens<add resp="#ocp">.</add>
-<milestone unit="vs" n="21"/>Et
-     <lb/>dormiens sibi somnia
-     <lb type="inWord"/>uit in nocte illa<add resp="#ocp">.</add>
-</p>
-
-<p>
-Et ecce scala erecta
-     <milestone unit="column" n="b"/>
-     <lb/>erat super terram
-     <lb/>et caput eius perue
-     <lb type="inWord"/>niebat in caelum<add resp="#ocp">.</add>
-</p>
-     <p>Et ecce angeli dei as
-     <lb type="inWord"/>cendebant et des
-     <lb type="inWord"/>cendebant per ipsam
-     <lb/>et dominus incumbebat
-     <lb/>in ea.<!--high period-->
-     <milestone unit="vs" n="22"/>Et locutus est
-     <lb/>cum iacob et dixit<add resp="#ocp">:</add>
-     <lb/>ego sum dominus deus abra
-     <lb type="inWord"/>ham patris tui et deus
-     <lb/>isac terram autem
-     <lb/>in qua tu o<choice><sic>rb</sic><corr resp="#ocp">b</corr></choice>domis ip
-     <lb type="inWord"/>sam tibi dabo et se
-     <lb type="inWord"/>mini tuo post te<add resp="#ocp">.</add>
-     <milestone unit="vs" n="23"/>Et
-     <lb/>erit semen tuum
-     <lb/>sicut harena terrae
-     <lb/>et abundabit super
-     <lb/>mare et orientem et
-     <lb/>septentrionem et
-     <lb/>austrum et bene
-     <lb type="inWord"/>dicentur in te om
-     <lb type="inWord"/>nes tribus terrae et
-     <lb/>in semine tuo<add resp="#ocp">.</add>
-     <milestone unit="vs" n="24"/>Et ecce - - -.
-</p>
-
+	<pb type="1861" n="32" xml:id="Ceriani_1861_032"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="155"/>
+	<milestone type="19c" unit="page" n="66" xml:id="palimpsest_page_066"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="27"/>
+	<p part="F">et semini tuo post<lb/>
+		te ut hereditate pos<lb type="inWord"/>
+		sideas terram pere<lb type="inWord"/>
+		grinationis tuae<lb/>
+		et omnem terram<lb/>
+		quam dedit deus abra<lb type="inWord"/>
+		hae<add resp="#ocp">.</add> Uade nate in pa<lb type="inWord"/>
+		ce. <milestone unit="vs" n="12"/>Et emisit isac<lb/>
+		iacob et abiit in me<lb type="inWord"/>
+		sopotamiam ad la<lb type="inWord"/>
+		ban filium bathuel<lb/>
+		syri fratrem rebec<lb type="inWord"/>
+		cae matris iacob<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="13"/>Et factum est quan<lb type="inWord"/>
+		do abiit in mesopo<lb type="inWord"/>
+		tamiam contrista<lb type="inWord"/>
+		tus est spiritus re<lb type="inWord"/>
+		becce post iacob fi<lb type="inWord"/>
+		lium suum et fleuit.
+	</p>
+	<p><milestone unit="vs" n="14"/>Et dixit isac ad rebec<lb type="inWord"/>
+		cam<add resp="#ocp">:</add> soror noli fle<lb type="inWord"/>
+		re iacob filium meum<lb/>
+		quoniam in pace ibit<lb/>
+		et in pace rediet<add resp="#ocp">.</add><lb/>
+		<milestone unit="column" n="b"/><milestone unit="vs" n="15"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t deus excelsus cus<lb type="inWord"/>
+		todiet eum ab omni<lb/>
+		malo et erit cum ip<lb type="inWord"/>
+		so et non derelin<lb type="inWord"/>
+		quet eum omnibus die<lb type="inWord"/>
+		bus<add resp="#ocp">.</add> <milestone unit="vs" n="16"/><choice><sic>q</sic><corr resp="#ocp">Q</corr></choice>uoniam scio ego<lb/>
+		quod dirigentur om<lb type="inWord"/>
+		n<choice><sic>i</sic><corr resp="#ocp">e</corr></choice>s uiae eius in om<lb type="inWord"/>
+		nibus in quibus iter fa<lb type="inWord"/>
+		ciet quousque reuer<lb type="inWord"/>
+		tatur ad nos in pace<lb/>
+		et uidebimus eum<lb/>
+		cum pace. <milestone unit="vs" n="17"/>Noli ergo<lb/>
+		timere de illo soror<lb/>
+		mea quoniam in uia<lb/>
+		recta est et erit per<lb type="inWord"/>
+		fectus uir uerax et<lb/>
+		non derelinquetur<add resp="#ocp">:</add><lb/>
+		noli flere<add resp="#ocp">.</add> <milestone unit="vs" n="18"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t conso<lb type="inWord"/>
+		labatur isac rebec<lb type="inWord"/>
+		ca<unclear>m</unclear> pro iacob filio suo<lb/>
+		et benedixit eum.
+	</p>
+	<p><milestone unit="vs" n="19"/>Et quadragesimo<lb/>
+		et quarto iubeleo
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="5c" unit="page" n="156"/>
+	<milestone type="19c" unit="page" n="65" xml:id="palimpsest_page_065"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">in anno septimana<lb type="inWord"/>
+		rum secundo exiuit<lb/>
+		iacob a puteo iuratio<lb type="inWord"/>
+		nis ut iret in charran.
+	</p>
+	<p>Et aduenit in lydiam<lb/>
+		quae est in monte<lb/>
+		haec est bethel in<lb/>
+		primo die mensis<lb/>
+		primi septimanarum<lb/>
+		huius et aduenit in<lb/>
+		locum uespera et<lb/>
+		deuertit a uia ad oc<lb type="inWord"/>
+		cansum itineris in<lb/>
+		hac nocte dormiuit<lb/>
+		ibi deciderat enim<lb/>
+		sol<add resp="#ocp">.</add> <milestone unit="vs" n="20"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t accipiens de<lb/>
+		lapidibus loci illius<lb/>
+		supposuit ad caput<lb/>
+		sibi sub arbore et<lb/>
+		ipse erat singula<lb type="inWord"/>
+		ris iter faciens<add resp="#ocp">.</add> <milestone unit="vs" n="21"/>Et<lb/>
+		dormiens sibi somnia<lb type="inWord"/>
+		uit in nocte illa<add resp="#ocp">.</add>
+	</p>
+	<p>Et ecce scala erecta<lb/>
+		<milestone unit="column" n="b"/>erat super terram<lb/>
+		et caput eius perue<lb type="inWord"/>
+		niebat in caelum<add resp="#ocp">.</add>
+	</p>
+		<p>Et ecce angeli dei as<lb type="inWord"/>
+		cendebant et des<lb type="inWord"/>
+		cendebant per ipsam<lb/>
+		et dominus incumbebat<lb/>
+		in ea. <milestone unit="vs" n="22"/>Et locutus est<lb/>
+		cum iacob et dixit<add resp="#ocp">:</add><lb/>
+		ego sum dominus deus abra<lb type="inWord"/>
+		ham patris tui et deus<lb/>
+		isac terram autem<lb/>
+		in qua tu o<choice><sic>rb</sic><corr resp="#ocp">b</corr></choice>domis ip<lb type="inWord"/>
+		sam tibi dabo et se<lb type="inWord"/>
+		mini tuo post te<add resp="#ocp">.</add> <milestone unit="vs" n="23"/>Et<lb/>
+		erit semen tuum<lb/>
+		sicut harena terrae<lb/>
+		et abundabit super<lb/>
+		mare et oriente<unclear>m</unclear> et<lb/>
+		septentrionem et<lb/>
+		austrum et bene<lb type="inWord"/>
+		dicentur in te om<lb type="inWord"/>
+		nes tribus terrae et<lb/>
+		in semine tuo<add resp="#ocp">.</add> <milestone unit="vs" n="24"/>Et ecce
+	</p>
+	<gap reason="lost" quantity="4" unit="page"/>
 </body>
 </text>
 </TEI>
