@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -27,151 +28,117 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
 	<pb type="1861" n="39" xml:id="Ceriani_1861_039"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="179"/>
 	<milestone type="19c" unit="page" n="126" xml:id="palimpsest_page_126"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="31"/>
-	<p part="F">
-		<milestone unit="vs" n="29"/>
-		creans cuncta cui
-		<lb/>orasti orationem
-
-		</p>
-		<p>
-		<milestone unit="vs" n="30"/> Et dixit rebeccae<add resp="#ocp">:</add>
-		<lb/>uade cum filio tuo<add resp="#ocp">.</add>
-		<lb/>Et ibit rebecca cum
-		<lb/>filio suo iacob et deb
-		<lb type="inWord"/>borra nutrix sua cum
-		<lb/>ea et aduenerunt
-		<lb/>in bethel<add resp="#ocp">.</add> <milestone unit="vs" n="31"/> Et memor
-		<lb/>fuit benedictionis
-		<lb/>qua benedixit eum
-		<lb/>pater suus et duos
-		<lb/>filios eius leuui et
-		<lb/>iudam et gauisus est
-		<lb/> et benedixit deum pa
-		<lb type="inWord"/>trum suorum abra
-		<lb type="inWord"/>ham et isac<add resp="#ocp">:</add> <milestone unit="vs" n="32"/> nunc cog
-		<lb type="inword"/>noui quoniam spes
-		<lb/>mihi est aeterna et
-		<lb/>filiis meis in cons
-		<lb type="inword"/>pectu dei omnipoten
-		<lb type="inword"/>tis et sic erat depu
-		<lb type="inword"/>tatum super duos
-		<lb/>et portio ipsorum
-		<lb/>
-		<milestone unit="column" n="b"/>in testimoniis sae
-		<lb type="inword"/>culi in tabulis caeli
-		<lb/>quemadmodum be
-		<lb type="inword"/>nedixit eos isac<add resp="#ocp">.</add>
-		<lb/>
-		<milestone unit="ch" n="32"/>
-		<milestone unit="vs" n="1"/>Et dormierunt in
-		<lb/>nocte illa in bethel
-		<lb/>et somniauit leuui
-		<lb/>quasi ordinatus sit
-		<lb/>in sacerdotem dei ex
-		<lb type="inword"/>celsi usque in saecula
-		<lb/>et expergefactus
-		<lb/>a somno suo benedi
-		<lb type="inword"/>xit deum. <milestone unit="vs" n="2"/> Et exurgens
-		<lb/>iacob diluculo in quar
-		<lb type="inword"/>tadecima die mensis
-		<lb/>huius decimauit uni
-		<lb type="inword"/>uersa quaecumque
-		<lb/>uenerunt cum eo
-		<lb/>ab homine usque ad om
-		<lb type="inword"/>nem animam et ab
-		<lb/>auro et usque ad om
-		<lb type="inword"/>ne uas et uestimen
-		<lb type="inword"/>tum decimauit uni
-		<lb type="inword"/>uersa<add resp="#ocp">.</add>
-
-		</p>
-		<milestone type="5c" unit="page" n="180"/>
-		<milestone type="19c" unit="page" n="125" xml:id="palimpsest_page_125"/>
-		<cb type="Ceriani" n="3"/>
-		<milestone unit="column" n="a"/>
-		<p>Et in illo tempore
-			<lb/>rachel in utero ha
-			<lb type="inword"/>bentem beniamin
-			<lb/>filium suum enume
-			<lb type="inword"/>rauit iacob ab ipso fi
-			<lb type="inword"/>lios suos et ascendit
-			<lb/>et cecidit leuui in
-			<lb/>sortem dei et induit eum
-			<lb/>pater suus uestimen
-			<lb type="inword"/>ta sacerdotalia et in
-			<lb type="inword"/>pleuit manus eius<add resp="#ocp">.</add>
-			<milestone unit="vs" n="4"/> In die quintodecima
-			<lb/>mensis huius et ob
-			<lb type="inword"/>tulit in ipso ad altare
-			<lb/>uitulos de bubus quat
-			<lb type="inword"/>tuordecim et arie
-			<lb type="inword"/>tis uiginti et octo
-			<lb/>et oues quadragin
-			<lb type="inword"/>ta et nouem et hedos
-			<lb/>septem hircos capra
-			<lb type="inword"/>rum uiginti et unum
-			<lb/>haec olocaustomata
-			<lb/>in altarium fructu
-			<lb type="inword"/>um acceptabile in
-			<lb/>
-		<milestone unit="column" n="b"/>odorem suauitatis in conspectu dei<add resp="#ocp">.</add> <milestone unit="vs" n="5"/> Hoc
-			<lb/>erat munus eius a uo
-			<!-- dot prior to 'to', does not resemble a period, but unsure --><lb type="inword"/>to quo u<unclear>ou</unclear>erat de
-			<lb type="inword"/>cimare cum sacrifi
-			<lb type="inword"/>ciis et cum uino ipso
-			<lb type="inword"/>rum<add resp="#ocp">.</add> <milestone unit="vs" n="6"/> Et quando con
-			<lb type="inword"/>sumpsit ignis liba
-			<lb type="inword"/>num super ignem
-			<lb/>desuper et sacrifi
-			<lb type="inword"/>cium salutare uitu
-			<lb type="inword"/>los duos arietes quat
-			<lb type="inword"/>tuor agnos annicu
-			<lb type="inword"/>los duos hircos ca
-			<lb type="inword"/>prarum duos<add resp="#ocp">.</add> Et se<unclear>mel</unclear>
-			<lb/>haec faciebat cot
-			<lb type="inword"/>tidie in septem diebus<add resp="#ocp">.</add>
-			<milestone unit="vs" n="7"/> Et benedicebat et
-			<lb/>hymnum dicebat deo
-			<lb/>qui liberauit eum de
-			<lb/>omnibus tribulatio
-			<lb type="inword"/>nibus eius et quoniam
-			<lb/>reddidit uotum suum<add resp="#ocp">.</add>
-			<milestone unit="vs" n="8"/> Et decimauit uniu<unclear>er</unclear>- <add resp="#ocp">- -</add>
-
-
-
-
-	<!-- p19c=126 p5c=179 -->
-
-&lt;31:29  creans cuncta cui orasti orationem>
-<milestone unit="vs" n="30"/> ‎ Et dixit rebeccae: uade cum filio tuo. Et ibit rebecca cum filio suo iacob et debborra nutrix sua cum ea et aduenerunt in bethel.
-<milestone unit="vs" n="31"/> ‎ Et memor fuit benedictionis qua benedixit eum pater suus et duos filios eius leuui et iudam et gauisus est et benedixit deum patrum suorum abraham et isac:
-<milestone unit="vs" n="32"/> ‎ nunc cognoui quoniam spes mihi est aeterna et filiis meis in conspectu dei omnipotentis et sic erat deputatum super duos et portio ipsorum
-
-in testimoniis saeculi in tabulis caeli quemadmodum benedixit eos isac.
-<milestone unit="vs" n="1"/> ‎ Et dormierunt in nocte illa in bethel et somniauit leuui quasi ordinatus sit in sacerdotem dei excelsi usque in saecula et expergefactus a somno suo benedixit deum.
-<milestone unit="vs" n="2"/> ‎ Et exurgens iacob diluculo in quartadecima die mensis huius decimauit uniuersa quaecumque uenerunt cum eo ab homine usque ad omnem animam et ab auro et usque ad omne uas et uestimentum decimauit uniuersa.
-
-	<!-- p19c=125 p5c=180 -->
-
-<milestone unit="vs" n="3"/>‎ Et in illo tempore rachel in utero habentem beniamin filium suum enumerauit iacob ab ipso filios suos et ascendit et cecidit leuui in sortem dei et induit eum pater suus uestimenta sacerdotalia et inpleuit manus eius.
-<milestone unit="vs" n="4"/> ‎ In die quintodecima mensis huius et obtulit in ipso ad altare uitulos de bubus quattuordecim et arietis uiginti et octo et oues quadraginta et nouem et hedos septem hircos caprarum uiginti et unum haec olocaustomata in altarium fructuum acceptabile in
-
-odorem suauitatis in conspectu dei.
-<milestone unit="vs" n="5"/> ‎ Hoc erat munus eius a uoto quo uouerat decimare cum sacrificiis et cum uino ipsorum.
-<milestone unit="vs" n="6"/> ‎ Et quando consumpsit ignis libanum super ignem desuper et sacrificium salutare uitulos duos arietes quattuor agnos anniculos duos hircos caprarum duos. Et semel haec faciebat cottidie in septem diebus.
-<milestone unit="vs" n="7"/> ‎ Et benedicebat et hymnum dicebat deo qui liberauit eum de omnibus tribulationibus eius et quoniam reddidit uotum suum.
-<milestone unit="vs" n="8"/> ‎ Et decimauit uniuer - - -
-
-</p>
-
+	<p part="F">creans cuncta cui<lb/>
+		orasti orationem
+	</p>
+	<p><milestone unit="vs" n="30"/>Et dixit rebeccae<add resp="#ocp">:</add><lb/>
+		uade cum filio tuo<add resp="#ocp">.</add><lb/>
+		Et ibit rebecca cum<lb/>
+		filio suo iacob et deb<lb type="inWord"/>
+		borra nutrix sua cum<lb/>
+		ea et aduenerunt<lb/>
+		in bethel<add resp="#ocp">.</add> <milestone unit="vs" n="31"/>Et memor<lb/>
+		fuit benedictionis<lb/>
+		qua benedixit eum<lb/>
+		pater suus et duos<lb/>
+		filios eius leuui et<lb/>
+		iudam et gauisus est<lb/>
+		 et benedixit deum pa<lb type="inWord"/>
+		trum suorum abra<lb type="inWord"/>
+		ham et isac<add resp="#ocp">:</add> <milestone unit="vs" n="32"/>nunc cog<lb type="inWord"/>
+		noui quoniam spes<lb/>
+		mihi est aeterna et<lb/>
+		filiis meis in cons<lb type="inWord"/>
+		pectu dei omnipoten<lb type="inWord"/>
+		tis et sic erat depu<lb type="inWord"/>
+		tatum super duos<lb/>
+		et portio ipsorum<lb/>
+		<milestone unit="column" n="b"/>in testimoniis sae<lb type="inWord"/>
+		culi in tabulis caeli<lb/>
+		quemadmodum be<lb type="inWord"/>
+		nedixit eos isac<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="ch" n="32"/><milestone unit="vs" n="1"/>Et dormierunt in<lb/>
+		nocte illa in bethel<lb/>
+		et somniauit leuui<lb/>
+		quasi ordinatus sit<lb/>
+		in sacerdotem dei ex<lb type="inWord"/>
+		celsi usque in saecula<lb/>
+		et expergefactus<lb/>
+		a somno suo benedi<lb type="inWord"/>
+		xit deum. <milestone unit="vs" n="2"/>Et exurgens<lb/>
+		iacob diluculo in quar<lb type="inWord"/>
+		tadecima die mensis<lb/>
+		huius decimauit uni<lb type="inWord"/>
+		uersa quaecumque<lb/>
+		uenerunt cum eo<lb/>
+		ab homine usque ad om<lb type="inWord"/>
+		nem animam et ab<lb/>
+		auro et usque ad om<lb type="inWord"/>
+		ne uas et uestimen<lb type="inWord"/>
+		tum decimauit uni<lb type="inWord"/>
+		uersa<add resp="#ocp">.</add>
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="5c" unit="page" n="180"/>
+	<milestone type="19c" unit="page" n="125" xml:id="palimpsest_page_125"/>
+	<milestone unit="column" n="a"/>
+	<p><milestone unit="vs" n="4"/>Et in illo tempore<lb/>
+		rachel in utero ha<lb type="inWord"/>
+		bentem beniamin<lb/>
+		filium suum enume<lb type="inWord"/>
+		rauit iacob ab ipso fi<lb type="inWord"/>
+		lios suos et ascendit<lb/>
+		et cecidit leuui in<lb/>
+		sortem dei et induit eum<lb/>
+		pater suus uestimen<lb type="inWord"/>
+		ta sacerdotalia et in<lb type="inWord"/>
+		pleuit manus eius<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="4"/>In die quintodecima<lb/>
+		mensis huius et ob<lb type="inWord"/>
+		tulit in ipso ad altare<lb/>
+		uitulos de bubus quat<lb type="inWord"/>
+		tuordecim et arie<lb type="inWord"/>
+		tis uiginti et octo<lb/>
+		et oues quadragin<lb type="inWord"/>
+		ta et nouem et hedos<lb/>
+		septem hircos capra<lb type="inWord"/>
+		rum uiginti et unum<lb/>
+		haec olocaustomata<lb/>
+		in altarium fructu<lb type="inWord"/>
+		um acceptabile in<lb/>
+		<milestone unit="column" n="b"/>odorem suauitatis<lb/>
+		in conspectu dei<add resp="#ocp">.</add> <milestone unit="vs" n="5"/>Hoc<lb/>
+		erat munus eius a uo<lb type="inWord"/>
+		to quo u<unclear>ou</unclear>erat de<lb type="inWord"/>
+		cimare cum sacrifi<lb type="inWord"/>
+		ciis et cum uino ipso<lb type="inWord"/>
+		rum<add resp="#ocp">.</add> <milestone unit="vs" n="6"/>Et quando con<lb type="inWord"/>
+		sumpsit ignis liba<lb type="inWord"/>
+		num super ignem<lb/>
+		desuper et sacrifi<lb type="inWord"/>
+		cium salutare uitu<lb type="inWord"/>
+		los duos arietes quat<lb type="inWord"/>
+		tuor agnos annicu<lb type="inWord"/>
+		los duos hircos ca<lb type="inWord"/>
+		prarum duos<add resp="#ocp">.</add> Et se<unclear>mel</unclear><lb/>
+		haec faciebat cot<lb type="inWord"/>
+		tidie in septem diebus<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="7"/>Et benedicebat et<lb/>
+		hymnum dicebat deo<lb/>
+		qui liberauit eum de<lb/>
+		omnibus tribulatio<lb type="inWord"/>
+		nibus eius et quoniam<lb/>
+		reddidit uotum suum<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="8"/>Et decimauit uniu<unclear>er</unclear>
+	</p>
+	<gap reason="lost" quantity="2" unit="page"/>
 </body>
 </text>
 </TEI>
