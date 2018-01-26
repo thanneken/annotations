@@ -8,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez </name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -28,40 +29,154 @@
 <text xml:lang="la">
 <body>
 
-<ab>
+
 <pb type="1861" n="30" xml:id="Ceriani_1861_030"/>
 <cb type="Ceriani" n="1"/>
 <milestone type="19c" unit="page" n="69"/>
 <milestone type ="5c" unit="page" n="141"/>
 <milestone unit="column" n="a"/>
 <milestone unit="ch" n="24"/>
-
+<p part="F">
+	<lb/>quem aedificauit pa
+	<lb type="inWord"/>ter eius et inuoca
+	<lb type="inWord"/>uit in nomine domini et 
+	<lb/>mactauit hostias deo 
+	<lb/>abraham patris sui<add resp="#ocp">.</add>
+	<milestone unit="vs" n="24"/>‎ Et foderunt puteum 
+	<lb/>et inuenerunt aquam
+	<lb/>uiuam<add resp="#ocp">.</add> <milestone unit="vs" n="25"/> Et foderunt 
+	<lb/>iterum puteum alium 
+	<lb/>pueri isac et non in
+	<lb type="inWord"/>uenerunt aquam et 
+	<lb/>aduenerunt et nun
+	<lb type="inWord"/>tiauerunt isac eo quod 
+	<lb/>non inuenissent 
+	<lb/>aquam<add resp="#ocp">.</add> Et dixit isac<add resp="#ocp">:</add>
+	<lb/>propter quod iura<unclear>ui</unclear>
+	<lb/>in die ista filistin fac
+	<lb type="inWord"/>tus est nobis ser
+	<lb type="inWord"/>mo hic<add resp="#ocp">.</add> <milestone unit="vs" n="26"/> Et uocauit no
+	<lb type="inWord"/>men loci illius<add resp="#ocp">:</add> pute
+	<lb type="inWord"/>us iurationis quoni
+	<lb type="inWord"/>am illic iurauit abi
+	<lb type="inWord"/>melec et ocozia so
+	<lb type="inWord"/>dalis illius et ficol
+	<lb/>
+	<milestone unit="column" n="b"/> princeps <unclear>exercitus</unclear>
+	<lb/>ipsius<add resp="#ocp">.</add> <milestone unit="vs" n="27"/> Et cognouit 
+	<lb/>isac in die illa quo
+	<lb type="inWord"/>niam <gap reason="illegible" quantity="4" unit="character"/> n <gap reason="illegible" quantity="3" unit="character"/> iu
+	<lb type="inWord"/>rauit ille facere 
+	<lb/>cum ipso pacem<add resp="#ocp">.</add> <milestone unit="vs" n="28"/> ‎ Et 
+	<lb/>maledixit isac in die 
+	<lb/>illa filistin et dixit<add resp="#ocp">:</add>
+	<lb/>maledictus filistin 
+	<lb/>in die irae et indig
+	<lb type="inWord"/>nationis a medio 
+	<lb/>omnium gentium<add resp="#ocp">.</add> 
+	<lb/>Det illum deus in obpro
+	<lb type="inWord"/>brium et in maledic
+	<lb type="inWord"/><unclear>tum</unclear> et in indigna
+	<lb type="inWord"/>tione ire in manu<unclear>m</unclear>
+	<lb/>peccatoris populi 
+	<lb/>et in manu c<unclear>et</unclear>tin<add resp="#ocp">.</add> <milestone unit="vs" n="29"/> Et 
+	<lb/>eradicet eum popu
+	<lb type="inWord"/>lus iustus in iudicio
+	<lb/>de sub caelo<add resp="#ocp">.</add> Quoni
+	<lb type="inWord"/>am inimici et con
+	<lb type="inWord"/>trari sunt filiis 
+	<lb/>meis in generationibus
+</p>
+<cb type="Ceriani" n="1"/>
+<milestone type="19c" unit="page" n="70"/>
+<milestone type ="5c" unit="page" n="140"/>
+<milestone unit="column" n="a"/>
+<milestone unit="ch" n="24"/>
+<p part="F">suis super terram<add resp="#ocp">.</add>
+	<milestone unit="vs" n="30"/> ‎ Et non derelinquen
+	<lb type="inWord"/>tur eis reliquiae et 
+	<lb/>salus <unclear>(s)</unclear>euadens in 
+	<lb/>die irae iudicii sed 
+	<lb/>in perditionem 
+	<lb/>et extermini
+	<lb type="inWord"/>um ut auferatur a fa
+	<lb type="inWord"/>cie terrae totum 
+	<lb/>semen filistinorum 
+	<lb/>et non erit illis om
+	<lb type="inWord"/>ne nomen relictum 
+	<lb/>super terram<add resp="#ocp">.</add> <milestone unit="vs" n="31"/> ‎ Et si 
+	<lb/>ascendat usque ad cae
+	<lb type="inWord"/>lum inde deponetur<add resp="#ocp">.</add>
+	<lb/> Et ubi fugiens erit 
+	<lb/>inde auferetur<add resp="#ocp">.</add> Et si occultauerit se 
+	<lb/>in medio gentium 
+	<lb/>eradicabitur<add resp="#ocp">.</add> Et si 
+	<lb/>descendat in infer
+	<lb type="inWord"/>num ibi abundabit 
+	<lb/>iudicium eius et non 
+	<lb/>erit ei illic omnis
+	<lb/>
+	<milestone unit="column" n="b"/>pax. <milestone unit="vs" n="32"/> ‎ Et si uadens abi
+	<lb type="inWord"/>erit in captiuitatem 
+	<lb/>in manu omnium quae
+	<lb type="inWord"/>rentium eum anima 
+	<lb/>eius et in medio in
+	<lb type="inWord"/>ferni interiet et 
+	<lb/>non erit ipsi semen 
+	<lb/>et nomen in omni 
+	<lb/>terra quoniam in 
+	<lb/>maledictum aeter
+	<lb type="inWord"/>num abibit<add resp="#ocp">.</add> <milestone unit="vs" n="33"/> ‎ Quia 
+	<lb/>sic scriptum est et 
+	<lb/>consignatum aduer
+	<lb type="inWord"/>sus illum in tabulis 
+	<lb/>caeli ut fiat illi in 
+	<lb/>die iudicii ut eradi
+	<lb type="inWord"/>cetur a facie terrae<add resp="#ocp">.</add>
+</p>
+<p><milestone unit="ch" n="25"/><milestone unit="vs" n="1"/> ‎ Et in anno secundo 
+	<lb/>septimanarum hu
+	<lb type="inWord"/>ius iubelei uocabit 
+	<lb/>rebecca filium suum 
+	<lb/>iacob et locuta est 
+	<lb/>ad eum dicens<add resp="#ocp">:</add> nate 
+	<lb/>noli sumere tibi - - -.
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	
 
 
 
 quem aedificauit pater eius et inuocauit in nomine domini et mactauit hostias deo abraham patris sui.
-24:24‎ Et foderunt puteum et inuenerunt aquam uiuam.
-24:25 Et foderunt iterum puteum alium pueri isac et non inuenerunt aquam et aduenerunt et nuntiauerunt isac eo quod non inuenissent aquam. Et dixit isac: propter quod iuraui in die ista filistin factus est nobis sermo hic.
-24:26 Et uocauit nomen loci illius: puteus iurationis quoniam illic iurauit abimelec et ocozia sodalis illius et ficol
+<milestone unit="vs" n="24"/>‎ Et foderunt puteum et inuenerunt aquam uiuam.
+<milestone unit="vs" n="25"/> Et foderunt iterum puteum alium pueri isac et non inuenerunt aquam et aduenerunt et nuntiauerunt isac eo quod non inuenissent aquam. Et dixit isac: propter quod iuraui in die ista filistin factus est nobis sermo hic.
+<milestone unit="vs" n="26"/> Et uocauit nomen loci illius: puteus iurationis quoniam illic iurauit abimelec et ocozia sodalis illius et ficol
 
 princeps exercitus ipsius.
-24:27 Et cognouit isac in die illa quoniam - - - n - - - iurauit ille facere cum ipso pacem.
-24:28 ‎ Et maledixit isac in die illa filistin et dixit: maledictus filistin in die irae et indignationis a medio omnium gentium. Det illum deus in obprobrium et in maledictum et in indignatione ire in manum peccatoris populi et in manu cettin.
-24:29 Et eradicet eum populus iustus in iudicio de sub caelo. Quoniam inimici et contrari sunt filiis meis in generationibus
+<milestone unit="vs" n="27"/> Et cognouit isac in die illa quoniam - - - n - - - iurauit ille facere cum ipso pacem.
+<milestone unit="vs" n="28"/> ‎ Et aledixit isac in die illa filistin et dixit: maledictus filistin in die irae et indignationis a medio omnium gentium. Det illum deus in obprobrium et in maledictum et in indignatione ire in manum peccatoris populi et in manu cettin.
+<milestone unit="vs" n="29"/> Et eradicet eum populus iustus in iudicio de sub caelo. Quoniam inimici et contrari sunt filiis meis in generationibus
 
 	<!-- p19c=70 p5c=142 -->
 
 suis super terram.
-24:30 ‎ Et non derelinquentur eis reliquiae et salus (s)euadens in die irae iudicii sed in perditionem et exterminium ut auferatur a facie terrae totum semen filistinorum et non erit illis omne nomen relictum super terram.
-24:31 ‎ Et si ascendat usque ad caelum inde deponetur. Et ubi fugiens erit inde auferetur. Et si occultauerit se in medio gentium eradicabitur. Et si descendat in infernum ibi abundabit iudicium eius et non erit ei illic omnis
+<milestone unit="vs" n="30"/> ‎ Et non derelinquentur eis reliquiae et salus (s)euadens in die irae iudicii sed in perditionem et exterminium ut auferatur a facie terrae totum semen filistinorum et non erit illis omne nomen relictum super terram.
+<milestone unit="vs" n="31"/> ‎ Et si ascendat usque ad caelum inde deponetur. Et ubi fugiens erit inde auferetur. Et si occultauerit se in medio gentium eradicabitur. Et si descendat in infernum ibi abundabit iudicium eius et non erit ei illic omnis
 
 pax.
-24:32 ‎ Et si uadens abierit in captiuitatem in manu omnium quaerentium eum anima eius et in medio inferni interiet et non erit ipsi semen et nomen in omni terra quoniam in maledictum aeternum abibit.
-24:33 ‎ Quia sic scriptum est et consignatum aduersus illum in tabulis caeli ut fiat illi in die iudicii ut eradicetur a facie terrae.
-25:1 ‎ Et in anno secundo septimanarum huius iubelei uocabit rebecca filium suum iacob et locuta est ad eum dicens: nate noli sumere tibi - - -.
+<milestone unit="vs" n="32"/> ‎ Et si uadens abierit in captiuitatem in manu omnium quaerentium eum anima eius et in medio inferni interiet et non erit ipsi semen et nomen in omni terra quoniam in maledictum aeternum abibit.
+<milestone unit="vs" n="33"/> ‎ Quia sic scriptum est et consignatum aduersus illum in tabulis caeli ut fiat illi in die iudicii ut eradicetur a facie terrae.
+<milestone unit="ch" n="25"/><milestone unit="vs" n="1"/> ‎ Et in anno secundo septimanarum huius iubelei uocabit rebecca filium suum iacob et locuta est ad eum dicens: nate noli sumere tibi - - -.
 
 
-</ab>
+</p>
 
 </body>
 </text>
