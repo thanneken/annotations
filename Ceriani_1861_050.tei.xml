@@ -28,29 +28,139 @@
 <body>
 
 <ab>
-<pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
+    <pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="239"/>
+	<milestone type="19c" unit="page" n="131" xml:id="palimpsest_page_131"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="45"/>
 
 	<!-- p19c=131 p5c=239 -->
+    <p><milestone unit="vs" n="8"/>
+       <!--45:8--> ‎ <add resp="#ocp">- - -</add> uit terra aegypti<lb/>
+       a facie famis. <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t pos<lb type="inWord"/>
+       sedit ioseph totam<lb/>
+       terram aegypti fara<lb type="inWord"/>
+       oni in esca. nam ho<lb type="inWord"/>
+       mines et iumenta et <lb/>
+       uniuersa adquisiuit<lb/>
+       pharaoni<add resp="#ocp">.</add>
+    </p>
+    <p><milestone unit="vs" n="9"/>
+       <!-- 45:9 --> ‎ Et consummati sunt<lb/> 
+       septem anni famis<lb/>
+       et dedit ioseph po<lb type="inWord"/>
+       pulo terrae semina<lb/>
+       et escas ut semina<lb type="inWord"/>
+       rent terram an<add resp="#ocp">-</add>
 
-45:8 ‎ - - - uit terra aegypti a facie famis. Et possedit ioseph totam terram aegypti faraoni in esca nam homines et iumenta et uniuersa adquisiuit pharaoni.
-45:9 ‎ Et consummati sunt septem anni famis et dedit ioseph populo terrae semina et escas ut seminarent terram an-
-
--no octauo propter quod fluuius ascenderat in omnem terram aegypti.
-45:10 ‎ In septem enim annis famis non ascenderat et non adaquauerat nisi modica loca secus litus fluminis et seminauerunt in anno octauo aegyptii terram suam et collegerunt fructus bonos in anno illo.
-45:11 ‎ Hic annus primus septimanarum quinti quinto et quadragesimo iubeleo.
-45:12 ‎ Et accepit ioseph quintam partem de omnibus quidquid natum est in terra aegypti portionem regalem et quattuor partes dedit illis in esca et in semine et proposuit ioseph omnibus aegyptiis hoc in praecepto in tota terra aegypti usque in diem hunc.
-45:13 ‎ Et uixit istrahel in terra aegypti annis
-
+       <add resp="#ocp">-</add>no<lb/>
+       octauo. propter quod<lb/>
+       fluuius ascenderat<lb/>
+       in omnem terram<lb/>
+       aegypti.<milestone unit="vs" n="10"/>
+       <!-- 45:10 --><choice><sic>i</sic><corr resp="#ocp">I</corr></choice>n septem<lb/>
+       enim annis famis non<lb/>
+       ascenderat et non<lb/>
+       adaquauerat nisi<lb/>
+       modica loca secus<lb/>
+       litus fluminis. et<lb/>
+       seminauerunt in an<lb type="inWord"/>
+       <milestone unit="column" n="b"/>no octauo aegyptii<lb/>
+       terram suam et<lb/>
+       collegerunt fruc<lb type="inWord"/>
+       tus bonos in anno<lb/>
+       illo.<milestone unit="vs" n="11"/>
+       <!-- 45:11 --> ‎ Hic annus pri<lb type="inWord"/>
+       mus septimanarum<lb/>
+       quinti quinto. et<lb/>
+       quadragesimo iu.<lb/>
+       beleo.<milestone unit="vs" n="12"/>
+       <!-- 45:12 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t accepit<lb/>
+       ioseph quintam par<lb type="inWord"/>
+       tem de omnibus quid<lb type="inWord"/>
+       quid natum est in<lb/>
+       terra aegypti por<lb type="inWord"/>
+       tionem regalem<lb/>
+       et quattuor partes<lb/>
+       dedit illis in esca et<lb/>
+       in semine. et pro<lb type="inWord"/>
+       posuit ioseph om<lb type="inWord"/>
+       nibus aegyptiis hoc<lb/>
+       in praecepto in to<lb type="inWord"/>
+       ta terra aegypti usque<lb/>
+       in diem hunc<add resp="#ocp">.</add>
+    </p>
+    <p><milestone unit="vs" n="13"/>
+       <!-- 45:13 -->Et uixit istrahel<lb/>
+       in terra aegypti annis
+    </p>
+    <p>
+<pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="240"/>
+	<milestone type="19c" unit="page" n="132" xml:id="palimpsest_page_132"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="45"/>
 	<!-- p19c=132 p5c=240 -->
 
-decem et septem et facti sunt omnes anni uitae eius quos uixit in tertio iubeleo centum quadraginta septem annis et deficiens mortuus est (.ET) quadragesimo quinto iubeleo in anno quarto septimanarum quinti.
-45:14 ‎ Benedixit istrahel filios suos priusquam moreretur et indicauit (quaecum) quaecumque uentura essent eis in terra aegypti in nouissimis diebus. Et benedixit eos et ioseph benedixit dupliciter in terra.
-45:15 ‎ Et dormiuit cum patribus suis
+       decem et septem<lb/>
+       et facti sunt omnes<lb/>
+       anni uitae eius quos<lb/>
+       uixit in tertio iube<lb type="inWord"/>
+       leo centum quadra<lb type="inWord"/>
+       ginta septem annis<lb/>
+       et deficiens mor<lb type="inWord"/>
+       tuus est<lb/>
+       </p>
+       <p>
+       <add resp="#ocp">(.</add>E<choice><sic>t</sic><corr resp="#ocp">T</corr></choice><add resp="#ocp">)</add> quadragesimo<lb/>
+       quinto iubeleo in<lb/>
+       anno quarto septi<lb type="inWord"/>
+       manarum quinti<add resp="#ocp">.</add><milestone type="vs" n="14"/>
+       <!-- 45:14 --><choice><sic>b</sic><corr resp="#ocp">B</corr></choice>enedixit istrahel<lb/>
+       filios suos priusquam<lb/>
+       moreretur et indi<lb type="inWord"/>
+       cauit <add resp="#ocp">(</add>quaecum<add resp="#ocp">)</add>quae<lb type="inWord"/>
+       cumque uentura es<lb type="inWord"/>
+       sent eis in terra ae<lb type="inWord"/>
+       gypti in nouissimis<lb/>
+       diebus<add resp="#ocp">.</add> Et benedixit<lb/>
+       eos. et ioseph bene<lb type="inWord"/>
+       dixit dupliciter in<lb/>
+       terra<add resp="#ocp">.</add><milestone unit="vs" n="15"/>
+       <!-- 45:15 -->Et dormi<lb type="inWord"/>
+       uit cum patribus suis<lb/><milestone unit="column" n="b"/>
 
-et sepultus est in spelunca duplici in terra canaan secus abraham patrem suum in sepulcro quem fodit sibi in chebron.
-45:16 ‎ Et dedit uniuersos libros suos et libros patris sui leuui filio suo ut custodiret eos et ut renouet eos filiis suis usque in hunc diem.
-46:1 ‎ Et factum est post mortem iacob multiplicati sunt filii istrahel in terra aegypti et facti sunt in gentem magnam et facti sunt unianimes cordibus suis ut diligerent singuli fratres suos et adiungebat se frater cum proximo suo - - -.
-
+       et sepultus est in s<lb type="inWord"/>
+       pelunca duplici in ter<lb type="inWord"/>
+       ra canaan secus abra<lb type="inWord"/>
+       ham patrem suum<lb/>
+       in sepulcro quem fo<lb type="inWord"/>
+       dit sibi in chebron<add resp="#ocp">.</add><lb/><milestone unit="vs" n="16"/>
+       <!-- 45:16 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t dedit uniuersos<lb/>
+       libros suos et libros<lb/>
+       patris sui leuui filio<lb/>
+       suo ut custodiret<lb/>
+       eos et ut renouet<lb/>
+       eos filiis suis usque<lb/>
+       in hunc diem<add resp="#ocp">.</add>
+     </p>
+     <p>
+     <milestone unit="ch" n="46"/>
+     <milestone unit="vs" n="1"/>
+       <!-- 46:1 -->Et factum est post mor<lb type="inWord"/>
+       tem iacob multiplica<lb type="inWord"/>
+       ti sunt filii istrahel<lb/>
+       in terra aegypti et fac<lb type="inWord"/>
+       ti sunt in gentem mag<lb type="inWord"/>
+       nam. et facti sunt uni<lb type="inWord"/>
+       animes cordibus suis<lb/>
+       ut diligerent singu<lb type="inWord"/>
+       li fratres suos. et<lb/>
+       adiungebat se fra<lb type="inWord"/>
+       ter cum proximo suo <add resp="#ocp">- - -.</add>
+</p>
 </ab>
 
 </body>
