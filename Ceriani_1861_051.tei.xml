@@ -29,31 +29,142 @@
 
 <ab>
 <pb type="1861" n="51" xml:id="Ceriani_1861_051"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="243"/>
+	<milestone type="19c" unit="page" n="102" xml:id="palimpsest_page_102"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="46"/>
 
 	<!-- p19c=102 p5c=243 -->
+     <p><milestone unit="vs" n="12"/>
+       <!-- 46:12 -->Et cogitauit rex chan<lb type="inWord"/>
+       aam cogitationem pes<lb type="inWord"/>
+       simam ut adfligeret eos.
+     </p>
+     <p><milestone unit="vs" n="13"/>
+       <!-- 46:13 -->Et in illo tempore di<lb type="inWord"/>
+       xerunt aegyptii<add resp="#ocp">:</add> ecce<lb/>
+       populus filiorum is<lb type="inWord"/>
+       trahel multiplicatus<lb/>
+       est ualde et plurimi<lb/>
+       facti sunt quam nos<add resp="#ocp">.</add><lb/>
+       <choice><sic>u</sic><corr resp="#ocp">U</corr></choice>enite ergo adfliga<lb type="inWord"/>
+       mus eos priusquam<lb/>
+       multiplicentur et<lb/>
+       humiliemus eos in<lb/>
+       operibus ipsorum ne<lb/>
+       forte occurrat no<lb type="inWord"/>
+       bis bellum et tunc<lb/>
+       belligerabunt et ipsi<lb/>
+       nos super inimicos<lb/>
+       nostros exeuntes<lb/>
+       de terra nostra.<lb/>
+       propter quod cor<lb/>
+       ipsorum et uultus<lb/>
+       eorum in tera cana<lb type="inWord"/>
+       an est<add resp="#ocp">.</add><milestone unit="vs" n="14"/>
+       <!-- 46:14 -->Et inposuit<lb/>
 
-46:12 ‎ Et cogitauit rex chanaam cogitationem pessimam ut adfligeret eos.
-46:13 ‎ Et in illo tempore dixerunt aegyptii: ecce populus filiorum istrahel multiplicatus est ualde et plurimi facti sunt quam nos. Uenite ergo adfligamus eos priusquam multiplicentur et humiliemus eos in operibus ipsorum ne forte occurrat nobis bellum et tunc belligerabunt et ipsi nos super inimicos nostros exeuntes de terra nostra propter quod cor ipsorum et uultus eorum in tera canaan est.
-46:14 ‎ Et inposuit
-
-super eos rex executores operum ut adfligant eos in operibus ipsorum. Et aedificauerunt ciuitates munitas faraoni phytoni et rammasse et oon et aedificauerunt omnem murum qui erat dirutus in ciuitatibus aegypti.
-46:15 ‎ Et redigerunt eos in seruitutem cum ui et quantum eos humiliabant multo plus multiplicabantur.
-46:16 ‎ Et abominabantur aegyptii filios istrahel.
-47:1 ‎ Et quadragesimo septimo iubeleo in septimanarum septimi anni septimo eius aduenit pater suus de terra canaan.
-
+       <milestone unit="column" n="b"/>super eos rex exe<lb type="inWord"/>
+       cutores operum ut<lb/>
+       adfligant eos in ope<lb type="inWord"/>
+       ribus ipsorum<add resp="#ocp">.</add>
+     </p>
+     <p> 
+       Et aedificauerunt ci<lb type="inWord"/>
+       uitates munitas fa<lb type="inWord"/>
+       raoni phytoni. et ram<lb type="inWord"/>
+       masse et oon. et ae<lb type="inWord"/>
+       dificauerunt omnem<lb/>
+       murum qui erat diru<lb type="inWord"/>
+       tus in ciuitatibus aegyp<lb type="inWord"/>
+       ti<add resp="#ocp">.</add><milestone unit="vs" n="15"/>
+       <!-- 45:15 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t redigerunt eos<lb/>
+       in seruitutem cum ui<lb/>
+       et quantum eos hu<lb type="inWord"/>
+       miliabant multo<lb/>
+       plus multiplicaban<lb type="inWord"/>
+       tur.<milestone unit="vs" n="16"/>
+       <!-- 46:16 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t abominaban<lb type="inWord"/>
+       tur aegyptii filios istrahel.
+     </p>
+     <p><milestone unit="ch" n="47"/>
+      <milestone unit="vs" n="1"/>
+      
+        <!-- 47:1--> Et quadragesimo<lb/>
+        septimo iubeleo<lb/>
+        in septimanarum sep<lb type="inWord"/>
+        timi anni septimo<lb/>
+        eius aduenit pater<lb/>
+        suus de terra canaa<unclear>n</unclear><add resp="#ocp">.</add>
+      </p>
+      <p>
+<pb type="1861" n="51" xml:id="Ceriani_1861_051"/>
+	  <cb type="Ceriani" n="1"/>
+	  <milestone type="5c" unit="page" n="244"/>
+	  <milestone type="19c" unit="page" n="101" xml:id="palimpsest_page_101"/>
+	  <milestone unit="column" n="a"/>
 	<!-- p19c=101 p5c=244 -->
 
-Et genuit in septimanarum quarto in anno sexto ipsius quadragesimo octauo iubeleo. Hoc est tempus tribulationis super filios istrahel.
-47:2 ‎ Et decreuit farao rex aegypti decretum super eos ut proicerent filios ipsorum omnes masculos qui nascebantur illis in flumine.
-47:3 ‎ Et erant pro(sp)icientes mensibus septem usque in tempus quo tu natus es. Et celauit te mater tua mensibus tribus et indicauerunt de ea.
-47:4 ‎ Et ilia timens fecit tibin et liniuit eam uitumine et pice et posuit eam secus litus
+       Et genuit in septima<lb type="inWord"/>
+       narum quarto in<lb/>
+       anno sexto ipsius<lb/>
+       quadragesimo oc<lb type="inWord"/>
+       tauo iubeleo<add resp="#ocp">.</add> <choice><sic>h</sic><corr resp="#ocp">H</corr></choice>oc est<lb/>
+       tempus tribulatio<lb type="inWord"/>
+       nis super filios istrahel<add resp="#ocp">.</add><lb/>
+<!-- 47:2 --><milestone unit="vs" n="2"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t decreuit farao rex<lb/>
+       aegypti decretum<lb/>
+       super eos ut proice<lb type="inWord"/>
+       rent filios ipsorum<lb/>
+       omnes masculos qui<lb/>
+       nascebantur illis<lb/>
+       in flumine.<milestone unit="vs" n="3"/>
+       <!-- 47:3 -->Et erant<lb/>
+       pro<add resp="#ocp">(</add>sp<add resp="#ocp">)</add>icientes men<lb type="inWord"/>
+       sibus septem usque in<lb/>
+       tempus quo tu natus<lb/>
+       es<add resp="#ocp">.</add> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t celauit te mater<lb/>
+       tua mensibus tribus et<lb/>
+       indicauerunt de ea<add resp="#ocp">.</add><milestone unit="vs" n="4"/>
+     </p>
+     <p>
+       <!-- 47:4 -->Et <choice><sic>illa</sic><corr resp="#ocp">ilia</corr></choice> timens fecit ti<lb type="inWord"/>
+       bin et liniuit eam ui<lb type="inWord"/>
+       tumine et pice et po<lb type="inWord"/>
+       suit eam secus litus<lb/>
+       <milestone unit="column" n="b"/>
 
-fluminis et posuit te in eam septem dies et mater tua ueniebat per noctem et porrigebat tibi lactem per diem soror tua maria custodiebat te ab auibus.
-47:5 ‎ Et in tempore illo exiuit termot filia faraonis lauari in flumine et audiuit uocem tuam flentis et dixit puellae suae ut adferret sibi infantem et adtulerunt te.
-47:6 ‎ Et tollens te de tibin pepercit super te.
-47:7 ‎ Et dixit illi soror tua: ibo et uocauo tibi si uis mulierem hebream quae nutriat ilium tibi. Et dixit ei: uade
-47:8 ‎ et ilia uocauit matrem suam et tuam iocabet et dedit illi
-
+       fluminis et posuit te<lb/>
+       in eam septem dies<lb/>
+       et mater tua ueniebat<lb/>
+       per noctem et porri<lb type="inWord"/>
+       gebat tibi lactem per<lb/>
+       diem soror tua maria<lb/>
+       custodiebat te ab auibus<add resp="#ocp">.</add>
+     </p>
+     <p><milestone unit="vs" n="5"/>
+       <!-- 47:5 --> ‎ Et in tempore illo exi<lb type="inWord"/>
+       uit termot filia fara<lb type="inWord"/>
+       onis lauari in flumine<lb/>
+       et audiuit uocem tuam<lb/>
+       flentis et dixit puel<lb type="inWord"/>
+       lae suae ut adferret<lb/>
+       sibi infantem et a<unclear>dtu</unclear><lb type="inWord"/>
+       lerunt te.<milestone unit="vs" n="6"/>
+       <!-- 47:6 --> ‎<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t tollens<lb/>
+       te de tibin pepercit<lb/>
+       super te<add resp="#ocp">.</add><milestone unit="vs" n="7"/>
+       <!-- 47:7 --> ‎ <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t dixit illi<lb/>
+       soror tua<add resp="#ocp">:</add> ibo et uoca<lb type="inWord"/>
+       <unclear>u</unclear>o tibi si uis mulierem<lb/>
+       hebream quae nutri<lb type="inWord"/>
+       at ilium tibi. <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t dixit ei<add resp="#ocp">:</add><lb/>
+       uade<milestone unit="vs" n="8"/>
+       <!-- 47:8 -->et <unclear><choice><sic>illa</sic><corr resp="#ocp">ilia</corr></choice></unclear> uocauit<lb/>
+       matrem suam et tuam<lb/>
+       iocabet. et dedit illi
+     </p>
 </ab>
 
 </body>
