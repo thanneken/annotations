@@ -8,7 +8,8 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
-		</titleStmt> <respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
 		</publicationStmt>
@@ -28,157 +29,116 @@
 <text xml:lang="la">
 <body>
 	<pb type="1861" n="23" xml:id="Ceriani_1861_023"/>
-<<<<<<< HEAD
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="115"/>
 	<milestone type="19c" unit="page" n="122" xml:id="palimpsest_page_122"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="20"/>
-	<p part="F"><milestone unit="vs" n="5"/>quemammodum iudicati sunt propter malitiam ipsorum propter quod conmisscebant se cum fornicariis et inmunditiam exercebant et omnem abominationem faciebant et praecepta neglegebant.
-		<milestone unit="vs" n="6"/>Et ideo ne forte et uos detis nomen uestrum in maledictionem et omnem uitam uestram in sibilationem et omnes filios uestros in exterminium et in gladium et eritis maledicti sicut sodoma et omnia derelicta uestra sicut filii gomorre.
-		<milestone unit="vs" n="7"/>Et ideo ego testor super uos filii diligite deum caeli et adherete omnibus mandatis eius et nolite ire post omnes abominationes ipsorum et post omnes inmunditias.
-		<milestone unit="vs" n="8"/>Et deos conflatiles non facietis uobis et sculptilia quia uana sunt et omnes spiritus non erit in eis quoniam opera manuum sunt et omnes qui confidunt in ea in nihilo confidunt Et ideo nolite seruire illis et nolite adorare eam.
-        <milestone unit="vs" n="9"/>Seruite autem deo excelso et adorate eum adorando
+	<p part="F"><milestone unit="vs" n="5"/><gap reason="lost" quantity="2" unit="pages"/>quemammodum iu<lb type="inWord"/>
+		dicati sunt propter<lb/>
+		malitiam ipsorum<lb/>
+		propter quod con<lb type="inWord"/>
+		misscebant se cum<lb/>
+		fornicariis et inmun<lb type="inWord"/>
+		ditiam exercebant<lb/>
+		et omnem abomi<lb type="inWord"/>
+		nationem faciebant<lb/>
+		et praecepta negle<lb type="inWord"/>
+		gebant<add resp="#ocp">.</add> <milestone unit="vs" n="6"/>Et ideo ne<lb/>
+		forte et uos detis<lb/>
+		nomen uestrum<lb/>
+		in maledictionem<lb/>
+		et omnem uitam<lb/>
+		uestram in sibila<lb type="inWord"/>
+		tionem et omnes<lb/>
+		filios uestros in ex<lb type="inWord"/>
+		terminium et in<lb/>
+		gladium et eritis<lb/>
+		maledicti sicut so<lb type="inWord"/>
+		doma et omnia de<lb type="inWord"/>
+		relicta uestra si<lb type="inWord"/>
+		cut filii gomorre<add resp="#ocp">.</add><lb/>
+		<milestone unit="column" n="b"/><milestone unit="vs" n="7"/>Et ideo ego testor<lb/>
+		super uos filii dili<lb type="inWord"/>
+		gite deum caeli et ad<lb type="inWord"/>
+		herete omnibus man<lb type="inWord"/>
+		datis eius et noli<lb type="inWord"/>
+		te ire post omnes<lb type="inWord"/>
+		abominationes ip<lb type="inWord"/>
+		sorum et post om<lb type="inWord"/>
+		nes inmunditias<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="8"/>Et deos conflati<lb type="inWord"/>
+		les non facietis uo<lb type="inWord"/>
+		bis et sculptilia quia<lb/>
+		uana sunt et om<lb type="inWord"/>
+		nes spiritus non erit in<lb/>
+		eis quoniam opera<lb/>
+		manuum sunt et<lb/>
+		omnes qui confidunt<lb/>
+		in ea in nihilo con<lb type="inWord"/>
+		fidunt. Et ideo no<lb type="inWord"/>
+		lite seruire illis<lb/>
+		et nolite adorare eam.
 	</p>
-	<!-- p19c=121 p5c=116 -->
-	<p part="F">
-		et sustinendo uultum eius in omni tempore et facite ueritatem et iustitiam in conspectu eius ut dirigat uos et det uobis misericordiam et deponat uobis plubias matutinas et serotinas et benedicat omnia opera uestra quaecumque operati super terram et benedicat panem tuum et aquam tuam et benedicet fructum uteri tui et fructum terrae tuae ut armenta bouum tuorum et (e)greges ouium tuarum.
-		20:10 Et eritis in benedictione super terra et desiderabunt uos
-		omnes gentes terrae et benedicent in nomine meo filios uestros ut sint in benedictionem quemammodum et ego.
-		20:11 Et dedit ismael filiis eius et filiis cetturae munera et emisit eos ab isac filio suo - - -.
-		20:12 - - - et filii eius et filii cetturae et filii sui et inhabitauerunt a faramon usque ad introitum babyloniae in omni terra orientali super faciem deserti.
-		20:13 Et conmixti sunt isti illis et adhesit nomen ipsorum arabiis et ismaelite usque in diem hanc.
-		21:1 Et in anno sexto sep-
+	<p><milestone unit="vs" n="9"/>Seruite autem deo<lb/>
+		excelso et adora<lb type="inWord"/>
+		te eum adorando
 	</p>
-=======
-        <cb type="Ceriani" n="1"/>
-        <milestone type="5c" unit="page" n="115"/>
-        <milestone type="19c" unit="page" n="122" xml:id="palimpsest_page_122"/>
-        <milestone unit="column" n="a"/>
-        <milestone unit="ch" n="20"/>
-        <p part="F">
-                <lb/><milestone unit="vs" n="5"/>quemammodum iu
-                <lb type="inWord"/>dicati sunt propter 
-                <lb/>malitiam ipsorum 
-                <lb/>propter quod con
-                <lb type="inWord"/>misscebant se cum 
-                <lb/>fornicariis et inmun
-                <lb type="inWord"/>ditiam exercebant
-                <lb/>et omnem abomi
-                <lb type="inWord"/>nationem faciebant 
-                <lb/>et praecepta negle
-                <lb type="inWord"/>gebant<add resp="#ocp">.</add> <milestone unit="vs" n="6"/> Et ideo ne 
-                <lb/>forte et uos detis 
-                <lb/>nomen uestrum 
-                <lb/>in maledictionem 
-                <lb/>et omnem uitam 
-                <lb/>uestram in sibila
-                <lb type="inWord"/>tionem et omnes 
-                <lb/>filios uestros in ex
-                <lb type="inWord"/>terminium et in 
-                <lb/>gladium et eritis
-                <lb/>maledicti sicut so
-                <lb type="inWord"/>doma et omnia de
-                <lb type="inWord"/>relicta uestra si
-                <lb type="inWord"/>cut filii gomorre<add resp="#ocp">.</add>
-				<lb/><milestone unit="column" n="b"/><milestone unit="vs" n="7"/>Et ideo ego testor
-				<lb/>super uos filii dili
-				<lb type="inWord"/>gite deum caeli et ad
-				<lb type="inWord"/>herete omnibus man
-				<lb type="inWord"/>datis eius et noli
-				<lb type="inWord"/>te ire post omnes 
-				<lb type="inWord"/>abominationes ip
-				<lb type="inWord"/>sorum et post om
-				<lb type="inWord"/>nes inmunditias<add resp="#ocp">.</add>
-                <lb/><milestone unit="vs" n="8"/> Et deos conflati
-                <lb type="inWord"/>les non facietis uo
-                <lb type="inWord"/>bis et sculptilia quia 
-                <Lb/>uana sunt et om
-                <lb type="inWord"/>nes spiritus non erit in 
-                <lb/>eis quoniam opera 
-                <lb/>manuum sunt et 
-                <Lb/>omnes qui confidunt 
-                <Lb/>in ea in nihilo con
-                <lb type="inWord"/>fidunt. Et ideo no
-                <lb type="inWord"/>lite seruire illis 
-                <lb/>et nolite adorare eam.
-        </p>
-        <p><milestone unit="vs" n="9"/> Seruite autem deo 
-                <lb/>excelso et adora
-                <lb type="inWord"/>te eum adorando
-        </p>
-        <milestone type="5c" unit="page" n="116"/>
-        <milestone type="19c" unit="page" n="121" xml:id="palimpsest_page_121"/>
-        <milestone unit="column" n="a"/>
-        <p part="F">et sustinendo uul
-        		<lb type="inWord"/>tum eius in omni tem
-        		<lb type="inWord"/>pore et facite ueri
-        		<lb type="inWord"/>tatem et iustitia<unclear>m</unclear> 
-        		<lb/>in conspectu eius 
-        		<lb/>ut dirigat uos et det 
-        		<lb/>uobis misericordi
-        		<lb type="inWord"/>am et deponat uobis 
-        		<lb/>plubias matutinas 
-        		<lb/>et serotinas et bene
-        		<lb type="inWord"/>dicat omnia opera 
-        		<lb/>uestra quaecumque 
-        		<lb/>operati super ter
-        		<lb type="inWord"/>ram et benedicat 
-        		<lb/>panem tuum et aquam 
-        		<lb/>tuam et benedic<unclear>et</unclear> 
-        		<lb/>fructum uteri tui 
-        		<lb/>et fructum terrae 
-        		<lb/>tuae ut armenta 
-        		<lb/>bouum tuorum et 
-        		<lb/><choice><sic>greges</sic><corr resp="#ocp">egreges</corr></choice> ouium tuarum<add resp="#ocp">.</add>
-        		<milestone unit="vs" n="10"/> Et eritis in benedic
-        		<lb type="inWord"/>tione super terra 
-        		<lb/>et desiderabunt uos
-        		<lb/><milestone unit="column" n="b"/> omnes gentes terrae 
-        		<lb/>et benedicent in no
-        		<lb type="inWord"/>mine meo filios ues
-        		<lb type="inWord"/>tros ut sint in bene
-        		<lb type="inWord"/>dictionem quema
-        		<lb type="inWord"/>mmodum et ego<add resp="#ocp">.</add>
-        </p>
-        <p><milestone unit="vs" n="11"/> Et dedit ismael filiis 
-        		<lb/>eius et filiis cettu
-        		<lb type="inWord"/>rae munera et emi
-        		<lb type="inWord"/>sit eos ab isac filio suo 
-        		<lb/><gap reason="illegible" quantity="11" unit="character"/><add resp="#ocp">.</add>
-        		<lb/><milestone unit="vs" n="12"/>et filii eius et filii 
-        		<lb/>cetturae et filii sui 
-        		<lb/>et inhabitauerunt 
-        		<lb/>a faramon usque ad in
-        		<lb type="inWord"/>troitum babyloniae 
-        		<lb/>in omni terra orien
-        		<lb type="inWord"/>tali super faciem 
-        		<lb/>deserti<add resp="#ocp">.</add> <milestone unit="vs" n="13"/> Et conmixti 
-        		<lb/>sunt isti illis et ad
-        		<lb type="inWord"/>hesit nomen ipsorum 
-        		<lb/>arabiis et ismaelite 
-        		<lb/>usque in diem hanc<add resp="#ocp">.</add>
-        </p>
-        <p><milestone unit="ch" n="21"/><milestone unit="vs" n="1"/> Et in anno sexto sep-
-        		
-        		
-        		
-        
-
-	<!-- p19c=121 p5c=116 -->
-
-et sustinendo uultum eius in omni tempore et facite ueritatem et iustitiam in conspectu eius ut dirigat uos et det uobis misericordiam et deponat uobis plubias matutinas et serotinas et benedicat omnia opera uestra quaecumque operati super terram et benedicat panem tuum et aquam tuam et benedicet fructum uteri tui et fructum terrae tuae ut armenta bouum tuorum et (e)greges ouium tuarum.
-<milestone unit="vs" n="10"/> Et eritis in benedictione super terra et desiderabunt uos
-
-omnes gentes terrae et benedicent in nomine meo filios uestros ut sint in benedictionem quemammodum et ego.
-<milestone unit="vs" n="11"/> Et dedit ismael filiis eius et filiis cetturae munera et emisit eos ab isac filio suo - - -.
-<milestone unit="vs" n="12"/> - - - et filii eius et filii cetturae et filii sui et inhabitauerunt a faramon usque ad introitum babyloniae in omni terra orientali super faciem deserti.
-<milestone unit="vs" n="13"/> Et conmixti sunt isti illis et adhesit nomen ipsorum arabiis et ismaelite usque in diem hanc.
-<milestone unit="vs" n="1"/> Et in anno sexto sep-
-
-</p>
-
->>>>>>> 50adac7494893faf75cf6b56310082b779cc329f
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="116"/>
+	<milestone type="19c" unit="page" n="121" xml:id="palimpsest_page_121"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">et sustinendo uul<lb type="inWord"/>
+		tum eius in omni tem<lb type="inWord"/>
+		pore et facite ueri<lb type="inWord"/>
+		tatem et iustitia<unclear>m</unclear><lb/>
+		in conspectu eius<lb/>
+		ut dirigat uos et det<lb/>
+		uobis misericordi<lb type="inWord"/>
+		am et deponat uobis<lb/>
+		plubias matutinas<lb/>
+		et serotinas et bene<lb type="inWord"/>
+		dicat omnia opera<lb/>
+		uestra quaecumque<lb/>
+		operati super ter<lb type="inWord"/>
+		ram et benedicat<lb/>
+		panem tuum et aquam<lb/>
+		tuam et benedic<unclear>et</unclear><lb/>
+		fructum uteri tui<lb/>
+		et fructum terrae<lb/>
+		tuae ut armenta<lb/>
+		bouum tuorum et<lb/>
+		<surplus resp="#ocp">e</surplus>greges ouium tuarum<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="10"/>Et eritis in benedic<lb type="inWord"/>
+		tione super terra<lb/>
+		et desiderabunt uos<lb/>
+		<milestone unit="column" n="b"/>omnes gentes terrae<lb/>
+		et benedicent in no<lb type="inWord"/>
+		mine meo filios ues<lb type="inWord"/>
+		tros ut sint in bene<lb type="inWord"/>
+		dictionem quemam<lb type="inWord"/>
+		modum et ego<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="11"/>Et dedit ismael filiis<lb/>
+		eius et filiis cettu<lb type="inWord"/>
+		rae munera et emi<lb type="inWord"/>
+		sit eos ab isac filio suo<lb/>
+		<gap reason="illegible" quantity="11" unit="character"/><lb/>
+		<milestone unit="vs" n="12"/>et filii eius et filii<lb/>
+		cetturae et filii sui<lb/>
+		et inhabitauerunt<lb/>
+		a faramon usque ad in<lb type="inWord"/>
+		troitum babyloniae<lb/>
+		in omni terra orien<lb type="inWord"/>
+		tali super faciem<lb/>
+		deserti<add resp="#ocp">.</add> <milestone unit="vs" n="13"/>Et conmixti<lb/>
+		sunt isti illis et ad<lb type="inWord"/>
+		hesit nomen ipsorum<lb/>
+		arabiis et ismaelite<lb/>
+		usque in diem hanc<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="ch" n="21"/><milestone unit="vs" n="1"/>Et in anno sexto <w part="I">sep</w>
+	</p>
 </body>
 </text>
 </TEI>
