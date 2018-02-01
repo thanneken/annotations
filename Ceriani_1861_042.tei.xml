@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -27,154 +28,120 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-	
-<pb type="1861" n="42" xml:id="Ceriani_1861_042"/>
+	<pb type="1861" n="42" xml:id="Ceriani_1861_042"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="187"/>
 	<milestone type="19c" unit="page" n="116" xml:id="palimpsest_page_116"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="33"/>
-	<p part="F">
-		<milestone unit="vs" n="18"/> <gap reason="illegible" quantity="3" unit="character"/>- - - nam accipere et mu
-		<lb type="inWord"/>nera<add resp="#ocp">.</add> <milestone unit="vs" n="19"/>Et indica illis
-		<lb/>sermones testa
-		<lb type="inWord"/>menti huius ut au
-		<lb type="inWord"/>diant et adtendant 
-		<lb/>ab ipsis ut non pe
-		<lb type="inWord"/>reant et non eradi
-		<lb type="inWord"/>cabuntur de terra
-		<lb/>propter quod inmun
-		<lb type="inWord"/>ditia et abominatio 
-		<lb/>et odium et pollutio
-		<lb/>omni qui faciunt ea 
-		<lb/>super terra in cons
-		<lb type="inWord"/>pectu dei n<unclear>ostri</unclear><add resp="#ocp">.</add>
-		</p>
-	<p><milestone unit="vs" n="20"/>Et est peccatum
-		<lb/>magnum super ter
-		<lb type="inWord"/>ram quoniam popu
-		<lb type="inWord"/>lus sanctus est istrahel 
-		<lb/>domino deo suo et plebs
-		<lb/>sortis est et popu
-		<lb type="inWord"/>lus sacerdotalis
-		<lb/>est et regalis et sa<unclear>nc</unclear>
-		<lb type="inWord"/>tificationis et non 
-		<lb/>est inmunditia in
-		<lb/>
-		<milestone unit="column" n="b"/>medio populi sancti<add resp="#ocp">.</add>
-		<lb/><milestone unit="vs" n="21"/> Et in anno tertio sep
-		<lb type="inWord"/> timanarum huius
-		<lb/>sexti erat iens iacob 
-		<lb/>et omnes filii sui et
-		<lb/>inhabitauerunt in
-		<lb/>barin abraham iux
-		<lb type="inWord"/>ta isac patrem <unclear>su</unclear>um 
-		<lb/>et rebeccam <unclear>matrem</unclear> 
-		<lb/>suam<add resp="#ocp">.</add> <milestone unit="vs" n="22"/> Haec sunt <unclear>aute</unclear>m 
-		<lb/>nomina filiorum
-		<lb/>iacob<add resp="#ocp">:</add> primogenitus
-		<lb/>ruben symeon leu<unclear>ui</unclear> 
-		<lb/>iudas isachar zab<unclear>y</unclear>
-		<lb type="inWord"/>lon filii liae<add resp="#ocp">.</add>
+	<p part="F"><milestone unit="vs" n="18"/><gap reason="lost" quantity="2" unit="page"/>nam accipere et mu<lb type="inWord"/>
+		nera<add resp="#ocp">.</add> <milestone unit="vs" n="19"/>Et indica illis<lb/>
+		sermones testa<lb type="inWord"/>
+		menti huius ut au<lb type="inWord"/>
+		diant et adtendant<lb/>
+		ab ipsis ut non pe<lb type="inWord"/>
+		reant et non eradi<lb type="inWord"/>
+		cabuntur de terra<lb/>
+		propter quod inmun<lb type="inWord"/>
+		ditia et abominatio<lb/>
+		et odium et pollutio<lb/>
+		omni qui faciunt ea<lb/>
+		super terra in cons<lb type="inWord"/>
+		pectu dei n<unclear>ostri</unclear><add resp="#ocp">.</add>
 	</p>
-	<p>Et filii rachel ioseph 
-		<lb/>et beniamin. 
+	<p><milestone unit="vs" n="20"/>Et est peccatum<lb/>
+		magnum super ter<lb type="inWord"/>
+		ram quoniam popu<lb type="inWord"/>
+		lus sanctus est istrahel<lb/>
+		domino deo suo et plebs<lb/>
+		sortis est et popu<lb type="inWord"/>
+		lus sacerdotalis<lb/>
+		est et regalis et sa<unclear>nc</unclear><lb type="inWord"/>
+		tificationis et non<lb/>
+		est inmunditia in<lb/>
+		<milestone unit="column" n="b"/>medio populi sancti<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="21"/>Et in anno tertio sep<lb type="inWord"/>
+		timanarum huius<lb/>
+		sexti erat iens iacob<lb/>
+		et omnes filii sui et<lb/>
+		inhabitauerunt in<lb/>
+		barin abraham iux<lb type="inWord"/>
+		ta isac patrem <unclear>su</unclear>um<lb/>
+		et rebeccam <unclear>m</unclear>a<unclear>trem</unclear><lb/>
+		suam<add resp="#ocp">.</add> <milestone unit="vs" n="22"/>Haec sunt <unclear>aut</unclear>em<lb/>
+		nomina filiorum<lb/>
+		iacob<add resp="#ocp">:</add> primogenitus<lb/>
+		ruben symeon leu<unclear>ui</unclear><lb/>
+		iudas isachar zab<unclear>y</unclear><lb type="inWord"/>
+		lon filii liae<add resp="#ocp">.</add>
 	</p>
-	<p>Et filii ballae dan et 
-		<lb/>neptalim. 
+	<p>Et filii rachel ioseph<lb/>
+		et beniamin.
 	</p>
-	<p>Et filii zelfae gad
-		<lb/>et aser<add resp="#ocp">.</add>
-		<lb/>Et dina filia liae sin
-		<lb type="inWord"/>gularis filia iacob<add resp="#ocp">.</add>
+	<p>Et filii ballae dan et<lb/>
+		neptalim.
+	</p>
+	<p>Et filii zelfae gad<lb/>
+		et aser<add resp="#ocp">.</add><lb/>
+		Et dina filia liae sin<lb type="inWord"/>
+		gularis filia iacob<add resp="#ocp">.</add>
 	</p>
 	<p><milestone unit="vs" n="23"/> Et aduenientes <unclear>hii</unclear>
 	</p>
-	<milestone type="5c" unit="page" n="187"/>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="5c" unit="page" n="188"/>
 	<milestone type="19c" unit="page" n="115" xml:id="palimpsest_page_115"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="33"/>
-	<p>adorauerunt isac
-		<lb/>et rebeccam<add resp="#ocp">.</add> Et uiden
-		<lb type="inWord"/>tes eos benedixerunt 
-		<lb/>iacob et omnes filios
-		<lb/>eius<add resp="#ocp">.</add> Et gauisus est
-		<lb/>isac ualde quoniam 
-		<lb/>uidit filios iacob filii 
-		<lb/>sui iunioris et bene
-		<lb type="inWord"/>dixit eos<add resp="#ocp">.</add> <milestone unit="ch" n="34"/><milestone unit="vs" n="1"/> Et quadra
-		<lb type="inWord"/>gesimo quarto iube
-		<lb type="inWord"/>leo in anno sexto 
-		<lb/>septimanarum huius
-		<lb/>misit iacob filios suos 
-		>lb/>ut pascerent oues
-		<lb/>suas et pueros suos
-		<lb/>cum ipsis campum sy
-		<lb type="inWord"/>cimae<add resp="#ocp">.</add> <milestone unit="vs" n="2"/> Et conuene
-		<lb type="inWord"/>runt eos septem re
-		<lb type="inWord"/>ges amorreorum et
-		<lb/>sederunt in lucum
-		<lb/>ut interficerent eos 
-		<lb/>et ut praedarentur
-		<lb/>oues ipsorum <gap reason="illegible" quantity="4" unit="character"/><add resp="#ocp">.</add>
-		<lb/><milestone unit="vs" n="3"/> Iacob autem et leuui
-		<lb/>
-		<milestone unit="column" n="b"/>et iudas et ioseph
-		<lb/>erant in bari secus 
-		<lb/>isac patrem suum 
-		<lb/>quoniam pusillani
-		<lb type="inWord"/>mis erat spiritus eius et
-		<lb/>non poterant eum 
-		<lb/>derelinquere<add resp="#ocp">.</add> Et
-		<lb/>beniamin erat iuni
-		<lb type="inWord"/>or propter hoc re
-		<lb type="inWord"/>manserat cum pa
-		<lb/>tre suo. <milestone unit="vs" n="4"/> Et adue
-		<lb type="inWord"/>nerunt reges saf
-		<lb type="inWord"/>fo et rex arco et
-		<lb/>rex saragan et rex 
-		<lb/>silo et rex gaas
-		<lb/>et rex <choice><sic>boton</sic><corr resp="#ocp">beton</corr></choice> et
-		<lb/>rex manesacer et
-		<lb/>uniuersi qui inhabi
-		<lb type="inWord"/>tant montana et 
-		<lb/>qui inhabitant in locis in terra ca
-		<lb type="inWord"/>naan<add resp="#ocp">.</add> <milestone unit="vs" n="5"/> Et indicatum
-		<lb/>est iacob quoniam 
-		<lb/>ecce reges amor - - -<add resp="#ocp">.</add>
+	<p part="F">adorauerunt isac<lb/>
+		et rebeccam<add resp="#ocp">.</add> Et uiden<lb type="inWord"/>
+		tes eos benedixerunt<lb/>
+		iacob et omnes filios<lb/>
+		<unclear>ei</unclear>us<add resp="#ocp">.</add> Et gauisus est<lb/>
+		isac ualde quoniam<lb/>
+		uidit filios iacob filii<lb/>
+		sui iunioris et bene<lb type="inWord"/>
+		dixit eos<add resp="#ocp">.</add> <milestone unit="ch" n="34"/><milestone unit="vs" n="1"/>Et quadra<lb type="inWord"/>
+		ge<surplus resp="#ocp">n</surplus>simo quarto iube<lb type="inWord"/>
+		leo in anno sexto<lb/>
+		septimanarum huius<lb/>
+		misit iacob filios suos<lb/>
+		ut pascerent oues<lb/>
+		suas et pueros suos<lb/>
+		cum ipsis campum sy<lb type="inWord"/>
+		<unclear>ci</unclear>mae<add resp="#ocp">.</add> <milestone unit="vs" n="2"/>Et conuene<lb type="inWord"/>
+		runt eos septem re<lb type="inWord"/>
+		ges amorreorum et<lb/>
+		sederunt in lucum<lb/>
+		ut interficerent eos<lb/>
+		et ut praedarentur<lb/>
+		oues ipsorum <gap reason="illegible" quantity="4" unit="character"/><add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="3"/>Iacob autem et leuui<lb/>
+		<milestone unit="column" n="b"/>et iudas et ioseph<lb/>
+		erant in bari secus<lb/>
+		isac patrem suum<lb/>
+		quoniam pusillani<lb type="inWord"/>
+		mis erat spiritus eius et<lb/>
+		non poterant eum<lb/>
+		derelinquere<add resp="#ocp">.</add> Et<lb/>
+		beniamin erat iuni<lb type="inWord"/>
+		or propter hoc re<lb type="inWord"/>
+		manserat cum pa<lb type="inWord"/>
+		tre suo. <milestone unit="vs" n="4"/>Et adue<lb type="inWord"/>
+		nerunt reges saf<lb type="inWord"/>
+		fo et rex arco et<lb/>
+		rex saragan et rex<lb/>
+		silo et rex gaas<lb/>
+		et rex b<choice><sic>o</sic><corr resp="#ocp">e</corr></choice>ton et<lb/>
+		rex manesacer et<lb/>
+		uniuersi qui inhabi<lb type="inWord"/>
+		tant montana et<lb/>
+		qui inhabitant in<lb/>
+		locis in terra ca<lb type="inWord"/>
+		naan<add resp="#ocp">.</add> <milestone unit="vs" n="5"/>Et indicatum<lb/>
+		est iacob quoniam<lb/>
+		ecce reges amor
 	</p>
-
-
-
-
-
-		
-
-
-
-	<!-- p19c=116 p5c=187 -->
-
-<milestone unit="vs" n="18"/> ‎ - - - nam accipere et munera.
-<milestone unit="vs" n="19"/>‎ Et indica illis sermones testamenti huius ut audiant et adtendant ab ipsis ut non pereant et non eradicabuntur de terra propter quod inmunditia et abominatio et odium et pollutio omni qui faciunt ea super terra in conspectu dei nostri.
-<milestone unit="vs" n="20"/>‎ Et est peccatum magnum super terram quoniam populus sanctus est istrahel domino deo suo et plebs sortis est et populus sacerdotalis est et regalis et sanctificationis et non est inmunditia in
-
-medio populi sancti.
-<milestone unit="vs" n="21"/> ‎ Et in anno tertio septimanarum huius sexti erat iens iacob et omnes filii sui et inhabitauerunt in barin abraham iuxta isac patrem suum et rebeccam matrem suam.
-<milestone unit="vs" n="22"/> ‎ Haec sunt autem nomina filiorum iacob: primogenitus ruben symeon leuui iudas isachar zabylon filii liae. Et filii rachel ioseph et beniamin. Et filii ballae dan et neptalim. Et filii zelfae gad et aser. Et dina filia liae singularis filia iacob.
-<milestone unit="vs" n="23"/> ‎ Et aduenientes hii
-
-	<!-- p19c=115 p5c=188 -->
-
-adorauerunt isac et rebeccam. Et uidentes eos benedixerunt iacob et omnes filios eius. Et gauisus est isac ualde quoniam uidit filios iacob filii sui iunioris et benedixit eos.
-<milestone unit="vs" n="1"/>  Et quadragesimo quarto iubeleo in anno sexto septimanarum huius misit iacob filios suos ut pascerent oues suas et pueros suos cum ipsis campum sycimae.
-<milestone unit="vs" n="2"/> ‎ Et conuenerunt eos septem reges amorreorum et sederunt in lucum ut interficerent eos et ut praedarentur oues ipsorum - - -.
-<milestone unit="vs" n="3"/> ‎ Iacob autem et leuui
-
-et iudas et ioseph erant in bari secus isac patrem suum quoniam pusillanimis erat spiritus eius et non poterant eum derelinquere. Et beniamin erat iunior propter hoc remanserat cum patre suo.
-<milestone unit="vs" n="4"/> ‎ Et aduenerunt reges saffo et rex arco et rex saragan et rex silo et rex gaas et rex b*e*ton et rex manesacer et uniuersi qui inhabitant montana et qui inhabitant in locis in terra canaan.
-<milestone unit="vs" n="5"/> ‎ Et indicatum est iacob quoniam ecce reges amor - - -.
-
-
+	<gap reason="lost" quantity="4" unit="page"/>
 </body>
 </text>
 </TEI>
