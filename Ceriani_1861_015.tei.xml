@@ -37,121 +37,119 @@
 	<milestone unit="ch" n="13"/>
 	<p part="F">
 		<milestone unit="vs" n="10"/>
-		et inhabitauit illic
-		<lb/>annis duobus.
+		et inhabitauit illic<lb/>
+		annis duobus.
 	</p>
-	<p>Et promouit inde
-		<lb/>in austrum usque ba
-		<lb type="inWord"/>halot et facta est
-		<lb/>famis super terram<add resp="#ocp">.</add>
-		<lb/><milestone unit="vs" n="11"/>Et abiit abram in ae
-		<lb type="inWord"/>gyptum anno tertio
-		<lb/>septimani et inha
-		<lb type="inWord"/>bitauit in terram
-		<lb/>aegypti quinque annis
-		<lb/>priusquam rapere
-		<lb type="inWord"/>tur uxor ipsius ab eo<add resp="#ocp">.</add>
-		<lb/><milestone unit="vs" n="12"/>
+	<p>Et promouit inde<lb/>
+		in austrum usque ba<lb type="inWord"/>
+		halot et facta est<lb/>
+		famis super terram<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="11"/>Et abiit abram in ae<lb type="inWord"/>
+		gyptum anno tertio<lb/>
+		septimani et inha<lb type="inWord"/>
+		bitauit in terram<lb/>
+		aegypti quinque annis<lb/>
+		priusquam rapere<lb type="inWord"/>
+		tur uxor ipsius ab eo<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="12"/>
 		<choice>
 			<sic>e</sic>
 			<corr resp="#ocp">E</corr>
 		</choice> <!-- let's not code every capitalization into an editorial change, but this is an example of how it would be done. -->
-		t taneos ciuitas aegypti
-		<lb/>tunc aedificata
-		<lb/>est annis septem
-		<lb/>post cebron<add resp="#ocp">.</add>
+		t taneos ciuitas aegypti<lb/>
+		tunc aedificata<lb/>
+		est annis septem<lb/>
+		post cebron<add resp="#ocp">.</add>
 	</p>
-	<p><milestone unit="vs" n="13"/>Et factum est cum
-		<lb/>rapuisset farao sa
-		<lb type="inWord"/>ram uxorem abram
-		<lb/>quaestionauit dominus
-		<lb/>faraonem et domum
-		<lb/>eius quaestionibus
-		<lb/>magnis propter
-		<lb/>
-		<milestone unit="column" n="b"/>saram uxorem abram.
-		<lb/><milestone unit="vs" n="14"/>Et tunc abram glo
-		<lb type="inWord"/>rificauit diuitiis ual
-		<lb type="inWord"/>de omnibus ouibus et
-		<lb/>bubus et asinis et
-		<lb/>camelis et equis et
-		<lb/>seruis et ancillis
-		<lb/>argento et aro ual
-		<lb type="inWord"/>de<add resp="#ocp">.</add>Etenim et loth
-		<lb/>filio fratris sui e
-		<lb type="inWord"/>rant diuitiae<add resp="#ocp">.</add> <milestone unit="vs" n="15"/>Et red
-		<lb type="inWord"/>didit farao saram
-		<lb/>uxorem abram uiro
-		<lb/>suo et eiecit eum
-		<lb/>de terra aegypti
-		<lb/>et peruenit in locum
-		<lb/>ubi fixerat taber
-		<lb type="inWord"/>naculum suum in
-		<lb/>primis in locum al
-		<lb type="inWord"/>tarii agge ad orientis
-		<lb/>partem et betel
-		<lb/>a mare et benedixit
-		<lb/>dominum deum suum qui
-		<lb/>reuocauit eum in pa
-		<lb type="inWord"/>
+	<p><milestone unit="vs" n="13"/>Et factum est cum<lb/>
+		rapuisset farao sa<lb type="inWord"/>
+		ram uxorem abram<lb/>
+		quaestionauit dominus<lb/>
+		faraonem et domum<lb/>
+		eius quaestionibus<lb/>
+		magnis propter<lb/>
+		<milestone unit="column" n="b"/>saram uxorem abram.<lb/>
+		<milestone unit="vs" n="14"/>Et tunc abram glo<lb type="inWord"/>
+		rificauit diuitiis ual<lb type="inWord"/>
+		de omnibus ouibus et<lb/>
+		bubus et asinis et<lb/>
+		camelis et equis et<lb/>
+		seruis et ancillis<lb/>
+		argento et aro ual<lb type="inWord"/>
+		de<add resp="#ocp">.</add>Etenim et loth<lb/>
+		filio fratris sui e<lb type="inWord"/>
+		rant diuitiae<add resp="#ocp">.</add> <milestone unit="vs" n="15"/>Et red<lb type="inWord"/>
+		didit farao saram<lb/>
+		uxorem abram uiro<lb/>
+		suo et eiecit eum<lb/>
+		de terra aegypti<lb/>
+		et peruenit in locum<lb/>
+		ubi fixerat taber<lb type="inWord"/>
+		naculum suum in<lb/>
+		primis in locum al<lb type="inWord"/>
+		tarii agge ad orientis<lb/>
+		partem et betel<lb/>
+		a mare et benedixit<lb/>
+		dominum deum suum qui<lb/>
+		reuocauit eum in pa<lb type="inWord"/>
 		<!-- not a typical line break starting a new line to the left, more of a sublilnear  -->
 		ce<add resp="#ocp">.</add>
 	</p>
+	<cb type="Ceriani" n="2"/>
 	<milestone type="5c" unit="page" n="84"/>
 	<milestone type="19c" unit="page" n="61" xml:id="palimpsest_page_061"/>
 	<cb type="Ceriani" n="2"/>
 	<milestone unit="column" n="a"/>
-	<p><milestone unit="vs" n="16"/>Et factum est in qua
-		<lb type="inWord"/>dragesimo et primo
-		<lb/>iubeleo anno tert<unclear>io</unclear>
-		<lb/>ebdomadarum pri
-		<lb type="inWord"/>mi reuersus est in
-		<lb/>locum hunc et obtu
-		<lb type="inWord"/>lit olocaustomata
-		<lb/>et inuocauit in no
-		<lb type="inWord"/>mine domini: tu es deus ex
-		<lb type="inWord"/>celsus deus meus in
-		<lb/>saecula saeculorum.
+	<p><milestone unit="vs" n="16"/>Et factum est in qua<lb type="inWord"/>
+		drage<surplus resp="#ocp">n</surplus>simo et primo<lb/>
+		iubeleo anno tert<unclear>io</unclear><lb/>
+		ebdomadarum pri<lb type="inWord"/>
+		mi reuersus est in<lb/>
+		locum hunc et obtu<lb type="inWord"/>
+		lit olocaustomata<lb/>
+		et inuocauit in no<lb type="inWord"/>
+		mine domini: tu es deus ex<lb type="inWord"/>
+		celsus deus meus in<lb/>
+		saecula saeculorum.
 	</p>
-	<p><milestone unit="vs" n="17"/>Et in no quarto septi
-		<lb type="inWord"/>manarum huius se
-		<lb type="inWord"/>paratus est loth ab
-		<lb/>ipso et inhabitauit
-		<lb/>sodomis. Et homines
-		<lb/>sodomitae pecca
-		<lb type="inWord"/>tores erant ualde
-		<lb/>et iniqui in cordibus
-		<lb/>suis. <milestone unit="vs" n="18"/>propter quod
-		<lb/>separatus est loth
-		<lb/>filius fratris sui ab
-		<lb/>eo eo quod non erant
-		<lb/>illi filii <milestone unit="vs" n="19"/>captiuatus est
-		<lb/>
-		<milestone unit="column" n="b"/>loth ab ipso. In quar
-		<lb type="inWord"/>to autem anno sep
-		<lb type="inWord"/>timani huius iubelei
-		<lb/>ipsius dixit deus ad abram:
-		<lb/>eleua oculos tuos
-		<lb/>de loco ubi sedes tu
-		<lb/>ad occasum et afri
-		<lb type="inWord"/>cum et orientem
-		<lb/>et septentrionem.
-		<lb/><milestone unit="vs" n="20"/>Quoniam omnem
-		<lb/>terram quam tu ui
-		<lb type="inWord"/>des tibi et semini tuo
-		<lb/>dabo eam in saecula<add resp="#ocp">.</add>
-		<lb/>Et ponam semen
-		<lb/>tuum sicut harena
-		<lb/>maris etenim semen
-		<lb/>tuum non enume
-		<lb type="inWord"/>rabitur. <milestone unit="vs" n="21"/>Et tu ex
-		<lb type="inWord"/>surgens perambu
-		<lb type="inWord"/>la latitudinem eius
-		<lb/>et uide uniuersa quia
-		<lb/>semini tuo dabo eam<add resp="#ocp">.</add>
+	<p><milestone unit="vs" n="17"/>Et in no quarto septi<lb type="inWord"/>
+		manarum huius se<lb type="inWord"/>
+		paratus est loth ab<lb/>
+		ipso et inhabitauit<lb/>
+		sodomis. Et homines<lb/>
+		sodomitae pecca<lb type="inWord"/>
+		tores erant ualde<lb/>
+		et iniqui in cordibus<lb/>
+		suis. <milestone unit="vs" n="18"/>propter quod<lb/>
+		separatus est loth<lb/>
+		filius fratris sui ab<lb/>
+		eo eo quod non erant<lb/>
+		illi filii <milestone unit="vs" n="19"/>captiuatus est<lb/>
+		<milestone unit="column" n="b"/>loth ab ipso. In quar<lb type="inWord"/>
+		to autem anno sep<lb type="inWord"/>
+		timani huius iubelei<lb/>
+		ipsius dixit deus ad abram:<lb/>
+		eleua oculos tuos<lb/>
+		de loco ubi sedes tu<lb/>
+		ad occasum et afri<lb type="inWord"/>
+		cum et orientem<lb/>
+		et septentrionem.<lb/>
+		<milestone unit="vs" n="20"/>Quoniam omnem<lb/>
+		terram quam tu ui<lb type="inWord"/>
+		des tibi et semini tuo<lb/>
+		dabo eam in saecula<add resp="#ocp">.</add><lb/>
+		Et ponam semen<lb/>
+		tuum sicut harena<lb/>
+		maris etenim semen<lb/>
+		tuum non enume<lb type="inWord"/>
+		rabitur. <milestone unit="vs" n="21"/>Et tu ex<lb type="inWord"/>
+		surgens perambu<lb type="inWord"/>
+		la latitudinem eius<lb/>
+		et uide uniuersa quia<lb/>
+		semini tuo dabo eam<add resp="#ocp">.</add>
 	</p>
-	<p part="I">Et abiit abram in ce
-		<lb type="inWord"/>bron et inhabitauit<add resp="#ocp">.</add>
+	<p part="I">Et abiit abram in ce<lb type="inWord"/>
+		bron et inhabitauit<add resp="#ocp">.</add>
 	</p>
 </body>
 </text>
