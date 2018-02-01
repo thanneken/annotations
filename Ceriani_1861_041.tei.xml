@@ -28,129 +28,120 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="41" xml:id="Ceriani_1861_041"/>
+	<pb type="1861" n="41" xml:id="Ceriani_1861_041"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="185"/>
 	<milestone type="19c" unit="page" n="72" xml:id="palimpsest_page_072"/>
 	<milestone unit="column" n="a"/>
-	<p part="F">
-		<milestone unit="ch" n="32"/><milestone unit="vs" n="29"/>
-		addita est in dies die
-		<lb type="inWord"/>rum festorum secun
-		<lb type="inWord"/>dum numerum die
-		<lb type="inWord"/>rum anni.
-
+	<milestone unit="ch" n="32"/>
+	<p part="F">addita est in dies die<lb type="inWord"/>
+		rum festorum secun<lb type="inWord"/>
+		dum numerum die<lb type="inWord"/>
+		rum anni.
 	</p>
-	<p><milestone unit="vs" n="30"/>Et uigensimo die
-		<lb/>mensis huius in noc
-		<lb type="inWord"/>te tertia mortua
-		<lb/>est. Deborra nutrix
-		<lb/>rebeccae<add resp="#ocp">.</add> Et sepel
-		<lb type="inWord"/>lierunt eam inferi
-		<lb type="inWord"/>us ciuitate sub glan
-		<lb type="inWord"/>de in torrentem et
-		<lb type="inWord"/>uocauerunt nomen
-		<lb/>loci illius torrens
-		<lb/>debborae<add resp="#ocp">.</add> <milestone unit="vs" n="31"/> Et abiit ia
-		<lb type="inWord"/>cob et reuersus est
-		<lb/>in barin ad patrem
-		<lb/>suum isac et misit
-		<lb/>iacob in manu eius
-		<lb/>arietes et oues et
-		<lb/>hircos facere patri
-		<lb/>suo cibos secundum
-		<lb/>uolumtatem eius<add resp="#ocp">.</add>
-		<lb/><milestone unit="vs" n="32"/> Et abiit post matrem
-		<lb/><milestone unit="column" n="b"/> suam quousque adue
-		<lb type="inWord"/>nit i<unclear>n d</unclear>abrata et re
-		<lb type="inWord"/>mansit ibi<add resp="#ocp">.</add> <milestone unit="vs" n="33"/> Et pepe
-		<lb type="inWord"/>rit rachel in nocte
-		<lb/>illa puerum et uoca
-		<lb type="inWord"/>uit nomen eius be
-		<lb type="inWord"/>niamin. Et iubeleo
-		<lb/>huius in decimo die
-		<lb/>mensis octaui pri
-		<lb type="inWord"/>mo anno septima
-		<lb type="inWord"/>narum sexti<add resp="#ocp">.</add> <milestone unit="vs" n="34"/> Tunc
-		<lb/>mortua est illic ra
-		<lb type="inWord"/>chel et sepulta est
-		<lb/>in terra eufrata haec
-		<lb/>est bethlem et ae
-		<lb type="inWord"/>dificauit iacob super
-		<lb/>sepulcrum rachel
-		<lb/>titulum <choice><sic>eius</sic><corr resp="#ocp">in uia</corr></choice> sepul
-		<lb type="inWord"/>cri eius. <milestone unit="ch" n="33"/><milestone unit="vs" n="1"/> Et abiit ia
-		<lb type="inWord"/>cob et requieuit
-		<lb/>ad austrum magda
-		<lb type="inWord"/>le efratam et abiit
-		<lb/>ad patrem suum isac
-		<lb/>ipse et uxor sua lia
-		</p>
+	<p><milestone unit="vs" n="30"/>Et uigensimo die<lb/>
+		mensis huius in noc<lb type="inWord"/>
+		te tertia mortua<lb/>
+		est. Deborra nutrix<lb/>
+		rebeccae<add resp="#ocp">.</add> Et sepel<lb type="inWord"/>
+		lierunt eam inferi<lb type="inWord"/>
+		us ciuitate sub glan<lb type="inWord"/>
+		de in torrentem et<lb type="inWord"/>
+		uocauerunt nomen<lb/>
+		loci illius torrens<lb/>
+		debborae<add resp="#ocp">.</add> <milestone unit="vs" n="31"/>Et abiit ia<lb type="inWord"/>
+		cob et reuersus est<lb/>
+		in barin ad patrem<lb/>
+		suum isac et misit<lb/>
+		iacob in manu eius<lb/>
+		arietes et oues et<lb/>
+		hircos facere patri<lb/>
+		suo cibos secundum<lb/>
+		uolumtatem eius<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="32"/>Et abiit post matrem<lb/>
+		<milestone unit="column" n="b"/>suam quousque adue<lb type="inWord"/>
+		nit <unclear>in d</unclear>abrata et re<lb type="inWord"/>
+		mansit ibi<add resp="#ocp">.</add> <milestone unit="vs" n="33"/>Et pepe<lb type="inWord"/>
+		rit rachel in nocte<lb/>
+		illa puerum et uoca<lb type="inWord"/>
+		uit nomen eius be<lb type="inWord"/>
+		niamin. Et iubeleo<lb/>
+		huius in decimo die<lb/>
+		mensis octaui pri<lb type="inWord"/>
+		mo anno septima<lb type="inWord"/>
+		narum sexti<add resp="#ocp">.</add> <milestone unit="vs" n="34"/>Tunc<lb/>
+		mortua est illic ra<lb type="inWord"/>
+		chel et sepulta est<lb/>
+		in terra eufrata haec<lb/>
+		est bethlem et ae<lb type="inWord"/>
+		dificauit iacob super<lb/>
+		sepulcrum rachel<lb/>
+		titulum <choice><sic>eius</sic><corr resp="#ocp">in uia</corr></choice> sepul<lb type="inWord"/>
+		cri eius. <milestone unit="ch" n="33"/><milestone unit="vs" n="1"/>Et abiit ia<lb type="inWord"/>
+		cob et requieuit<lb/>
+		ad austrum magda<lb type="inWord"/>
+		le efratam et abiit<lb/>
+		ad patrem suum isac<lb/>
+		ipse et uxor sua lia
+	</p>
+	<cb type="Ceriani" n="2"/>
 	<milestone type="5c" unit="page" n="186"/>
 	<milestone type="19c" unit="page" n="71" xml:id="palimpsest_page_071"/>
-	<cb type="Ceriani" n="2"/>
 	<milestone unit="column" n="a"/>
-	<p part="F">in prima die mensis
-		<lb/>decimi. <milestone unit="vs" n="2"/> Et uidit ru
-		<lb type="inWord"/>ben ballam ancillam
-		<lb/>rachel concubinam
-		<lb/>patris sui labantem
-		<lb/>se in aqua in loco oc
-		<lb/>culto et dilexit eam<add resp="#ocp">.</add>
-		<lb/><milestone unit="vs" n="3"/> Et introiuit nocte
-		<lb/>occultae ad ballan
-		<lb/>et inuenit eam dor
-		<lb type="inWord"/>mientem in lectu
-		<lb type="inWord"/>lum suum solam
-		<lb/>in tabernaculo suo<add resp="#ocp">.</add>
-		<lb/><milestone unit="vs" n="4"/> Et dormiuit cum ea
-		<lb/>et expergefacta
-		<lb/>est. Et ecce erat
-		<lb/>ruben cum ipsa su
-		<lb type="inWord"/>per lectum et le
-		<lb type="inWord"/>uans sagum tenu
-		<lb type="inWord"/>it illum et uocife
-		<lb type="inWord"/>rata est et cogno
-		<lb type="inWord"/>uit quoniam ruben
-		<lb/>est <milestone unit="vs" n="5"/> Et confusus est
-		<lb/>ab ea et dimisit illa
-		<lb/>
-		<milestone unit="column" n="b"/>manus sua ab illo
-		<lb/>et fugit <milestone unit="vs" n="6"/> Et lugebat
-		<lb/>pro hoc ualde et om
-		<lb type="inWord"/>ni homini indicauit
-		<lb/>quemadmodum ue
-		<lb type="inWord"/>niret. <milestone unit="vs" n="7"/> Et cum ue
-		<lb type="inWord"/>nit iacob indicauit
-		<lb/>illi et dixit ad iacob<add resp="#ocp">:</add>
-		<lb/>non sum tibi mun
-		<lb type="inWord"/>da quoniam pollu
-		<lb type="inWord"/>ta sum abs te quo
-		<lb type="inWord"/>niam polluit me ru
-		<lb type="inWord"/>ben et dormiuit me
-		<!-- Ceriani has a line break:'me-cum' where the XML version consideres 'me cum' two different words
-		... let's follow Ceriani-->
-		<lb type="inWord"/>cum nocte et ego
-		<lb/>eram obdormiens
-		<lb/>et nesciui quousque
-		<lb/>decooperuit coo
-		<lb type="inWord"/>pertorium meum
-		<lb/>et dormiuit mecum<add resp="#ocp">:</add>
-		<!-- XML consideres me cum two seperate words whereas Ceriani considers it one word: mecum
-		... let's stick with Ceriani again. In theory we could call the space an addition by OCP, but I don't think it would matter here.-->
-	</p>
-	<p>
-		<milestone unit="vs" n="8"/> Et iratus est iacob
-		<lb/>aduersus ruben
-		<lb/>ualde quoniam dor
-		<lb type="inWord"/>miuit cum balla<add resp="#ocp">:</add>
-	</p>
-	<p>
-		<milestone unit="vs" n="9"/> Et non cognouit
-		<gap reason="lost" quantity="2" unit="page"/>
-	</p>
+	<p part="F">in prima die mensis<lb/>
+		decimi. <milestone unit="vs" n="2"/>Et uidit ru<lb type="inWord"/>
+		ben ballam ancillam<lb/>
+		rachel concubinam<lb/>
+		patris sui labantem<lb/>
+		se in aqua in loco oc<lb/>
+		culto et dilexit eam<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="3"/>Et introiuit nocte<lb/>
+		occultae ad ballan<lb/>
+		et inuenit eam dor<lb type="inWord"/>
+		mientem in lectu<lb type="inWord"/>
+		lum suum solam<lb/>
+		in tabernaculo suo<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="4"/>Et dormiuit cum ea<lb/>
+		et expergefacta<lb/>
+		est. Et ecce erat<lb/>
+		ruben cum ipsa su<lb type="inWord"/>
+		per lectum et le<lb type="inWord"/>
+		uans sagum tenu<lb type="inWord"/>
+		it illum et uocife<lb type="inWord"/>
+		rata est et cogno<lb type="inWord"/>
+		uit quoniam ruben<lb/>
+		est <milestone unit="vs" n="5"/>Et confusus est<lb/>
+		ab ea et dimisit illa<lb/>
 
+		<milestone unit="column" n="b"/>manus sua ab illo<lb/>
+		et fugit <milestone unit="vs" n="6"/>Et lugebat<lb/>
+		pro hoc ualde et om<lb type="inWord"/>
+		ni homini indicauit<lb/>
+		quemadmodum ue<lb type="inWord"/>
+		niret. <milestone unit="vs" n="7"/>Et cum ue<lb type="inWord"/>
+		nit iacob indicauit<lb/>
+		illi et dixit ad iacob<add resp="#ocp">:</add><lb/>
+		non sum tibi mun<lb type="inWord"/>
+		da quoniam pollu<lb type="inWord"/>
+		ta sum abs te quo<lb type="inWord"/>
+		niam polluit me ru<lb type="inWord"/>
+		ben et dormiuit me<lb type="inWord"/>
+		cum nocte et ego<lb/>
+		eram obdormiens<lb/>
+		et nesciui quousque<lb/>
+		decooperuit coo<lb type="inWord"/>
+		pertorium meum<lb/>
+		et dormiuit mecum<add resp="#ocp">:</add>
+	</p>
+	<p><milestone unit="vs" n="8"/>Et iratus est iacob<lb/>
+		aduersus ruben<lb/>
+		ualde quoniam dor<lb type="inWord"/>
+		miuit cum balla<add resp="#ocp">:</add>
+	</p>
+	<p>
+		<milestone unit="vs" n="9"/>Et non cognouit
+	</p>
+	<gap reason="lost" quantity="2" unit="page"/>
 </body>
 </text>
 </TEI>
