@@ -8,6 +8,8 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -34,35 +36,124 @@
 <milestone type="19c" unit="page" n="118" xml:id="palimpsest_page_118"/>
 <milestone unit="column" n="a"/>
 <milestone unit="ch" n="24"/>
-<!-- p19c=118 p5c=139 -->
 <p part="F">
-24:13  - - - annorum. Et man
-<lb/>dabit abimelech
-<lb/>de illo dicens: om
-<lb/>nis homo quicumque
+	
+<milestone unit="vs" n="13"/> annorum<add resp="#ocp">.</add> Et man
+<lb type="inWord"/>dabit abimelech
+<lb/>de illo dicens<add resp="#ocp">:</add> om
+<lb type="inWord"/>nis homo quicumque
 <lb/>molestauerit eum
 <lb/>aut aliquid eius mor
-<lb/>te morietur.
-24:14  Et creuit isac in terra filistin et facta est illi substantia magna et boues et oues cameli et asini et ministerium magnum.
-24:15  Et seminauit in terra filistin et collegit centuplum et magnus factus est isac ualde et zelauerunt eum filistin.
-24:16  Et omnes puteos quos foderunt pueri abraham in uita abraham ob*t*urauerunt eos
-
-filistin post mortem abraham et inpleuerunt eos terra.
-24:17  Et dixit abimelech ad isac: discede a nobis quoniam magnus factus es super nos ualde. Et abiit isac anni primi septimanae septimi inde cum suis.
-24:18  Et conuertentes inde foderunt puteos aquarum quos foderunt pueri patris sui abraham et inpleuerunt illos filistin post mortem abraham patris eius et uocauit eos nomina secundum nomina quae uocauerat eos pater ipsius.
-
-	<!-- p19c=117 p5c=140 -->
-
-24:19  Et foderunt pueri isac puteos in torrente et inuenerunt in aquam uiuam et litigauerunt pastores gerarum cum pastoribus isac dicentes: nostra est aqua. Et uocauit isac nomen putei difficcultatem propter quod difficiles fuerunt nobis cum.
-24:20  Et foderunt puteum alterum et litigauerunt etiam et pro ipso et uocauit nomen eius inimicitias. Et foderunt puteum tertium et non litigauerunt pro eo et uocauit nomen eius capacitas. Et dixit isac: quoniam
-
-nunc amplificauit nos dominus deus et multiplicauit nos super terram.
-24:21  Et - - - et - - - in anno primo septimanarum primi.
-24:22  Uisus est dominus ad illum in nocte ipsa in prima die mensis primi et dixit ei: ego sum deus abraham patris tui. Noli timere quoniam te cum sum ego et benedicam te et multiplicabo semen tuum sicut harenam terrae propter abraham puerum meum.
-24:23  Et aedificauit ........................- - -
-
+<lb type="inWord"/>te morietur<add resp="#ocp">.</add> <milestone unit="vs" n="14"/>  Et cre
+<lb type="inWord"/>uit isac in terra fi
+<lb type="inWord"/>listin et facta est 
+<lb/>illi substantia mag
+<lb type="inWord"/>na et boues et oues 
+<lb/>cameli et asini et mi
+<lb type="inWord"/>nisterium magnum<add resp="#ocp">.</add>
+<milestone unit="vs" n="15"/>  Et seminauit in ter
+<lb type="inWord"/>ra filistin et colle
+<lb type="inWord"/>git centuplum et 
+<lb/>magnus factus est
+<lb/>isac ualde et zela
+<lb type="inWord"/>uerunt eum filis
+<lb type="inWord"/>tin<add resp="#ocp">.</add> <milestone unit="vs" n="16"/>  Et omnes pute
+<milestone unit="vs" n="16"/>  Et omnes puteos quos foderunt pueri abraham in uita abraham ob*t*urauerunt eos
+<lb type="inWord"/>os quos foderunt 
+<lb/>pueri abraham in 
+<lb/>uita abraham ob
+<lb type="inWord"/>*t*urauerunt <choice><sic>durauerunt</sic><corr resp="#ocp">turauerunt</corr></choice>eos
+<milestone unit="column" n="b"/>filistin post mor
+<lb type="inWord"/>tem abraham et in
+<lb type="inWord"/>pleuerunt eos ter
+<lb type="inWord"/>ra<add resp="#ocp">.</add> <milestone unit="vs" n="17"/>  Et dixit abime
+<milestone unit="vs" n="17"/>  Et dixit abimelech ad isac: discede a nobis quoniam magnus factus es super nos ualde. Et abiit isac anni primi septimanae septimi inde cum suis.
+<lb type="inWord"/>lech ad isac<add resp="#ocp">.</add> discede 
+<lb/>a nobis quoniam 
+<lb/>magnus factus es 
+<lb/>super nos ualde<add resp="#ocp">.</add>
 </p>
+<p> Et abiit isac anni 
+<lb/>primi septimanae
+<lb/>septimi inde cum 
+<lb/>suis<add resp="#ocp">.</add> <milestone unit="vs" n="18"/>  Et conuerten
+<lb type="inWord"/>tes inde foderunt 
+<lb/>puteos aquarum 
+<lb/>quos foderunt pue
+<lb type="inWord"/>ri patris sui abra
+<lb type="inWord"/>ham et inpleue
+<lb type="inWord"/>runt illos filistin 
+<lb/>post mortem abra
+<lb type="inWord"/>ham patris eius et 
+<lb/>uocauit eos nomi
+<lb type="inWord"/>na secundum no
+<lb type="inWord"/>mina quae uocaue
+<lb type="inWord"/>rat eos pater ipsius<add resp="#ocp">.</add>
+<cb type="Ceriani" n="1"/>
+<milestone type="5c" unit="page" n="140"/>
+<milestone type="19c" unit="page" n="117" xml:id="palimpsest_page_117"/>
+<milestone unit="column" n="a"/>
+<p><milestone unit="vs" n="19"/>  Et foderunt pueri 
+<lb/>isac puteos in <unclear>tor</unclear>
+<lb type="inWord"/>rente et inuene
+<lb type="inWord"/>runt <unclear>in</unclear> aquam ui
+<lb type="inWord"/>uam et litigauerunt 
+<lb/>pastores gerar<unclear>um</unclear>
+<lb/>cum pastoribus isac
+<lb/>dicentes<add resp="#ocp">:</add> nostra est
+<lb/>aqua<add resp="#ocp">.</add> Et uocauit isac
+<lb/>nomen putei diffic
+<lb type="inWord"/>cultatem propter 
+<lb/>quod difficil<unclear>es</unclear> fue
+<lb type="inWord"/>runt nobis cum<add resp="#ocp">.</add> <!--  Ceriani's manuscript says nobiscum where the XML says nobis cum --> <milestone unit="vs" n="20"/>  Et
+<lb/>foderunt puteum 
+<lb/>alterum et l<unclear>itiga</unclear>
+<lb type="inWord"/>uerunt <unclear>eti</unclear>am et pro 
+<lb/>ipso et uocauit no
+<lb type="inWord"/>men <unclear>eius</unclear> inimicitias<add resp="#ocp">.</add> 
+<lb/>Et foderunt puteum 
+<lb/>tertium et non li
+<lb type="inWord"/>tigauerunt pro eo 
+<lb/>et uocauit nomen 
+<lb/>eius capacitas<add resp="#ocp">.</add> Et di
+<lb type="inWord"/><unclear>xit isac</unclear> <add resp="#ocp">:</add> quoniam
+<milestone unit="column" n="b"/> nunc amplificauit 
+<lb/>nos dominus deus et m<unclear>ulti</unclear>
+<lb type="inWord"/>plicauit <unclear>n</unclear>os super 
+<lb/>terram<add resp="#ocp">.</add> <milestone unit="vs" n="21"/>  Et <gap reason="illegible" quantity="6" unit="character"/> 
+<lb/><gap reason="illegible" quantity="10" unit="character"/> 
+</p>
+<p><lb/>et <gap reason="illegible" quantity="4" unit="character"/> <unclear>in anno</unclear> 
+<lb/>primo septimana
+<lb type="inWord"/>rum primi<add resp="#ocp">.</add> <milestone unit="vs" n="22"/>  Uisus est 
+<lb/>dominus ad illum in noc
+<lb type="inWord"/>te ipsa in prima die 
+<lb/>mensis primi et di
+<lb type="inWord"/>xit ei<add resp="#ocp">:</add> ego sum deus abra
+<lb type="inWord"/>ham patris tui<add resp="#ocp">.</add> Noli 
+<lb/>timere quoniam te <!-- Ceriani's manuscript has this as 'tecum' where the XML has it as 'te cum' -->
+<lb type="inWord"/>cum sum ego et be
+<lb type="inWord"/>nedicam te et mul
+<lb type="inWord"/>tiplicabo semen 
+<lb/>tuum sicut hare
+<lb type="inWord"/>nam terrae prop
+<lb type="inWord"/>ter abraham pue
+<lb type="inWord"/>rum meum<add resp="#ocp">.</add> <milestone unit="vs" n="23"/>  Et aedi
+<lb type="inWord"/>ficauit <gap reason="illegible" quantity="6" unit="character"/>
+<lb/><gap reason="illegible" quantity="9" unit="character"/>
+<lb/><gap reason="illegible" quantity="9" unit="character"/>
+
+
+
+
+
+
+
+
+
+</p> </p>
 
 </body>
+
 </text>
 </TEI>
