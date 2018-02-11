@@ -36,153 +36,136 @@
      <milestone unit="ch" n="10"/>
 
 	<!-- p19c=100 p5c=269 -->
-	<!-- Periods that were in Ceriani and not in the XML added them under the unclear tag -->
-<p>
-	-orum eram
-<!-- 10:15 -->
-<milestone type="vs" n="15"/>itaque 
-	<lb/>tu iesu naue forma te 
-	<lb/>elegit deus esse mihi 
-	<lb/>successorem eiusdem 
-	<lb/>testamenti<unclear>.</unclear>
-<!-- 11:1 -->
-<milestone unit="ch" n="11"/>
-<milestone type="vs" n="1"/>‎ 
-	et cum 
-	<lb/>audisset iesus uerba 
-	<lb/>moysi tam scripta 
-	<lb/>in sua scriptura om
-	<lb type="inWord"/>nia quae praedixerant 
-	<lb/>scidit sibi uestimen
-	<lb type="inWord"/>ta et procidit ad pe
-	<lb type="inWord"/>des meos
-<!-- 11:2 --><milestone type="vs" n="2"/> 
-	et horta
-	<lb type="inWord"/>tus est cum monse 
-	<lb/>et plorauit cum eo
-</p>
 
-<p>
-<!-- 11:3 --><milestone type="vs" n="3"/> ‎ 
-	Et respondit illi et
-	<lb/> dixit iesus<unclear>.</unclear>
-<!-- 11:4 --><milestone type="vs" n="4"/>
- 	quid me ce
-	<lb type="inWord"/>lares domine monse 
-	<lb/>et quo <unclear>g</unclear>enere cela
-	<lb type="inWord"/>bor de qua locutus 
-	<lb/>est uoce acerua que 
-	<lb/>exiuit de ore tuo 
-	<lb/>quae est plena la
-	<lb type="inWord"/>crimis et gemitibus 
-	<lb/>quia tu discedis de
-	
-	<lb/>plebe ist ......
-<!-- 11:5 --><milestone type="vs" n="5"/> ‎ 
-	<lb/>quis locus recip<unclear>it</unclear> .... 
-	<lb/>te
-<!-- 11:6 --><milestone type="vs" n="6"/> ‎ 
-	aut quod erit mo
-	<lb type="inWord"/>numentum sepul
-	<lb type="inWord"/>turae
-<!-- 11:7 --><milestone type="vs" n="7"/> ‎ 
-	aut quis aude
-	<lb type="inWord"/>uit corpus tuum tra<unclear>ns</unclear>
-	<lb type="inWord"/>ferre in <unclear>e</unclear>ut homo 
-	<lb type="inWord"/>de loco in locum
-</p>
+     <p>
+	   <add resp="#ocp">-</add>orum eram <milestone type="vs" n="15"/><!-- 10:15 -->
+	   itaque<lb/>
+	   tu iesu naue forma te<lb/>
+	   elegit deus esse mihi<lb/>
+	   successorem eiusdem<lb/>
+	   testamenti.<milestone unit="ch" n="11"/><milestone type="vs" n="1"/>‎<!-- 11:1 -->
+	   et cum<lb/>
+	   audisset iesus uerba<lb/>
+	   moysi tam scripta<lb/>
+	   in sua scriptura om<lb type="inWord"/>
+	   nia quae praedixerant<lb/>
+	   scidit sibi uestimen<lb type="inWord"/>
+	   ta et procidit ad pe<lb type="inWord"/>
+	   des meos<milestone type="vs" n="2"/><!-- 11:2 -->
+	   et horta<lb type="inWord"/>
+	   tus est cum monse<lb/>
+	   et plorauit cum eo
+     </p>
 
-<p>
-<!-- 11:8 --><milestone type="vs" n="8"/> ‎ 
-	Omnibus enim mori
-	<lb type="inWord"/>entibus secus aeta
-	<lb type="inWord"/>tem sepulturae su
-	<lb type="inWord"/>ae sunt in terris 
-	<lb/>nam tua sepultura 
-	<lb/>ab oriente sole usque 
-	<lb/>ad occidentem<unclear>.</unclear> et 
-	<lb/>ab austro usque ad fi
-	<lb type="inWord"/>nes aquilonis omnis 
-	<lb/>orbis terrarum se
-	<lb type="inWord"/>pulcrum est tuum
-<!-- 11:9 --><milestone type="vs" n="9"/> ‎ 
-	<lb/>domine ab his 
-</p>
+     <p>
+     <milestone type="vs" n="3"/><!-- 11:3 -->
+	   Et respondit illi et<lb/>
+	   dixit iesus.<milestone type="vs" n="4"/><!-- 11:4 -->
+ 	   quid me ce<lb type="inWord"/>
+ 	   lares domine monse<lb/>
+ 	   et quo <unclear>g</unclear>enere cela<lb type="inWord"/>
+ 	   bor de qua locutus<lb/>
+ 	   est uoce acerua que<lb/>
+ 	   exiuit de ore tuo<lb/>
+ 	   quae est plena la<lb type="inWord"/>
+ 	   crimis et gemitibus<lb/>
+ 	   quia tu discedis de<lb/><milestone unit="column" n="b"/>
+ 	   plebe ist ......<milestone type="vs" n="5"/><!-- 11:5 --><lb/>
+ 	   quis locus recip<unclear>it</unclear> ....<lb/>
+ 	   te<milestone type="vs" n="6"/><!-- 11:6 --> ‎ 
+	   aut quod erit mo<lb type="inWord"/>
+	   numentum sepul<lb type="inWord"/>
+	   turae<milestone type="vs" n="7"/><!-- 11:7 --> ‎ 
+	   aut quis aude<lb type="inWord"/>
+	   uit corpus tuum tra<unclear>ns</unclear><lb type="inWord"/>
+	   ferre in <unclear>e</unclear>ut homo<lb type="inWord"/>
+	   de loco in locum
+    </p>
 
-<p>
-	Et quis nutrit plebem 
-	<lb/>istam‎ aut quis est 
-	<lb/>qui miserebitur il
-	<lb type="inWord"/>lis et quis eis dux erit
+    <p>
+    <milestone type="vs" n="8"/><!-- 11:8 -->
+      Omnibus enim mori<lb type="inWord"/>
+      entibus secus aeta<lb type="inWord"/>
+      tem sepulturae su<lb type="inWord"/>
+      ae sunt in terris<lb/>
+      nam tua sepultura<lb/>
+      ab oriente sole usque<lb/>
+      ad occidentem. et<lb/>
+      ab austro usque ad fi<lb type="inWord"/>
+      nes aquilonis omnis<lb/>
+      orbis terrarum se<lb type="inWord"/>
+      pulcrum est tuum<milestone type="vs" n="9"/><!-- 11:9 --><lb/>
+      domine ab his 
+    </p>
+
+    <p>
+	  Et quis nutrit plebem<lb/>
+	  istam‎ aut quis est<lb/>
+	  qui miserebitur il<lb type="inWord"/>
+	  lis et quis eis dux erit<lb/>
 	
 	<pb type="1861" n="61" xml:id="Ceriani_1861_061"/>
      <cb type="Ceriani" n="1"/>
      <milestone type="5c" unit="page" n="270"/>
      <milestone type="19c" unit="page" n="99" xml:id="palimpsest_page_099"/>
-     <milestone unit="column" n="b"/>
+     <milestone unit="column" n="a"/>
      <milestone unit="ch" n="11"/>
 	<!-- p19c=99 p5c=270 -->
 
-	<lb/>in uia <unclear>.</unclear>
-<!-- 11:11 --><milestone type="vs" n="11"/> ‎ 
-	aut quis ora<unclear>.</unclear>
-	<lb type="inWord"/>bit pro eis<unclear>.</unclear> nec pati
-	<lb type="inWord"/><unclear>ens</unclear> ne uno quidem 
-	<lb/>diem ut inducam il
-	<lb type="inWord"/>los in terram ara
-	<lb type="inWord"/>borum<unclear>.</unclear>
-<!-- 11:12 --><milestone type="vs" n="12"/> ‎ 
-	quomodo 
-	<lb/>ergo potero plebem 
-	<lb/>hanc tamquam pa
-	<lb type="inWord"/>ter unicum filium 
-	<lb/>aut tamquam filiam 
-	<lb/>dominam uirginem 
-	<lb/>quae paratur tali ui
-	<lb type="inWord"/>>ro quae timebat cor
-	<lb type="inWord"/>pus custodiens eius 
-	<lb/>a sole et ne scalcia
-	<lb type="inWord"/>ti pedes eius ad cur
-	<lb type="inWord"/>rendum supra ter
-	<lb type="inWord"/>ram 
-<!-- 11:13 --><milestone type="vs" n="13"/> ‎ 
-	..... de uo
-	<lb type="inWord"/>luntatem eorum 
-	<lb/>praestabo illis ci
-	<lb type="inWord"/>borum et potui se
-	<lb type="inWord"/>cus uoluntatem 
-	<lb/>uoluntatis eorum
-<!-- 11:14 --><milestone type="vs" n="14"/> ‎ 
-	<lb/>..... enim illorum
-
-	<lb/>erant <unclear>.c.</unclear> milia<unclear>.</unclear> nam 
-	<lb/>isti in tantum qui 
-	<lb/>creuerunt in tuis 
-	<lb/>orationibus domine mon
-	<lb type="inWord"/>se
-<!-- 11:15 --><milestone type="vs" n="15"/> ‎ 
-	et quae est mihi 
-	<lb/>sapientia aut intelle
-	<lb type="inWord"/>ctus in domo .... 
-	<lb/>uerbis aut iudicare 
-	<lb/>aut respondere
-<!-- 11:16 --><milestone type="vs" n="16"/> ‎ 
-	<lb/>sed et reges amor
-	<lb type="inWord"/>reorum cum audie
-	<lb type="inWord"/>rint expugnare nos 
-	<lb/>credentes iam non 
-	<lb/>esse semet sacrum 
-	<lb/>spiritum dignum domino 
-	<lb/>multiplicem et in
-	<lb type="inWord"/>conpraehensibilem 
-	<lb/>dominum uerbi fidelem 
-	<lb/>in omnia diuinum 
-	<lb/>per orbem terra
-	<lb/>rum profetem con
-	<lb type="inWord"/>summatum in sae
-	<lb type="inWord"/>culo doctorem iam 	
-	<lb type="inWord"/>non esse in eis di-
-</p>
+	  in uia.<milestone type="vs" n="11"/><!-- 11:11 --> ‎ 
+	  aut quis ora.<lb type="inWord"/>
+	  bit pro eis. nec pati<lb type="inWord"/>
+	  <unclear>ens</unclear> ne uno quidem<lb/>
+	  diem ut inducam il<lb type="inWord"/>
+	  los in terram ara<lb type="inWord"/>
+	  borum.<milestone type="vs" n="12"/><!-- 11:12 -->
+	  quomodo<lb/>
+	  ergo potero plebem<lb/>
+	  hanc tamquam pa<lb type="inWord"/>
+	  ter unicum filium<lb/>
+	  aut tamquam filiam<lb/>
+	  dominam uirginem<lb/>
+	  quae paratur tali ui<lb type="inWord"/>
+	  ro quae timebat cor<lb type="inWord"/>
+	  pus custodiens eius<lb/>
+	  a sole et ne scalcia<lb type="inWord"/>
+	  ti pedes eius ad cur<lb type="inWord"/>
+	  rendum supra ter<lb type="inWord"/>
+	  ram<milestone type="vs" n="13"/><!-- 11:13 -->‎ 
+	  ..... de uo<lb type="inWord"/>
+	  luntatem eorum<lb/>
+	  praestabo illis ci<lb type="inWord"/>
+	  borum et potui se<lb type="inWord"/>
+	  cus uoluntatem<lb/>
+	  uoluntatis eorum<milestone type="vs" n="14"/><!-- 11:14 --><lb/><milestone unit="column" n="b"/>
+	  ..... enim illorum<lb/>
+	  erant <unclear>.c.</unclear> milia. nam<lb/>
+	  isti in tantum qui<lb/>
+	  creuerunt in tuis<lb/>
+	  orationibus domine mon<lb type="inWord"/>
+	  se<milestone type="vs" n="15"/><!-- 11:15 -->
+	  et quae est mihi<lb/>
+	  sapientia aut intelle<lb type="inWord"/>
+	  ctus in domo .... <lb/>
+	  uerbis aut iudicare<lb/>
+	  aut respondere<milestone type="vs" n="16"/><!-- 11:16 --><lb/>
+	  sed et reges amor<lb type="inWord"/>
+	  reorum cum audie<lb type="inWord"/>
+	  rint expugnare nos<lb/>
+	  credentes iam non<lb/>
+	  esse semet sacrum<lb/>
+	  spiritum dignum domino<lb/>
+	  multiplicem et in<lb type="inWord"/>
+	  conpraehensibilem<lb/>
+	  dominum uerbi fidelem<lb/>
+	  in omnia diuinum<lb/>
+	  per orbem terra<lb/>
+	  rum profetem con<lb type="inWord"/>
+	  summatum in sae<lb type="inWord"/>
+	  culo doctorem iam<lb type="inWord"/>
+	  non esse in eis di-
+    </p>
+    
 </ab>
 
 </body>
