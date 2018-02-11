@@ -13,7 +13,7 @@ Ceriani_1861_026.tei.xml Valdez CHECKED HANNEKEN
 Ceriani_1861_027.tei.xml Bryan CHECKED HANNEKEN
 Ceriani_1861_028.tei.xml AniGonzalez CHECKED HANNEKEN
 Ceriani_1861_029.tei.xml Repka
-Ceriani_1861_030.tei.xml
+Ceriani_1861_030.tei.xml Maria G.
 Ceriani_1861_031.tei.xml started by Mondragon, continued by Maria G.
 Ceriani_1861_032.tei.xml Garza CHECKED HANNEKEN
 Ceriani_1861_033.tei.xml Bodden CHECKED HANNEKEN
