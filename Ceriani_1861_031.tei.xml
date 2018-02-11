@@ -61,7 +61,7 @@
        <!-- 26:11 -->siderabat.‎ Et acce<lb type="inWord"/>
        pit rebecca uestes<lb/>
        esau filii sui senio<lb type="inWord"/>
-       <choice><sic>res</sic><corr resp="#ocp">r*i*s</corr></choice> <!-- seniores/senioris does not appear in Ceriani, just in xml --><choice><sic>seniores</sic><corr resp="#ocp">senioris</corr></choice> optimas quae<lb/>
+       <choice><sic>res</sic><corr resp="#ocp">r*i*s</corr></choice> <!-- seniores/senioris does not appear in Ceriani, just in xml --><choice><sic>seniores</sic><corr resp="#ocp">senioris</corr></choice> optimas quae<lb/><milestone unit="column" n="b"/>
        erant cum ipsa in do<lb type="inWord"/>
        mo et induit eas ia<lb type="inWord"/>
        cob filium suum iu<lb type="inWord"/>
@@ -138,7 +138,7 @@
        nus esau fratris sui<lb/>
        pilosa. Et benedi<lb type="inWord"/>
        xit eum<add resp="#ocp">.</add><milestone unit="vs" n="19"/>
-      ‎ <!-- 26:19 -->et dixit<add resp="#ocp">:</add> tu es<lb/>
+      ‎ <!-- 26:19 -->et dixit<add resp="#ocp">:</add> tu es<lb/><milestone unit="column" n="b"/>
        filius meus esau<add resp="#ocp">.</add>
      </p>
      
