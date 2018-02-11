@@ -27,73 +27,160 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-<pb type="1861" n="31" xml:id="Ceriani_1861_031"/>
+     <pb type="1861" n="31" xml:id="Ceriani_1861_031"/>
+	 <cb type="Ceriani" n="1"/>
+	 <milestone type="5c" unit="page" n="149"/>
+	 <milestone type="19c" unit="page" n="80" xml:id="palimpsest_page_080"/>
+	 <milestone unit="column" n="a"/>
+	 <milestone unit="ch" n="26"/>
+	 <mnilestone unit="vs" n="8"/>
 
-	<!-- p19c=80 p5c=149 -->
+	 <!-- p19c=80 p5c=149 -->
 
-<p>26:8 ‎ - - - consilii eius et indig
-<lb type="inWord"/>nabitur (et indigna
-<lb type="inWord"/>bitur) aduersus me
-<lb/>et inducam ego su
-<lb type="inWord"/>per me maledictum
-<lb/>et non benedictio
-<lb type="inWord"/>nem. 26:9 ‎ Et dixit illi
-<lb/>rebecca mater sua:
-<lb/>in me maledictum
-<lb/>tuum nate tantum
-<lb/>obaudi uocem meam.
-<lb/>26:10 ‎ Et obaudiuit iacob
-<lb/>uocem matris suae
-<lb/>rebeccae et abiit
-<lb/>et accepit duos he
-<lb type="inWord"/>dos caprarum tene
-<lb type="inWord"/>ros et bonos et ad
-<lb type="inWord"/>tulit eos matri suae
-<lb/>et fecit illos mater
-<lb/>eius cibos sicut de
-<lb type="inWord"/>siderabat. 26:11 ‎ Et acce
-<lb type="inWord"/>pit rebecca uestes
-<lb/>esau filii sui senio
-<lb type="inWord"/>r*i*s <choice><sic>seniores</sic><corr resp="#ocp">senioris</corr></choice> optimas quae
-<lb/>erant cum ipsa in do
-<lb type="inWord"/>mo et induit eas ia
-<lb type="inWord"/>cob filium suum iu
-<lb type="inWord"/>niorem et pelles
-<lb/>hedorum circumde
-<lb type="inWord"/>dit super brachia
-<lb/>eius et humeros et
-<lb/>super nudas cerui
-<lb type="inWord"/>ces ei. 26:12 ‎ Obtendidit ci
-<lb type="inWord"/>bos quos fecit et pa
-<lb type="inWord"/>nes in manibus iacob
-<lb/>filii sui. 26:13 ‎ Et introi
-<lb type="inWord"/>uit iacob ad patrem
-<lb/>suum et dixit: ego
-<lb/>sum filius tuus fe
-<lb type="inWord"/>ci quemammodum
-<lb/>dixisti mihi. Exurge
-<lb/>et sede et manduca
-<lb/>de uenatione mea
-<lb/>pater ut benedicat
-<lb/>me anima tua.
-26:14 ‎ Et dixit isac ad filium suum: quid est hoc quod adcelerasti
+     <p><!-- 26:8 -->
+       - - - consilii eius et indig<lb type="inWord"/>
+       nabitur <add resp="#ocp">(</add>et indigna<lb type="inWord"/>
+       bitur<add resp="#ocp">)</add> aduersus me<lb/>
+       et inducam ego su<lb type="inWord"/>
+       per me maledictum<lb/>
+       et non benedictio<lb type="inWord"/>
+       nem<add resp="#ocp">.</add> Et dixit illi<lb/><milestone unit="vs" n="9"/><!-- 26:9 -->
+       rebecca mater sua<add resp="#ocp">:</add><lb/>
+       in me maledictum<lb/>
+       tuum nate tantum<lb/>
+       obaudi uocem meam<add resp="#ocp">.</add><lb/><milestone unit="vs" n="10"/>
+       <!-- 26:10 --> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t obaudiuit iacob<lb/>
+       uocem matris suae<lb/>
+       rebeccae et abiit<lb/>
+       et accepit duos he<lb type="inWord"/>
+       dos caprarum tene<lb type="inWord"/>
+       ros et bonos et ad<lb type="inWord"/>
+       tulit eos matri suae<lb/>
+       et fecit illos mater<lb/>
+       eius cibos sicut de<lb type="inWord"/><milestone unit="vs" n="11"/>
+       <!-- 26:11 -->siderabat.‎ Et acce<lb type="inWord"/>
+       pit rebecca uestes<lb/>
+       esau filii sui senio<lb type="inWord"/>
+       <choice><sic>res</sic><corr resp="#ocp">r*i*s</corr></choice> <!-- seniores/senioris does not appear in Ceriani, just in xml --><choice><sic>seniores</sic><corr resp="#ocp">senioris</corr></choice> optimas quae<lb/>
+       erant cum ipsa in do<lb type="inWord"/>
+       mo et induit eas ia<lb type="inWord"/>
+       cob filium suum iu<lb type="inWord"/>
+       niorem et pelles<lb/>
+       hedorum circumde<lb type="inWord"/>
+       dit super brachia<lb/>
+       eius et humeros et<lb/>
+       super nudas cerui<lb type="inWord"/><milestone unit="vs" n="12"/>
+       <!-- 26:12 -->ces ei<add resp="#ocp">.</add>‎ <choice><sic>o</sic><corr resp="#ocp">O</corr></choice>btendidit ci<lb type="inWord"/>
+       bos quos fecit et pa<lb type="inWord"/>
+       nes in manibus iacob<lb/><milestone type="vs" n="13"/>
+       <!-- 26:13 -->filii sui.‎ Et introi<lb type="inWord"/>
+       uit iacob ad patrem<lb/>
+       suum et dixit<add resp="#ocp">:</add> ego<lb/>
+       sum filius tuus fe<lb type="inWord"/>
+       ci quemammodum<lb/>
+       dixisti mihi<add resp="#ocp">.</add> <choice><sic>e</sic><corr reso="#ocp">E</corr></choice>xurge<lb/>
+       et sede et manduca<lb/>
+       de uenatione mea<lb/>
+       pater ut benedicat<lb/>
+       me anima tua<add resp="#ocp">.</add><lb/><milestone unit="vs" n="14"/>
+     </p>
+     
+     <p><!-- 26:14 -->
+       Et dixit isac ad fili<lb type="inWord"/>
+       um suum<add resp="#ocp">:</add> quid est<lb/>
+       hoc quod adcelera<unclear>sti</unclear>
+     </p>
+     
+     <p>
+     <pb type="1861" n="31" xml:id="Ceriani_1861_031"/>
+	 <cb type="Ceriani" n="1"/>
+	 <milestone type="5c" unit="page" n="150"/>
+	 <milestone type="19c" unit="page" n="79" xml:id="palimpsest_page_079"/>
+	 <milestone unit="column" n="a"/>
+	 <milestone unit="ch" n="26"/>
+	 <milestone unit="vs" n="15"/>  
 
 	<!-- p19c=79 p5c=150 -->
 
-inuenire nate.
-26:15 ‎ Et dixit iacob: quod direxit dominus deus tuus in conspectu meo.
-26:16 ‎ Et dixit ad illum isac: adproxima mihi et palpabo te nate si tu es filius meus esau.
-26:17 ‎ Et adproximauit iacob ad isac patrem suum et palpauit eum et dixit: uox quidem uox iacob manus autem manus esau.
-26:18 ‎ Et non cognouit eum quoniam auersio erat de caelo transferre spiritum eius. Et non cognouit quoniam erant manus eius sicut manus esau fratris sui pilosa. Et benedixit eum.
-26:19 ‎ et dixit: tu es
-
-filius meus esau. Et dixit iacob: ego filius tuus sum. Et dixit isac: offers mihi et manducabo de uenatione tua nate ut benedicat te anima mea.
-26:20 ‎ Et obtulit ei et manducauit et intulit illi uinum et bibit.
-26:21 ‎ Et dixit ad eum isac pater ipsius: adproxima te mihi et osculare me nate. Et adproximauit et osculatus est eum.
-26:22 ‎ Et odoratus est odorem uestimentorum eius et benedixit eum et dixit: Ecce odor filii mei sicut odor agri pleni quem benedixit deus.
-26:23 ‎ Et det tibi - - -.
-
-</p>
+       inuenire nate<add resp="#ocp">.</add><lb/>
+     </p>
+     
+     <p><milestone unit="vs" n="15"/>
+       <!-- 26:15 -->Et dixit iacob<add resp="#ocp">:</add> quod<lb/>
+       direxit dominus deus tuus<lb/>
+       in conspectu meo<add resp="#ocp">.</add>
+     </p>
+     
+     <p><milestone unit="vs" n="16"/>
+       <!-- 26:16 -->Et dixit ad illum isac<add resp="#ocp">:</add><lb/>
+       adproxima mihi et<lb/>
+       palpabo te nate si<lb/>
+       tu es filius meus esau<add resp="#ocp">.</add><lb/><milestone unit="vs" n="17"/>
+     </p>
+     
+     <p>
+      ‎ <!-- 26:17 -->Et adproximauit ia<lb type="inWord"/>
+       cob ad isac patrem<lb/>
+       suum et palpauit eum<lb/>
+       et dixit<add resp="#ocp">:</add> uox quidem<lb/>
+       <choice><sic>v</sic><corr resp="#ocp">u</corr></choice>ox iacob manus au<lb type="inWord"/>
+       tem manus esau.
+     </p>
+     
+     <p><milestone unit="vs" n="18"/>
+       <!-- 26:18 -->Et non cognouit eum<lb/>
+       quoniam auersio<lb/>
+       erat de caelo trans<lb type="inWord"/>
+       ferre spiritum eius<add resp="#ocp">.</add><lb/>
+       <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t non cognouit<lb/>
+       quoniam erant ma<lb type="inWord"/>
+       nus eius sicut ma<lb type="inWord"/>
+       nus esau fratris sui<lb/>
+       pilosa. Et benedi<lb type="inWord"/>
+       xit eum<add resp="#ocp">.</add><milestone unit="vs" n="19"/>
+      ‎ <!-- 26:19 -->et dixit<add resp="#ocp">:</add> tu es<lb/>
+       filius meus esau<add resp="#ocp">.</add>
+     </p>
+     
+     <p>
+       Et dixit iacob<add resp="#ocp">:</add> ego fi<lb type="inWord"/>
+       lius tuus sum. 
+     </p>
+     
+     <p>
+       Et dixit isac<add resp="#ocp">:</add> offers<lb/>
+       mihi et manducabo<lb/>
+       de uenatione tua<lb/>
+       nate ut benedicat<lb/>
+      te anima mea.
+     </p>
+    
+     <p><milestone unit="vs" n="20"/>
+       <!-- 26:20 -->Et obtulit ei et man<lb type="inWord"/>
+       ducauit et intulit<lb/>
+       illi uinum et bibit<add resp="#ocp">.</add>
+     </p>
+     
+     <p><milestone unit="vs" n="21"/>
+      ‎ <!-- 26:21 -->Et dixit ad eum isac<lb/>
+       pater ipsius<add resp="#ocp">:</add> adpro<lb type="inWord"/>
+       xima te mihi et oscu<lb type="inWord"/>
+       lare me nate<add resp="#ocp">.</add> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t ad<lb type="inWord"/>
+       proximauit et os<lb type="inWord"/>
+       culatus est eum<add resp="#ocp">.</add><lb/><milestone unit="vs" n="22"/>
+       <!-- 26:22 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t odoratus est odo<lb type="inWord"/>
+       rem uestimento<lb type="inWord"/>
+       rum eius et bene<lb type="inWord"/>
+       dixit eum et dixit<add resp="#ocp">:</add>
+     </p>
+     
+     <p>
+       Ecce odor filii mei<lb/>
+       sicut odor agri ple<lb type="inWord"/>
+       ni quem benedixit<lb/>
+       deus<add resp="#ocp">.</add><milestone unit="vs" n="23"/>
+      ‎ <!-- 26:23 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t det tibi <add resp="#ocp">- - -.</add>
+     </p>
 
 </body>
 </text>
