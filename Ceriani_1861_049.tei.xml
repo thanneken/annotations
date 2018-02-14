@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -27,34 +28,120 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="49" xml:id="Ceriani_1861_049"/>
+<milestone type="19c" unit="page" n="141" xml:id="palimpsest_page_141"/>
+	<milestone type="5c" unit="page" n="225"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="42"/>
+	<p part="F"><milestone unit="vs" n="2"/> ‎ In terra autem aegypti <lb/>
+	erant panes quoniarn <!-- Ceriani: 'quoniarm' XML: 'quoniarn' --> <lb/>
+	congregauerat io<lb type="inWord"/>
+	seph frumentum <lb/>
+	terrae septem an<lb type="inWord"/>
+	norum ubertatis <lb/>
+	et erat custodiens il<lb type="inWord"/>
+	lud.<milestone unit="vs" n="3"/> ‎ Et aduenerunt <lb/>
+	aegyptii ad ioseph ut <lb/>
+	daret illis escas <!-- appears to be a period in Ceriani's Version --> et a<lb type="inWord"/>
+	periens horrea in qui<lb type="inWord"/> 
+	bus erant frumenta <lb/>
+	dedit illis ut mandu<lb type="inWord"/>
+	carent in primo an<lb type="inWord"/>
+	no quia uendebat illis<add resp="#ocp">.</add><lb/>
+</p>
+<p><milestone unit="vs" n="4"/> ‎ Conualuit autem fa<lb type="inWord"/>
+	mis in terra canaam <lb/>
+	ualde et audiuit ia<lb type="inWord"/>
+	cob quod esset fru<lb type="inWord"/>
+	mentum in aegyptum <lb/>
+	et misit decem fili<lb type="inWord"/>
+	os suos ut acciperent <lb/>
+	sibi escam et benia<lb type="inWord"/>
+	min non transmi
+	<milestone unit="column" n="b"/>sit cum eis<add resp="#ocp">.</add> 
+</p>
+<p>Et aduenerunt in ae<lb type="inWord"/>
+	gypto decem filii iacob<add resp="#ocp">.</add> <milestone unit="vs" n="5"/> ‎ Et cognouit eos io<lb type="inWord"/>
+	seph. Et ipsi non cog<lb type="inWord"/>
+	nouerunt eum et <lb/>
+	appellauit eos ioseph <lb/>
+	dure et dixit eis<add resp="#ocp">:</add> ex<lb type="inWord"/>
+	plorare terram <unclear>u</unclear>e <lb type="inWord"/>
+	nistis et inclusit eos<add resp="#ocp">.</add>
+</p>
+<p><milestone unit="vs" n="6"/> ‎ Et mittens arcessi<lb type="inWord"/>
+	uit illos et accipiens <lb/>
+	symeonem ab ipsis <lb/>
+	ligauit eum et nouem <lb/>
+	fratres suos demisit<add resp="#ocp">.</add>
+	<milestone unit="vs" n="7"/> ‎ Et impleuit uasa eo<lb type="inWord"/>
+	rum et pecuniam ip<lb type="inWord"/>
+	sorum reddidit illis<add resp="#ocp">.</add>
+	<milestone unit="vs" n="8"/> ‎ Et mandauit illis de <lb/>
+	fratre suo iuniore <lb/>
+	ut adducerent illum<add resp="#ocp">.</add>
+</p>
+<p><milestone unit="vs" n="9"/> ‎ Et ascenderunt filii <lb/>
+iacob de terra aegypti <lb/>
+et uenerunt in terra<unclear>m</unclear>
 
-	<!-- p19c=141 p5c=225 -->
+<milestone type="19c" unit="page" n="142" xml:id="palimpsest_page_142"/>
+	<milestone type="5c" unit="page" n="226"/>
+	<milestone unit="column" n="a"/>canaam <!-- appears to be a period in Ceriani's version --> et enarraue<lb type="inWord"/>
+	runt patri suo quae<lb type="inWord"/>
+	cumque euenerant <lb/>
+	eis et quomodo du<lb type="inWord"/>
+	re locutus est cum <lb/>
+	eis princeps terrae <lb/>
+	et detenuit symeo<lb type="inWord"/>
+	nem quousque exhibea<lb type="inWord"/>
+	mus illi fratrem nos<lb type="inWord"/>
+	trum beniamin.
+</p>
+<p><milestone unit="vs" n="10"/> ‎ Et dixit iacob<add resp="#ocp">:</add> sine fi<lb type="inWord"/>
+	liis me fecistis<add resp="#ocp">.</add> Io<lb type="inWord"/>
+	seph non est <!-- appears to be a period in Ceriani's version --> et sy<lb type="inWord"/>
+	meon non est<add resp="#ocp">.</add> Benia<lb type="inWord"/>
+	min si acceperitis <lb/>
+	in me et impletis <lb/>
+	malitiam uestram.<lb/>
+	<milestone unit="vs" n="11"/> ‎ Et dixit: non ibit fili<lb type="inWord"/>
+	us meus uobis cum <!-- Ceriani: 'uobiscum' XML: 'uobis cum'--><lb/>
+	ne quando infirme<lb type="inWord"/>
+	tur in uia Quoniam <Lb/>
+	hos duos peperit <lb/>
+	mater ipsorum <lb/>
+	unus periit et hunc <lb/>
+<milestone unit="column" n="b"/> si acceperitis et fue<lb type="inWord"/>
+	rit illi infirmitas al<lb type="inWord"/>
+	iqua in uia deducetis <lb/>
+	canos meos cum tris<lb type="inWord"/>
+	titia in infernum<add resp="#ocp">.</add>
+</p>
+<p>	<milestone unit="vs" n="12"/> ‎ Dixerunt enim ei quod <lb/>
+	et pecunia ipsorum <lb/>
+	reddita esset illis cum <lb/>
+	uasis ipsorum<!-- appears to be a period in Ceriani's version --> et ti<lb type="inWord"/>
+	muit cum eis trans<lb type="inWord"/>
+	mittere eum iacob<add resp="#ocp">.</add>
+</p>
+<p> <milestone unit="vs" n="13"/> ‎ Famis autem ibat et con<lb type="inWord"/>
+	ualescebat in ter<lb type="inWord"/>
+	ra quoniam multi <lb/>
+	de filiis aegyptiorum <lb/>
+	custodierunt semi<lb type="inWord"/>
+	na sua in custodia <lb/>
+	ex quo tamen uiderunt <lb/>
+	ioseph congregare <lb/>
+	frumenta et repo<lb type="inWord"/>
+	nere in horrea ut <lb/>
+	custodirentur in <lb/>
+	annis famis<add resp="#ocp">.</add> <milestone unit="vs" n="14"/> ‎ Et man<lb type="inWord"/>
+	ducauerunt ea aegyp 
+	
+ 
 
-42:2 ‎ In terra autem aegypti erant panes quoniarn congregauerat ioseph frumentum terrae septem annorum ubertatis et erat custodiens illud.
-42:3 ‎ Et aduenerunt aegyptii ad ioseph ut daret illis escas et aperiens horrea in quibus erant frumenta dedit illis ut manducarent in primo anno quia uendebat illis.
-42:4 ‎ Conualuit autem famis in terra canaam ualde et audiuit iacob quod esset frumentum in aegyptum et misit decem filios suos ut acciperent sibi escam et beniamin non transmi-
-
--sit cum eis. Et aduenerunt in aegypto decem filii iacob.
-42:5 ‎ Et cognouit eos ioseph. Et ipsi non cognouerunt eum et appellauit eos ioseph dure et dixit eis: explorare terram uenistis et inclusit eos.
-42:6 ‎ Et mittens arcessiuit illos et accipiens symeonem ab ipsis ligauit eum et nouem fratres suos demisit.
-42:7 ‎ Et impleuit uasa eorum et pecuniam ipsorum reddidit illis.
-42:8 ‎ Et mandauit illis de fratre suo iuniore ut adducerent illum.
-42:9 ‎ Et ascenderunt filii iacob de terra aegypti et uenerunt in terram
-
-	<!-- p19c=142 p5c=226 -->
-
-canaam et enarrauerunt patri suo quaecumque euenerant eis et quomodo dure locutus est cum eis princeps terrae et detenuit symeonem quousque exhibeamus illi fratrem nostrum beniamin.
-42:10 ‎ Et dixit iacob: sine filiis me fecistis. Ioseph non est et symeon non est. Beniamin si acceperitis in me et impletis malitiam uestram.
-42:11 ‎ Et dixit: non ibit filius meus uobis cum ne quando infirmetur in uia. Quoniam hos duos peperit mater ipsorum unus periit et hunc
-
-si acceperitis et fuerit illi infirmitas aliqua in uia deducetis canos meos cum tristitia in infernum.
-42:12 ‎ Dixerunt enim ei quod et pecunia ipsorum reddita esset illis cum uasis ipsorum et timuit cum eis transmittere eum iacob.
-42:13 ‎ Famis autem ibat et conualescebat in terra quoniam multi de filiis aegyptiorum custodierunt semina sua in custodia ex quo tamen uiderunt ioseph congregare frumenta et reponere in horrea ut custodirentur in annis famis.
-42:14 ‎ Et manducauerunt ea aegyp - - -.
-
-</ab>
+</p>
 
 </body>
 </text>
