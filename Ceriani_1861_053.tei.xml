@@ -7,6 +7,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -28,26 +29,36 @@
 <body>
 
 <pb type="1861" n="53" xml:id="Ceriani_1861_053"/>
+	<milestone type="19c" unit="page" n="83" xml:id="palimpsest_page_083"/>
+	<milestone type="5c" unit="page" n="251"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="49"/>
+	<p part="F">
 
 	<!-- p19c=83 p5c=251 -->
 
-49:7 ‎ - - - diebus uitae tuae ut facias per singulos annos semel in anno in diebus suis secundum legem ipsius et non praeteribit. Et erit illud a diebus suis et de mense in mensem.
-49:8 ‎ Quoniam praeceptum aeternum est et scriptum in tabulis caeli super omnes filios istrahel ut faciant ea per singulos annos in die eius semel in anno in generationibus ipsorum et non est illi finis temporum quoniam in saecula est decretum.
-49:9 ‎ Et homo qui fuerit mundus et non sciet facere illud
+<milestone unit="vs" n="7"/> ‎ - - - diebus uitae tuae ut facias per singulos annos semel in anno in diebus suis secundum legem ipsius et non praeteribit. Et erit illud a diebus suis et de mense in mensem.
+<milestone unit="vs" n="8"/> ‎ Quoniam praeceptum aeternum est et scriptum in tabulis caeli super omnes filios istrahel ut faciant ea per singulos annos in die eius semel in anno in generationibus ipsorum et non est illi finis temporum quoniam in saecula est decretum.
+<milestone unit="vs" n="9"/> ‎ Et homo qui fuerit mundus et non sciet facere illud
 
 in die temporis eius ut adferat oblationem acceptabilem in conspectu domini ut manducet et ut bibat in conspectu domini in die festo eius exterminauitur et homo (in)mundus et qui proximus est quoniam oblationem domino non optulit in tempore ipsius peccatum suum sumet homo ille.
-49:10 ‎ Et erunt uenientes filii istrahel et facientes pascha in tempore suo in quartadecima die mensis primi ad uesperam a tertia autem eius usque in tertiam noctis quoniam
+<milestone unit="vs" n="10"/> ‎ Et erunt uenientes filii istrahel et facientes pascha in tempore suo in quartadecima die mensis primi ad uesperam a tertia autem eius usque in tertiam noctis quoniam
 
 	<!-- p19c=84 p5c=252 -->
+		
+	<milestone type="19c" unit="page" n="84" xml:id="palimpsest_page_084"/>
+	<milestone type="5c" unit="page" n="252"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="49"/>
 
 duas paries&lt;partes&gt; diei in lumine et tiam partem in uespere.
-49:11 ‎ Hoc est quod mandauit dominus tibi ut facias illud in uespertino.
-49:12 ‎ Et non est ut quis sacrificet in omni hora luminis nisi in uespertina et ut manducet illud horis uespertinis tertia noctis et quod derelictum fuerit ex omnibus carnibus a tertia noctis hoc in igne comburetur .
-49:13 ‎ Et non coqoitur in aqua aut manducauitur crudum sed in igne assum comedetis illud diligenter. Caput ipsius cum interaneis et cum pe-
+<milestone unit="vs" n="11"/> ‎ Hoc est quod mandauit dominus tibi ut facias illud in uespertino.
+<milestone unit="vs" n="12"/> ‎ Et non est ut quis sacrificet in omni hora luminis nisi in uespertina et ut manducet illud horis uespertinis tertia noctis et quod derelictum fuerit ex omnibus carnibus a tertia noctis hoc in igne comburetur .
+<milestone unit="vs" n="13"/> ‎ Et non coqoitur in aqua aut manducauitur crudum sed in igne assum comedetis illud diligenter. Caput ipsius cum interaneis et cum pe-
 
 -dibus ipsius assauitis igni et non erit quod frangatur ex omnibus ossibus eius et non erit tribulatio in filiis istrahel in die hac.
-49:14 ‎ Propter quod mandauit dominus filiis istrahel facere pascha in die temporis eius et non erit confringere in ea omne os illius quoniam dies festus est et dies praecepti. Non est ut praetereatur de die in diem de mense et mense sed in tempore suo.
-49:15 ‎ Et tu manda filiis istrahel ut faciant pascha in generationibus suis per singulos annos semel in anno in die tempo-
+<milestone unit="vs" n="14"/> ‎ Propter quod mandauit dominus filiis istrahel facere pascha in die temporis eius et non erit confringere in ea omne os illius quoniam dies festus est et dies praecepti. Non est ut praetereatur de die in diem de mense et mense sed in tempore suo.
+<milestone unit="vs" n="15"/> ‎ Et tu manda filiis istrahel ut faciant pascha in generationibus suis per singulos annos semel in anno in die tempo-
 
 </p>
 
