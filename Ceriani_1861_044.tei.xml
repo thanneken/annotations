@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -27,152 +28,118 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="44" xml:id="Ceriani_1861_044"/>
+	<pb type="1861" n="44" xml:id="Ceriani_1861_044"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="205"/>
 	<milestone type="19c" unit="page" n="128" xml:id="palimpsest_page_128"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="36"/>
-	<p part="F">
-		<milestone unit="vs" n="20"/> ‎ Et seruiuit deo in toto
-		<lb/>corde suo et in tota
-		<lb/>anima sua et secun
-		<lb type="inWord"/>dum praecepta uisi
-		<lb type="inWord"/>bilia secundum diui
-		<lb type="inWord"/>sionem temporum
-		<lb/>generationum eius.
-		</p>
-		<p><milestone unit="vs" n="21"/> ‎ Et quadragesimo quin
-		<lb type="inWord"/>to iubeleo in anno
-		<lb/>quarto septimana
-		<lb type="inWord"/>rum secundi mor
-		<lb type="inWord"/>tua est lia uxor iacob
-		<lb/>et sepellierunt eam
-		<lb/>in spelunca duplici
-		<lb/>secus rebeccam ma
-		<lb type="inWord"/>trem eius. <milestone unit="vs" n="22"/> ‎ Et adfue
-		<lb type="inWord"/>runt omnes filii eius
-		<lb/>et pueri eius ut fle
-		<lb type="inWord"/>rent cum eo liam
-		<lb/> mulierem eius et
-		<lb/>ut consolarentur
-		<lb/>eum de illa quia erat
-		<lb/>lugens eum<!-- Ceriani's Version: 'eam' --> <add resp="#ocp">.</add> <milestone unit="vs" n="23"/> ‎ Quoniam
-		<lb/>diligebat eam ualde
-		<lb/>
-		<milestone unit="column" n="b"/> ex die qua mortua
-		<lb/>est rachel soror
-		<lb/>eius quia perfecta
-		<lb/>et recta erat in om
-		<lb type="inWord"/>nibus uiis suis et ho
-		<lb type="inWord"/>norificans iacob om
-		<lb type="inWord"/>nibus diebus quibus <unclear>uixit</unclear>
-		<lb/>cum ea et non <unclear>audiuit</unclear>
-		<lb/>omnem sermone<unclear>m</unclear>
-		<lb/>nequam ex ore eius
-		<lb/>quoniam <unclear>quieta et</unclear>
-		<lb/>pacifica erat et <gap reason="illegible" quantity="3" unit="character"/>
-		<lb/><gap reason="illegible" quantity="9" unit="character"/>hono
-		<lb type="inWord"/> <gap reason="illegible" quantity="9" unit="character"/><add resp="#ocp">.</add> <milestone unit="vs" n="24"/> ‎ Et erat
-		<lb/>memor omnium ope
-		<lb type="inWord"/>rum eius quae fecit
-		<lb/>in uita sua et ideo di
-		<lb type="inWord"/>ligebat eam ualde in
-		<lb/>toto corde suo et
-		<lb/>in anima sua<add resp="#ocp">.</add>
-		</p>
- <p> <milestone unit="ch" n="37"/><milestone unit="vs" n="1"/>Et in die qua mortuus
- <lb/> est isac pater iacob
- <lb/> et esau audierunt
- <lb/>filii esau quoniam dedit
- </p>
+	<p part="F"><milestone unit="vs" n="20"/><gap reason="lost" quantity="8" unit="page"/><lb/>
+		Et seruiuit deo in toto<lb/>
+		corde suo et in tota<lb/>
+		anima sua et secun<lb type="inWord"/>
+		dum praecepta uisi<lb type="inWord"/>
+		bilia secundum diui<lb type="inWord"/>
+		sionem temporum<lb/>
+		generationum eius.
+	</p>
+	<p><milestone unit="vs" n="21"/>Et quadragesimo quin<lb type="inWord"/>
+		to iubeleo in anno<lb/>
+		quarto septimana<lb type="inWord"/>
+		rum secundi mor<lb type="inWord"/>
+		tua est lia uxor iacob<lb/>
+		et sepellierunt eam<lb/>
+		in spelunca duplici<lb/>
+		secus rebeccam ma<lb type="inWord"/>
+		trem eius. <milestone unit="vs" n="22"/>Et adfue<lb type="inWord"/>
+		runt omnes filii eius<lb/>
+		et pueri eius ut fle<lb type="inWord"/>
+		rent cum eo liam<lb/>
+		 mulierem eius et<lb/>
+		ut consolarentur<lb/>
+		eum de illa quia erat<lb/>
+		lugens e<choice><sic>a</sic><corr resp="#ocp">u</corr></choice>m<add resp="#ocp">.</add> <milestone unit="vs" n="23"/>Quoniam<lb/>
+		diligebat eam ualde<lb/>
+		<milestone unit="column" n="b"/>ex die qua mortua<lb/>
+		est rachel soror<lb/>
+		eius quia perfecta<lb/>
+		et recta erat in om<lb type="inWord"/>
+		nibus uiis suis et ho<lb type="inWord"/>
+		norificans iacob om<lb type="inWord"/>
+		nibus diebus quibus <unclear>uixit</unclear><lb/>
+		cum ea et non <unclear>audiuit</unclear><lb/>
+		omnem sermone<unclear>m</unclear><lb/>
+		nequam ex ore eius<lb/>
+		quoniam <unclear>quieta et</unclear><lb/>
+		pacifica erat et <gap reason="illegible" quantity="3" unit="character"/><lb/>
+		<gap reason="illegible" quantity="9" unit="character"/> <unclear>h</unclear>ono<lb type="inWord"/>
+		 <gap reason="illegible" quantity="9" unit="character"/><add resp="#ocp">.</add> <milestone unit="vs" n="24"/>Et erat<lb/>
+		memor omnium ope<lb type="inWord"/>
+		rum eius quae fecit<lb/>
+		in uita sua et ideo di<lb type="inWord"/>
+		ligebat eam ualde in<lb/>
+		toto corde suo et<lb/>
+		in anima sua<add resp="#ocp">.</add>
+	</p>
+ 	<p><milestone unit="ch" n="37"/><milestone unit="vs" n="1"/>Et in die qua mortuus<lb/>
+		 est isac pater iacob<lb/>
+		 et esau audierunt<lb/>
+		filii esau quoniam dedit
+	</p>
+	<cb type="Ceriani" n="2"/>
  	<milestone type="5c" unit="page" n="206"/>
  	<milestone type="19c" unit="page" n="127" xml:id="palimpsest_page_127"/>
  	<milestone unit="column" n="a"/>
- 	<milestone unit="ch" n="37"/>
- 	<p> isaac maiorem <gap reason="illegible" quantity="5" unit="character"/>
- 	<lb/> honorif <gap reason="illegible" quantity="7" unit="character"/>
- 	<lb/>portionem iacob
- 	<lb/>filio suo iuniori et
- 	<lb/>indignati sunt ualde<add resp="#ocp">.</add>
- 	<milestone unit="vs" n="2"/> ‎ Et litigabant cum
- 	<lb/>esau dicentes<add resp="#ocp">:</add> quare
- 	<lb/>praepositus est ti
- 	<lb type="inWord"/>bi iacob cum sit iu
- 	<lb type="inWord"/>nior et dedit illi pater
- 	<lb/>tuus maiorem por
- 	<lb type="inWord"/>tionem et te inferio
- 	<lb type="inWord"/>rem fecit. <milestone unit="vs" n="3"/> ‎ Et dixit
- 	<lb/> ad illos esau<add resp="#ocp">:</add> quia ego
- 	<lb/> dederam iacob primi
- 	<lb type="inWord"/>tiua propter modi
- 	<lb type="inWord"/>cam cocturam lentis
- 	<lb/>et in die in qua misit
- 	<lb/>me pater meus uena
- 	<lb type="inWord"/>re illi uenationem
- 	<lb/>ut manducans bene
- 	<lb type="inWord"/>diceret me <!-- appears to be a period in Ceriani's version --> ueniens
- 	<lb/>ille cum dolo intu
- 	<lb type="inWord"/>lit patri meo escam
- 	<lb/>
-		<milestone unit="column" n="b"/>et potum et bene
-		<lb type="inWord"/>dixit eum pater me
-		<lb type="inWord"/>us et me dedit sub ma
-		<lb type="inWord"/>nu eius<add resp="#ocp">:</add> <milestone unit="vs" n="4"/> ‎ Et nunc adiu
-		<lb type="inWord"/>rauit nos pater nos
-		<lb type="inWord"/>ter me et illum ut non
-		<lb/>exquirarnus nobis
-		<lb/>mala singuli fratri
-		<lb/>suo et ut simus in di
-		<lb type="inWord"/>lectionem et in pa
-		<lb type="inWord"/>ce homo cum fratre
-		<lb/>suo <!-- appears to be a period in Ceriani --> ut non malitiam
-		<lb/>exerceamus ad inuicem<add resp="#ocp">:</add>
-		</p>
-		<p><milestone unit="vs" n="5"/> ‎ Et dixerunt ad eum<add resp="#ocp">:</add>
-		<lb/>non audiemus te ut
-		<lb/>faciamus cum illo pa
-		<lb type="inWord"/>cem quoniam uirtus
-		<lb/>nostra potens su
-		<lb type="inWord"/>per uirtutem eius
-		<lb/>et nos uiri fortes
-		<lb/>super illum<add resp="#ocp">.</add> Ibimus aduersus eum et oc
-		<lb type="inWord"/>cidemus eum et per
-		<lb type="inWord"/>dimus illum et filios
-
-
-
-
-
-
-
-
-
-
-
-	<!-- p19c=128 p5c=205 -->
-<milestone unit="vs" n="20"/> ‎ Et seruiuit deo in toto corde suo et in tota anima sua et secundum praecepta uisibilia secundum diuisionem temporum generationum eius.
-<milestone unit="vs" n="21"/> ‎ Et quadragesimo quinto iubeleo in anno quarto septimanarum secundi mortua est lia uxor iacob et sepellierunt eam in spelunca duplici secus rebeccam matrem eius.
-<milestone unit="vs" n="22"/> ‎ Et adfuerunt omnes filii eius et pueri eius ut flerent cum eo liam mulierem eius et ut consolarentur eum de illa quia erat lugens eum.
-<milestone unit="vs" n="23"/> ‎ Quoniam diligebat eam ualde
-
-ex die qua mortua est rachel soror eius quia perfecta et recta erat in omnibus uiis suis et honorificans iacob omnibus diebus quibus uixit cum ea et non audiuit omnem sermonem nequam ex ore eius quoniam quieta et pacifica erat et - - - hono - - -.
-<milestone unit="vs" n="24"/> ‎ Et erat memor omnium operum eius quae fecit in uita sua et ideo diligebat eam ualde in toto corde suo et in anima sua.
-<milestone unit="vs" n="1"/> ‎ Et in die qua mortuus est isac pater iacob et esau audierunt filii esau quoniam dedit
-
-	<!-- p19c=127 p5c=206 -->
-
-isaac maiorem - - - honorif- - - portionem iacob filio suo iuniori et indignati sunt ualde.
-<milestone unit="vs" n="2"/> ‎ Et litigabant cum esau dicentes: quare praepositus est tibi iacob cum sit iunior et dedit illi pater tuus maiorem portionem et te inferiorem fecit.
-<milestone unit="vs" n="3"/> ‎ Et dixit ad illos esau: quia ego dederam iacob primitiua propter modicam cocturam lentis et in die in qua misit me pater meus uenare illi uenationem ut manducans benediceret me ueniens ille cum dolo intulit patri meo escam
-
-et potum et benedixit eum pater meus et me dedit sub manu eius.
-<milestone unit="vs" n="4"/> ‎ Et nunc adiurauit nos pater noster me et illum ut non exquirarnus nobis mala singuli fratri suo et ut simus in dilectionem et in pace homo cum fratre suo ut non malitiam exerceamus ad inuicem.
-<milestone unit="vs" n="5"/> ‎ Et dixerunt ad eum: non audiemus te ut faciamus cum illo pacem quoniam uirtus nostra potens super uirtutem eius et nos uiri fortes super illum. Ibimus aduersus eum et occidemus eum et perdimus illum et filios - - -.
-
-</p>
-
+ 	<p part="F">isaac maiorem <gap reason="illegible" quantity="5" unit="character"/><lb/>
+		honori<unclear>f</unclear> <gap reason="illegible" quantity="7" unit="character"/><lb/>
+		portionem iacob<lb/>
+		filio suo iuniori et<lb/>
+		indignati sunt ualde<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="2"/>Et litigabant cum<lb/>
+		esau dicentes<add resp="#ocp">:</add> quare<lb/>
+		praepositus est ti<lb type="inWord"/>
+		bi iacob cum sit iu<lb type="inWord"/>
+		nior et dedit illi pater<lb/>
+		tuus maiorem por<lb type="inWord"/>
+		tionem et te inferio<lb type="inWord"/>
+		rem fecit. <milestone unit="vs" n="3"/>Et dixit<lb/>
+		ad illos esau<add resp="#ocp">:</add> quia ego<lb/>
+		dederam iacob primi<lb type="inWord"/>
+		tiua propter modi<lb type="inWord"/>
+		cam cocturam lentis<lb/>
+		et in die in qua misit<lb/>
+		me pater meus uena<lb type="inWord"/>
+		re illi uenationem<lb/>
+		ut manducans bene<lb type="inWord"/>
+		diceret me. <!-- appears to be a period in Ceriani's version --> ueniens<lb/>
+		ille cum dolo intu<lb type="inWord"/>
+		lit patri meo escam<lb/>
+		<milestone unit="column" n="b"/>et potum et bene<lb type="inWord"/><!-- Ceriani's edition has an a instead of b for the column, but clearly a typographical error -->
+		dixit eum pater me<lb type="inWord"/>
+		us et me dedit sub ma<lb type="inWord"/>
+		nu eius<add resp="#ocp">:</add> <milestone unit="vs" n="4"/>Et nunc adiu<lb type="inWord"/>
+		rauit nos pater nos<lb type="inWord"/>
+		ter me et illum ut non<lb/>
+		exquirarnus nobis<lb/>
+		mala singuli fratri<lb/>
+		suo et ut simus in di<lb type="inWord"/>
+		lectionem et in pa<lb type="inWord"/>
+		ce homo cum fratre<lb/>
+		suo. <!-- appears to be a period in Ceriani --> ut non malitiam<lb/>
+		exerceamus ad inuicem<add resp="#ocp">:</add>
+	</p>
+	<p><milestone unit="vs" n="5"/>Et dixerunt ad eum<add resp="#ocp">:</add><lb/>
+		non audiemus te ut<lb/>
+		faciamus cum illo pa<lb type="inWord"/>
+		cem quoniam uirtus<lb/>
+		nostra potens su<lb type="inWord"/>
+		per uirtutem eius<lb/>
+		et nos uiri fortes<lb/>
+		super illum. Ibimus<lb/>
+		aduersus eum et oc<lb type="inWord"/>
+		cidemus eum et per<lb type="inWord"/>
+		dimus illum et filios
+	</p>
 </body>
 </text>
 </TEI>
