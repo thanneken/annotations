@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+	schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Digital Edition of Gryson</title>
+			<respStmt><resp>TEI Encoding</resp>
+			<name>Dominique Dominguez</name></respStmt>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>The Jubilees Palimpsest Project</publisher>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title>EXPOSITO EVENGELII SECUNDUM LUCAM</title>
+				<author>Roger Gryson</author>
+				<publisher>Brepols</publisher>
+				<date when="1982">1982</date>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<p>Edited from the electronic text available from the Online Critical Pseudepigrapha, with markup to distinguish Ceriani from subsequent editors.</p>
+	</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+
+<pb type="1982" n="" xml:id="Ceriani_"/>
+	<milestone type="19c" unit="page" n="020" xml:id="palimpsest_page_020"/>
+	<milestone type="6c" unit="page" n="005"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="1"/>
+	<p part="F"> <p n="1:1"> <gap reason="lost" quantity="4" unit="page"/>
+	<milestone type="19c" unit="page" n="20"/>  a plentitudine <expan><abbr>Cri</abbr><ex>Cristi</ex></expan>, ut repleti dicamus cum <lb/>
+		apostolico <milestone type="6c" unit="page" n="3r"/> <quote>choro: De plenitudine eius nos<lb/>
+		omnes accepimus gratiam ex gratia <ptr cRef="John 1:16"/></quote>, et: Re<lb/>
+		pleti fructum iustitiae per <expan><abbr>Cri</abbr><ex>Cristum</ex></expan> <expan><abbr>Ie</abbr><ex>Iesum</ex></expan> in glo<lb type="inWord" n="5"/>
+		riam et laudem <expan><abbr>d</abbr><ex>dei</ex></expan>. Pulchro autem euange <lb type="inWord"/>
+		lium ordinationem et narrationem <expan><abbr>reru</abbr><ex>rerum</ex></expan> <lb/>
+		describsit, quia disciplina ornata est, et<lb/>
+		res <expan><abbr>sp</abbr><ex>spiritalis</ex></expan>, non corpus est pietas et iusti<lb type="inWord"/>
+		tia, <expan><abbr>s</abbr><ex>sanctitas</ex></expan> et ueritas, frugalitas et tempe<lb type="inWord" n="10"/>
+		rantia, et si qua de uirtutibus dicitur uirtus, <lb/>
+		que oculis non uidetur et corde puro<lb/>
+		consideratur, aspectu non tenetur et men<lb type="inWord"/>
+		te conplectitur: Beati mundo corde, <lb/>
+		quoniam ipsi <expan><abbr>d</abbr><ex>deum</ex></expan> uidebunt. Quomodo, euan<lb type="inWord" n="15"/> 
+		gelista, in uobis conpletae sunt narratio<lb type="inWord"/>
+		ne rerum edicito. 
+<p/>
+<p n="1:2"> <quote>Sicut tradiderunt no<lb type="inWord"/>
+		bis <ptr cRef="Luke 1:2"/></quote> priores et praecessores apostoli, gu<lb type="inWord"/>
+		uernatores fidei et rectores, uetusti, an<lb type="inWord"/>
+		tistites et pontifices noua credulitate <lb n="20"/> 
+		refecti, <quote>qui ab initio<ptr cRef="......"/></quote> electi et bocati, <lb/>
+		<expan><abbr>s</abbr><ex>sanctificati</ex></expan> et honorati, apostoli ordinati et<lb/>
+		supra homines <expan><abbr>d</abbr><ex>dei</ex></expan> effecti sunt. <quote>ipsi<ptr cRef="......"/></quote> non<lb/>
+		audierunt, sed <quote>uiderunt<ptr cRef="......"/></quote> non corporeis,
+<milestone type="19c" unit="page" n="19"/>		
+		
+		
+	
+
+	
+</p>
+
+</body>
+</text>
+</TEI>
