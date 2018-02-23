@@ -73,37 +73,79 @@
 		lit in tempore ip<lb type="inWord"/>
 		sius peccatum suum <lb/>
 		sumet homo ille<add resp="#ocp">.</add>
-</p>
-<p><milestone unit="vs" n="10"/> ‎ Et erunt uenientes filii istrahel et facientes pascha in tempore suo in quartadecima die mensis primi ad uesperam a tertia autem eius usque in tertiam noctis quoniam
-
-	
-
-	<!-- p19c=83 p5c=251 -->
-
-<milestone unit="vs" n="7"/> ‎ - - - diebus uitae tuae ut <lb/>
-	facias per singulos annos semel in anno in diebus suis secundum legem ipsius et non praeteribit. Et erit illud a diebus suis et de mense in mensem.
-<milestone unit="vs" n="8"/> ‎ Quoniam praeceptum aeternum est et scriptum in tabulis caeli super omnes filios istrahel ut faciant ea per singulos annos in die eius semel in anno in generationibus ipsorum et non est illi finis temporum quoniam in saecula est decretum.
-<milestone unit="vs" n="9"/> ‎ Et homo qui fuerit mundus et non sciet facere illud
-
-in die temporis eius ut adferat oblationem acceptabilem in conspectu domini ut manducet et ut bibat in conspectu domini in die festo eius exterminauitur et homo (in)mundus et qui proximus est quoniam oblationem domino non optulit in tempore ipsius peccatum suum sumet homo ille.
-<milestone unit="vs" n="10"/> ‎ Et erunt uenientes filii istrahel et facientes pascha in tempore suo in quartadecima die mensis primi ad uesperam a tertia autem eius usque in tertiam noctis quoniam
-
-	<!-- p19c=84 p5c=252 -->
-		
-	<milestone type="19c" unit="page" n="84" xml:id="palimpsest_page_084"/>
+	</p>
+	<p><milestone unit="vs" n="10"/> ‎ Et erunt uenien<lb type="inWord"/>
+		tes filii istrahel<lb/>
+		et facientes pascha <lb/>
+		in tempore suo in <lb/>
+		quartadecima die <lb/>
+		mensis primi ad ues<lb type="inWord"/>
+		pera <unclear>m</unclear> a tertia <unclear>aut</unclear>utem <lb/>
+		eius usque in tertiam <lb/>
+		noctis quonia<unclear>m</unclear>
+<milestone type="19c" unit="page" n="84" xml:id="palimpsest_page_084"/>
 	<milestone type="5c" unit="page" n="252"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="49"/>
-
-duas (use SIC, DOM!!) paries&lt;partes&gt; diei in lumine et tiam partem in uespere.
+	<milestone unit="ch" n="49"/> duas paries ;partes <choice><sic>i</sic><corr resp="#ocp">t</corr></choice> diei in <lb/>
+		lumine et tiam partem in uespere.
 <milestone unit="vs" n="11"/> ‎ Hoc est quod mandauit dominus tibi ut facias illud in uespertino.
-<milestone unit="vs" n="12"/> ‎ Et non est ut quis sacrificet in omni hora luminis nisi in uespertina et ut manducet illud horis uespertinis tertia noctis et quod derelictum fuerit ex omnibus carnibus a tertia noctis hoc in igne comburetur .
-<milestone unit="vs" n="13"/> ‎ Et non coqoitur in aqua aut manducauitur crudum sed in igne assum comedetis illud diligenter. Caput ipsius cum interaneis et cum pe-
+		lumine et tiam par<lb type="inWord"/>
+		tem in uespere<add resp="#ocp">.</add> <milestone unit="vs" n="11"/> ‎ Hoc <lb/>
+		est quod mandauit <lb/>
+		dominus tibi ut facias il<lb type="inWord"/>
+		lud in uespertino<add resp="#ocp">.</add> <lb/>
+		<milestone unit="vs" n="12"/> ‎ Et non est ut quis <lb/>
+		sacrificet in omni <lb/>
+		hora luminis nisi in <lb/>
+		uespertina <!-- appears to be a period in Ceriani's --> et ut man<lb type="inWord"/>
+		ducet illud horis ues<lb type="inWord"/>
+		pertinis tertia noc<lb type="inWord"/>
+		tis <!-- appears to be a period in Ceriani's --> et quod derelic<lb type="inWord"/>
+		tum fuerit ex omnibus <lb/>
+		carnibus <unclear>a</unclear> tertia noc<lb type="inWord"/>
+		tis hoc in igne com<lb type="inWord"/>
+		buretur<add resp="#ocp">.</add> <milestone unit="vs" n="13"/> ‎ Et non co<lb type="inWord"/>
+		qoitur in aqua aut <lb/>
+		manducauitur cru<lb type="inWord"/>
+		dum sed in igne as<lb type="inWord"/>
+		sum comedetis il<lb type="inWord"/>
+		lud diligenter. Ca<lb type="inWord"/>
+		put ipsius cum in<lb type="inWord"/>
+		teraneis et cum pe<lb type="inWord"/>
+		<milestone unit="column" n="b"/> dibus ipsius assauitis <lb/>
+		igni <!-- appears to be a period in Ceriani's --> et non erit quod <lb/>
+		frangatur ex omnibus <lb/>
+		ossibus eius et non <lb/>
+		erit tribulatio in fi<lb type="inWord"/>
+		liis istrahel in die hac<add resp="#ocp">.</add> <lb/>
+		<milestone unit="vs" n="14"/> ‎ Propter quod man<lb type="inWord"/>
+		dauit dominus filiis istra<lb type="inWord"/>
+		hel facere pascha <lb/>
+		in die temporis eius <lb/>
+		et non erit confrin<lb type="inWord"/>
+		gere in ea omne os <unclear>illius</unclear><lb/>
+		quoniam dies festus <lb/>
+		est et dies praecepti<add resp="#ocp">.</add><lb/> 
+		Non est ut praetere<lb type="inWord"/>
+		atur de die in diem <lb/>
+		de mense et mense <lb/>
+		sed in tempore suo<add resp="#ocp">.</add><lb/>
+	</p>
+	<p><milestone unit="vs" n="15"/> ‎ Et tu manda filiis is<lb type="inWord"/>
+		trahel ut faciant <lb/>
+		pascha in generatio<lb type="inWord"/>
+		nibus suis per singu<lb type="inWord"/>
+		los annos semel in <lb/>
+		anno in die tempo
+	
+		
+		
+		
+		
+		
+	
 
--dibus ipsius assauitis igni et non erit quod frangatur ex omnibus ossibus eius et non erit tribulatio in filiis istrahel in die hac.
-<milestone unit="vs" n="14"/> ‎ Propter quod mandauit dominus filiis istrahel facere pascha in die temporis eius et non erit confringere in ea omne os illius quoniam dies festus est et dies praecepti. Non est ut praetereatur de die in diem de mense et mense sed in tempore suo.
-<milestone unit="vs" n="15"/> ‎ Et tu manda filiis istrahel ut faciant pascha in generationibus suis per singulos annos semel in anno in die tempo-
-
+	
 </p>
 
 </body>
