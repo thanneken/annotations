@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -28,124 +29,118 @@
 <text xml:lang="la">
 <body>
 	<pb type="1861" n="47" xml:id="Ceriani_1861_047"/>
+	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="217"/>
 	<milestone type="19c" unit="page" n="129" xml:id="palimpsest_page_129"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="40"/>
 	<p part="F">
-		<milestone unit="ch" n="39"/>
-		<milestone unit="vs" n="19"/>
-		ut interueniret <unclear>rex</unclear>
-		<lb/>farao et <unclear>solueret</unclear> io
-		<lb type="inWord"/>seph quoniam obli
-		<lb type="inWord"/>tus est<add resp="#ocp">.</add>
+		ut interueniret <unclear>rex</unclear><lb/>
+		farao et <unclear>solueret</unclear> io<lb type="inWord"/>
+		seph quoniam obli<lb type="inWord"/>
+		tus est<add resp="#ocp">.</add>
 	</p>
-	<p><milestone unit="vs" n="1"/>Et in illo tempore som
-		<lb type="inWord"/>niauit farao somnia
-		<lb/>duo in nocte una prop
-		<lb type="inWord"/>ter famem quae futu
-		<lb type="inWord"/>ra erat super <!-- ocp has - - - --> <gap reason="illegible" quantity="7" unit="character"/>
-		<lb/>terram. Et experge
-		<lb type="inWord"/>factus de somno uo
-		<lb type="inWord"/>cauit uniuersos in
-		<lb type="inWord"/>terpraetes somnio
-		<lb type="inWord"/>rum qui erant in reg
-		<lb type="inWord"/>no suo <!-- looks like Ceriani has '.' --> et praecanta
-		<lb/><unclear>tores</unclear> et indicauit il
-		<lb/>lis somnia sua et non
-		<lb/>potuerunt illi inter
-		<lb type="inWord"/>praetar<unclear>e</unclear> somnia eius.
+	<p><milestone unit="ch" n="40"/><milestone unit="vs" n="1"/>Et in illo tempore som<lb type="inWord"/>
+		niauit farao somnia<lb/>
+		duo in nocte una prop<lb type="inWord"/>
+		ter famem quae futu<lb type="inWord"/>
+		ra erat super <gap reason="illegible" quantity="7" unit="character"/><lb/>
+		terram. Et experge<lb type="inWord"/>
+		factus de somno uo<lb type="inWord"/>
+		cauit uniuersos in<lb type="inWord"/>
+		terpraetes somnio<lb type="inWord"/>
+		rum qui erant in reg<lb type="inWord"/>
+		no suo. et praecanta<lb/>
+		<unclear>tores</unclear> et indicauit il<lb type="inWord"/>
+		lis somnia sua et non<lb/>
+		potuerunt illi inter<lb type="inWord"/>
+		praetar<unclear>e</unclear> somnia eius.
 	</p>
-	<p><milestone unit="vs" n="2"/>Tunc memoratus est
-		<lb/>princeps uinifuso
-		<lb type="inWord"/>rum ioseph et indica
-		<lb type="inWord"/>uit de illo regi farao
-		<lb type="inWord"/>ni et eiecit eum de
-		<lb/>
-		<milestone unit="column" n="b"/>uinculatorio et nar
-		<lb type="inWord"/>rauit in conspectu
-		<lb/>eius duo somnia <!-- ocp has - - - --> <gap reason="illegible" quantity="2" unit="character"/>.<milestone unit="vs" n="3"/> <!-- ocp has - - - --> <gap reason="illegible" quantity="2" unit="character"/>
-		<lb/>interpraetatus est
-		<lb/><!-- ocp has - - - --> <gap reason="illegible" quantity="12" unit="character"/><add resp="#ocp">:</add> 
-		<lb/>duo somnia u<unclear>num</unclear>
-		<lb/>sunt Septem autem
-		<lb/>anni contin<unclear>ui erunt</unclear>
-		<lb/>in omnem terram
-		<lb/>aegypti ubertatis
-		<lb/>et septem anni famis
-		<lb/>sic erit in omnem
-		<lb/>terram<add resp="#ocp">.</add>
+	<p><milestone unit="vs" n="2"/>Tunc memoratus est<lb/>
+		princeps uinifuso<lb type="inWord"/>
+		rum ioseph et indica<lb type="inWord"/>
+		uit de illo regi farao<lb type="inWord"/>
+		ni et eiecit eum de<lb/>
+		<milestone unit="column" n="b"/>uinculatorio et nar<lb type="inWord"/>
+		rauit in conspectu<lb/>
+		eius duo somnia <gap reason="illegible" quantity="2" unit="character"/> <milestone unit="vs" n="3"/> <gap reason="illegible" quantity="2" unit="character"/><lb/>
+		interpraetatus est<lb/>
+		<gap reason="illegible" quantity="12" unit="character"/><lb/>
+		duo somnia u<unclear>num</unclear><lb/>
+		sunt Septem autem<lb/>
+		anni contin<unclear>ui erunt</unclear><lb/>
+		in omnem terram<lb/>
+		aegypti ubertatis<lb/>
+		et septem anni famis<lb/>
+		sic erit in omnem<lb/>
+		terram<add resp="#ocp">.</add>
 	</p>
-	<p><milestone unit="vs" n="4"/>Et nunc ordinet fa
-		<lb type="inWord"/>rao speculatores in
-		<lb/>omnem terram ae
-		<lb type="inWord"/>gypti qui congregent
-		<lb/>escas per singulas
-		<lb/>ciuitates et reponant
-		<lb/>eas annis septem
-		<lb/>ubertatis in esca<unclear>m</unclear>
-		<lb/>quae futura est sep
-		<lb type="inWord"/>tem annis famis et
-		<lb/>non periet terra
+	<p><milestone unit="vs" n="4"/>Et nunc ordinet fa<lb type="inWord"/>
+		rao speculatores in<lb/>
+		omnem terram ae<lb type="inWord"/>
+		gypti qui congregent<lb/>
+		escas per singulas<lb/>
+		ciuitates et reponant<lb/>
+		eas annis septem<lb/>
+		ubertatis in esca<unclear>m</unclear><lb/>
+		quae futura est sep<lb type="inWord"/>
+		tem annis famis et<lb/>
+		non periet terra
 	</p>
+	<cb type="Ceriani" n="2"/>
 	<milestone type="5c" unit="page" n="218"/>
 	<milestone type="19c" unit="page" n="130" xml:id="palimpsest_page_130"/>
 	<milestone unit="column" n="a"/>
-	<p part="F">
-		<milestone unit="vs" n="4"/>
-		a facie famis quoniam
-		<lb/>uehemens erit ual
-		<lb type="inWord"/>de super omnem
-		<lb/>terram<add resp="#ocp">.</add>
+	<p part="F"><milestone unit="vs" n="4"/>a facie famis quoniam<lb/>
+		uehemens erit ual<lb type="inWord"/>
+		de super omnem<lb/>
+		terram<add resp="#ocp">.</add>
 	</p>
-	<p><milestone unit="vs" n="5"/>Et dedit deus gratiam io
-		<lb type="inWord"/>seph et misericor
-		<lb type="inWord"/>diam in conspectu
-		<lb/>faraonis et dixit fa
-		<lb type="inWord"/>rao pueris suis<add resp="#ocp">:</add> nu<unclear>m</unclear>
-		<lb type="inWord"/>quid poterimus inue
-		<lb type="inWord"/>nire hominem pru
-		<lb type="inWord"/>dentiorem et sapi
-		<lb type="inWord"/>entiorem quam hic
-		<lb/>est quoniam spiritus dei
-		<lb/>cum ipso est. <milestone unit="vs" n="6"/>Et po
-		<lb type="inWord"/>suit eum secundum
-		<lb/>se in omni regno suo
-		<lb/>et potestatem haben
-		<lb type="inWord"/>tem in omni terra
-		<lb/>aegypti<!-- looks like Ceriani has '.' --> et inposuit
-		<lb/>eum super currum
-		<lb/>secundum qui erat
-		<lb/>faraonis. <milestone unit="vs" n="7"/>Et induit
-		<lb/>eum beste bissina
-		<lb/>
-		<milestone unit="column" n="b"/>et posuit torquem
-		<lb/>aureum in collo eius
-		<lb/>et praeconauerunt
-		<lb/>in conspectu eius
-		<lb/>elel<!-- looks like Ceriani has '.' --> et habirel et po
-		<lb type="inWord"/>suit anulum in manu
-		<lb/>eius. Et praeposuit
-		<lb/>eum super omnem
-		<lb/>domum suam et mag
-		<lb type="inWord"/>nificauit eum et dixit<add resp="#ocp">:</add>
-		<lb/>non te praecedam ego
-		<lb/>nisi throno meo tan
-		<lb type="inWord"/>tummodo. <milestone unit="vs" n="7"/>Et accepit
-		<lb/>potestatem ioseph
-		<lb/>in totam terram ae
-		<lb type="inWord"/>gypti<add resp="#ocp">.</add> Et dilexe
-		<lb type="inWord"/>runt eum omnes
-		<lb/>principes faraonis
-		<lb/>et serui eius<!-- looks like Ceriani has '.' --> et om
-		<lb type="inWord"/>nes facientes opera
-		<lb/>regis quoniam in ue
-		<lb type="inWord"/>ritate ambulabat
-		<lb/>et non erat in illum
-		<lb/>superbia et extol <!-- ocp has - - - --><add resp="#ocp">.</add> <gap reason="page skip" quantity="3" unit="page"/>
+	<p><milestone unit="vs" n="5"/>Et dedit deus gratiam io<lb type="inWord"/>
+		seph et misericor<lb type="inWord"/>
+		diam in conspectu<lb/>
+		faraonis et dixit fa<lb type="inWord"/>
+		rao pueris suis<add resp="#ocp">:</add> nu<unclear>m</unclear><lb type="inWord"/>
+		quid poterimus inue<lb type="inWord"/>
+		nire hominem pru<lb type="inWord"/>
+		dentiorem et sapi<lb type="inWord"/>
+		entiorem quam hic<lb/>
+		est quoniam spiritus dei<lb/>
+		cum ipso est. <milestone unit="vs" n="6"/>Et po<lb type="inWord"/>
+		suit eum secundum<lb/>
+		se in omni regno suo<lb/>
+		et potestatem haben<lb type="inWord"/>
+		tem in omni terra<lb/>
+		aegypti. et inposuit<lb/>
+		eum super currum<lb/>
+		secundum qui erat<lb/>
+		faraonis. <milestone unit="vs" n="7"/>Et induit<lb/>
+		eum beste bissina<lb/>
+		<milestone unit="column" n="b"/>et posuit torquem<lb/>
+		aureum in collo eius<lb/>
+		et praeconauerunt<lb/>
+		in conspectu eius<lb/>
+		elel. et habirel et po<lb type="inWord"/>
+		suit anulum in manu<lb/>
+		eius. Et praeposuit<lb/>
+		eum super omnem<lb/>
+		domum suam et mag<lb type="inWord"/>
+		nificauit eum et dixit<add resp="#ocp">:</add><lb/>
+		non te praecedam ego<lb/>
+		nisi throno meo tan<lb type="inWord"/>
+		tummodo. <milestone unit="vs" n="7"/>Et accepit<lb/>
+		potestatem ioseph<lb/>
+		in totam terram ae<lb type="inWord"/>
+		gypti<add resp="#ocp">.</add> Et dilexe<lb type="inWord"/>
+		runt eum omnes<lb/>
+		principes faraonis<lb/>
+		et serui eius. et om<lb type="inWord"/>
+		nes facientes opera<lb/>
+		regis quoniam in ue<lb type="inWord"/>
+		ritate ambulabat<lb/>
+		et non erat in illum<lb/>
+		superbia et extol
 	</p>
-	
-		
+	<gap reason="lost" quantity="4" unit="page"/>
 </body>
 </text>
 </TEI>

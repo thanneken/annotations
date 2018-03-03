@@ -94,7 +94,7 @@
 	<milestone type="5c" unit="page" n="212"/>
 	<milestone type="19c" unit="page" n="133" xml:id="palimpsest_page_133"/>
 	<milestone unit="column" n="a"/>
-	<p part="F">cum ipsis et inter<lb type="inWord"/>
+	<p part="F">cum ipsis. et inter<lb type="inWord"/>
 		fecerunt ex edom<lb/>
 		et ex correo quadrin<lb type="inWord"/>
 		gentos uiros bella<lb type="inWord"/>
@@ -107,7 +107,7 @@
 		quod in adurin<add resp="#ocp">.</add> <milestone unit="vs" n="9"/>Et per<lb type="inWord"/>
 		secuti sunt filii iacob<lb/>
 		post eos usque ad mon<lb type="inWord"/>
-		tem seir<add resp="#ocp">.</add>Et iacob sep<add resp="#ocp">.</add><lb/>
+		tem seir. Et iacob sep<add resp="#ocp">.</add><lb/>
 		pelliuit esau fratrem<lb/>
 		suum in excelso quod<lb/>
 		est adurin et con<lb type="inWord"/>
@@ -115,7 +115,7 @@
 	</p>
 	<p><milestone unit="vs" n="10"/>Et cumsederunt filii<lb/>
 		iacob filios esau in<lb/>
-		monte seir et sub<lb type="inWord"/>
+		monte seir. et sub<lb type="inWord"/>
 		iugauerunt illos ut<lb/>
 		sint seruientes fi<lb type="inWord"/>
 		liis iacob. <milestone unit="vs" n="11"/>Et miserunt<lb/>
@@ -128,7 +128,7 @@
 		filiis eius in omnibus<lb/>
 		diebus<add resp="#ocp">.</add> <milestone unit="vs" n="13"/>Et erant dantes<lb/>
 		honorem iacob usque<lb/>
-		in diem de*sc*ensionis<lb/>
+		in diem de<choice><sic>f</sic><corr resp="#ocp">sc</corr></choice>ensionis<lb/>
 		eius in aegyptum<add resp="#ocp">.</add>
 	</p>
 	<p><milestone unit="vs" n="14"/>‎Et non cessauerunt<lb/>
