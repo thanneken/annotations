@@ -1,5 +1,6 @@
+<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Maria Garza</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,95 +28,79 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
     <pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="239"/>
 	<milestone type="19c" unit="page" n="131" xml:id="palimpsest_page_131"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="45"/>
-
-	<!-- p19c=131 p5c=239 -->
-    <p><milestone unit="vs" n="8"/>
-       <!--45:8--> ‎ <add resp="#ocp">- - -</add> uit terra aegypti<lb/>
-       a facie famis. <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t pos<lb type="inWord"/>
-       sedit ioseph totam<lb/>
-       terram aegypti fara<lb type="inWord"/>
-       oni in esca. nam ho<lb type="inWord"/>
-       mines et iumenta et <lb/>
-       uniuersa adquisiuit<lb/>
-       pharaoni<add resp="#ocp">.</add>
+    <p><milestone unit="vs" n="8"/><gap reason="lost" quantity="12" unit="page"/><lb/>
+		uit terra aegypti<lb/>
+		a facie famis. <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t pos<lb type="inWord"/>
+		sedit ioseph totam<lb/>
+		terram aegypti fara<lb type="inWord"/>
+		oni in esca. nam ho<lb type="inWord"/>
+		mines et iumenta et <lb/>
+		uniuersa adquisiuit<lb/>
+		pharaoni<add resp="#ocp">.</add>
     </p>
-    <p><milestone unit="vs" n="9"/>
-       <!-- 45:9 --> ‎ Et consummati sunt<lb/> 
-       septem anni famis<lb/>
-       et dedit ioseph po<lb type="inWord"/>
-       pulo terrae semina<lb/>
-       et escas ut semina<lb type="inWord"/>
-       rent terram an<add resp="#ocp">-</add>
-
-       <add resp="#ocp">-</add>no<lb/>
-       octauo. propter quod<lb/>
-       fluuius ascenderat<lb/>
-       in omnem terram<lb/>
-       aegypti.<milestone unit="vs" n="10"/>
-       <!-- 45:10 --><choice><sic>i</sic><corr resp="#ocp">I</corr></choice>n septem<lb/>
-       enim annis famis non<lb/>
-       ascenderat et non<lb/>
-       adaquauerat nisi<lb/>
-       modica loca secus<lb/>
-       litus fluminis. et<lb/>
-       seminauerunt in an<lb type="inWord"/>
-       <milestone unit="column" n="b"/>no octauo aegyptii<lb/>
-       terram suam et<lb/>
-       collegerunt fruc<lb type="inWord"/>
-       tus bonos in anno<lb/>
-       illo.<milestone unit="vs" n="11"/>
-       <!-- 45:11 --> ‎ Hic annus pri<lb type="inWord"/>
-       mus septimanarum<lb/>
-       quinti quinto. et<lb/>
-       quadragesimo iu.<lb/>
-       beleo.<milestone unit="vs" n="12"/>
-       <!-- 45:12 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t accepit<lb/>
-       ioseph quintam par<lb type="inWord"/>
-       tem de omnibus quid<lb type="inWord"/>
-       quid natum est in<lb/>
-       terra aegypti por<lb type="inWord"/>
-       tionem regalem<lb/>
-       et quattuor partes<lb/>
-       dedit illis in esca et<lb/>
-       in semine. et pro<lb type="inWord"/>
-       posuit ioseph om<lb type="inWord"/>
-       nibus aegyptiis hoc<lb/>
-       in praecepto in to<lb type="inWord"/>
-       ta terra aegypti usque<lb/>
-       in diem hunc<add resp="#ocp">.</add>
+    <p><milestone unit="vs" n="9"/>Et consummati sunt<lb/>
+		septem anni famis<lb/>
+		et dedit ioseph po<lb type="inWord"/>
+		pulo terrae semina<lb/>
+		et escas ut semina<lb type="inWord"/>
+		rent terram anno<lb/>
+		octauo. propter quod<lb/>
+		fluuius ascenderat<lb/>
+		in omnem terram<lb/>
+		aegypti. <milestone unit="vs" n="10"/><choice><sic>i</sic><corr resp="#ocp">I</corr></choice>n septem<lb/>
+		enim annis famis non<lb/>
+		ascenderat et non<lb/>
+		adaquauerat nisi<lb/>
+		modica loca secus<lb/>
+		litus fluminis. et<lb/>
+		seminauerunt in an<lb type="inWord"/>
+		<milestone unit="column" n="b"/>no octauo aegyptii<lb/>
+		terram suam et<lb/>
+		collegerunt fruc<lb type="inWord"/>
+		tus bonos in anno<lb/>
+		illo. <milestone unit="vs" n="11"/>Hic annus pri<lb type="inWord"/>
+		mus septimanarum<lb/>
+		quinti quinto. et<lb/>
+		quadragesimo iu.<lb/>
+		beleo. <milestone unit="vs" n="12"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t accepit<lb/>
+		ioseph quintam par<lb type="inWord"/>
+		tem de omnibus quid<lb type="inWord"/>
+		quid natum est in<lb/>
+		terra aegypti por<lb type="inWord"/>
+		tionem regalem<lb/>
+		et quattuor partes<lb/>
+		dedit illis in esca et<lb/>
+		in semine. et pro<lb type="inWord"/>
+		posuit ioseph om<lb type="inWord"/>
+		nibus aegyptiis hoc<lb/>
+		in praecepto in to<lb type="inWord"/>
+		ta terra aegypti usque<lb/>
+		in diem hunc<add resp="#ocp">.</add>
     </p>
-    <p><milestone unit="vs" n="13"/>
-       <!-- 45:13 -->Et uixit istrahel<lb/>
+    <p><milestone unit="vs" n="13"/>Et uixit istrahel<lb/>
        in terra aegypti annis
     </p>
-    <p>
-<pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
-	<cb type="Ceriani" n="1"/>
+	<cb type="Ceriani" n="2"/>
+	<pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
 	<milestone type="5c" unit="page" n="240"/>
 	<milestone type="19c" unit="page" n="132" xml:id="palimpsest_page_132"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="45"/>
-	<!-- p19c=132 p5c=240 -->
-
-       decem et septem<lb/>
-       et facti sunt omnes<lb/>
-       anni uitae eius quos<lb/>
-       uixit in tertio iube<lb type="inWord"/>
-       leo centum quadra<lb type="inWord"/>
-       ginta septem annis<lb/>
-       et deficiens mor<lb type="inWord"/>
-       tuus est<lb/>
-       </p>
-       <p>
-       <add resp="#ocp">(.</add>E<choice><sic>t</sic><corr resp="#ocp">T</corr></choice><add resp="#ocp">)</add> quadragesimo<lb/>
+    <p>decem et septem<lb/>
+		et facti sunt omnes<lb/>
+		anni uitae eius quos<lb/>
+		uixit in tertio iube<lb type="inWord"/>
+		leo centum quadra<lb type="inWord"/>
+		ginta septem annis<lb/>
+		et deficiens mor<lb type="inWord"/>
+		tuus est<lb/>
+	</p>
+	<p><surplus>.ET</surplus> quadragesimo<lb/>
        quinto iubeleo in<lb/>
        anno quarto septi<lb type="inWord"/>
        manarum quinti<add resp="#ocp">.</add><milestone type="vs" n="14"/>
@@ -161,8 +147,6 @@
        adiungebat se fra<lb type="inWord"/>
        ter cum proximo suo <add resp="#ocp">- - -.</add>
 </p>
-</ab>
-
 </body>
 </text>
 </TEI>

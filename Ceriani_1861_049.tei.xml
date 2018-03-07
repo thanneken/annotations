@@ -1,5 +1,6 @@
+<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -27,122 +28,122 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="49" xml:id="Ceriani_1861_049"/>
-<milestone type="19c" unit="page" n="141" xml:id="palimpsest_page_141"/>
+	<pb type="1861" n="49" xml:id="Ceriani_1861_049"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="19c" unit="page" n="141" xml:id="palimpsest_page_141"/>
 	<milestone type="5c" unit="page" n="225"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="42"/>
-	<p part="F"><milestone unit="vs" n="2"/> ‎ In terra autem aegypti <lb/>
-	erant panes quoniarn <!-- Ceriani: 'quoniarm' XML: 'quoniarn' --> <lb/>
-	congregauerat io<lb type="inWord"/>
-	seph frumentum <lb/>
-	terrae septem an<lb type="inWord"/>
-	norum ubertatis <lb/>
-	et erat custodiens il<lb type="inWord"/>
-	lud.<milestone unit="vs" n="3"/> ‎ Et aduenerunt <lb/>
-	aegyptii ad ioseph ut <lb/>
-	daret illis escas <!-- appears to be a period in Ceriani's Version --> et a<lb type="inWord"/>
-	periens horrea in qui<lb type="inWord"/> 
-	bus erant frumenta <lb/>
-	dedit illis ut mandu<lb type="inWord"/>
-	carent in primo an<lb type="inWord"/>
-	no quia uendebat illis<add resp="#ocp">.</add><lb/>
-</p>
-<p><milestone unit="vs" n="4"/> ‎ Conualuit autem fa<lb type="inWord"/>
-	mis in terra canaam <lb/>
-	ualde et audiuit ia<lb type="inWord"/>
-	cob quod esset fru<lb type="inWord"/>
-	mentum in aegyptum <lb/>
-	et misit decem fili<lb type="inWord"/>
-	os suos ut acciperent <lb/>
-	sibi escam et benia<lb type="inWord"/>
-	min non transmi
-	<milestone unit="column" n="b"/>sit cum eis<add resp="#ocp">.</add> 
-</p>
-<p>Et aduenerunt in ae<lb type="inWord"/>
-	gypto decem filii iacob<add resp="#ocp">.</add> <milestone unit="vs" n="5"/> ‎ Et cognouit eos io<lb type="inWord"/>
-	seph. Et ipsi non cog<lb type="inWord"/>
-	nouerunt eum et <lb/>
-	appellauit eos ioseph <lb/>
-	dure et dixit eis<add resp="#ocp">:</add> ex<lb type="inWord"/>
-	plorare terram <unclear>u</unclear>e <lb type="inWord"/>
-	nistis et inclusit eos<add resp="#ocp">.</add>
-</p>
-<p><milestone unit="vs" n="6"/> ‎ Et mittens arcessi<lb type="inWord"/>
-	uit illos et accipiens <lb/>
-	symeonem ab ipsis <lb/>
-	ligauit eum et nouem <lb/>
-	fratres suos demisit<add resp="#ocp">.</add>
-	<milestone unit="vs" n="7"/> ‎ Et impleuit uasa eo<lb type="inWord"/>
-	rum et pecuniam ip<lb type="inWord"/>
-	sorum reddidit illis<add resp="#ocp">.</add>
-	<milestone unit="vs" n="8"/> ‎ Et mandauit illis de <lb/>
-	fratre suo iuniore <lb/>
-	ut adducerent illum<add resp="#ocp">.</add>
-</p>
-<p><milestone unit="vs" n="9"/> ‎ Et ascenderunt filii <lb/>
-iacob de terra aegypti <lb/>
-et uenerunt in terra<unclear>m</unclear>
-
-<milestone type="19c" unit="page" n="142" xml:id="palimpsest_page_142"/>
+	<p part="F"><milestone unit="vs" n="2"/> <gap reason="lost" quantity="2" unit="page"/><lb/>
+		In terra autem aegypti <lb/>
+		erant panes quoniarm <lb/>
+		congregauerat io<lb type="inWord"/>
+		seph frumentum <lb/>
+		terrae septem an<lb type="inWord"/>
+		norum ubertatis <lb/>
+		et erat custodiens il<lb type="inWord"/>
+		lud.<milestone unit="vs" n="3"/>Et aduenerunt <lb/>
+		aegyptii ad ioseph ut <lb/>
+		daret illis escas. et a<lb type="inWord"/>
+		periens horrea in qui<lb type="inWord"/>
+		bus erant frumenta <lb/>
+		dedit illis ut mandu<lb type="inWord"/>
+		carent in primo an<lb type="inWord"/>
+		no quia uendebat illis<add resp="#ocp">.</add><lb/>
+	</p>
+	<p><milestone unit="vs" n="4"/>Conualuit autem fa<lb type="inWord"/>
+		mis in terra canaam <lb/>
+		ualde et audiuit ia<lb type="inWord"/>
+		cob quod esset fru<lb type="inWord"/>
+		mentum in aegyptum <lb/>
+		et misit decem fili<lb type="inWord"/>
+		os suos ut acciperent <lb/>
+		sibi escam et benia<lb type="inWord"/>
+		min non transmi
+		<milestone unit="column" n="b"/>sit cum eis<add resp="#ocp">.</add>
+	</p>
+	<p>Et aduenerunt in ae<lb type="inWord"/>
+		gypto decem filii iacob<add resp="#ocp">.</add> <milestone unit="vs" n="5"/>Et cognouit eos io<lb type="inWord"/>
+		seph. Et ipsi non cog<lb type="inWord"/>
+		nouerunt eum et <lb/>
+		appellauit eos ioseph <lb/>
+		dure et dixit eis<add resp="#ocp">:</add> ex<lb type="inWord"/>
+		plorare terram <unclear>u</unclear>e<lb type="inWord"/>
+		nistis et inclusit eos<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="6"/>Et mittens arcessi<lb type="inWord"/>
+		uit illos et accipiens <lb/>
+		symeonem ab ipsis <lb/>
+		ligauit eum et nouem <lb/>
+		fratres suos demisit<add resp="#ocp">.</add>
+		<milestone unit="vs" n="7"/>Et impleuit uasa eo<lb type="inWord"/>
+		rum et pecuniam ip<lb type="inWord"/>
+		sorum reddidit illis<add resp="#ocp">.</add>
+		<milestone unit="vs" n="8"/>Et mandauit illis de <lb/>
+		fratre suo iuniore <lb/>
+		ut adducerent illum<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="9"/>Et ascenderunt filii <lb/>
+		iacob de terra aegypti <lb/>
+		et uenerunt in terra<unclear>m</unclear>
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="19c" unit="page" n="142" xml:id="palimpsest_page_142"/>
 	<milestone type="5c" unit="page" n="226"/>
-	<milestone unit="column" n="a"/>canaam <!-- appears to be a period in Ceriani's version --> et enarraue<lb type="inWord"/>
-	runt patri suo quae<lb type="inWord"/>
-	cumque euenerant <lb/>
-	eis et quomodo du<lb type="inWord"/>
-	re locutus est cum <lb/>
-	eis princeps terrae <lb/>
-	et detenuit symeo<lb type="inWord"/>
-	nem quousque exhibea<lb type="inWord"/>
-	mus illi fratrem nos<lb type="inWord"/>
-	trum beniamin.
-</p>
-<p><milestone unit="vs" n="10"/> ‎ Et dixit iacob<add resp="#ocp">:</add> sine fi<lb type="inWord"/>
-	liis me fecistis<add resp="#ocp">.</add> Io<lb type="inWord"/>
-	seph non est <!-- appears to be a period in Ceriani's version --> et sy<lb type="inWord"/>
-	meon non est<add resp="#ocp">.</add> Benia<lb type="inWord"/>
-	min si acceperitis <lb/>
-	in me et impletis <lb/>
-	malitiam uestram.<lb/>
-	<milestone unit="vs" n="11"/> ‎ Et dixit: non ibit fili<lb type="inWord"/>
-	us meus uobis cum <!-- Ceriani: 'uobiscum' XML: 'uobis cum'--><lb/>
-	ne quando infirme<lb type="inWord"/>
-	tur in uia Quoniam <Lb/>
-	hos duos peperit <lb/>
-	mater ipsorum <lb/>
-	unus periit et hunc <lb/>
-<milestone unit="column" n="b"/> si acceperitis et fue<lb type="inWord"/>
-	rit illi infirmitas al<lb type="inWord"/>
-	iqua in uia deducetis <lb/>
-	canos meos cum tris<lb type="inWord"/>
-	titia in infernum<add resp="#ocp">.</add>
-</p>
-<p>	<milestone unit="vs" n="12"/> ‎ Dixerunt enim ei quod <lb/>
-	et pecunia ipsorum <lb/>
-	reddita esset illis cum <lb/>
-	uasis ipsorum<!-- appears to be a period in Ceriani's version --> et ti<lb type="inWord"/>
-	muit cum eis trans<lb type="inWord"/>
-	mittere eum iacob<add resp="#ocp">.</add>
-</p>
-<p> <milestone unit="vs" n="13"/> ‎ Famis autem ibat et con<lb type="inWord"/>
-	ualescebat in ter<lb type="inWord"/>
-	ra quoniam multi <lb/>
-	de filiis aegyptiorum <lb/>
-	custodierunt semi<lb type="inWord"/>
-	na sua in custodia <lb/>
-	ex quo tamen uiderunt <lb/>
-	ioseph congregare <lb/>
-	frumenta et repo<lb type="inWord"/>
-	nere in horrea ut <lb/>
-	custodirentur in <lb/>
-	annis famis<add resp="#ocp">.</add> <milestone unit="vs" n="14"/> ‎ Et man<lb type="inWord"/>
-	ducauerunt ea aegyp 
-	
- 
-
-</p>
-
+	<milestone unit="column" n="a"/>
+	<p part="F">canaam. et enarraue<lb type="inWord"/>
+		runt patri suo quae<lb type="inWord"/>
+		cumque euenerant <lb/>
+		eis et quomodo du<lb type="inWord"/>
+		re locutus est cum <lb/>
+		eis princeps terrae <lb/>
+		et detenuit symeo<lb type="inWord"/>
+		nem quousque exhibea<lb type="inWord"/>
+		mus illi fratrem nos<lb type="inWord"/>
+		trum beniamin.
+	</p>
+	<p><milestone unit="vs" n="10"/>Et dixit iacob<add resp="#ocp">:</add> sine fi<lb type="inWord"/>
+		liis me fecistis<add resp="#ocp">.</add> Io<lb type="inWord"/>
+		seph non est.  et sy<lb type="inWord"/>
+		meon non est<add resp="#ocp">.</add> Benia<lb type="inWord"/>
+		min si acceperitis <lb/>
+		in me et impletis <lb/>
+		malitiam uestram.<lb/>
+		<milestone unit="vs" n="11"/>Et dixit: non ibit fili<lb type="inWord"/>
+		us meus uobis<add resp="#ocp"> </add>cum<lb/>
+		ne quando infirme<lb type="inWord"/>
+		tur in uia Quoniam <lb/>
+		hos duos peperit <lb/>
+		mater ipsorum <lb/>
+		unus periit et hunc <lb/>
+	<milestone unit="column" n="b"/>si acceperitis et fue<lb type="inWord"/>
+		rit illi infirmitas al<lb type="inWord"/>
+		iqua in uia deducetis <lb/>
+		canos meos cum tris<lb type="inWord"/>
+		titia in infernum<add resp="#ocp">.</add>
+	</p>
+	<p>	<milestone unit="vs" n="12"/>Dixerunt enim ei quod <lb/>
+		et pecunia ipsorum <lb/>
+		reddita esset illis cum <lb/>
+		uasis ipsorum. et ti<lb type="inWord"/>
+		muit cum eis trans<lb type="inWord"/>
+		mittere eum iacob<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="13"/>Famis autem ibat et con<lb type="inWord"/>
+		ualescebat in ter<lb type="inWord"/>
+		ra quoniam multi <lb/>
+		de filiis aegyptiorum <lb/>
+		custodierunt semi<lb type="inWord"/>
+		na sua in custodia <lb/>
+		ex quo tamen uiderunt <lb/>
+		ioseph congregare <lb/>
+		frumenta et repo<lb type="inWord"/>
+		nere in horrea ut <lb/>
+		custodirentur in <lb/>
+		annis famis<add resp="#ocp">.</add> <milestone unit="vs" n="14"/>Et man<lb type="inWord"/>
+		ducauerunt ea aegyp
+	</p>
+	<gap reason="lost" quantity="12" unit="page"/>
 </body>
 </text>
 </TEI>

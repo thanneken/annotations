@@ -1,5 +1,6 @@
+<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Maria Garza</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,7 +28,6 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
 <ab>
 <pb type="1861" n="51" xml:id="Ceriani_1861_051"/>
 	<cb type="Ceriani" n="1"/>
@@ -70,7 +71,7 @@
        adfligant eos in ope<lb type="inWord"/>
        ribus ipsorum<add resp="#ocp">.</add>
      </p>
-     <p> 
+     <p>
        Et aedificauerunt ci<lb type="inWord"/>
        uitates munitas fa<lb type="inWord"/>
        raoni phytoni. et ram<lb type="inWord"/>
@@ -90,7 +91,7 @@
      </p>
      <p><milestone unit="ch" n="47"/>
       <milestone unit="vs" n="1"/>
-      
+
         <!-- 47:1--> Et quadragesimo<lb/>
         septimo iubeleo<lb/>
         in septimanarum sep<lb type="inWord"/>
@@ -100,7 +101,7 @@
       </p>
       <p>
 <pb type="1861" n="51" xml:id="Ceriani_1861_051"/>
-	  <cb type="Ceriani" n="1"/>
+	  <cb type="Ceriani" n="2"/>
 	  <milestone type="5c" unit="page" n="244"/>
 	  <milestone type="19c" unit="page" n="101" xml:id="palimpsest_page_101"/>
 	  <milestone unit="column" n="a"/>

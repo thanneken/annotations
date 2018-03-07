@@ -1,5 +1,6 @@
+<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Maria Garza</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -59,7 +61,7 @@
        ram et cooperuisti<lb/>
        eum in harenam<add resp="#ocp">.</add>
      </p>
-     
+
      <p>
      <milestone type="vs" n="10"/><!-- 47:10 -->
        Et secunda die inuenis<lb type="inWord"/>
@@ -80,7 +82,7 @@
        aegyptium<add resp="#ocp">.</add>- - - - u - -<lb/>
        tia propter - - - <unclear>o</unclear> - - - <unclear>huius</unclear> <add resp="#ocp">- - -.</add><lb/>
      </p>
-     
+
      <p><milestone unit="ch" n="48"/>
      <milestone type="vs" n="1"/><!-- 48:1 -->
        Et quadragesimo no<lb type="inWord"/>
@@ -91,7 +93,7 @@
        - - - - septimanarum<lb/>
        quinque et annum unum<add resp="#ocp">.</add><lb/>
      </p>
-     
+
      <p>
        Et quinquagensimo<lb/>
        iubeleo in septima<lb type="inWord"/>
@@ -99,16 +101,16 @@
        anno secundo ipsius<lb/>
        conuersus es in aegyptum<add resp="#ocp">.</add>
      </p>
-     
+
      <pb type="1861" n="52" xml:id="Ceriani_1861_052"/>
-	 <cb type="Ceriani" n="1"/>
+	 <cb type="Ceriani" n="2"/>
 	 <milestone type="5c" unit="page" n="246"/>
 	 <milestone type="19c" unit="page" n="94" xml:id="palimpsest_page_094"/>
 	 <milestone unit="column" n="a"/>
 	 <milestone unit="ch" n="48"/>
 	 <milestone unit="vs" n="2"/>
 	 <!-- p19c=94 p5c=246 -->
-	 
+
      <p><!-- 48:2 -->
        <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t tu scis ipse qui lo<lb type="inWord"/>
        cutus est <choice><sic>tecum</sic><corr resp="#ocp">te cum</corr></choice><lb/>
@@ -139,7 +141,7 @@
        <add resp="#ocp">-</add>nem domum eius<lb/>
        et in omni populo eius<add resp="#ocp">.</add>
      </p>
-     
+
      <p>
      <milestone unit="vs" n="5"/><!-- 48:5 -->
        Et fecit deus in pa - - - - -<lb/>

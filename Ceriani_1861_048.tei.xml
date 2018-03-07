@@ -1,5 +1,6 @@
+<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -7,8 +8,8 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
-		</titleStmt><respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
-		
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
 		</publicationStmt>
@@ -27,120 +28,120 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="48" xml:id="Ceriani_1861_048"/>
-<milestone type="19c" unit="page" n="140" xml:id="palimpsest_page_140"/>
+	<pb type="1861" n="48" xml:id="Ceriani_1861_048"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="19c" unit="page" n="140" xml:id="palimpsest_page_140"/>
 	<milestone type="5c" unit="page" n="221"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="41"/>
-	<p part="F"><milestone unit="vs" n="6"/> mar nurrum suam<add resp="#ocp">:</add> <lb/>
-	sede in domo patris <lb/>
-	tui uidua quousque <lb/>
-	crescat selon filius <lb/>
-	meus et dabo te illi <lb/>
-	in uxorem.<milestone unit="vs" n="7"/> ‎ Et creuit <lb/>
-	et non permisit bat<lb type="inWord"/>
-	suae uxori iuda selon filium suum accipe<lb type="inWord"/>
-	re illam. 
-</p>
+	<gap reason="lost" quantity="4" unit="page"/>
+	<p part="F"><milestone unit="vs" n="6"/><gap reason="lost" quantity="4" unit="page"/><lb/>
+		mar nurrum suam<add resp="#ocp">:</add> <lb/>
+		sede in domo patris <lb/>
+		tui uidua quousque <lb/>
+		crescat selon filius <lb/>
+		meus et dabo te illi <lb/>
+		in uxorem.<milestone unit="vs" n="7"/> ‎ Et creuit <lb/>
+		et non permisit bat<lb type="inWord"/>
+		suae uxori iuda selon filium suum accipe<lb type="inWord"/>
+		re illam.
+	</p>
 	<p>Et mortua es beth <lb type="inWord"/>
-	suae uxor iuda in an <lb type="inWord"/>
-	no quinto septima<lb type="inWord"/>
-	narum huius<add resp="#ocp">.</add> <milestone unit="vs" n="8"/> ‎ Et in <lb/>
-	anno sexto huius <lb/>
-	ascendit iudas ut <lb/>
-	tonderet oues su<lb type="inWord"/>
-	as in tamnasar. <!-- Ceriani adds a period, XML does not --> et <lb/>
-	indicatum est tamar<add resp="#ocp">:</add> <lb/>
-	quia ecce socer tu<lb type="inWord"/>
-	us ascendit ut ton<lb type="inWord"/>
-	deat oues suas in tam<lb type="inWord"/>
-	nata.<milestone unit="vs" n="9"/> ‎ Et abstulit <Lb/>
-	a se uestimenta ui
-<milestone unit="column" n="b"/> duitatis suae et in<lb type="inWord"/>
-duit se uestes opti <lb type="inWord"/>
-mas et ornauit se et <lb/>
-sedit secus portam <lb/> iuxta uiam tamnata<unclear>e</unclear><add resp="#ocp">.</add>
-</p>
-<p><milestone unit="vs" n="10"/> ‎ Et cum aduenisse(n)t<choice><sic>aduenissent</sic><corr resp="#ocp">aduenisset</corr></choice> <lb/>
-iudas inuenit eam <lb/> 
-et aestimauit eam for<lb type="inWord"/>
-nicariam et dixit ad <lb/>
-illam<add resp="#ocp">:</add><!-- appears to be a period in Ceriani's script --> introibo ad te<add resp="#ocp">.</add> <lb/>
-Illa dixit: <!-- appears to be a period in Ceriani's script --> intra: <!-- appears to be a period in Ceriani's script --> et in<lb type="inWord"/>
-troiuit ad eam. <milestone unit="vs" n="11"/> ‎ Et <lb/>
-dixit illi<add resp="#ocp">:</add> da mihi mer<lb type="inWord"/>
-cedem meam. Et di<lb type="inWord"/>
-xit ille: <!-- appears to be a period in Ceriani's script --> non est in ma<lb type="inWord"/>
-nu mea nisi anulus <lb/>
-quem habeo in digi<lb type="inWord"/>
-to meo: <!-- appears to be a period in Ceriani's script --> et munile <lb/>
-et baculum qui est <lb/>
-in manu mea. <milestone unit="vs" n="12"/> ‎ <unclear>Et di</unclear><lb type="inWord"/>
-xit ad illum<add resp="#ocp">:</add> da mihi <lb/>
-ea quousque trans<lb type="inWord"/>
-mittas mercedem <lb/>
-meam. Et dixit iudas<add resp="#ocp">:</add>
-
-<milestone type="19c" unit="page" n="139" xml:id="palimpsest_page_139"/>
+		suae uxor iuda in an <lb type="inWord"/>
+		no quinto septima<lb type="inWord"/>
+		narum huius<add resp="#ocp">.</add> <milestone unit="vs" n="8"/> ‎ Et in <lb/>
+		anno sexto huius <lb/>
+		ascendit iudas ut <lb/>
+		tonderet oues su<lb type="inWord"/>
+		as in tamnasar. et <lb/>
+		indicatum est tamar<add resp="#ocp">:</add> <lb/>
+		quia ecce socer tu<lb type="inWord"/>
+		us ascendit ut ton<lb type="inWord"/>
+		deat oues suas in tam<lb type="inWord"/>
+		nata.<milestone unit="vs" n="9"/> ‎ Et abstulit <lb/>
+		a se uestimenta ui<lb/>
+		<milestone unit="column" n="b"/>duitatis suae et in<lb type="inWord"/>
+		duit se uestes opti <lb type="inWord"/>
+		mas et ornauit se et <lb/>
+		sedit secus portam <lb/>
+		iuxta uiam tamnata<unclear>e</unclear><add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="10"/>Et cum aduenisse<surplus>n</surplus>t<lb/>
+		iudas inuenit eam <lb/>
+		et aestimauit eam for<lb type="inWord"/>
+		nicariam et dixit ad <lb/>
+		illam. introibo ad te<add resp="#ocp">.</add><lb/>
+		Illa dixit. intra. et in<lb type="inWord"/>
+		troiuit ad eam. <milestone unit="vs" n="11"/>Et <lb/>
+		dixit illi<add resp="#ocp">:</add> da mihi mer<lb type="inWord"/>
+		cedem meam. Et di<lb type="inWord"/>
+		xit ille. non est in ma<lb type="inWord"/>
+		nu mea nisi anulus <lb/>
+		quem habeo in digi<lb type="inWord"/>
+		to meo. et munile <lb/>
+		et baculum qui est <lb/>
+		in manu mea. <milestone unit="vs" n="12"/><unclear>Et di</unclear><lb type="inWord"/>
+		xit ad illum<add resp="#ocp">:</add> da mihi <lb/>
+		ea quousque trans<lb type="inWord"/>
+		mittas mercedem <lb/>
+		meam. Et dixit iudas<add resp="#ocp">:</add>
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="19c" unit="page" n="139" xml:id="palimpsest_page_139"/>
 	<milestone type="5c" unit="page" n="222"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="41"/>
 	<p part="F">transmitto tibi edum<add resp="#ocp">.</add> <lb/>
-	Et dedit ea <unclear>illi</unclear> et fuit <lb/>
-	cum ea et concepit <lb/>
-	ex eo. <milestone unit="vs" n="13"/> ‎ Et abiit iudas <lb/>
-	ad oues <milestone unit="vs" n="14"/> ‎ et transmi<lb type="inWord"/>
-	sit illi hedum de ma<lb type="inWord"/>
-	nu pastoris sui ad<lb type="inWord"/>
-	ollam et non inue<lb type="inWord"/>
-	nit eam. Et interro<lb type="inWord"/>
-	gauit uiros loci illius <lb/>
-	dicens: <!-- appears to be a period in Ceriani's script --> ubi est for<lb type="inWord"/>
-	nicaria illa quae erat <lb/>
-	hic. Et dixerunt illi<add resp="#ocp">:</add> <lb/>
-	non est hic fornica<lb type="inWord"/>
-	ria nobis cum. <!-- Ceriani's Version: nobiscum vs. XML: nobis cum --> <milestone unit="vs" n="15"/> ‎ Et ille <lb/>
-	reuertens indica<lb type="inWord"/>
-	uit iudae dicens: <!-- appears to be a period in Ceriani's script --> non <lb/>
-	inueni illam<!-- appears to be a period in Ceriani's version --> sed et <lb/>
-	interrogaui uiros <lb/>
-	loci illius et dixe<lb type="inWord"/>
-	runt<!-- appears to be a period in Ceriani's version --> non esse in <lb/>
-	illo loco fornica<lb type="inWord"/>
-	riam. Et dixit iudas<add resp="#ocp">:</add><lb/>
-	habeat illa <!-- appears to be a period in Ceriani's version --> sed ne<lb/>
-	<milestone unit="column" n="b"/> forte deridat nos<add resp="#ocp">.</add>
-</p>	
-<p><milestone unit="vs" n="16"/> ‎ Et cum facti fuissent <lb/>
-illi menses tres ap<lb type="inWord"/>
-paruit quod haberet <lb/>
-in utero et indicaue<lb type="inWord"/>
-runt iudae dicen<lb type="inWord"/>
-tes: <!-- appears to be a period in Ceriani's version --> ecce thamar nu <!-- Ceriani: 'nurus' XML: 'nu rus' --> <lb/>
-rus tua in utero ha<lb type="inWord"/>
-bet. <milestone unit="vs" n="17"/> ‎ Et aduenit iudas <lb/>
-in domum patris eius <lb/>
-et dixit patri suo et <lb/>
-fratribus eius: <!-- appears to be a period in Ceriani's version --> produ<lb type="inWord"/>
-cite illarn foras et <lb/>
-conburatur igne quo<lb type="inWord"/>
-niam fecit inmundi<lb type="inWord"/>
-tiam in istrahel<add resp="#ocp">.</add>
-</p>
-<p><milestone unit="vs" n="18"/> ‎ Et factum est cum pro<lb type="inWord"/>
-duceretur ut arde<lb type="inWord"/>
-ret transmisit soce<lb type="inWord"/>
-ro suo anulum et mu<lb type="inWord"/>
-nilem et uirgam et <lb/>
-dixit<add resp="#ocp">:</add> cognosce c<unclear>u</unclear>ius <lb/>
-sunt ha<unclear>ec ex</unclear> ipso ego <lb/>
-in utero habeo. <milestone unit="vs" n="19"/> ‎ Et - - -.
-
+		Et dedit ea <unclear>illi</unclear> et fuit <lb/>
+		cum ea et concepit <lb/>
+		ex eo. <milestone unit="vs" n="13"/> ‎ Et abiit iudas <lb/>
+		ad oues <milestone unit="vs" n="14"/> ‎ et transmi<lb type="inWord"/>
+		sit illi hedum de ma<lb type="inWord"/>
+		nu pastoris sui ad<lb type="inWord"/>
+		ollam et non inue<lb type="inWord"/>
+		nit eam. Et interro<lb type="inWord"/>
+		gauit uiros loci illius <lb/>
+		dicens. ubi est for<lb type="inWord"/>
+		nicaria illa quae erat <lb/>
+		hic. Et dixerunt illi<add resp="#ocp">:</add> <lb/>
+		non est hic fornica<lb type="inWord"/>
+		ria nobis<add resp="#ocp"> </add>cum. <milestone unit="vs" n="15"/>Et ille <lb/>
+		reuertens indica<lb type="inWord"/>
+		uit iudae dicens. non <lb/>
+		inueni illam. sed et <lb/>
+		interrogaui uiros <lb/>
+		loci illius et dixe<lb type="inWord"/>
+		runt. non esse in <lb/>
+		illo loco fornica<lb type="inWord"/>
+		riam. Et dixit iudas<add resp="#ocp">:</add><lb/>
+		habeat illa. sed ne<lb/>
+		<milestone unit="column" n="b"/>forte deridat nos<add resp="#ocp">.</add>
 	</p>
-
-</p>
-
+	<p><milestone unit="vs" n="16"/>Et cum facti fuissent <lb/>
+		illi menses tres ap<lb type="inWord"/>
+		paruit quod haberet <lb/>
+		in utero et indicaue<lb type="inWord"/>
+		runt iudae dicen<lb type="inWord"/>
+		tes. ecce thamar nu<lb type="inWord"/>
+		rus tua in utero ha<lb type="inWord"/>
+		bet. <milestone unit="vs" n="17"/> ‎ Et aduenit iudas <lb/>
+		in domum patris eius <lb/>
+		et dixit patri suo et <lb/>
+		fratribus eius. produ<lb type="inWord"/>
+		cite illarn foras et <lb/>
+		conburatur igne quo<lb type="inWord"/>
+		niam fecit inmundi<lb type="inWord"/>
+		tiam in istrahel<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="18"/>Et factum est cum pro<lb type="inWord"/>
+		duceretur ut arde<lb type="inWord"/>
+		ret transmisit soce<lb type="inWord"/>
+		ro suo anulum et mu<lb type="inWord"/>
+		nilem et uirgam et <lb/>
+		dixit<add resp="#ocp">:</add> cognosce c<unclear>u</unclear>ius <lb/>
+		sunt ha<unclear>ec ex</unclear> ipso ego <lb/>
+		in utero habeo. <milestone unit="vs" n="19"/>Et
+	</p>
+	<gap reason="lost" quantity="2" unit="page"/>
 </body>
 </text>
 </TEI>
