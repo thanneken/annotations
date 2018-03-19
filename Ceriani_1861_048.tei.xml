@@ -1,5 +1,5 @@
-<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -34,22 +34,22 @@
 	<milestone type="5c" unit="page" n="221"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="41"/>
-	<gap reason="lost" quantity="4" unit="page"/>
 	<p part="F"><milestone unit="vs" n="6"/><gap reason="lost" quantity="4" unit="page"/><lb/>
-		mar nurrum suam<add resp="#ocp">:</add> <lb/>
+		mar nu<unclear>rr</unclear>um suam<add resp="#ocp">:</add> <lb/>
 		sede in domo patris <lb/>
 		tui uidua quousque <lb/>
 		crescat selon filius <lb/>
 		meus et dabo te illi <lb/>
-		in uxorem.<milestone unit="vs" n="7"/> ‎ Et creuit <lb/>
+		in uxorem. <milestone unit="vs" n="7"/>Et creuit <lb/>
 		et non permisit bat<lb type="inWord"/>
-		suae uxori iuda selon filium suum accipe<lb type="inWord"/>
+		suae uxori iuda selon<lb/>
+		filium suum accipe<lb type="inWord"/>
 		re illam.
 	</p>
-	<p>Et mortua es beth <lb type="inWord"/>
-		suae uxor iuda in an <lb type="inWord"/>
+	<p>Et mortua es beth<lb type="inWord"/>
+		suae uxor iuda in an<lb type="inWord"/>
 		no quinto septima<lb type="inWord"/>
-		narum huius<add resp="#ocp">.</add> <milestone unit="vs" n="8"/> ‎ Et in <lb/>
+		narum huius<add resp="#ocp">.</add> <milestone unit="vs" n="8"/>Et in <lb/>
 		anno sexto huius <lb/>
 		ascendit iudas ut <lb/>
 		tonderet oues su<lb type="inWord"/>
@@ -58,10 +58,10 @@
 		quia ecce socer tu<lb type="inWord"/>
 		us ascendit ut ton<lb type="inWord"/>
 		deat oues suas in tam<lb type="inWord"/>
-		nata.<milestone unit="vs" n="9"/> ‎ Et abstulit <lb/>
+		nata. <milestone unit="vs" n="9"/>Et abstulit <lb/>
 		a se uestimenta ui<lb/>
 		<milestone unit="column" n="b"/>duitatis suae et in<lb type="inWord"/>
-		duit se uestes opti <lb type="inWord"/>
+		duit se uestes opti<lb type="inWord"/>
 		mas et ornauit se et <lb/>
 		sedit secus portam <lb/>
 		iuxta uiam tamnata<unclear>e</unclear><add resp="#ocp">.</add>
@@ -93,8 +93,8 @@
 	<p part="F">transmitto tibi edum<add resp="#ocp">.</add> <lb/>
 		Et dedit ea <unclear>illi</unclear> et fuit <lb/>
 		cum ea et concepit <lb/>
-		ex eo. <milestone unit="vs" n="13"/> ‎ Et abiit iudas <lb/>
-		ad oues <milestone unit="vs" n="14"/> ‎ et transmi<lb type="inWord"/>
+		ex eo. <milestone unit="vs" n="13"/>Et abiit iudas <lb/>
+		ad oues <milestone unit="vs" n="14"/>et transmi<lb type="inWord"/>
 		sit illi hedum de ma<lb type="inWord"/>
 		nu pastoris sui ad<lb type="inWord"/>
 		ollam et non inue<lb type="inWord"/>
@@ -123,11 +123,11 @@
 		runt iudae dicen<lb type="inWord"/>
 		tes. ecce thamar nu<lb type="inWord"/>
 		rus tua in utero ha<lb type="inWord"/>
-		bet. <milestone unit="vs" n="17"/> ‎ Et aduenit iudas <lb/>
+		bet. <milestone unit="vs" n="17"/>Et aduenit iudas <lb/>
 		in domum patris eius <lb/>
 		et dixit patri suo et <lb/>
 		fratribus eius. produ<lb type="inWord"/>
-		cite illarn foras et <lb/>
+		cite illam<!-- ocp has illarn through ocr error --> foras et <lb/>
 		conburatur igne quo<lb type="inWord"/>
 		niam fecit inmundi<lb type="inWord"/>
 		tiam in istrahel<add resp="#ocp">.</add>
@@ -137,9 +137,9 @@
 		ret transmisit soce<lb type="inWord"/>
 		ro suo anulum et mu<lb type="inWord"/>
 		nilem et uirgam et <lb/>
-		dixit<add resp="#ocp">:</add> cognosce c<unclear>u</unclear>ius <lb/>
+		dixit<add resp="#ocp">:</add> cognosce <unclear>cu</unclear>ius <lb/>
 		sunt ha<unclear>ec ex</unclear> ipso ego <lb/>
-		in utero habeo. <milestone unit="vs" n="19"/>Et
+		in utero habeo. <milestone unit="vs" n="19"/><unclear>Et</unclear>
 	</p>
 	<gap reason="lost" quantity="2" unit="page"/>
 </body>
