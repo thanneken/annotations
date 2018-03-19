@@ -34,7 +34,7 @@ Ceriani_1861_047.tei.xml Valdez CHECKED HANNEKEN
 Ceriani_1861_048.tei.xml Selvanathan CHECKED HANNEKEN
 Text files created for 48-54 with line breaks, but don't have inWord attributes, deleted chapter and verse information, and are not valid XML. It is probably easier to start from scratch on these pages.
 Ceriani_1861_049.tei.xml Selvanathan CHECKED HANNEKEN
-Ceriani_1861_050.tei.xml Maria G.
+Ceriani_1861_050.tei.xml Maria G. CHECKED HANNEKEN
 Ceriani_1861_051.tei.xml Maria G.
 Ceriani_1861_052.tei.xml Maria G.
 Ceriani_1861_053.tei.xml Bryan

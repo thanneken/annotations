@@ -1,5 +1,5 @@
-<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -33,10 +33,10 @@
 	<milestone type="5c" unit="page" n="239"/>
 	<milestone type="19c" unit="page" n="131" xml:id="palimpsest_page_131"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="45"/>
-    <p><milestone unit="vs" n="8"/><gap reason="lost" quantity="12" unit="page"/><lb/>
+	<milestone unit="ch" n="45"/><milestone unit="vs" n="8"/><gap reason="lost" quantity="12" unit="page"/>
+    <p part="F">
 		uit terra aegypti<lb/>
-		a facie famis. <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t pos<lb type="inWord"/>
+		a facie famis. Et pos<lb type="inWord"/>
 		sedit ioseph totam<lb/>
 		terram aegypti fara<lb type="inWord"/>
 		oni in esca. nam ho<lb type="inWord"/>
@@ -53,14 +53,14 @@
 		octauo. propter quod<lb/>
 		fluuius ascenderat<lb/>
 		in omnem terram<lb/>
-		aegypti. <milestone unit="vs" n="10"/><choice><sic>i</sic><corr resp="#ocp">I</corr></choice>n septem<lb/>
+		aegypti. <milestone unit="vs" n="10"/>In septem<lb/>
 		enim annis famis non<lb/>
 		ascenderat et non<lb/>
 		adaquauerat nisi<lb/>
 		modica loca secus<lb/>
 		litus fluminis. et<lb/>
 		seminauerunt in an<lb type="inWord"/>
-		<milestone unit="column" n="b"/>no octauo aegyptii<lb/>
+		<milestone unit="column" n="b"/>no octauo aegypti<unclear>i</unclear><lb/>
 		terram suam et<lb/>
 		collegerunt fruc<lb type="inWord"/>
 		tus bonos in anno<lb/>
@@ -68,7 +68,7 @@
 		mus septimanarum<lb/>
 		quinti quinto. et<lb/>
 		quadragesimo iu.<lb/>
-		beleo. <milestone unit="vs" n="12"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t accepit<lb/>
+		beleo. <milestone unit="vs" n="12"/>Et accepit<lb/>
 		ioseph quintam par<lb type="inWord"/>
 		tem de omnibus quid<lb type="inWord"/>
 		quid natum est in<lb/>
@@ -87,44 +87,40 @@
        in terra aegypti annis
     </p>
 	<cb type="Ceriani" n="2"/>
-	<pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
 	<milestone type="5c" unit="page" n="240"/>
 	<milestone type="19c" unit="page" n="132" xml:id="palimpsest_page_132"/>
 	<milestone unit="column" n="a"/>
-    <p>decem et septem<lb/>
+    <p part="F">decem et septem<lb/>
 		et facti sunt omnes<lb/>
-		anni uitae eius quos<lb/>
+		anni uitae eius quo<unclear>s</unclear><lb/>
 		uixit in tertio iube<lb type="inWord"/>
 		leo centum quadra<lb type="inWord"/>
 		ginta septem annis<lb/>
 		et deficiens mor<lb type="inWord"/>
-		tuus est<lb/>
+		tuus est
 	</p>
-	<p><surplus>.ET</surplus> quadragesimo<lb/>
+	<p><surplus>Et</surplus> quadragesimo<lb/>
        quinto iubeleo in<lb/>
        anno quarto septi<lb type="inWord"/>
-       manarum quinti<add resp="#ocp">.</add><milestone type="vs" n="14"/>
-       <!-- 45:14 --><choice><sic>b</sic><corr resp="#ocp">B</corr></choice>enedixit istrahel<lb/>
+       manarum quinti<add resp="#ocp">.</add> <milestone type="vs" n="14"/>Benedixit istrahel<lb/>
        filios suos priusquam<lb/>
        moreretur et indi<lb type="inWord"/>
-       cauit <add resp="#ocp">(</add>quaecum<add resp="#ocp">)</add>quae<lb type="inWord"/>
+       cauit <surplus>quaecum</surplus>quae<lb type="inWord"/>
        cumque uentura es<lb type="inWord"/>
        sent eis in terra ae<lb type="inWord"/>
        gypti in nouissimis<lb/>
        diebus<add resp="#ocp">.</add> Et benedixit<lb/>
        eos. et ioseph bene<lb type="inWord"/>
        dixit dupliciter in<lb/>
-       terra<add resp="#ocp">.</add><milestone unit="vs" n="15"/>
-       <!-- 45:15 -->Et dormi<lb type="inWord"/>
-       uit cum patribus suis<lb/><milestone unit="column" n="b"/>
-
-       et sepultus est in s<lb type="inWord"/>
+       terra<add resp="#ocp">.</add> <milestone unit="vs" n="15"/>Et dormi<lb type="inWord"/>
+       uit cum patribus suis<lb/>
+       <milestone unit="column" n="b"/>et sepultus est in s<lb type="inWord"/>
        pelunca duplici in ter<lb type="inWord"/>
        ra canaan secus abra<lb type="inWord"/>
        ham patrem suum<lb/>
        in sepulcro quem fo<lb type="inWord"/>
-       dit sibi in chebron<add resp="#ocp">.</add><lb/><milestone unit="vs" n="16"/>
-       <!-- 45:16 --><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t dedit uniuersos<lb/>
+       dit sibi in chebron<add resp="#ocp">.</add><lb/>
+       <milestone unit="vs" n="16"/>Et dedit uniuersos<lb/>
        libros suos et libros<lb/>
        patris sui leuui filio<lb/>
        suo ut custodiret<lb/>
@@ -132,10 +128,7 @@
        eos filiis suis usque<lb/>
        in hunc diem<add resp="#ocp">.</add>
      </p>
-     <p>
-     <milestone unit="ch" n="46"/>
-     <milestone unit="vs" n="1"/>
-       <!-- 46:1 -->Et factum est post mor<lb type="inWord"/>
+     <p><milestone unit="ch" n="46"/><milestone unit="vs" n="1"/>Et factum est post mor<lb type="inWord"/>
        tem iacob multiplica<lb type="inWord"/>
        ti sunt filii istrahel<lb/>
        in terra aegypti et fac<lb type="inWord"/>
@@ -145,8 +138,9 @@
        ut diligerent singu<lb type="inWord"/>
        li fratres suos. et<lb/>
        adiungebat se fra<lb type="inWord"/>
-       ter cum proximo suo <add resp="#ocp">- - -.</add>
-</p>
+       ter cum proximo suo
+	</p>
+	<gap reason="lost" quantity="2" unit="page"/>
 </body>
 </text>
 </TEI>
