@@ -1,5 +1,5 @@
-<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -9,6 +9,7 @@
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
 			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Anthony Selvanathan</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -35,14 +36,15 @@
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="42"/>
 	<p part="F"><milestone unit="vs" n="2"/> <gap reason="lost" quantity="2" unit="page"/><lb/>
-		In terra autem aegypti <lb/>
-		erant panes quoniarm <lb/>
+	</p>
+	<p>In terra autem aegypti <lb/>
+		erant panes quoniam<lb/>
 		congregauerat io<lb type="inWord"/>
 		seph frumentum <lb/>
 		terrae septem an<lb type="inWord"/>
 		norum ubertatis <lb/>
 		et erat custodiens il<lb type="inWord"/>
-		lud.<milestone unit="vs" n="3"/>Et aduenerunt <lb/>
+		lud. <milestone unit="vs" n="3"/>Et aduenerunt <lb/>
 		aegyptii ad ioseph ut <lb/>
 		daret illis escas. et a<lb type="inWord"/>
 		periens horrea in qui<lb type="inWord"/>
@@ -59,11 +61,12 @@
 		et misit decem fili<lb type="inWord"/>
 		os suos ut acciperent <lb/>
 		sibi escam et benia<lb type="inWord"/>
-		min non transmi
+		min non transmi<lb type="inWord"/>
 		<milestone unit="column" n="b"/>sit cum eis<add resp="#ocp">.</add>
 	</p>
 	<p>Et aduenerunt in ae<lb type="inWord"/>
-		gypto decem filii iacob<add resp="#ocp">.</add> <milestone unit="vs" n="5"/>Et cognouit eos io<lb type="inWord"/>
+		gypto decem filii iacob<add resp="#ocp">.</add><lb/> 
+		<milestone unit="vs" n="5"/>Et cognouit eos io<lb type="inWord"/>
 		seph. Et ipsi non cog<lb type="inWord"/>
 		nouerunt eum et <lb/>
 		appellauit eos ioseph <lb/>
@@ -75,10 +78,10 @@
 		uit illos et accipiens <lb/>
 		symeonem ab ipsis <lb/>
 		ligauit eum et nouem <lb/>
-		fratres suos demisit<add resp="#ocp">.</add>
+		fratres suos demisit<add resp="#ocp">.</add><lb/>
 		<milestone unit="vs" n="7"/>Et impleuit uasa eo<lb type="inWord"/>
 		rum et pecuniam ip<lb type="inWord"/>
-		sorum reddidit illis<add resp="#ocp">.</add>
+		sorum reddidit illis<add resp="#ocp">.</add><lb/>
 		<milestone unit="vs" n="8"/>Et mandauit illis de <lb/>
 		fratre suo iuniore <lb/>
 		ut adducerent illum<add resp="#ocp">.</add>
@@ -115,14 +118,14 @@
 		tur in uia Quoniam <lb/>
 		hos duos peperit <lb/>
 		mater ipsorum <lb/>
-		unus periit et hunc <lb/>
-	<milestone unit="column" n="b"/>si acceperitis et fue<lb type="inWord"/>
+		unus periit. et hunc <lb/>
+		<milestone unit="column" n="b"/>si acceperitis et fue<lb type="inWord"/>
 		rit illi infirmitas al<lb type="inWord"/>
 		iqua in uia deducetis <lb/>
 		canos meos cum tris<lb type="inWord"/>
 		titia in infernum<add resp="#ocp">.</add>
 	</p>
-	<p>	<milestone unit="vs" n="12"/>Dixerunt enim ei quod <lb/>
+	<p><milestone unit="vs" n="12"/>Dixerunt enim ei quod <lb/>
 		et pecunia ipsorum <lb/>
 		reddita esset illis cum <lb/>
 		uasis ipsorum. et ti<lb type="inWord"/>
