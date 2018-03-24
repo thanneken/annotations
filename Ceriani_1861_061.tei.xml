@@ -35,24 +35,24 @@
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="10"/>
 	<p>
-		orum eram <milestone type="vs" n="15"/>itaque<lb/>
+		orum eram <milestone unit="vs" n="15"/>itaque<lb/>
 		tu iesu naue forma te<lb/>
 		elegit deus esse mihi<lb/>
 		successorem eiusdem<lb/>
-		testamenti. <milestone unit="ch" n="11"/><milestone type="vs" n="1"/>‎et cum<lb/>
+		testamenti. <milestone unit="ch" n="11"/><milestone unit="vs" n="1"/>‎et cum<lb/>
 		audisset iesus uerba<lb/>
 		moysi tam scripta<lb/>
 		in sua scriptura om<lb type="inWord"/>
 		nia quae praedixerant<lb/>
 		scidit sibi uestimen<lb type="inWord"/>
 		ta et procidit ad pe<lb type="inWord"/>
-		des meos <milestone type="vs" n="2"/>et horta<lb type="inWord"/>
+		des meos <milestone unit="vs" n="2"/>et horta<lb type="inWord"/>
 		tus est cum monse<lb/>
 		et plorauit cum eo
 	</p>
 	<p>
-		<milestone type="vs" n="3"/>Et respondit illi et<lb/>
-		dixit iesus. <milestone type="vs" n="4"/>quid me ce<lb type="inWord"/>
+		<milestone unit="vs" n="3"/>Et respondit illi et<lb/>
+		dixit iesus. <milestone unit="vs" n="4"/>quid me ce<lb type="inWord"/>
 		lares domine monse<lb/>
 		et quo <unclear>g</unclear>enere cela<lb type="inWord"/>
 		bor de qua locutus<lb/>
@@ -62,15 +62,15 @@
 		crimis et gemitibus<lb/>
 		quia tu discedis de<lb/>
 		<milestone unit="column" n="b"/>plebe ist <gap reason="illegible" quantity="5" unit="character"/><lb/>
-		<milestone type="vs" n="5"/>quis locus recip<unclear>it</unclear> <gap reason="illegible" quantity="4" unit="character"/><lb/>
-		te <milestone type="vs" n="6"/>aut quod erit mo<lb type="inWord"/>
+		<milestone unit="vs" n="5"/>quis locus recip<unclear>it</unclear> <gap reason="illegible" quantity="4" unit="character"/><lb/>
+		te <milestone unit="vs" n="6"/>aut quod erit mo<lb type="inWord"/>
 		numentum sepul<lb type="inWord"/>
-		turae <milestone type="vs" n="7"/>aut quis aude<lb type="inWord"/>
+		turae <milestone unit="vs" n="7"/>aut quis aude<lb type="inWord"/>
 		uit corpus tuum tra<unclear>ns</unclear><lb type="inWord"/>
 		ferre in <unclear>e</unclear>ut homo<lb type="inWord"/>
 		de loco in locum
 	</p>
-	<p><milestone type="vs" n="8"/>Omnibus enim mori<lb type="inWord"/>
+	<p><milestone unit="vs" n="8"/>Omnibus enim mori<lb type="inWord"/>
 		entibus secus aeta<lb type="inWord"/>
 		tem sepulturae su<lb type="inWord"/>
 		ae sunt in terris<lb/>
@@ -81,7 +81,7 @@
 		nes aquilonis omnis<lb/>
 		orbis terrarum se<lb type="inWord"/>
 		pulcrum est tuum<lb/>
-		<milestone type="vs" n="9"/>domine ab his
+		<milestone unit="vs" n="9"/>domine ab his
 	</p>
 	<p>Et quis nutrit plebem<lb/>
 		istam‎ aut quis est<lb/>
@@ -92,12 +92,12 @@
 	<milestone type="19c" unit="page" n="99" xml:id="palimpsest_page_099"/>
 	<milestone type="5c" unit="page" n="270"/>
 	<milestone unit="column" n="a"/>
-	<p part="F">in uia. <milestone type="vs" n="11"/>aut quis ora.<lb type="inWord"/>
+	<p part="F">in uia. <milestone unit="vs" n="11"/>aut quis ora.<lb type="inWord"/>
 		bit pro eis. nec pati<lb type="inWord"/>
 		<unclear>ens</unclear> ne uno quidem<lb/>
 		diem ut inducam il<lb type="inWord"/>
 		los in terram ara<lb type="inWord"/>
-		borum. <milestone type="vs" n="12"/>quomodo<lb/>
+		borum. <milestone unit="vs" n="12"/>quomodo<lb/>
 		ergo potero plebem<lb/>
 		hanc tamquam pa<lb type="inWord"/>
 		ter unicum filium<lb/>
@@ -109,23 +109,23 @@
 		a sole et ne scalcia<lb type="inWord"/>
 		ti pedes eius ad cur<lb type="inWord"/>
 		rendum supra ter<lb type="inWord"/>
-		ram <milestone type="vs" n="13"/> <gap reason="illegible" quantity="5" unit="character"/> de uo<lb type="inWord"/>
+		ram <milestone unit="vs" n="13"/> <gap reason="illegible" quantity="5" unit="character"/> de uo<lb type="inWord"/>
 		luntatem eorum<lb/>
 		praestabo illis ci<lb type="inWord"/>
 		borum et potui se<lb type="inWord"/>
 		cus uoluntatem<lb/>
 		uoluntatis eorum <lb/>
-		<milestone type="vs" n="14"/><gap reason="illegible" quantity="5" unit="character"/> enim illorum<lb/>
+		<milestone unit="vs" n="14"/><gap reason="illegible" quantity="5" unit="character"/> enim illorum<lb/>
 		<milestone unit="column" n="b"/>erant <unclear>.c.</unclear> milia. nam<lb/>
 		isti in tantum qui<lb/>
 		creuerunt in tuis<lb/>
 		orationibus domine mon<lb type="inWord"/>
-		se <milestone type="vs" n="15"/>et quae est mihi<lb/>
+		se <milestone unit="vs" n="15"/>et quae est mihi<lb/>
 		sapientia aut intelle<lb type="inWord"/>
 		ctus in domo <gap reason="illegible" quantity="4" unit="character"/> <lb/>
 		uerbis aut iudicare<lb/>
 		aut respondere <lb/>
-		<milestone type="vs" n="16"/>sed et reges amor<lb type="inWord"/>
+		<milestone unit="vs" n="16"/>sed et reges amor<lb type="inWord"/>
 		reorum cum audie<lb type="inWord"/>
 		rint expugnare nos<lb/>
 		credentes iam non<lb/>

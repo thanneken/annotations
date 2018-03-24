@@ -32,12 +32,12 @@
 	<cb type="Ceriani" n="1"/>
 	<milestone type="19c" unit="page" n="78" xml:id="palimpsest_page_078"/>
 	<milestone type="5c" unit="page" n="263"/>
-	<milestone unit="column" n="a"/>
+	<milestone unit="column" n="a"/><milestone unit="ch" n="5"/>
 	<p part="F"><space quantity="5" unit="character"/>muneribus quae<lb/>
 		inponent domino qui<lb/>
 		non sunt sacerdo<lb type="inWord"/>
 		tes sed serui de ser<lb type="inWord"/>
-		uis nati. qui enim ma<lb type="inWord"/>
+		uis nati. <milestone unit="vs" n="5"/>qui enim ma<lb type="inWord"/>
 		gistri sunt docto<lb type="inWord"/>
 		res eorum illis tem<lb type="inWord"/>
 		poribus erunt miran<lb type="inWord"/>
@@ -46,7 +46,7 @@
 		tiones munerum<lb/>
 		et peruendent<lb/>
 		iustitias accipien<lb type="inWord"/>
-		do poenas. et ideo<lb/>
+		do poenas. <milestone unit="vs" n="6"/>et ideo<lb/>
 		implebitur colo<lb type="inWord"/>
 		nia et fines habita<lb type="inWord"/>
 		tionis eorum sce<lb type="inWord"/>
@@ -61,21 +61,21 @@
 		erunt impii iudices<lb/>
 		inerunt in campo<lb/>
 		iudicare quomodo<lb/>
-		quisquae uolet tunc<lb/>
+		quisquae uolet <milestone unit="ch" n="6"/><milestone unit="vs" n="1"/>tunc<lb/>
 		exurgent illis re<lb type="inWord"/>
 		ges imperantes et<lb/>
 		in sacerdotes sum<lb type="inWord"/>
 		mi dei uocabuntur<lb/>
 		facient facientes<lb/>
 		impietatem ab sancto<lb/>
-		sanctitatis. et succedit illis<lb/>
+		sanctitatis. <milestone unit="vs" n="2"/>et succedit illis<lb/>
 		rex petulans qui<lb/>
 		non erit de genere<lb/>
 		sacerdotum. homo<lb/>
 		temerarius et im<lb type="inWord"/>
 		probus et iudicabit<lb/>
 		illis quomodo dig<lb type="inWord"/>
-		ni erunt. qui elidit<lb/>
+		ni erunt. <milestone unit="vs" n="3"/>qui elidit<lb/>
 		principales eorum<lb/>
 		gladio. et locis igno<lb type="inWord"/>
 		tis singuli et corpo<lb type="inWord"/>
@@ -86,46 +86,46 @@
 	<milestone type="19c" unit="page" n="77" xml:id="palimpsest_page_77"/>
 	<milestone type="5c" unit="page" n="264"/>
 	<milestone unit="column" n="a"/>
-	<p part="F">corpora illorum
-		‎<lb/>occidit maiores<lb/>
+	<p part="F">corpora illorum‎<lb/>
+		<milestone unit="vs" n="4"/>occidit maiores<lb/>
 		natu et iuuenes<lb/>
-		et non parcet. tunc<lb/>
+		et non parcet. <milestone unit="vs" n="5"/>tunc<lb/>
 		timor erit illius a<lb type="inWord"/>
 		ceruus in eis in ter<lb type="inWord"/>
-		ram eorum. et faci<lb type="inWord"/>
+		ram eorum. <milestone unit="vs" n="6"/>et faci<lb type="inWord"/>
 		et in eis iudicia quo<lb type="inWord"/>
 		modo fecerunt in<lb type="inWord"/>
 		illis aegypti per .xxx<lb/>
 		et .iiii. annos et pu<lb type="inWord"/>
-		niunt eos. et <gap reason="illegible" quantity="2" unit="character"/> rodi<unclear>n</unclear><lb type="inWord"/>
+		niunt eos. <milestone unit="vs" n="7"/>et <gap reason="illegible" quantity="2" unit="character"/> rodi<unclear>n</unclear><lb type="inWord"/>
 		cit natos <gap reason="illegible" quantity="3" unit="character"/> e<unclear>ce</unclear>den<lb type="inWord"/>
 		tes sibi breuiora tem<lb type="inWord"/>
-		pora donarent in<lb/>
+		pora donarent <milestone unit="vs" n="8"/>in<lb/>
 		pares eorum mor<lb type="inWord"/>
 		tis uenient et occi<lb type="inWord"/>
 		dentes rex potens<lb/>
 		quia expugnabit eos‎<lb/>
-		et ducent captiuos<lb/>
+		<milestone unit="vs" n="9"/>et ducent captiuos<lb/>
 		et partem aedis ipso<lb type="inWord"/>
 		rum igni incendit<lb/>
 		aliquos crucifigit<lb/>
 		circa coloniam eorum<lb/>
-		<milestone unit="column" n="b"/>ex quo facto finien<lb type="inWord"/>
+		<milestone unit="column" n="b"/><milestone unit="ch" n="7"/><milestone unit="vs" n="1"/>ex quo facto finien<lb type="inWord"/>
 		tur tempora momen<lb type="inWord"/>
 		to <gap reason="illegible" quantity="4" unit="character"/> etur cursus<lb/>
 		<unclear>a</unclear> <gap reason="illegible" quantity="4" unit="character"/> horae .iiii. <unclear>ue</unclear><lb type="inWord"/>
-		<unclear>niant</unclear> coguntur secu<unclear>n</unclear><lb/>
+		<unclear>niant</unclear> <milestone unit="vs" n="2"/>coguntur secu<unclear>n</unclear><lb/>
 		<gap reason="illegible" quantity="6" unit="character"/> ae <gap reason="illegible" quantity="4" unit="character"/> pos <gap reason="illegible" quantity="3" unit="character"/><lb type="inWord"/>
 		<gap reason="illegible" quantity="4" unit="character"/> initiis tribus ad<lb/>
 		exitus .viiii propte<unclear>r</unclear><lb/>
 		initium tres sep<lb type="inWord"/>
 		timae secunda tria<lb/>
 		<unclear>in</unclear> tertia duae <unclear>h</unclear> <gap reason="illegible" quantity="2" unit="character"/> <unclear>r</unclear>a <gap reason="illegible" quantity="2" unit="character"/><lb/>
-		tae et regnarunt<lb/>
+		tae <milestone unit="vs" n="3"/>et regnarunt<lb/>
 		de his homines pes<lb type="inWord"/>
 		tilentiosi et impii<lb/>
 		docentes se esse<lb/>
-		iustos. et hi susci<lb type="inWord"/>
+		iustos. <milestone unit="vs" n="4"/>et hi susci<lb type="inWord"/>
 		tabunt iram animo<lb type="inWord"/>
 		rum suorum qui<lb/>
 		erunt homines do<lb type="inWord"/>

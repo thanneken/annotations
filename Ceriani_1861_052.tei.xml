@@ -55,14 +55,13 @@
 		ram et cooperuisti<lb/>
 		eum in harenam<add resp="#ocp">.</add>
 	</p>
-	<p><milestone type="vs" n="10"/>
-		Et secunda die inuenis<lb type="inWord"/>
+	<p><milestone unit="vs" n="10"/>Et secunda die inuenis<lb type="inWord"/>
 		ti duos litigantes ex<lb/>
 		filiis istrahel et dix<lb type="inWord"/>
 		isti ad eum qui per<lb type="inWord"/>
 		<milestone unit="column" n="b"/>cutiebat proximum<lb/>
 		su<unclear>um</unclear><add resp="#ocp">:</add> quare percutis<lb/>
-		fratrem tuum. <milestone type="vs" n="11"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t ira<lb type="inWord"/>
+		fratrem tuum. <milestone unit="vs" n="11"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t ira<lb type="inWord"/>
 		tus est in indignatio<lb type="inWord"/>
 		ne <gap reason="illegible" quantity="5" unit="character"/> dixit<add resp="#ocp">:</add> quis te<lb/>
 		constituit principem<lb/>
@@ -73,7 +72,7 @@
 		aegyptium<add resp="#ocp">.</add> <gap reason="illegible" quantity="4" unit="character"/> u <gap reason="illegible" quantity="2" unit="character"/><lb/>
 		tia propter <gap reason="illegible" quantity="4" unit="character"/> <unclear>o</unclear> <gap reason="illegible" quantity="3" unit="character"/> <unclear>huius</unclear><lb/>
 	</p>
-	<p><milestone unit="ch" n="48"/><milestone type="vs" n="1"/>Et quadragesim<unclear>o no</unclear><lb type="inWord"/>
+	<p><milestone unit="ch" n="48"/><milestone unit="vs" n="1"/>Et quadragesim<unclear>o no</unclear><lb type="inWord"/>
 		no iubeleo in a<unclear>n</unclear>no<lb/>
 		sexto septimanarum<lb/>
 		tertii abisti et inha<lb type="inWord"/>
@@ -101,8 +100,7 @@
 		reris in aegyptum<lb/>
 		in uia in qua praete<lb type="inWord"/>
 		risti eum in refectio<lb type="inWord"/>
-		ne<add resp="#ocp">.</add> <milestone type="vs" n="3"/>
-		<choice><sic>n</sic><corr resp="#ocp">N</corr></choice>onne in omni<lb/>
+		ne<add resp="#ocp">.</add> <milestone unit="vs" n="3"/><choice><sic>n</sic><corr resp="#ocp">N</corr></choice>onne in omni<lb/>
 		uirtute sua quaesi<lb type="inWord"/>
 		uit interficere te<lb/>
 		ut eruerent aegyp<lb type="inWord"/>
@@ -110,8 +108,7 @@
 		uidit quoniam missus<lb/>
 		es facere iudicium<lb/>
 		et uindicare uindic<lb type="inWord"/>
-		tam in aegyptiis<add resp="#ocp">.</add><milestone type="vs" n="4"/><!-- 48:4 -->
-		<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t<lb/>
+		tam in aegyptiis<add resp="#ocp">.</add> <milestone unit="vs" n="4"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t<lb/>
 		erui te de manu eius<lb/>
 		et fecisti signa et<lb/>
 		prodigia quaecumque<lb/>
