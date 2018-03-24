@@ -28,115 +28,113 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-		<pb type="1861" n="58" xml:id="Ceriani_1861_058"/>
-	    <cb type="Ceriani" n="1"/>
-	    <milestone type="5c" unit="page" n="263"/>
-	    <milestone type="19c" unit="page" n="78" xml:id="palimpsest_page_078"/>
-	    <milestone unit="column" n="a"/>
-	    <p part="F">
-
-	muneribus quae
-	<lb/>inponent domino qui<add resp="#ocp">.</add>
-	<lb/>non sunt sacerdo
-	<lb type="inWord"/>tes sed serui de ser
-	<lb type="inWord"/>uis nati<add resp="#ocp">.</add> qui enim ma
-	<lb type="inWord"/>gistri sunt docto
-	<lb type="inWord"/>res eorum illis tem
-	<lb type="inWord"/>poribus erunt miran
-	<lb type="inWord"/>tes personas cupi
-	<lb type="inWord"/>ditatum<add resp="#ocp">.</add> et accep
-	<lb type="inWord"/>tiones munerum
-	<lb/>et peruendent
-	<lb/>iustitias accipien
-	<lb type="inWord"/>do poenas<add resp="#ocp">.</add> et ideo
-	<lb/>implebitur colo
-	<lb type="inWord"/>nia et fines habita
-	<lb type="inWord"/>tionis eorum sce
-	<lb type="inWord"/>leribus et iniquita
-	<lb type="inWord"/>tibus a deo ut qui fa
-	<lb type="inWord"/>cit erunt impii iu
-	<lb type="inWord"/>dices erunt in eam
-	<lb/>post fines habita
-	<lb type="inWord"/>tionis sceleribus
-	<lb/>et iniquitatibus
-    <lb/>a domino qui faciunt
-    <lb/>erunt impii iudices
-    <lb/>inerunt in campo
-    <lb/>iudicare quomodo
-    <lb/>quisquae uolet tunc
-    <lb/>exurgent illis re
-    <lb type="inWord"/>ges imperantes et
-    <lb/>in sacerdotes sum
-    <lb type="inWord"/>mi dei uocabuntur
-    <lb/>facient facientes
-    <lb/>impietatem ab sancto
-    <lb/>sanctitatis<add resp="#ocp">.</add> et succedit illis
-    <lb/>rex petulans qui
-    <lb/>non erit de genere
-    <lb/>sacerdotum<add resp="#ocp">.</add> homo
-    <lb/>temerarius et im
-    <lb type="inWord"/>probus et iudicabit
-    <lb/>illis quomodo dig
-    <lb type="inWord"/>ni erunt<add resp="#ocp">.</add> qui elidit
-    <lb/>principales eorum
-    <lb/>gladio<add resp="#ocp">.</add> et locis igno
-    <lb type="inWord"/>tis singuli et corpo
-    <lb type="inWord"/>ra illorum ut ne
-    <lb type="inWord"/>mo sciat ubi sint
-
-	<!-- p19c=77 p5c=264 -->
-</p>
-<p>corpora illorum
-    ‎<lb/>occidit maiores
-    <lb/>natu et iuuenes
-    <lb/>et non parcet<add resp="#ocp">.</add> tunc
-    <lb/>timor erit illius a
-    <lb type="inWord"/>ceruus in eis in ter
-    <lb type="inWord"/>ram eorum<add resp="#ocp">.</add> et faci
-    <lb type="inWord"/>et in eis iudicia quo
-    <lb type="inWord"/>modo fecerunt in
-    <lb type="inWord"/>illis aegypti per <add resp="#ocp">.</add>xxx
-    <lb/>et <add resp="#ocp">.</add>iiii<add resp="#ocp">.</add> annos et pu
-    <lb type="inWord"/>niunt eos<add resp="#ocp">.</add> et .. rodin
-    <lb type="inWord"/>cit natos ... eceden
-    <lb type="inWord"/>tes sibi breuiora tem
-    <lb type="inWord"/>pora donarent in
-    <lb/>pares eorum mor
-    <lb type="inWord"/>tis uenient et occi
-    <lb type="inWord"/>dentes rex potens
-    <lb/>quia expugnabit eos
-    ‎<lb/>et ducent captiuos
-    <lb/>et partem aedis ipso
-    <lb type="inWord"/>rum igni incendit
-    <lb/>aliquos crucifigit
-    <lb/>circa coloniam eorum
-    <lb/>ex quo facto finien
-    <lb type="inWord"/>tur tempora momen
-    <lb type="inWord"/>to .... etur cursus
-    <lb/>a .... horae <add resp="#ocp">.</add>iiii<add resp="#ocp">.</add> ue
-    <lb type="inWord"/>niant coguntur secun
-    <lb/>.....<add resp="#ocp">.</add> ae .... pos ...
-    <lb type="inWord"/>.<add resp="#ocp">...</add> initiis tribus ad
-    <lb/>exitus <add resp="#ocp">.</add>viiii propter
-    <lb/>initium tres sep
-    <lb type="inWord"/>timae secunda tria
-    <lb/>in tertia duae h .. ra ..
-    <lb/>tae et regnarunt
-    <lb/>de his homines pes
-    <lb type="inWord"/>tilentiosi et impii
-    <lb/>docentes se esse
-    <lb/>iustos<add resp="#ocp">.</add> et hi susci
-    <lb type="inWord"/>tabunt iram animo
-    <lb type="inWord"/>rum suorum qui
-    <lb/>erunt homines do
-    <lb type="inWord"/>losi sibi placentes
-    <lb/>ficti in omnibus suis
-    <lb/>et omni hora diei
-    <lb/>amantes conuiuia
-    <lb/>deuoratores gulae
-
-</p>
-
+	<pb type="1861" n="58" xml:id="Ceriani_1861_058"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="19c" unit="page" n="78" xml:id="palimpsest_page_078"/>
+	<milestone type="5c" unit="page" n="263"/>
+	<milestone unit="column" n="a"/>
+	<p part="F"><space quantity="5" unit="character"/>muneribus quae<lb/>
+		inponent domino qui<lb/>
+		non sunt sacerdo<lb type="inWord"/>
+		tes sed serui de ser<lb type="inWord"/>
+		uis nati. qui enim ma<lb type="inWord"/>
+		gistri sunt docto<lb type="inWord"/>
+		res eorum illis tem<lb type="inWord"/>
+		poribus erunt miran<lb type="inWord"/>
+		tes personas cupi<lb type="inWord"/>
+		ditatum. et accep<lb type="inWord"/>
+		tiones munerum<lb/>
+		et peruendent<lb/>
+		iustitias accipien<lb type="inWord"/>
+		do poenas. et ideo<lb/>
+		implebitur colo<lb type="inWord"/>
+		nia et fines habita<lb type="inWord"/>
+		tionis eorum sce<lb type="inWord"/>
+		leribus et iniquita<lb type="inWord"/>
+		tibus a deo ut qui fa<lb type="inWord"/>
+		cit erunt impii iu<lb type="inWord"/>
+		dices erunt in eam<lb/>
+		post fines habita<lb type="inWord"/>
+		tionis sceleribus<lb/>
+		et iniquitatibus<lb/>
+		<milestone unit="column" n="b"/>a domino qui faciunt<lb/>
+		erunt impii iudices<lb/>
+		inerunt in campo<lb/>
+		iudicare quomodo<lb/>
+		quisquae uolet tunc<lb/>
+		exurgent illis re<lb type="inWord"/>
+		ges imperantes et<lb/>
+		in sacerdotes sum<lb type="inWord"/>
+		mi dei uocabuntur<lb/>
+		facient facientes<lb/>
+		impietatem ab sancto<lb/>
+		sanctitatis. et succedit illis<lb/>
+		rex petulans qui<lb/>
+		non erit de genere<lb/>
+		sacerdotum. homo<lb/>
+		temerarius et im<lb type="inWord"/>
+		probus et iudicabit<lb/>
+		illis quomodo dig<lb type="inWord"/>
+		ni erunt. qui elidit<lb/>
+		principales eorum<lb/>
+		gladio. et locis igno<lb type="inWord"/>
+		tis singuli et corpo<lb type="inWord"/>
+		ra illorum ut ne<lb type="inWord"/>
+		mo sciat ubi sint
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="19c" unit="page" n="77" xml:id="palimpsest_page_77"/>
+	<milestone type="5c" unit="page" n="264"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">corpora illorum
+		‎<lb/>occidit maiores<lb/>
+		natu et iuuenes<lb/>
+		et non parcet. tunc<lb/>
+		timor erit illius a<lb type="inWord"/>
+		ceruus in eis in ter<lb type="inWord"/>
+		ram eorum. et faci<lb type="inWord"/>
+		et in eis iudicia quo<lb type="inWord"/>
+		modo fecerunt in<lb type="inWord"/>
+		illis aegypti per .xxx<lb/>
+		et .iiii. annos et pu<lb type="inWord"/>
+		niunt eos. et <gap reason="illegible" quantity="2" unit="character"/> rodi<unclear>n</unclear><lb type="inWord"/>
+		cit natos <gap reason="illegible" quantity="3" unit="character"/> e<unclear>ce</unclear>den<lb type="inWord"/>
+		tes sibi breuiora tem<lb type="inWord"/>
+		pora donarent in<lb/>
+		pares eorum mor<lb type="inWord"/>
+		tis uenient et occi<lb type="inWord"/>
+		dentes rex potens<lb/>
+		quia expugnabit eos‎<lb/>
+		et ducent captiuos<lb/>
+		et partem aedis ipso<lb type="inWord"/>
+		rum igni incendit<lb/>
+		aliquos crucifigit<lb/>
+		circa coloniam eorum<lb/>
+		<milestone unit="column" n="b"/>ex quo facto finien<lb type="inWord"/>
+		tur tempora momen<lb type="inWord"/>
+		to <gap reason="illegible" quantity="4" unit="character"/> etur cursus<lb/>
+		<unclear>a</unclear> <gap reason="illegible" quantity="4" unit="character"/> horae .iiii. <unclear>ue</unclear><lb type="inWord"/>
+		<unclear>niant</unclear> coguntur secu<unclear>n</unclear><lb/>
+		<gap reason="illegible" quantity="6" unit="character"/> ae <gap reason="illegible" quantity="4" unit="character"/> pos <gap reason="illegible" quantity="3" unit="character"/><lb type="inWord"/>
+		<gap reason="illegible" quantity="4" unit="character"/> initiis tribus ad<lb/>
+		exitus .viiii propte<unclear>r</unclear><lb/>
+		initium tres sep<lb type="inWord"/>
+		timae secunda tria<lb/>
+		<unclear>in</unclear> tertia duae <unclear>h</unclear> <gap reason="illegible" quantity="2" unit="character"/> <unclear>r</unclear>a <gap reason="illegible" quantity="2" unit="character"/><lb/>
+		tae et regnarunt<lb/>
+		de his homines pes<lb type="inWord"/>
+		tilentiosi et impii<lb/>
+		docentes se esse<lb/>
+		iustos. et hi susci<lb type="inWord"/>
+		tabunt iram animo<lb type="inWord"/>
+		rum suorum qui<lb/>
+		erunt homines do<lb type="inWord"/>
+		losi sibi placentes<lb/>
+		ficti in omnibus suis<lb/>
+		et omni hora diei<lb/>
+		amantes conuiuia<lb/>
+		deuoratores gulae
+	</p>
 </body>
 </text>
 </TEI>

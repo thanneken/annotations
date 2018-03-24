@@ -30,8 +30,8 @@
 <body>
     <pb type="1861" n="50" xml:id="Ceriani_1861_050"/>
 	<cb type="Ceriani" n="1"/>
-	<milestone type="5c" unit="page" n="239"/>
 	<milestone type="19c" unit="page" n="131" xml:id="palimpsest_page_131"/>
+	<milestone type="5c" unit="page" n="239"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="45"/><milestone unit="vs" n="8"/><gap reason="lost" quantity="12" unit="page"/>
     <p part="F">
@@ -87,8 +87,8 @@
        in terra aegypti annis
     </p>
 	<cb type="Ceriani" n="2"/>
-	<milestone type="5c" unit="page" n="240"/>
 	<milestone type="19c" unit="page" n="132" xml:id="palimpsest_page_132"/>
+	<milestone type="5c" unit="page" n="240"/>
 	<milestone unit="column" n="a"/>
     <p part="F">decem et septem<lb/>
 		et facti sunt omnes<lb/>

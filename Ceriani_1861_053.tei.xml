@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -27,13 +28,13 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="53" xml:id="Ceriani_1861_053"/>
+	<pb type="1861" n="53" xml:id="Ceriani_1861_053"/>
+	<cb type="Ceriani" n="1"/>
 	<milestone type="19c" unit="page" n="83" xml:id="palimpsest_page_083"/>
 	<milestone type="5c" unit="page" n="251"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="49"/>
-	<p part="F"><milestone unit="vs" n="7"/> ‎ diebus uitae tuae ut <lb/>
+	<p part="F"><milestone unit="vs" n="7"/><gap reason="lost" quantity="2" unit="page"/> diebus uitae tuae ut <lb/>
 		facias per singulos <lb/>
 		annos semel in an<lb type="inWord"/>
 		no in diebus suis secun<lb type="inWord"/>
@@ -42,9 +43,9 @@
 	</p>
 	<p>Et erit illud a diebus suis <lb/>
 		et de mense in men<lb type="inWord"/>
-		sem.<milestone unit="vs" n="8"/> ‎ Quoniam prae<lb type="inWord"/>
+		sem. <milestone unit="vs" n="8"/>Quoniam prae<lb type="inWord"/>
 		ceptum aeternum <lb/>
-		est<!-- appears to be a period in Ceriani's version --> et scriptum in <Lb/>
+		est. et scriptum in <lb/>
 		tabulis caeli super <lb/>
 		omnes filios istra<lb type="inWord"/>
 		hel ut faciant ea per <lb/>
@@ -56,9 +57,9 @@
 		quoniam in saecu<lb type="inWord"/>
 		la est decretum<add resp="#ocp">.</add>
 	</p>
-	<p><milestone unit="vs" n="9"/> ‎ Et homo qui fuerit <lb/>
+	<p><milestone unit="vs" n="9"/>Et homo qui fuerit <lb/>
 		mundus et non <lb/>
-		sciet facere illud <Lb/>
+		sciet facere illud <lb/>
 		<milestone unit="column" n="b"/>in die temporis eius <lb/>
 		ut adferat oblatio<lb type="inWord"/>
 		nem acceptabilem <lb/>in conspectu domini <lb/>
@@ -66,7 +67,7 @@
 		bibat in conspectu <lb/>
 		domini in die festo eius <lb/>
 		exterminauitur <lb/>
-		et homo (in)mundus <choice><sic>inmundus</sic><corr resp="#ocp">mundus</corr></choice><lb/>
+		et homo <surplus resp="#ocp">in</surplus>mundus <choice><sic>inmundus</sic><corr resp="#ocp">mundus</corr></choice><lb/>
 		et qui proximus est <Lb/>
 		quoniam oblatio<lb type="inWord"/>
 		nem domino non optu<lb type="inWord"/>
@@ -74,7 +75,7 @@
 		sius peccatum suum <lb/>
 		sumet homo ille<add resp="#ocp">.</add>
 	</p>
-	<p><milestone unit="vs" n="10"/> ‎ Et erunt uenien<lb type="inWord"/>
+	<p><milestone unit="vs" n="10"/>Et erunt uenien<lb type="inWord"/>
 		tes filii istrahel<lb/>
 		et facientes pascha <lb/>
 		in tempore suo in <lb/>
@@ -83,28 +84,28 @@
 		pera <unclear>m</unclear> a tertia <unclear>aut</unclear>utem <lb/>
 		eius usque in tertiam <lb/>
 		noctis quonia<unclear>m</unclear>
-<milestone type="19c" unit="page" n="84" xml:id="palimpsest_page_084"/>
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="19c" unit="page" n="84" xml:id="palimpsest_page_084"/>
 	<milestone type="5c" unit="page" n="252"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="49"/> duas paries ;partes <choice><sic>i</sic><corr resp="#ocp">t</corr></choice> diei in <lb/>
-		lumine et tiam partem in uespere.
-<milestone unit="vs" n="11"/> ‎ Hoc est quod mandauit dominus tibi ut facias illud in uespertino.
-		lumine et tiam par<lb type="inWord"/>
-		tem in uespere<add resp="#ocp">.</add> <milestone unit="vs" n="11"/> ‎ Hoc <lb/>
+	<p part="F">dua<unclear>s</unclear> partes diei in <lb/>
+		lumine et <add resp="#ocp">ter</add>tiam par<lb type="inWord"/>
+		tem in uespere<add resp="#ocp">.</add> <milestone unit="vs" n="11"/>Hoc <lb/>
 		est quod mandauit <lb/>
 		dominus tibi ut facias il<lb type="inWord"/>
 		lud in uespertino<add resp="#ocp">.</add> <lb/>
-		<milestone unit="vs" n="12"/> ‎ Et non est ut quis <lb/>
+		<milestone unit="vs" n="12"/>Et non est ut quis <lb/>
 		sacrificet in omni <lb/>
 		hora luminis nisi in <lb/>
-		uespertina <!-- appears to be a period in Ceriani's --> et ut man<lb type="inWord"/>
+		uespertina. et ut man<lb type="inWord"/>
 		ducet illud horis ues<lb type="inWord"/>
 		pertinis tertia noc<lb type="inWord"/>
-		tis <!-- appears to be a period in Ceriani's --> et quod derelic<lb type="inWord"/>
+		tis. et quod derelic<lb type="inWord"/>
 		tum fuerit ex omnibus <lb/>
 		carnibus <unclear>a</unclear> tertia noc<lb type="inWord"/>
 		tis hoc in igne com<lb type="inWord"/>
-		buretur<add resp="#ocp">.</add> <milestone unit="vs" n="13"/> ‎ Et non co<lb type="inWord"/>
+		buretur<add resp="#ocp">.</add> <milestone unit="vs" n="13"/>Et non co<lb type="inWord"/>
 		qoitur in aqua aut <lb/>
 		manducauitur cru<lb type="inWord"/>
 		dum sed in igne as<lb type="inWord"/>
@@ -113,41 +114,31 @@
 		put ipsius cum in<lb type="inWord"/>
 		teraneis et cum pe<lb type="inWord"/>
 		<milestone unit="column" n="b"/> dibus ipsius assauitis <lb/>
-		igni <!-- appears to be a period in Ceriani's --> et non erit quod <lb/>
+		igni. et non erit quod <lb/>
 		frangatur ex omnibus <lb/>
 		ossibus eius et non <lb/>
 		erit tribulatio in fi<lb type="inWord"/>
 		liis istrahel in die hac<add resp="#ocp">.</add> <lb/>
-		<milestone unit="vs" n="14"/> ‎ Propter quod man<lb type="inWord"/>
+		<milestone unit="vs" n="14"/>Propter quod man<lb type="inWord"/>
 		dauit dominus filiis istra<lb type="inWord"/>
 		hel facere pascha <lb/>
 		in die temporis eius <lb/>
 		et non erit confrin<lb type="inWord"/>
 		gere in ea omne os <unclear>illius</unclear><lb/>
 		quoniam dies festus <lb/>
-		est et dies praecepti<add resp="#ocp">.</add><lb/> 
+		est et dies praecepti<add resp="#ocp">.</add><lb/>
 		Non est ut praetere<lb type="inWord"/>
 		atur de die in diem <lb/>
 		de mense et mense <lb/>
 		sed in tempore suo<add resp="#ocp">.</add><lb/>
 	</p>
-	<p><milestone unit="vs" n="15"/> ‎ Et tu manda filiis is<lb type="inWord"/>
+	<p><milestone unit="vs" n="15"/>Et tu manda filiis is<lb type="inWord"/>
 		trahel ut faciant <lb/>
 		pascha in generatio<lb type="inWord"/>
 		nibus suis per singu<lb type="inWord"/>
 		los annos semel in <lb/>
 		anno in die tempo
-	
-		
-		
-		
-		
-		
-	
-
-	
-</p>
-
+	</p>
 </body>
 </text>
 </TEI>

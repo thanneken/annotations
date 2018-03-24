@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<!DOCTYPE xml>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -7,6 +8,7 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
+			<respStmt><resp>TEI Encoding</resp><name>Marissa Gonzalez</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
@@ -26,122 +28,113 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
-<pb type="1861" n="55" xml:id="Ceriani_1861_055"/>
-<cb type="Cerani" n="1"/>
-<milestone type="5c" unit="page" n="257"/>
-<milestone type="19c" unit="page" n="112" xml:id="palimpsest_page_112"/>
-<milestone unit="column" n="a"/>
-	
-<!-- p19c=112 p5c=257 -->
-
-<lb/><milestone unit="ch" n="1"/><milestone unit="vs" n="1"/>‎<milestone unit="column" n="a"/><gap reason="illegible" quantity="14" unit="character"/> 
-<lb/><gap reason="illegible" quantity="14" unit="character"/>
-<lb/><gap reason="illegible" quantity="14" unit="character"/>
-<lb/><milestone unit="ch" n="1"/><milestone unit="vs" n="2"/>qui est bis millesi<lb type="inWord"/>
-<lb/>mus et quingente<lb type="inWord"/>
-<lb/>simus annus a crea<lb type="inWord"/>
-<lb/>tura orbis terrae
-<lb/><milestone unit="ch" n="1"/><milestone unit="vs" n="3"/>nam secus qui in ori
-<lb/>ente sunt numerus
-<lb/><gap reason="illegible" quantity="3" unit="character"/>mus et<gap reason="illegible" quantity="2" unit="character"/>mus
-<lb/>et <gap reason="illegible" quantity="4" unit="character"/>mus profec<lb type="inWord"/>
-<lb/>tionis fynicis <milestone unit="ch" n="1"/><milestone unit="vs" n="4"/> cum
-<lb/>exiuit plebs post
-<lb/>profectionem quae
-<lb/>fiebat per mosysen
-<lb/>usque amman trans
-<lb/>iordanem <milestone unit="ch" n="1"/><milestone unit="vs" n="5"/> profetiae
-<lb/>quae facta est a moy<lb type="inWord"/>
-<lb/>sen in libro deute<lb type="inWord"/>
-<lb/>ronomio <milestone unit="ch" n="1"/><milestone unit="vs" n="6"/> qui uoca<lb type="inWord"/>
-<lb/>uit ad se iesum filium
-<lb/>naue hominem pro<lb type="inWord"/>
-<lb/>batum domino <milestone unit="ch" n="1"/><milestone unit="vs" n="7"/> ut sit
-<lb/>successor plebi et
-<lb/>
-<lb/><milestone unit="column" n="b"/>scene testimonii
-<lb/>cum omnibus sanctis illius
-<lb/><milestone unit="ch" n="1"/><milestone unit="vs" n="8"/>ut et inducat plebem
-<lb/>in terram datam ex<lb type="inWord"/>
-<lb/>tribus eorum <milestone unit="ch" n="1"/><milestone unit="vs" n="9"/> ut de<lb type="inWord"/>
-<lb/>tur illis per testamen<lb type="inWord"/>
-<lb/>tum et per iusiuran<lb type="inWord"/>
-<lb/>dum quod locutus
-<lb/>est in scenae dare
-<lb/>de iesum dicendo ad iesum
-<lb/>uerbum hoc <milestone unit="ch" n="1"/><milestone unit="vs" n="10"/> et pro<lb type="inWord"/>
-<lb/>mitte secus indus<lb type="inWord"/>
-<lb/>triam tuam omnia
-<lb/>quae mandata sunt
-<lb/>ut facias quemad<lb type="inWord"/>
-<lb/>modum sine quae<lb type="inWord"/>
-<lb/>rellam est <milestone unit="ch" n="1"/><milestone unit="vs" n="11"/> ideo haec
-<lb/>dicit dominus orbis ter<lb type="inWord"/>
-<lb/>rarum
-<lb/><milestone unit="ch" n="1"/><milestone unit="vs" n="12"/>Creauit enim orbem
-<lb/>terrarum propter
-<lb/>plebem suam <milestone unit="ch" n="1"/><milestone unit="vs" n="13"/> et non
-<lb/>coepit eam inceptio<lb type="inWord"/>
-<lb/>nem creaturae
-
-<cb type="Ceriani" n="2"/>
-<milestone unit="column" n="a"/>
-	<!-- p19c=111 p5c=258 -->
-
-<lb/>et ab initio orbis ter<lb type="inWord"/>
-<lb/>rarum palam face<lb type="inWord"/>
-<lb/>re ut in eam gentes
-<lb/>arguantur et humi<lb type="inWord"/>
-<lb/>liter inter se dispu<lb type="inWord"/>
-<lb/>tationibus arguant
-<lb/>se <milestone unit="ch" n="1"/><milestone unit="vs" n="14"/> itaque excogitauit
-<lb/>et inuenit me qui ab
-<lb/>initio orbis terra<lb type="inWord"/>
-<lb/>rum praeparatus sum
-<lb/>ut sim arbiter testa<lb type="inWord"/>
-<lb/>menti illius <milestone unit="ch" n="1"/><milestone unit="vs" n="15"/> et tunc
-<lb/>palam facio tibi quia
-<lb/>consummatum est
-<lb/>tempus annorum
-<lb/>uitae meae et tran<lb type="inWord"/>
-<lb/>sio in dormitionem
-<lb/>patrum meorum
-<lb/>et palam omnem ple<lb type="inWord"/>
-<lb/>bem <milestone unit="ch" n="1"/><milestone unit="vs" n="16"/>   autem
-<lb/>percipe scribturam
-<lb/>hanc ad recognos
-<lb/>cendam tutationem
-<lb/>librorum quos tibi
-
-<lb/><milestone unit="column" n="b"/>tradam <milestone unit="ch" n="1"/><milestone unit="vs" n="17"/> quos ordina<lb type="inWord"/>
-<lb/>bis et chedriabis et
-<lb/>reponis in uasis fic<lb type="inWord"/>
-<lb/>tilibus in loco quem
-<lb/>fecit ab initio crea<lb type="inWord"/>
-<lb/>turae orbis terra<lb type="inWord"/>
-<lb/>rum <milestone unit="ch" n="1"/><milestone unit="vs" n="18"/>ut inuocetur 
-<lb/>nomen illius usque
-<lb/>in diem paenitentiae
-<lb/>in respectu quo
-<lb/>respicit illos dominus
-<lb/>in consummatio<lb type="inWord"/>
-<lb/>ne exitus dierum
-<lb/><milestone unit="ch" n="2"/><milestone unit="vs" n="1"/>      intrabunt
-<lb/>per te in terram
-<lb/>quam decreuit et
-<lb/>promisit dare pa<lb type="inWord"/>
-<lb/>tribus eorum <milestone unit="ch" n="2"/><milestone unit="vs" n="2"/> in qua
-<lb/>tu benedicis et da<lb type="inWord"/>
-<lb/>bis unicuique et sta<lb type="inWord"/>
-<lb/>bilibis eis sortem
-<lb/>in me et constabi<lb type="inWord"/>
-<lb/>libis eis regnum
-<lb/>et magisteria loco-
-
-</ab>
-
+	<pb type="1861" n="55" xml:id="Ceriani_1861_055"/>
+	<cb type="Cerani" n="1"/>
+	<milestone type="19c" unit="page" n="112" xml:id="palimpsest_page_112"/>
+	<milestone type="5c" unit="page" n="257"/>
+	<milestone unit="column" n="a"/>
+	<p><milestone unit="ch" n="1"/><milestone unit="vs" n="1"/><gap reason="illegible" quantity="14" unit="character"/><lb/>
+		<gap reason="illegible" quantity="14" unit="character"/><lb/>
+		<gap reason="illegible" quantity="14" unit="character"/><lb/>
+		<milestone unit="vs" n="2"/>qui est bis millesi<lb type="inWord"/>
+		mus et quingente<lb type="inWord"/>
+		simus annus a crea<lb type="inWord"/>
+		tura orbis terrae<lb/>
+		<milestone unit="vs" n="3"/>nam secus qui in ori<lb/>
+		ente sunt numerus<lb/>
+		<gap reason="illegible" quantity="3" unit="character"/>mus et<gap reason="illegible" quantity="2" unit="character"/>mus<lb/>
+		et <gap reason="illegible" quantity="4" unit="character"/>mus profec<lb type="inWord"/>
+		tionis fynicis <milestone unit="vs" n="4"/>cum<lb/>
+		exiuit plebs post<lb/>
+		profectionem quae<lb/>
+		fiebat per mosysen<lb/>
+		usque amman trans<lb/>
+		iordanem <milestone unit="vs" n="5"/>profetiae<lb/>
+		quae facta est a moy<lb type="inWord"/>
+		sen in libro deute<lb type="inWord"/>
+		ronomio <milestone unit="vs" n="6"/>qui uoca<lb type="inWord"/>
+		uit ad se iesum filium<lb/>
+		naue hominem pro<lb type="inWord"/>
+		batum domino <milestone unit="vs" n="7"/>ut sit<lb/>
+		successor plebi et<lb/>
+		<milestone unit="column" n="b"/>scene testimonii<lb/>
+		cum omnibus sanctis illius<lb/>
+		<milestone unit="vs" n="8"/>ut et inducat plebem<lb/>
+		in terram datam ex<lb type="inWord"/>
+		tribus eorum <milestone unit="vs" n="9"/>ut de<lb type="inWord"/>
+		tur illis per testamen<lb type="inWord"/>
+		tum et per iusiuran<lb type="inWord"/>
+		dum quod locutus<lb/>
+		est in scenae dare<lb/>
+		de iesum dicendo ad iesum<lb/>
+		uerbum hoc <milestone unit="vs" n="10"/>et pro<lb type="inWord"/>
+		mitte secus indus<lb type="inWord"/>
+		triam tuam omnia<lb/>
+		quae mandata sunt<lb/>
+		ut facias quemad<lb type="inWord"/>
+		modum sine quae<lb type="inWord"/>
+		rellam est <milestone unit="vs" n="11"/>ideo haec<lb/>
+		dicit dominus orbis ter<lb type="inWord"/>
+		rarum<lb/>
+		<milestone unit="vs" n="12"/>Creauit enim orbem<lb/>
+		terrarum propter<lb/>
+		plebem suam <milestone unit="vs" n="13"/>et non<lb/>
+		coepit eam inceptio<lb type="inWord"/>
+		nem creaturae
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="19c" unit="page" n="111" xml:id="palimpsest_page_111"/>
+	<milestone type="5c" unit="page" n="258"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">et ab initio orbis ter<lb type="inWord"/>
+		rarum palam face<lb type="inWord"/>
+		re ut in eam gentes<lb/>
+		arguantur et humi<lb type="inWord"/>
+		liter inter se dispu<lb type="inWord"/>
+		tationibus arguant<lb/>
+		se <milestone unit="vs" n="14"/>itaque excogitauit<lb/>
+		et inuenit me qui ab<lb/>
+		initio orbis terra<lb type="inWord"/>
+		rum praeparatus sum<lb/>
+		ut sim arbiter testa<lb type="inWord"/>
+		menti illius <milestone unit="vs" n="15"/>et tunc<lb/>
+		palam facio tibi quia<lb/>
+		consummatum est<lb/>
+		tempus annorum<lb/>
+		uitae meae et tran<lb type="inWord"/>
+		sio in dormitionem<lb/>
+		patrum meorum<lb/>
+		et palam omnem ple<lb type="inWord"/>
+		bem <milestone unit="vs" n="16"/>autem<lb/>
+		percipe scribturam<lb/>
+		hanc ad recognos<lb/>
+		cendam tutationem<lb/>
+		librorum quos tibi<lb/>
+		<milestone unit="column" n="b"/>tradam <milestone unit="vs" n="17"/>quos ordina<lb type="inWord"/>
+		bis et chedriabis et<lb/>
+		reponis in uasis fic<lb type="inWord"/>
+		tilibus in loco quem<lb/>
+		fecit ab initio crea<lb type="inWord"/>
+		turae orbis terra<lb type="inWord"/>
+		rum <milestone unit="vs" n="18"/>ut inuocetur<lb/>
+		nomen illius usque<lb/>
+		in diem paenitentiae<lb/>
+		in respectu quo<lb/>
+		respicit illos dominus<lb/>
+		in consummatio<lb type="inWord"/>
+		ne exitus dierum<lb/>
+		<space quantity="10" unit="character"/><milestone unit="ch" n="2"/><milestone unit="vs" n="1"/>intrabunt<lb/>
+		per te in terram<lb/>
+		quam decreuit et<lb/>
+		promisit dare pa<lb type="inWord"/>
+		tribus eorum <milestone unit="vs" n="2"/>in qua<lb/>
+		tu benedicis et da<lb type="inWord"/>
+		bis unicuique et sta<lb type="inWord"/>
+		bilibis eis sortem<lb/>
+		in me et constabi<lb type="inWord"/>
+		libis eis regnum<lb/>
+		et magisteria loco
+	</p>
 </body>
 </text>
 </TEI>

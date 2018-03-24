@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -28,123 +28,119 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<pb type="1861" n="54" xml:id="Ceriani_1861_054"/>
-<cb type="Ceriani" n="1"/>
-<milestone type="19c" unit="page" n="108"/>
-<milestone type="5c" unit="page" n="253"/>
-<milestone unit="column" n="a"/>
-<milestone unit="ch" n="49"/>
-<p part="F">
-
-
-      <lb type="inWord"/>ris sui et erit in tes
-      <lb type="inWord"/>timonium in cons
-      <lb type="inWord"/>pectu dei acceptabi
-      <lb type="inWord"/>le et non eueniet 
-      <lb/>ab illo plaga ut per
-      <lb type="inWord"/>dat et ut exterminet 
-      <lb/>eos in anno illo in quo 
-      <lb/>facient pascha in tem
-      <lb type="inWord"/>pore suo secundum 
-      <lb/>uniuersa praecep
-      <lb type="inWord"/>ta eius<add resp="#ocp">.</add>Et non man
-	  <lb type="inWord"/>ducauitur foris a 
-	  <lb/>sanctificatione domini 
-	  <lb/>sed secus taberna
-	  <lb type="inWord"/>culum domini et omnis 
-	  <lb/>multitudo filiorum 
-	  <lb/>istrahel facient il
-	  <lb type="inWord"/>lud in tempore suo<add resp="#ocp">.</add>
-      <lb/>Et omnis homo qui
-      <lb type="inWord"/>cumque praetermise
-      <lb type="inWord"/>rit in uisitatione 
-      <lb/>manducare illud 
-      <lb/>in sanctificatione 
-      <lb/>dei nostri in cons
-<lb/>
-	<milestone unit="column" n="b"/>
-      <lb type="inWord"/>pectu domini a uicensi
-      <lb type="inWord"/>mo anno et supra 
-      <lb/>quoniam sic prae
-      <lb type="inWord"/>ceptum est et scrib
-      <lb type="inWord"/>tum ut manduce
-      <lb type="inWord"/>tur in sanctifica
-      <lb type="inWord"/>tione eius<add resp="#ocp">.</add> Et quem
-      <lb type="inWord"/>admodum uenient 
-      <lb/>filii istrahel in ter
-      <lb type="inWord"/>ra possessionis 
-      <lb/>ipsorum in terra 
-      <lb/>chanaam et inhabi
-      <lb type="inWord"/>tabunt in taberna
-      <lb type="inWord"/>culo dei in medio ter
-      <lb type="inWord"/>rae in una tribu ip
-      <lb type="inWord"/>sorum usque in diem 
-      <lb/>qua aedificabitur 
-      <lb/>sanctificatio dei in 
-      <lb/>terra<add resp="#ocp">.</add> et erunt ue
-      <lb type="inWord"/>nientes et facien
-      <lb type="inWord"/>tes pascha in cons
-      <lb type="inWord"/>pectu tabernaculi 
-      <lb/>dei per singulos an
-      <lb type="inWord"/>nos. Et in tempore
-	
-	<milestone type="5c" unit="page" n="254"/>
-	<milestone type="19c" unit="page" n="107" xml:id="palimpsest_page_107"/>
+	<pb type="1861" n="54" xml:id="Ceriani_1861_054"/>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="19c" unit="page" n="108" xml:id="palimpsest_page_108"/>
+	<milestone type="5c" unit="page" n="253"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="49"/>
+	<milestone unit="vs" n="15">
+	<p part="F"><lb type="inWord"/>
+		ris sui et erit in tes<lb type="inWord"/>
+		timonium in cons<lb type="inWord"/>
+		pectu dei acceptabi<lb type="inWord"/>
+		le et non eueniet<lb/>
+		ab illo plaga ut per<lb type="inWord"/>
+		dat et ut exterminet<lb/>
+		eos in anno illo in quo<lb/>
+		facient pascha in tem<lb type="inWord"/>
+		pore suo secundum<lb/>
+		uniuersa praecep<lb type="inWord"/>
+		ta eius<add resp="#ocp">.</add> <milestone unit="vs" n="16"/>Et non man<lb type="inWord"/>
+		ducauitur foris a<lb/>
+		sanctificatione domini<lb/>
+		sed secus taberna<lb type="inWord"/>
+		culum domini et omnis<lb/>
+		multitudo filiorum<lb/>
+		istrahel facient il<lb type="inWord"/>
+		lud in tempore suo<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="17"/>Et omnis homo qui<lb type="inWord"/>
+		cumque praetermise<lb type="inWord"/>
+		rit in uisitatione<lb/>
+		manducare illud<lb/>
+		in sanctificatione<lb/>
+		dei nostri in cons<lb/>
+		<milestone unit="column" n="b"/><lb type="inWord"/>
+		pectu domini a uicensi<lb type="inWord"/>
+		mo anno et supra<lb/>
+		quoniam sic prae<lb type="inWord"/>
+		ceptum est et scrib<lb type="inWord"/>
+		tum ut manduce<lb type="inWord"/>
+		tur in sanctifica<lb type="inWord"/>
+		tione eius<add resp="#ocp">.</add> <milestone unit="vs" n="18"/>Et quem<lb type="inWord"/>
+		admodum uenient<lb/>
+		filii istrahel in ter<lb type="inWord"/>
+		ra possessionis<lb/>
+		ipsorum in terra<lb/>
+		chanaam et inhabi<lb type="inWord"/>
+		tabunt in taberna<lb type="inWord"/>
+		culo dei in medio ter<lb type="inWord"/>
+		rae in una tribu ip<lb type="inWord"/>
+		sorum usque in diem<lb/>
+		qua aedificabitur<lb/>
+		sanctificatio dei in<lb/>
+		terra<add resp="#ocp">.</add> et erunt ue<lb type="inWord"/>
+		nientes et facien<lb type="inWord"/>
+		tes pascha in cons<lb type="inWord"/>
+		pectu tabernaculi<lb/>
+		dei per singulos an<lb type="inWord"/>
+		nos. <milestone unit="vs" n="19"/>Et in tempore
+	</p>
 	<cb type="Ceriani" n="2"/>
-	<milestone unit="column" n="a"/> quo aedificabitur 
-      <lb/>domus in nomine 
-      <lb/>domini in terra posses
-      <lb type="inWord"/>sionis ipsorum 
-      <lb/>illic offerentes et 
-      <lb/>mactabunt pascha 
-      <lb/>ad uespera circa 
-      <lb/>occasum solis in 
-      <lb/>tertia die<add resp="#ocp">.</add> Et offe
-      <lb type="inWord"/>rent sanguinem eius 
-      <lb/>super basem alta
-      <lb type="inWord"/>ris et adipem offe
-      <lb type="inWord"/>rent super ignem 
-      <lb/>altaris et carnes 
-      <lb/>manducabunt as
-      <lb type="inWord"/>sas igne in atrium 
-      <lb/>domus sanctifica
-      <lb type="inWord"/> <unclear>tae</unclear> in nomine domini<add resp="#ocp">.</add>
-      <lb/>Et non poterunt 
-      <lb/>facere pascha in ci
-      <lb type="inWord"/>uitatibus ipsorum 
-      <lb/>in omni loco nisi 
-      <lb/>in conspectum 
-      <lb/>tabernaculi<add resp="#ocp">.</add> domini
-	<lb/>
-		<milestone unit="column" n="b"/>et in conspectu do
-      <lb type="inWord"/>mus ubi habitauit 
-      <lb/>nomen eius super 
-      <lb/>ipsam. et non exe
-      <lb type="inWord"/>rrabunt de post dominum<add resp="#ocp">.</add>
- </p>
-   <p>Et tu monse manda 
-	  <lb/>filiis istrahel ut 
-	  <lb/>custodiant prae
-	  <lb type="inWord"/>ceptum paschae 
-	  <lb/>et quemadmodum 
-	  <lb/>mandatum est tibi 
-	  <lb/>indica illis per singu
-	  <lb type="inWord"/>los enim annos in 
-	  <lb/>tempore dierum 
-	  <lb/>suorum et per diem 
-	  <lb/>festum azymorum 
-	  <lb/>ut manducent azy
-	  <lb type="inWord"/>ma septem dies 
-	  <lb/>et ut faciant diem 
-	  <lb/>festum eius et ut 
-	  <lb/>offerant oblatio
-	  <lb type="inWord"/>nem per singulos 
-	  <lb/>dies in septem diebus 
-	  <lb/>laetitiae in cons - - -.
-
-</p>
-
+	<milestone type="19c" unit="page" n="107" xml:id="palimpsest_page_107"/>
+	<milestone type="5c" unit="page" n="254"/>
+	<milestone unit="column" n="a"/>
+	<p part="F">quo aedificabitur<lb/>
+		domus in nomine<lb/>
+		domini in terra posses<lb type="inWord"/>
+		sionis ipsorum<lb/>
+		illic offerentes et<lb/>
+		mactabunt pascha<lb/>
+		ad uespera circa<lb/>
+		occasum solis in<lb/>
+		tertia die<add resp="#ocp">.</add> <milestone unit="vs" n="20"/>Et offe<lb type="inWord"/>
+		rent sanguinem eius<lb/>
+		super basem alta<lb type="inWord"/>
+		ris et adipem offe<lb type="inWord"/>
+		rent super ignem<lb/>
+		altaris et carnes<lb/>
+		manducabunt as<lb type="inWord"/>
+		sas igne in atrium<lb/>
+		domus sanctifica<lb type="inWord"/>
+		<unclear>tae</unclear> in nomine domini<add resp="#ocp">.</add><lb/>
+		<milestone unit="vs" n="21"/>Et non poterunt<lb/>
+		facere pascha in ci<lb type="inWord"/>
+		uitatibus ipsorum<lb/>
+		in omni loco nisi<lb/>
+		in conspectum<lb/>
+		tabernaculi<add resp="#ocp">.</add> domini<lb/>
+		<milestone unit="column" n="b"/>et in conspectu do<lb type="inWord"/>
+		mus ubi habitauit<lb/>
+		nomen eius super<lb/>
+		ipsam. et non exe<lb type="inWord"/>
+		rrabunt de post dominum<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="22"/>Et tu monse manda<lb/>
+		filiis istrahel ut<lb/>
+		custodiant prae<lb type="inWord"/>
+		ceptum paschae<lb/>
+		et quemadmodum<lb/>
+		mandatum est tibi<lb/>
+		indica illis per singu<lb type="inWord"/>
+		los enim annos in<lb/>
+		tempore dierum<lb/>
+		suorum et per diem<lb/>
+		festum azymorum<lb/>
+		ut manducent azy<lb type="inWord"/>
+		ma septem dies<lb/>
+		et ut faciant diem<lb/>
+		festum eius et ut<lb/>
+		offerant oblatio<lb type="inWord"/>
+		nem per singulos<lb/>
+		dies in septem diebus<lb/>
+		laetitiae in cons
+	</p>
+	<gap reason="lost" quantity="2" unit="page"/>
 </body>
 </text>
 </TEI>

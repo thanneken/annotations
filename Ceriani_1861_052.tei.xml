@@ -1,5 +1,5 @@
-<!DOCTYPE xml>
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
 	schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="http://palimpsest.stmarytx.edu/styles/epidoc/start-edition.xsl"?>
@@ -28,147 +28,123 @@
 </teiHeader>
 <text xml:lang="la">
 <body>
-
-<ab>
-
-    <pb type="1861" n="52" xml:id="Ceriani_1861_052"/>
+	<pb type="1861" n="52" xml:id="Ceriani_1861_052"/>
 	<cb type="Ceriani" n="1"/>
-	<milestone type="5c" unit="page" n="245"/>
 	<milestone type="19c" unit="page" n="93" xml:id="palimpsest_page_093"/>
+	<milestone type="5c" unit="page" n="245"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="47"/>
-	<!-- p19c=93 p5c=245 -->
-
-     <p>
-       mulieri mer<unclear>cedem</unclear><lb/>
-       l- - - - ar - - - - -.<lb/>
- ‎      - - - - - - - - - -<lb/> <milestone unit="vs" n="9"/> <!-- 47:9 -->
-       - - - - - - - - - -<lb/>
-       et docuit - - - - -<lb/>
-       - - - - - - - - - - -<lb/>
-       et quando comple - - - - -<lb/>
-       - - - - - - - septima<lb type="inWord"/>
-       na - - - - - erunt te<lb/>
-       in atrium regale<add resp="#ocp">.</add> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t era<unclear>s</unclear><lb/>
-       <unclear>ex</unclear> - - - - - - trium septi<lb type="inWord"/>
-       manarum annorum<lb/>
-       usque in tempus quo<lb/>
-       <unclear>ex</unclear>isti de atrio regali<lb/>
-       et uidisti aegyptiu<unclear>m</unclear><lb/>
-       ferientem fratrem<lb/>
-       tuum et percussisti<lb/>
-       eum et fodi<unclear>sti in</unclear> ter<lb type="inWord"/>
-       ram et cooperuisti<lb/>
-       eum in harenam<add resp="#ocp">.</add>
-     </p>
-
-     <p>
-     <milestone type="vs" n="10"/><!-- 47:10 -->
-       Et secunda die inuenis<lb type="inWord"/>
-       ti duos litigantes ex<lb/>
-       filiis istrahel et dix<lb type="inWord"/>
-       isti ad eum qui per-<lb type="inWord"/>
-       <add resp="#ocp">-</add>cutiebat proximum<lb/> <milestone unit="column" n="b"/>
-       su<unclear>um</unclear><add resp="#ocp">:</add> quare percutis<lb/>
-       fratrem tuum.<milestone type="vs" n="11"/><!-- 47:11 -->
-      ‎ <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t ira<lb type="inWord"/>
-       tus est in indignatio<lb type="inWord"/>
-       ne - - - - - dixit<add resp="#ocp">:</add> quis te<lb/>
-       constituit principem<lb/>
-       aut iudicem super nos<add resp="#ocp">.</add><lb/>
-       <choice><sic>n</sic><corr resp="#ocp">N</corr></choice>umquid occidere<lb/>
-       me uis quemadmodum<lb/>
-       occidisti <unclear>hester</unclear>na die<lb/>
-       aegyptium<add resp="#ocp">.</add>- - - - u - -<lb/>
-       tia propter - - - <unclear>o</unclear> - - - <unclear>huius</unclear> <add resp="#ocp">- - -.</add><lb/>
-     </p>
-
-     <p><milestone unit="ch" n="48"/>
-     <milestone type="vs" n="1"/><!-- 48:1 -->
-       Et quadragesimo no<lb type="inWord"/>
-       no iubeleo in a<unclear>n</unclear>no<lb/>
-       sexto septimanarum<lb/>
-       tertii abisti et inha<lb type="inWord"/>
-       bit<unclear>a</unclear>sti in terram mad<lb type="inWord"/>
-       - - - - septimanarum<lb/>
-       quinque et annum unum<add resp="#ocp">.</add><lb/>
-     </p>
-
-     <p>
-       Et quinquagensimo<lb/>
-       iubeleo in septima<lb type="inWord"/>
-       narum secundo. in<lb/>
-       anno secundo ipsius<lb/>
-       conuersus es in aegyptum<add resp="#ocp">.</add>
-     </p>
-
-     <pb type="1861" n="52" xml:id="Ceriani_1861_052"/>
-	 <cb type="Ceriani" n="2"/>
-	 <milestone type="5c" unit="page" n="246"/>
-	 <milestone type="19c" unit="page" n="94" xml:id="palimpsest_page_094"/>
-	 <milestone unit="column" n="a"/>
-	 <milestone unit="ch" n="48"/>
-	 <milestone unit="vs" n="2"/>
-	 <!-- p19c=94 p5c=246 -->
-
-     <p><!-- 48:2 -->
-       <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t tu scis ipse qui lo<lb type="inWord"/>
-       cutus est <choice><sic>tecum</sic><corr resp="#ocp">te cum</corr></choice><lb/>
-       sub monte sina et<lb/>
-       quid uoluit facere<lb/>
-       <choice><sic>tecum</sic><corr resp="#ocp">te cum</corr></choice> princeps mas<lb type="inWord"/>
-       tima cum reuerte<lb type="inWord"/>
-       reris in aegyptum<lb/>
-       in uia in qua praete<lb type="inWord"/>
-       risti eum in refectio<lb type="inWord"/>
-       ne<add resp="#ocp">.</add><milestone type="vs" n="3"/><!-- 48:3 -->
-       <choice><sic>n</sic><corr resp="#ocp">N</corr></choice>onne in omni<lb/>
-       uirtute sua quaesi<lb type="inWord"/>
-       uit interficere te<lb/>
-       ut eruerent aegyp<lb type="inWord"/>
-       tios de manu tua quia<lb/>
-       uidit quoniam missus<lb/>
-       es facere iudicium<lb/>
-       et uindicare uindic<lb type="inWord"/>
-       tam in aegyptiis<add resp="#ocp">.</add><milestone type="vs" n="4"/><!-- 48:4 -->
-       <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t<lb/>
-       erui te de manu eius<lb/>
-       et fecisti signa et<lb/>
-       prodigia quaecumque<lb/>
-       missus es facere<lb/>
-       in aegyptum et in<lb/>
-       faraonem et in om-<lb/><milestone unit="column" n="b"/>
-       <add resp="#ocp">-</add>nem domum eius<lb/>
-       et in omni populo eius<add resp="#ocp">.</add>
-     </p>
-
-     <p>
-     <milestone unit="vs" n="5"/><!-- 48:5 -->
-       Et fecit deus in pa - - - - -<lb/>
-       defensionem mag<lb type="inWord"/>
-       nam super israhel<lb/>
-       et p<unclear>ercu</unclear>s eos in san<lb type="inWord"/>
-       guinem et in ranis<lb/>
-       et scynifis et <unclear>mus</unclear><lb type="inWord"/>
-       cas canina<unclear>s</unclear> et in uul<lb type="inWord"/>
-       nere pessimo quod<lb/>
-       erant - - -- - - a - - - fe - - - - - - <lb/>
-       uent<unclear>o</unclear> et in morte<lb/>
-       animalium ipsorum<lb/>
-       et lapidibus grandinis<lb/>
-       perdidit uniuersa<lb/>
-       nascentia eorum<lb/>
-       et lucusta <unclear>co</unclear>medit<lb/>
-       quae derelicta erant<lb/>
-       de grandine et in te<lb type="inWord"/>
-       nebris primitiuorum<lb/>
-       ipsorum hominum et<lb/>
-       animalium et in om<lb type="inWord"/>
-       nibus diis aegyptiorum<lb/>
-       fecit dominus uindicta<unclear>m</unclear><add resp="#ocp">- - -.</add>
-</p>
-</ab>
-
+	<p>mulieri mer<unclear>cedem</unclear><lb/>
+		l<gap reason="illegible" quantity="4" unit="character"/> ar <gap reason="illegible" quantity="5" unit="character"/><lb/>
+		‎<gap reason="illegible" quantity="10" unit="character"/><lb/>
+		<milestone unit="vs" n="9"/><gap reason="illegible" quantity="10" unit="character"/><lb/>
+		et docuit <gap reason="illegible" quantity="5" unit="character"/><lb/>
+		<gap reason="illegible" quantity="11" unit="character"/><lb/>
+		et quando comple <gap reason="illegible" quantity="5" unit="character"/><lb/>
+		<gap reason="illegible" quantity="7" unit="character"/> septima<lb type="inWord"/>
+		na <gap reason="illegible" quantity="5" unit="character"/> erunt te<lb/>
+		in atrium regale<add resp="#ocp">.</add> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t era<unclear>s</unclear><lb/>
+		<unclear>ex</unclear> <gap reason="illegible" quantity="6" unit="character"/> trium septi<lb type="inWord"/>
+		manarum annorum<lb/>
+		usque in tempus quo<lb/>
+		<unclear>exi</unclear>sti de atrio regali<lb/>
+		et uidisti aegyptiu<unclear>m</unclear><lb/>
+		ferientem fratrem<lb/>
+		tuum et percussisti<lb/>
+		eum et <unclear>f</unclear>odi<unclear>sti in</unclear> ter<lb type="inWord"/>
+		ram et cooperuisti<lb/>
+		eum in harenam<add resp="#ocp">.</add>
+	</p>
+	<p><milestone type="vs" n="10"/>
+		Et secunda die inuenis<lb type="inWord"/>
+		ti duos litigantes ex<lb/>
+		filiis istrahel et dix<lb type="inWord"/>
+		isti ad eum qui per<lb type="inWord"/>
+		<milestone unit="column" n="b"/>cutiebat proximum<lb/>
+		su<unclear>um</unclear><add resp="#ocp">:</add> quare percutis<lb/>
+		fratrem tuum. <milestone type="vs" n="11"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t ira<lb type="inWord"/>
+		tus est in indignatio<lb type="inWord"/>
+		ne <gap reason="illegible" quantity="5" unit="character"/> dixit<add resp="#ocp">:</add> quis te<lb/>
+		constituit principem<lb/>
+		aut iudicem super nos<add resp="#ocp">.</add><lb/>
+		<choice><sic>n</sic><corr resp="#ocp">N</corr></choice>umquid occidere<lb/>
+		me uis quemadmodum<lb/>
+		occidisti <unclear>hester</unclear>na die<lb/>
+		aegyptium<add resp="#ocp">.</add> <gap reason="illegible" quantity="4" unit="character"/> u <gap reason="illegible" quantity="2" unit="character"/><lb/>
+		tia propter <gap reason="illegible" quantity="4" unit="character"/> <unclear>o</unclear> <gap reason="illegible" quantity="3" unit="character"/> <unclear>huius</unclear><lb/>
+	</p>
+	<p><milestone unit="ch" n="48"/><milestone type="vs" n="1"/>Et quadragesim<unclear>o no</unclear><lb type="inWord"/>
+		no iubeleo in a<unclear>n</unclear>no<lb/>
+		sexto septimanarum<lb/>
+		tertii abisti et inha<lb type="inWord"/>
+		bit<unclear>a</unclear>sti in terram mad<lb type="inWord"/>
+		<gap reason="illegible" quantity="4" unit="character"/> septimanarum<lb/>
+		quinque et annum unum<add resp="#ocp">.</add><lb/>
+	</p>
+	<p>
+		Et quinquagensimo<lb/>
+		iubeleo in septima<lb type="inWord"/>
+		narum secundo. in<lb/>
+		anno secundo ipsius<lb/>
+		conuersus es in aegyptum<add resp="#ocp">.</add>
+	</p>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="19c" unit="page" n="94" xml:id="palimpsest_page_094"/>
+	<milestone type="5c" unit="page" n="246"/>
+	<milestone unit="column" n="a"/>
+	<p part="F"><milestone unit="vs" n="2"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t tu scis ipse qui lo<lb type="inWord"/>
+		cutus est te<add resp="#ocp"> </add>cum<lb/>
+		sub monte sina et<lb/>
+		quid uoluit facere<lb/>
+		te<add resp="#ocp"> </add>cum princeps mas<lb type="inWord"/>
+		tima cum reuerte<lb type="inWord"/>
+		reris in aegyptum<lb/>
+		in uia in qua praete<lb type="inWord"/>
+		risti eum in refectio<lb type="inWord"/>
+		ne<add resp="#ocp">.</add> <milestone type="vs" n="3"/>
+		<choice><sic>n</sic><corr resp="#ocp">N</corr></choice>onne in omni<lb/>
+		uirtute sua quaesi<lb type="inWord"/>
+		uit interficere te<lb/>
+		ut eruerent aegyp<lb type="inWord"/>
+		tios de manu tua quia<lb/>
+		uidit quoniam missus<lb/>
+		es facere iudicium<lb/>
+		et uindicare uindic<lb type="inWord"/>
+		tam in aegyptiis<add resp="#ocp">.</add><milestone type="vs" n="4"/><!-- 48:4 -->
+		<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t<lb/>
+		erui te de manu eius<lb/>
+		et fecisti signa et<lb/>
+		prodigia quaecumque<lb/>
+		missus es facere<lb/>
+		in aegyptum et in<lb/>
+		faraonem et in om<lb type="inWord"/>
+		<milestone unit="column" n="b"/>nem domum eius<lb/>
+		et in omni populo eius<add resp="#ocp">.</add>
+	</p>
+	<p><milestone unit="vs" n="5"/>Et fecit deus in pa<gap reason="illegible" quantity="5" unit="character"/><lb/>
+		defensionem mag<lb type="inWord"/>
+		nam super israhel<lb/>
+		et p<unclear>ercu</unclear>s eos in san<lb type="inWord"/>
+		guinem et in ranis<lb/>
+		et scynifis et <unclear>mus</unclear><lb type="inWord"/>
+		cas canina<unclear>s</unclear> et in uul<lb type="inWord"/>
+		nere pessimo quod<lb/>
+		erant <gap reason="illegible" quantity="5" unit="character"/> a <gap reason="illegible" quantity="3" unit="character"/> fe <gap reason="illegible" quantity="5" unit="character"/><lb/>
+		uent<unclear>o</unclear> et in morte<lb/>
+		animalium ipsorum<lb/>
+		et lapidibus grandinis<lb/>
+		perdidit uniuersa<lb/>
+		nascentia eorum<lb/>
+		et lucusta <unclear>co</unclear>medit<lb/>
+		quae derelicta erant<lb/>
+		de grandine et in te<lb type="inWord"/>
+		nebris primitiuorum<lb/>
+		ipsorum hominum et<lb/>
+		animalium et in om<lb type="inWord"/>
+		nibus diis aegyptiorum<lb/>
+		fecit dominus uindicta<unclear>m</unclear>
+	</p>
+	<gap reason="lost" quantity="2" unit="page"/>
 </body>
 </text>
 </TEI>
