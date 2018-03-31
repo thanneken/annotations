@@ -33,7 +33,8 @@
 	<milestone type="19c" unit="page" n="80" xml:id="palimpsest_page_080"/>
 	<milestone type="5c" unit="page" n="149"/>
 	<milestone unit="column" n="a"/>
-	<p part="F"><milestone unit="ch" n="26"/><milestone unit="vs" n="8"/> <gap reason="lost" unit="pages" n="6"/> consilii eius <surplus resp="#ocp"></surplus>et indig<lb type="inWord"/>nabitur <add resp="#ocp">(</add>et indigna<lb type="inWord"/>
+	<p part="F"><milestone unit="ch" n="26"/><milestone unit="vs" n="8"/> <gap reason="lost" unit="pages" n="6"/> consilii eius et indig<lb type="inWord"/>
+		nabitur <surplus resp="#ocp">et indigna<lb type="inWord"/>
 		bitur</surplus> aduersus me<lb/>
 		et inducam ego su<lb type="inWord"/>
 		per me maledictum<lb/>
