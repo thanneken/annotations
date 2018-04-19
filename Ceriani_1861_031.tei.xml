@@ -33,14 +33,15 @@
 	<milestone type="19c" unit="page" n="80" xml:id="palimpsest_page_080"/>
 	<milestone type="5c" unit="page" n="149"/>
 	<milestone unit="column" n="a"/>
-	<p part="F"><milestone unit="ch" n="26"/><milestone unit="vs" n="8"/> <gap reason="lost" unit="pages" n="6"/> consilii eius et indig<lb type="inWord"/>
+	<milestone unit="ch" n="26"/><milestone unit="vs" n="8"/> <gap reason="lost" unit="pages" n="6"/>
+	<p part="F">consilii eius et indig<lb type="inWord"/>
 		nabitur <surplus resp="#ocp">et indigna<lb type="inWord"/>
 		bitur</surplus> aduersus me<lb/>
 		et inducam ego su<lb type="inWord"/>
 		per me maledictum<lb/>
 		et non benedictio<lb type="inWord"/>
-		nem<add resp="#ocp">.</add> Et dixit illi<lb/>
-		<milestone unit="vs" n="9"/>rebecca mater sua<add resp="#ocp">:</add><lb/>
+		nem<add resp="#ocp">.</add> <milestone unit="vs" n="9"/>Et dixit illi<lb/>
+		rebecca mater sua<add resp="#ocp">:</add><lb/>
 		in me maledictum<lb/>
 		tuum nate tantum<lb/>
 		obaudi uocem meam<add resp="#ocp">.</add><lb/>
@@ -65,10 +66,10 @@
 		dit super brachia<lb/>
 		eius et humeros et<lb/>
 		super nudas cerui<lb type="inWord"/>
-		<milestone unit="vs" n="12"/>ces ei<add resp="#ocp">.</add>‎ <choice><sic>o</sic><corr resp="#ocp">O</corr></choice>btendidit ci<lb type="inWord"/>
+		ces ei<add resp="#ocp">.</add>‎ <milestone unit="vs" n="12"/><choice><sic>o</sic><corr resp="#ocp">O</corr></choice>btendidit ci<lb type="inWord"/>
 		bos quos fecit et pa<lb type="inWord"/>
 		nes in manibus iacob<lb/>
-		<milestone type="vs" n="13"/>filii sui.‎ Et introi<lb type="inWord"/>
+		filii sui. <milestone unit="vs" n="13"/>Et introi<lb type="inWord"/>
 		uit iacob ad patrem<lb/>
 		suum et dixit<add resp="#ocp">:</add> ego<lb/>
 		sum filius tuus fe<lb type="inWord"/>
@@ -81,7 +82,7 @@
 	</p>
 	<p><milestone unit="vs" n="14"/>Et dixit isac ad fili<lb type="inWord"/>
 		um suum<add resp="#ocp">:</add> quid est<lb/>
-		hoc quod adcelera<unclear>sti</unclear>
+		hoc quod adceleras<unclear>ti</unclear>
 	</p>
 	<cb type="Ceriani" n="2"/>
 	<milestone type="5c" unit="page" n="150"/>
@@ -119,7 +120,7 @@
 		<milestone unit="column" n="b"/>filius meus esau<add resp="#ocp">.</add>
 	</p>
 	<p>Et dixit iacob<add resp="#ocp">:</add> ego fi<lb type="inWord"/>
-		lius tuus sum. 
+		lius tuus sum<add resp="#ocp">.</add>
 	</p>
 	<p>Et dixit isac<add resp="#ocp">:</add> offers<lb/>
 		mihi et manducabo<lb/>
@@ -145,7 +146,7 @@
 	<p>Ecce odor filii mei<lb/>
 		sicut odor agri ple<lb type="inWord"/>
 		ni quem benedixit<lb/>
-		deus<add resp="#ocp">.</add> <milestone unit="vs" n="23"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t det tibi 
+		deus<add resp="#ocp">.</add> <milestone unit="vs" n="23"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t det tibi
 	</p>
 	<gap reason="lost" unit="pages" n="4"/>
 </body>

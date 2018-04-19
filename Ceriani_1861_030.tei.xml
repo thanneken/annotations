@@ -42,7 +42,7 @@
 		abraham patris sui<add resp="#ocp">.</add><lb/>
 		<milestone unit="vs" n="24"/>‎<choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t foderunt puteum<lb/>
 		et inuenerunt aquam<lb/>
-		uiuam<add resp="#ocp">.</add> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t foderunt<milestone unit="vs" n="25"/><lb/>
+		uiuam<add resp="#ocp">.</add> <milestone unit="vs" n="25"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t foderunt<lb/>
 		iterum puteum alium<lb/>
 		pueri isac et non in<lb type="inWord"/>
 		uenerunt aquam et<lb/>
@@ -53,7 +53,7 @@
 		propter quod iura<unclear>ui</unclear><lb/>
 		in die ista filistin fac<lb type="inWord"/>
 		tus est nobis ser<lb type="inWord"/>
-		mo hic<add resp="#ocp">.</add> <milestone unit="vs" n="26"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t uocauit no<lb type="inWord"/> 
+		mo hic<add resp="#ocp">.</add> <milestone unit="vs" n="26"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t uocauit no<lb type="inWord"/>
 		men loci illius<add resp="#ocp">:</add> pute<lb type="inWord"/>
 		us iurationis quoni<lb type="inWord"/>
 		am illic iurauit abi<lb type="inWord"/>
@@ -90,7 +90,7 @@
 	<milestone unit="column" n="a"/>
 	<p part="F">suis super terram<add resp="#ocp">.</add><lb/>
 		<milestone unit="vs" n="30"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t non derelinquen<lb type="inWord"/>
-		tur eis reliquiae et<lb/> 
+		tur eis reliquiae et<lb/>
 		salu<supply resp="#ocp">u</supply>s <surplus resp="#ocp"><unclear>s</unclear></surplus>euadens in<lb/>
 		die irae iudicii sed<lb/>
 		in perditionem<lb/>
@@ -112,7 +112,7 @@
 		num ibi abundabit<lb/>
 		iudicium eius et non<lb/>
 		erit ei illic omnis<lb/>
-		<milestone unit="column" n="b"/>pax. <milestone unit="vs" n="32"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t si uadens abi<lb type="inWord"/>
+		<milestone unit="column" n="b"/>pax. <milestone unit="vs" n="32"/>Et si uadens abi<lb type="inWord"/>
 		erit in captiuitatem<lb/>
 		in manu omnium quae<lb type="inWord"/>
 		rentium eum anima<lb/>
