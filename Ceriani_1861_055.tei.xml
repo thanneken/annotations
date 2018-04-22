@@ -42,9 +42,9 @@
 		tura orbis terrae<lb/>
 		<milestone unit="vs" n="3"/>nam secus qui in ori<lb/>
 		ente sunt numerus<lb/>
-		<gap reason="illegible" quantity="3" unit="character"/>mus et<gap reason="illegible" quantity="2" unit="character"/>mus<lb/>
-		et <gap reason="illegible" quantity="4" unit="character"/>mus profec<lb type="inWord"/>
-		tionis fynicis <milestone unit="vs" n="4"/>cum<lb/>
+		<gap reason="illegible" quantity="3" unit="character"/>mus. et<gap reason="illegible" quantity="2" unit="character"/>mus<lb/>
+		et <gap reason="illegible" quantity="4" unit="character"/>mus. profec<lb type="inWord"/>
+		tionis fynicis. <milestone unit="vs" n="4"/>cum<lb/>
 		exiuit plebs post<lb/>
 		profectionem quae<lb/>
 		fiebat per mosysen<lb/>
@@ -66,7 +66,7 @@
 		tum et per iusiuran<lb type="inWord"/>
 		dum quod locutus<lb/>
 		est in scenae dare<lb/>
-		de iesum dicendo ad iesum<lb/>
+		de iesum. dicendo ad iesum<lb/>
 		uerbum hoc <milestone unit="vs" n="10"/>et pro<lb type="inWord"/>
 		mitte secus indus<lb type="inWord"/>
 		triam tuam omnia<lb/>
@@ -104,9 +104,9 @@
 		tempus annorum<lb/>
 		uitae meae et tran<lb type="inWord"/>
 		sio in dormitionem<lb/>
-		patrum meorum<lb/>
+		patrum meorum.<lb/>
 		et palam omnem ple<lb type="inWord"/>
-		bem <milestone unit="vs" n="16"/>autem<lb/>
+		bem <space unit="character" quantity="5"/> <milestone unit="vs" n="16"/>autem<lb/>
 		percipe scribturam<lb/>
 		hanc ad recognos<lb/>
 		cendam tutationem<lb/>
@@ -124,17 +124,17 @@
 		respicit illos dominus<lb/>
 		in consummatio<lb type="inWord"/>
 		ne exitus dierum<lb/>
-		<space quantity="10" unit="character"/><milestone unit="ch" n="2"/><milestone unit="vs" n="1"/>intrabunt<lb/>
+		<space quantity="5" unit="character"/><milestone unit="ch" n="2"/><milestone unit="vs" n="1"/>intrabunt<lb/>
 		per te in terram<lb/>
 		quam decreuit et<lb/>
 		promisit dare pa<lb type="inWord"/>
-		tribus eorum <milestone unit="vs" n="2"/>in qua<lb/>
+		tribus eorum. <milestone unit="vs" n="2"/>in qua<lb/>
 		tu benedicis et da<lb type="inWord"/>
 		bis unicuique et sta<lb type="inWord"/>
 		bilibis eis sortem<lb/>
 		in me et constabi<lb type="inWord"/>
 		libis eis regnum<lb/>
-		et magisteria loco
+		et magisteria loco<lb type="inWord"/>
 	</p>
 </body>
 </text>

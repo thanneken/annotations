@@ -34,8 +34,8 @@
 	<milestone type="5c" unit="page" n="243"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="46"/><gap reason="lost" quantity="2" unit="page"/>
-	<p><milestone unit="vs" n="12"/>Et cogitauit rex chan<lb type="inWord"/>
-		aam cogitationem pes<lb type="inWord"/>
+	<p><milestone unit="vs" n="12"/>Et cogitauit rex chana<lb type="inWord"/>
+		am cogitationem pes<lb type="inWord"/>
 		simam ut adfligeret eos.
 	</p>
 	<p><milestone unit="vs" n="13"/>Et in illo tempore di<lb type="inWord"/>
@@ -73,7 +73,7 @@
 		murum qui erat diru<lb type="inWord"/>
 		tus in ciuitatibus aegyp<lb type="inWord"/>
 		ti<add resp="#ocp">.</add> <milestone unit="vs" n="15"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t redigerunt eos<lb/>
-		in seruitutem cum ui<lb/>
+		in seruitutem cum ui.<lb/>
 		et quantum eos hu<lb type="inWord"/>
 		miliabant multo<lb/>
 		plus multiplicaban<lb type="inWord"/>
@@ -105,7 +105,7 @@
 		omnes masculos qui<lb/>
 		nascebantur illis<lb/>
 		in flumine. <milestone unit="vs" n="3"/>Et erant<lb/>
-		pro<add resp="#ocp">(</add>sp<add resp="#ocp">)</add>icientes men<lb type="inWord"/>
+		pro<surplus resp="#ocp">sp</surplus>icientes men<lb type="inWord"/>
 		sibus septem usque in<lb/>
 		tempus quo tu natus<lb/>
 		es<add resp="#ocp">.</add> <choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t celauit te mater<lb/>

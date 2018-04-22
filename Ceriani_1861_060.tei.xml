@@ -35,9 +35,9 @@
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="9"/>
 	<p part="F">quanta nobis con<lb type="inWord"/>
-		tegerunt <milestone unit="vs" n="4"/>
+		tegerunt
 	</p>
-	<p>Nunc ergo filii audite<lb/>
+	<p><milestone unit="vs" n="4"/>Nunc ergo filii audite<lb/>
 		me uidete enim et<lb/>
 		scite quia numquam<lb/>
 		temptans deum nec pa<lb type="inWord"/>
@@ -50,7 +50,7 @@
 		nemus triduo. et<lb/>
 		quarto die intremus<lb/>
 		in spelunca quae in<lb/>
-		agro est et moria<lb/>
+		agro est et moria<lb type="inWord"/>
 		mur potius quam<lb/>
 		praetereamus man<lb type="inWord"/>
 		data domini dominorum dei<lb/>
@@ -83,7 +83,7 @@
 		suos <milestone unit="vs" n="4"/>et tremebit<lb/>
 		terra usque ad fi<lb type="inWord"/>
 		nes suas concutie<lb type="inWord"/>
-		tur et alti montes<lb/>
+		tur. et alti montes<lb/>
 		humiliabuntur
 	</p>
 	<cb type="Ceriani" n="2"/>
@@ -115,7 +115,7 @@
 		trahel et ascendes<lb/>
 		supra ceruices et<lb/>
 		alas aquilae et in<lb type="inWord"/>
-		<milestone type="column" n="b"/>plebuntur <milestone unit="vs" n="9"/>et alta<lb type="inWord"/>
+		<milestone unit="column" n="b"/>plebuntur <milestone unit="vs" n="9"/>et alta<lb type="inWord"/>
 		uit te deus et faciet te<lb/>
 		herere caelo stella<lb type="inWord"/>
 		rum loco habitatio<lb type="inWord"/>
@@ -130,7 +130,7 @@
 		ue custodi uerba<lb/>
 		haec et hunc librum‎<lb/>
 		<milestone unit="vs" n="12"/>erunt enim a morte<lb/>
-		receptionem usque<lb/>
+		receptione<unclear>m</unclear> usque<lb/>
 		ad aduentum illius<lb/>
 		tempora .ccl. quae<lb/>
 		fiunt <milestone unit="vs" n="13"/><unclear>Et hic</unclear> cursus<lb/>
@@ -139,7 +139,7 @@
 		consummentur
 	</p>
 	<p><milestone unit="vs" n="14"/>Ego autem ad dormi<lb type="inWord"/>
-		tionem patrum me
+		tionem patrum me<lb type="inWord"/>
 	</p>
 </body>
 </text>

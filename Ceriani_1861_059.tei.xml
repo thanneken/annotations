@@ -33,7 +33,8 @@
 	<milestone type="19c" unit="page" n="68" xml:id="palimpsest_page_068"/>
 	<milestone type="5c" unit="page" n="265"/>
 	<milestone unit="column" n="a"/>
-	<p><milestone unit="ch" n="7"/><milestone unit="vs" n="5"/>s<gap reason="illegible" quantity="3" unit="character"/>n<gap reason="illegible" quantity="3" unit="character"/><unclear>c</unclear>a<gap reason="illegible" quantity="4" unit="character"/><lb/>
+	<milestone unit="ch" n="7"/><milestone unit="vs" n="5"/>
+	<p part="F">s<gap reason="illegible" quantity="3" unit="character"/>n<gap reason="illegible" quantity="3" unit="character"/><unclear>c</unclear>a<gap reason="illegible" quantity="4" unit="character"/><lb/>
 		<gap reason="illegible" quantity="5" unit="character"/><unclear>nus diis</unclear><gap reason="illegible" quantity="4" unit="character"/><lb/>
 		<gap reason="illegible" quantity="4" unit="character"/>omnis<gap reason="illegible" quantity="4" unit="character"/><lb/>
 		<gap reason="illegible" quantity="15" unit="character"/><lb/>
@@ -46,12 +47,12 @@
 		sericordiam <unclear>qu</unclear><gap reason="illegible" quantity="3" unit="character"/><lb/>
 		<milestone unit="vs" n="7"/>se <unclear>et</unclear> extermina<lb type="inWord"/>
 		tores quaeru<gap reason="illegible" quantity="3" unit="character"/><lb/>
-		<milestone unit="vs" n="8"/>fallaces celantes se<lb/>
+		fallaces celantes se<lb/>
 		ne possent cognos<lb type="inWord"/>
 		ci impii in scelere<lb/>
 		pleni et iniquitate<lb/>
 		ab oriente usque ad<lb/>
-		occidentem dicen<lb type="inWord"/>
+		occidentem <milestone unit="vs" n="8"/>dicen<lb type="inWord"/>
 		tes habebimus dis<lb type="inWord"/>
 		cubitiones et luxu<lb type="inWord"/>
 		riam edentes et<lb/>
@@ -59,16 +60,16 @@
 	</p>
 	<p><unclear>Et pu</unclear>tauimus nos<lb/>
 		<milestone unit="column" n="b"/>tamquam pr<unclear>incip</unclear>es<lb/>
-		erimus. <milestone unit="vs" n="8"/>et manus<lb/>
+		erimus. <milestone unit="vs" n="9"/>et manus<lb/>
 		eorum et mentes<lb/>
 		<unclear>inmu</unclear>nda tractante<unclear>s</unclear><lb/>
 		<unclear>e</unclear>t os eorum loque<lb type="inWord"/>
 		tur ingentia et <unclear>su</unclear><lb type="inWord"/>
-		per dicent <add resp="#ocp">10</add>‎ n<unclear>oli</unclear><gap reason="illegible" quantity="4" unit="character"/><lb/>
-		<unclear>t</unclear>ange n<unclear>e</unclear> inquin<unclear>es</unclear><lb/>
-		me loco <unclear>in quo</unclear> <gap reason="illegible" quantity="3" unit="character"/> s <gap reason="illegible" quantity="3" unit="character"/><lb/>
+		per dicent <milestone unit="vs" n="10"/>n<unclear>oli</unclear><gap reason="illegible" quantity="4" unit="character"/><lb/>
+		<unclear>t</unclear>ange n<unclear>e i</unclear>nquin<unclear>es</unclear><lb/>
+		me <unclear>lo</unclear>co <unclear>in quo</unclear> <gap reason="illegible" quantity="3" unit="character"/> s <gap reason="illegible" quantity="3" unit="character"/><lb/>
 		<gap reason="illegible" quantity="3" unit="character"/> is d <gap reason="illegible" quantity="8" unit="character"/><lb/>
-		su <gap reason="illegible" quantity="5" unit="character"/> us <gap reason="illegible" quantity="5" unit="character"/><lb/>
+		su <gap reason="illegible" quantity="5" unit="character"/> <unclear>us</unclear> <gap reason="illegible" quantity="5" unit="character"/><lb/>
 		in <gap reason="illegible" quantity="9" unit="character"/><lb/>
 		<unclear>re</unclear><gap reason="illegible" quantity="4" unit="character"/> <unclear>raui</unclear> <gap reason="illegible" quantity="4" unit="character"/><lb/>
 		in plebem quae <unclear>s</unclear> <gap reason="illegible" quantity="2" unit="character"/> <unclear>a</unclear> <gap reason="illegible" quantity="2" unit="character"/><lb/>
@@ -103,7 +104,7 @@
 		rosisam illis <milestone unit="vs" n="4"/>nam illi<lb/>
 		in eis punientur in<lb/>
 		tormentis et igne<lb/>
-		et ferro et cogen<lb type="inWord"/>
+		et ferro. et cogen<lb type="inWord"/>
 		tur palam baiulare<lb/>
 		idola eorum inqui<lb type="inWord"/>
 		nata quomod<unclear>o</unclear> sunt<lb/>
@@ -112,7 +113,7 @@
 		tibus illos pariter co<lb type="inWord"/>
 		gentur intrare in<lb/>
 		abditum locum eo<lb type="inWord"/>
-		rum et cogentur<lb/>
+		rum. et cogentur<lb/>
 		<milestone unit="column" n="b"/>stimulis blasfema<lb type="inWord"/>
 		re uerbum contu<lb type="inWord"/>
 		meliose nouissime<lb/>
@@ -122,7 +123,7 @@
 		<milestone unit="ch" n="9"/><milestone unit="vs" n="1"/>tunc illo dicente ho<lb type="inWord"/>
 		mo de tribu leuui<lb/>
 		cuius nomen erit<lb/>
-		taxo qui habens vii<lb/>
+		taxo. qui habens .vii.<lb/>
 		filios dicens ad eos<lb/>
 		rogans <milestone unit="vs" n="2"/>uidete filii<lb/>
 		ecce ultio facta est<lb/>

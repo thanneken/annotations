@@ -33,8 +33,8 @@
 	<milestone type="19c" unit="page" n="83" xml:id="palimpsest_page_083"/>
 	<milestone type="5c" unit="page" n="251"/>
 	<milestone unit="column" n="a"/>
-	<milestone unit="ch" n="49"/>
-	<p part="F"><milestone unit="vs" n="7"/><gap reason="lost" quantity="2" unit="page"/> diebus uitae tuae ut <lb/>
+	<milestone unit="ch" n="49"/><milestone unit="vs" n="7"/><gap reason="lost" quantity="2" unit="page"/>
+	<p part="F">diebus uitae tuae ut <lb/>
 		facias per singulos <lb/>
 		annos semel in an<lb type="inWord"/>
 		no in diebus suis secun<lb type="inWord"/>
@@ -67,8 +67,8 @@
 		bibat in conspectu <lb/>
 		domini in die festo eius <lb/>
 		exterminauitur <lb/>
-		et homo <surplus resp="#ocp">in</surplus>mundus <choice><sic>inmundus</sic><corr resp="#ocp">mundus</corr></choice><lb/>
-		et qui proximus est <Lb/>
+		et homo <surplus resp="#ocp">in</surplus>mundus<lb/>
+		et qui proximus est <lb/>
 		quoniam oblatio<lb type="inWord"/>
 		nem domino non optu<lb type="inWord"/>
 		lit in tempore ip<lb type="inWord"/>
@@ -81,7 +81,7 @@
 		in tempore suo in <lb/>
 		quartadecima die <lb/>
 		mensis primi ad ues<lb type="inWord"/>
-		pera <unclear>m</unclear> a tertia <unclear>aut</unclear>utem <lb/>
+		pera<unclear>m</unclear> a terti<unclear>a aut</unclear>em <lb/>
 		eius usque in tertiam <lb/>
 		noctis quonia<unclear>m</unclear>
 	</p>
@@ -116,7 +116,7 @@
 		<milestone unit="column" n="b"/> dibus ipsius assauitis <lb/>
 		igni. et non erit quod <lb/>
 		frangatur ex omnibus <lb/>
-		ossibus eius et non <lb/>
+		ossibus eius. et non <lb/>
 		erit tribulatio in fi<lb type="inWord"/>
 		liis istrahel in die hac<add resp="#ocp">.</add> <lb/>
 		<milestone unit="vs" n="14"/>Propter quod man<lb type="inWord"/>
@@ -137,7 +137,7 @@
 		pascha in generatio<lb type="inWord"/>
 		nibus suis per singu<lb type="inWord"/>
 		los annos semel in <lb/>
-		anno in die tempo
+		anno in die tempo<lb type="inWord"/>
 	</p>
 </body>
 </text>

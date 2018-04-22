@@ -60,8 +60,8 @@
 		qui supra eos est<lb/>
 		et expandit manus<lb/>
 		et ponit genua sua<lb/>
-		et orauit pro eis di<lb type="inWord"/>
-		cens <milestone unit="vs" n="2"/>Domine omnis<lb/>
+		<milestone unit="column" n="b"/>et orauit pro eis di<lb type="inWord"/>
+		cens <space unit="character" quantity="5"/> <milestone unit="vs" n="2"/>Domine omnis<lb/>
 		rex in alta sede qui<lb/>
 		dominaris saeculo<lb/>
 		qui uoluisti plebem<lb/>
@@ -106,14 +106,14 @@
 		locum renouantes<lb/>
 		<milestone unit="vs" n="8"/>duae autem tribus<lb/>
 		permanebunt in<lb/>
-		praeposita fide sua<lb/>
+		praeposita fide s<unclear>ua</unclear><lb/>
 		tristes et gemen<lb type="inWord"/>
 		tes quia non pote<lb type="inWord"/>
 		rint referre im<lb type="inWord"/>
 		molationes domino<lb/>
 		patruum suorum<lb/>
 		<milestone unit="vs" n="9"/>et .x. tribus cres-<lb type="inWord"/>
-		cent et deuenient<lb/>
+		<milestone unit="column" n="b"/>cent et deuenient<lb/>
 		apud natos in tem<lb type="inWord"/>
 		pore tribum. <milestone unit="ch" n="5"/><milestone unit="vs" n="1"/>et<lb/>
 		cum adpropiabunt<lb/>
@@ -138,6 +138,7 @@
 		sed quidam altarium<lb/>
 		inquinabunt de
 	</p>
+	<!-- "II" appears in the lower right, probably from the 1861 printer -->
 </body>
 </text>
 </TEI>

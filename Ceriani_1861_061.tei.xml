@@ -34,7 +34,7 @@
 	<milestone type="5c" unit="page" n="269"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="10"/>
-	<p>
+	<p part="F">
 		orum eram <milestone unit="vs" n="15"/>itaque<lb/>
 		tu iesu naue forma te<lb/>
 		elegit deus esse mihi<lb/>
@@ -61,7 +61,7 @@
 		quae est plena la<lb type="inWord"/>
 		crimis et gemitibus<lb/>
 		quia tu discedis de<lb/>
-		<milestone unit="column" n="b"/>plebe ist <gap reason="illegible" quantity="5" unit="character"/><lb/>
+		<milestone unit="column" n="b"/>plebe ist <gap reason="illegible" quantity="6" unit="character"/><lb/>
 		<milestone unit="vs" n="5"/>quis locus recip<unclear>it</unclear> <gap reason="illegible" quantity="4" unit="character"/><lb/>
 		te <milestone unit="vs" n="6"/>aut quod erit mo<lb type="inWord"/>
 		numentum sepul<lb type="inWord"/>
@@ -92,7 +92,7 @@
 	<milestone type="19c" unit="page" n="99" xml:id="palimpsest_page_099"/>
 	<milestone type="5c" unit="page" n="270"/>
 	<milestone unit="column" n="a"/>
-	<p part="F">in uia. <milestone unit="vs" n="11"/>aut quis ora.<lb type="inWord"/>
+	<p part="F">in uia. <milestone unit="vs" n="11"/>aut quis ora<lb type="inWord"/>
 		bit pro eis. nec pati<lb type="inWord"/>
 		<unclear>ens</unclear> ne uno quidem<lb/>
 		diem ut inducam il<lb type="inWord"/>
@@ -135,11 +135,11 @@
 		conpraehensibilem<lb/>
 		dominum uerbi fidelem<lb/>
 		in omnia diuinum<lb/>
-		per orbem terra<lb/>
+		per orbem terra<lb type="inWord"/>
 		rum profetem con<lb type="inWord"/>
 		summatum in sae<lb type="inWord"/>
-		culo doctorem iam<lb type="inWord"/>
-		non esse in eis di
+		culo doctorem iam<lb/>
+		non esse in eis di<lb type="inWord"/>
 	</p>
 </body>
 </text>
