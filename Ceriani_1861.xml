@@ -9,7 +9,18 @@
 	<fileDesc>
 		<titleStmt>
 			<title>Digital Edition of Ceriani's Transcription of Latin Moses</title>
-			<respStmt><resp>TEI Encoding</resp><name>Todd Hanneken</name></respStmt>
+			<respStmt><resp>TEI Encoding and Editing</resp><name>Todd Hanneken</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Dominique Dominguez</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Marcia Bodden</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Ian Bryan</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Anthony Selvanathan</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Marissa Gonzalez</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Chris Repka</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Teresa Valdez</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Maria Garza</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Alexandra Gonzalez</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Ani Gonzalez</name></respStmt>
+			<respStmt><resp>TEI Encoding</resp><name>Deema Al Shobber</name></respStmt>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>The Jubilees Palimpsest Project</publisher>
