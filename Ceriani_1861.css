@@ -1,0 +1,14 @@
+body{margin:20px;}
+p{line-height:150%;}
+.pagenum{color:green;}
+.ch{color:blue;}
+.vs{color:blue;font-size:75%;line-height:0;position:relative;vertical-align:baseline;top:-0.5em;}
+.col{color:green;float:left;margin-left:-1em;font-style:italic;}
+.noindent{margin: 0 0 0 0;padding-left:5em;}
+.hanging{margin: 0 0 0 0;padding-left:5em;text-indent:-0.5em;}
+.pagegap,.chargap{color:red;}
+.sic{text-decoration:line-through;color:darkred;}
+.corr,.add{text-decoration:underline;color:purple;}
+.suplus{text-decoration:line-through;color:darkred;}
+.unclear{color:gray;font-style:italic;}
+.vacat{font-style:italic;}
