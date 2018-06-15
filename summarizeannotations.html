@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Annotation Index</title>
+<style type="text/css">
+	h1{font-size:110%;}
+	h2{font-size:105%;}
+</style>
+<script type="text/javascript" src="/leaflet/bower_components/jquery/dist/jquery.min.js"></script>
+<script>
+var sasUrl = 'http://35.155.241.146:8888/simpleAnnotationStore/annotation/';
+$(document).ready(function(){
+	$("<a/>",{href:sasUrl,html:sasUrl}).appendTo("#server");
+    $.getJSON(sasUrl, function(data){
+    	var annotations = [];
+    	var allcanvases = [];
+	    $.each(data.resources, function(resourcesKey, resourcesValue){
+	    	//for each resource create an array that has elements: canvas, main, tags
+    		var annotation = ['canvas','main']; //initialize array with canvas and main, then push tags
+	    	$.each(data.resources[resourcesKey].resource, function(resourceKey,resourceValue){
+	    		if (resourceValue['@type'] == 'dctypes:Text') {
+	    			annotation[1]=resourceValue['chars'];
+	    		};
+	    		if (resourceValue['@type'] == 'oa:Tag') {
+					annotation.push(resourceValue['chars']);
+	    		};
+	    	});
+			$.each(data.resources[resourcesKey].on, function(onKey,onValue){
+				annotation[0]=onValue['full'];
+				allcanvases.push(onValue['full']);
+			});
+			annotations.push(annotation); //add those to an array of arrays
+	    });
+		var canvaslist = [ ...new Set(allcanvases)]; //create a separate array of unique canvases
+		canvaslist.sort();
+    	for (var i=0;i<canvaslist.length;i++){ //for each canvas
+    		var canvasparts = canvaslist[i].split('/');
+	    	var canv = canvasparts[canvasparts.length-1];
+	    	var mirador= 'http://jubilees.stmarytx.edu/mirador/?manifest='+canvasparts[4]+'&canvas='+canvasparts[6];
+			$("<h2/>",{id:canv}).appendTo("#main");
+			$("<a/>",{href:mirador,target:"_blank",html:mirador}).appendTo("#"+canv);
+    		for (var j=0;j<annotations.length;j++){ //for each annotation
+    			annotation=annotations[j];
+    			if (canvaslist[i] === annotation[0]) { //filter for matching the canvas at hand
+					var mainclean = annotation[1].replace('<p>','<p id="'+canv+'-'+j+'">');
+					$("<div/>",{html:mainclean}).appendTo("#main"); //main annotation
+						for (var k=2;k<annotation.length;k++){ //tags
+							$("<span/>",{style:'color:green',html:" ["+annotation[k]+"]"}).appendTo("#"+canv+"-"+j);
+						}
+    			};
+    		}
+    	}
+    });
+});
+</script>
+</head>
+<body>
+<h1>Summary of Annotations on Dynamic Annotation Server</h1>
+<p id="server">Current annotations on </p>
+<div id="main"></div>
+</body>
+</html>
