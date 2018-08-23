@@ -62,9 +62,10 @@
 		aegypti quinque annis<lb/>
 		priusquam rapere<lb type="inWord"/>
 		tur uxor ipsius ab eo<add resp="#ocp">.</add><lb/>
-		<milestone unit="vs" n="12"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice><!-- let's not code every capitalization into an editorial change, but this is an example of how it would be done. -->t taneos ciuitas aegypti<lb/>
-		tunc aedificata<lb/>
-		est annis septem<lb/>
+		<!-- let's not code every capitalization into an editorial change, but this is an example of how it would be done. -->
+		<milestone unit="vs" n="12"/><choice><sic>e</sic><corr resp="#ocp">E</corr></choice>t taneos ciuitas ae<lb type="inWord"/>
+		gypti tunc aedifica<lb type="inWord"/>
+		ta est annis septem<lb/>
 		post cebron<add resp="#ocp">.</add>
 	</p>
 	<p><milestone unit="vs" n="13"/>Et factum est cum<lb/>
