@@ -681,7 +681,7 @@
 		mihi in omnibus quae <lb/>
 		dixi tibi ambulare <lb/>
 		in pace. </p>
-	<p><milestone unit="vs" n="17"/>‎Et abiit abraham ad <lb/>
+	<p><milestone unit="vs" n="17"/>Et abiit abraham ad <lb/>
 		pueros suos et exur<lb type="inWord"/>
 		gentes abierunt <lb/>
 		in bersabe et habi<lb type="inWord"/>
@@ -721,13 +721,13 @@
 		huius tertii iube<lb type="inWord"/>
 		lei huius conpleti</p>
 	<pb type="1861" n="21" xml:id="Ceriani_1861_021"/>
-	<milestone type="5c" unit="page" n="110"/>
+	<milestone type="5c" unit="page" n="109"/>
 	<milestone type="19c" unit="page" n="60" xml:id="palimpsest_page_060"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="19"/>
 	<p part="F">sunt dies uitae sar<lb type="inWord"/>
 		rae et mortua est<lb/>
-		 in chebron<add resp="#ocp">.</add> <milestone unit="vs" n="3"/>Et adue<lb type="inWord"/>
+		in chebron<add resp="#ocp">.</add> <milestone unit="vs" n="3"/>Et adue<lb type="inWord"/>
 		nit abraham ut plan<lb type="inWord"/>
 		geret eam<add resp="#ocp">.</add> Et temp<lb type="inWord"/>
 		tauimus eum si pati<lb type="inWord"/>
@@ -775,7 +775,8 @@
 		et centum anni<lb/>
 		id est duos iubeleos
 	</p>
-	<milestone type="5c" unit="page" n="111"/>
+	<cb type="Ceriani" n="2"/>
+	<milestone type="5c" unit="page" n="110"/>
 	<milestone type="19c" unit="page" n="59" xml:id="palimpsest_page_059"/>
 	<milestone unit="column" n="a"/>
 	<p part="F">septimanas quat<lb type="inWord"/>
@@ -829,10 +830,9 @@
 		duos septimana<lb type="inWord"/>
 		rum annorum<add resp="#ocp">.</add>
 		</p>
-	<p><milestone unit="vs" n="13"/>Et in sexto septima-
+	<p><milestone unit="vs" n="13"/>Et in sexto septima<lb type="inWord"/>
 	</p>
 	<pb type="1861" n="22" xml:id="Ceriani_1861_022"/>
-	<cb type="Ceriani" n="2"/>
 	<milestone type="5c" unit="page" n="111"/>
 	<milestone type="19c" unit="page" n="58" xml:id="palimpsest_page_058"/>
 	<milestone unit="column" n="a"/>
