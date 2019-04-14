@@ -3413,7 +3413,7 @@
 	<pb type="1861" n="45" xml:id="Ceriani_1861_045"/>
 	<cb type="Ceriani" n="1"/>
 	<milestone type="5c" unit="page" n="211"/>
-	<milestone type="19c" unit="page" n="134" xml:id="palimpsest_page_211"/>
+	<milestone type="19c" unit="page" n="134" xml:id="palimpsest_page_134"/>
 	<milestone unit="column" n="a"/>
 	<milestone unit="ch" n="38"/><milestone unit="vs" n="1"/>
 	<p part="F">ut demus illi gloriam<add resp="#ocp">.</add>
@@ -3428,8 +3428,8 @@
 	</p>
 	<p><milestone unit="vs" n="3"/>Et emisit sagittam se<lb type="inWord"/>
 		cundam <surplus resp="#ocp">et per</surplus> et per<lb type="inWord"/>
-		cussit adoramar<choice><sic>om</sic><corr resp="#ocp">amaeum</corr></choice><lb type="inWord"/>
-		iuxta mam<lb type="inWord"/>
+		cussit adoramar<choice><sic>om</sic><corr resp="#ocp">am</corr></choice><lb type="inWord"/>
+		<choice><sic>menon</sic><corr resp="#ocp">aeum</corr></choice>. iuxta mam<lb type="inWord"/>
 		millam sinistram ip<lb type="inWord"/>
 		sius et deiecit illum<lb/>
 		et occidit eum<add resp="#ocp">.</add>
